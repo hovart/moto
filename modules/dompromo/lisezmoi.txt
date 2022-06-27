@@ -1,0 +1,104 @@
+/**	
+ *	domPromo : Module pour site sous PrestaShop.
+ *	Gestion des Promotions, ventes flash, Déstockage, Soldes et déstockage.
+ *	
+ *	Version	2.0.6
+ * 	Pour Prestashop 1.5.x
+ *
+ *	Copyright Aideaunet.
+ * 	Site de l'auteur : http://www.aideaunet.com
+ *  
+ *	Les scripts PHP de ce module sont sous Copyright.
+ *  La modification des scripts de ce module est strictement INTERDITE.
+ *
+ *  Seules les scripts TPL (scripts de thèmes) et CSS (feuilles de style) sont autorisés à modification.
+ *
+ * 	Ce module est en téléchargement libre sur le site de l'auteur,
+ * 	La distribution de ce module est INTERDITE sur tout autre support sans accord préalable de l'auteur.
+ *  Le code source est la propriété de son auteur, toute modification est strictement interdite.
+ *
+ **/
+ 
+ /** 
+ * Selon votre template, vous pouvez avoir besoin de modifier la taille du slide.
+ * 
+ * Pour augmenter la taille du slide dans le bloc latéral :
+ *
+ * Ouvrir le fichier dompromo.tpl, et à la ligne 4, modifier la valeur de :
+ * {assign var="heightslide" value="127"}
+ *
+ * 127 correspond à la taille de template par défaut de prestashop.
+ * 
+ * Faire un test en ayant des ventes promotionnelles en cours, mais pas de ventes promotionnelles à venir.
+ *
+ * Lorsque la hauteur est correctement réglée, aller dans le back office et mettre au moins une vente en date de départ dans le futur.
+ * Laisser les autres ventes en cours.
+ *
+ * ouvrir le fichier "commingsoonblock.tpl"et modifier la ligne :
+ * {assign var="heightslide" value="143"}
+ * 
+ * Ajouter 16 à la valeur que vous avez mis dans "domprom.tpl. Soit 127 + 16 = 143
+ * C'est ce fichier qui va régler la hauteur pour l'affichage des ventes promotionnelles à venir.
+ * 
+ * Aprés tout réglage, ne pas oublier de FORCER LA COMPILATION DE VOTRE SITE.
+ * 
+ */
+ 
+ /**
+ * Version 2.0.6
+ * **************
+ * Correction d'un bug de désactivation de vente promotionnelle lorsque option "Arréter vente lorsque stock = 0" était activé.
+ *
+ * Version 2.0.5
+ * **************
+ * Correction d'un défaut d'affichage du Header en BO.
+ * Correction de remise pas toujours affiché suivant configuration de certain site.
+ * Correction de l'ajout du sous menu domPromo dans le menu "Promotions"
+ * 
+ * Version 2.0.4
+ * **************
+ * Correction d'un bug apparu lors de l'installation du module sur une version 1.5.4 de Prestashop.
+ *
+ * Version 2.0.3
+ * **************
+ * Première release de la version commerciale.
+ *
+ * Version 2.0.2
+ * **************
+ * Correction d'un bug d'affichage du bouton panier lorsqu'il y a des déclinaisons.
+ *
+ * Version 2.0.1
+ * *************
+ * Suite à modif des imagettes Prestashop v1.5.1 : Correction du problème d'affichage des images dans le module.
+ * 
+ * Version 2.0.0 (Version uniquement PS 1.5)
+ * *****************************************
+ * Ajout de la possibilité de créer des liens vers des pages spécifiques à une seule promo (exemple : lien menu vers vente flash, vers soldes, ....)
+ * 		Appeler la page en ajoutant en paramêtre dans l'url :
+ * 		&type=vf pour vente flash
+ * 		&type=cp pour prix coutant
+ * 		&type=rs pour destockage
+ * 		&type=pr pour promo
+ * 		&type=sl pour solde
+ * 		exemple de lien : http://www.monsite.com/index.php?process=flashsales&fc=module&module=dompromo&controller=default&type=vf pour afficher uniquement les ventes flash dans la page.
+ * Ajout de la possibilité de désactiver le rafraichissement automatique de la page en fin de décompte de vente.
+ *
+ * Version 1.4.5
+ * *************
+ * Correction d'un bug de la 1.4.4 lors de la modification d'une vente flash.
+ * 
+ * Version 1.4.4
+ * *************
+ * Ne supprime plus les ventes dégressive en cours.
+ * Gestion multi-magasin (préparation à PS 1.5)
+ * Ajout d'un Système d'information sur la page module du BO pour information automatique des mises à jour du module.
+ *
+ * Version 1.4.3
+ * *************
+ * Correction d'affichage lors de la gestion des prix hors taxe.
+  *
+ * Version 1.4
+ * ***********
+ * Optimisation de la pagination.
+ * Ajout des produits "Promo" et "Solde" visible sur la page "prices-drop.php"
+ */

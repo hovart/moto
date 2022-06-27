@@ -1,0 +1,9 @@
+<objects>
+	<object type="entityLink" external-reference="demo-1">
+		<table_name>product_tag</table_name>
+		<entity_left_name>id_product</entity_left_name>
+		<entity_right_name>id_tag</entity_right_name>
+		<external_reference for="id_entity_left" type="product">demo-1</external_reference>
+		<external_reference for="id_entity_right" type="tag">demo-1</external_reference>
+	</object>
+</objects>

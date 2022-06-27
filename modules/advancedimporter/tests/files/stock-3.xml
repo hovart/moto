@@ -1,0 +1,8 @@
+<stocks>
+	<stock>
+		<product use-external-reference="1">product-demo-1</product>
+		<combination use-external-reference="1">combination-1</combination>
+		<mode>set</mode>
+		<quantity>10</quantity>
+	</stock>
+</stocks>

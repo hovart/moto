@@ -1,0 +1,92 @@
+div.addresses {}
+.addresses .bloc_adresses {
+	background: #fff;padding: 10px;
+	margin: 10px 0;
+}
+ul.address {list-style:none}
+#address_delivery {
+background: #fff;
+padding: 0 0 25px 0;
+
+}
+li.address_update {
+	text-align: right;
+}
+
+li.address_update a {
+	color: #d10019;
+	font-size: 13px;
+	text-transform: uppercase;
+}
+#address_invoice {
+	margin-right:0;
+	background: #fff;
+	padding: 0 0 25px 0;
+}
+#delivery_address {margin-right:65px;}
+
+ul.address li {padding:0 7px;}
+
+ul.address li.address_title {
+	border-bottom: 1px solid #E5E5E5;
+	font-size: 15px;
+	margin: 0 0 8px;
+	padding: 7px 7px 7px;
+	text-transform: uppercase;
+	color: #d10019;
+	font-family: 'HelveticaNeueW01-77BdCn 692722','Open Sans',sans-serif;
+	font-size: 15px;
+}
+
+ul.address li.address_firstname,
+ul.address li.address_company {
+	margin-top:8px
+}
+
+ul.address  li.address_update {
+	margin-top:20px
+}
+ul.address  li.address_update,
+ul.address li.address_delete {
+	font-size:13px;
+   text-transform:none
+}
+
+.address_add {
+   padding:15px 0
+}
+
+.address_select {}	
+label[for=id_address_delivery], label[for=id_address_invoice] {}
+.addressesAreEquals label {
+	margin-left: 5px;
+}
+.addressesAreEquals input {
+	float: left;
+}
+p.address_delivery, p.addressesAreEquals {
+	padding-bottom: 10px
+}
+
+/* PAGE ADRESSES ******************************************************************************* */
+.addresses ul.address {
+	list-style-type:none;
+	float:left;
+	position:relative;
+	margin:5px 10px 0 0;
+	width:49%;
+}
+.addresses ul.address.alternate_item,
+.addresses ul.address.last_item {margin-right:0}
+.addresses ul.address li {}
+.addresses ul.address .address_title {font-family: 'HelveticaNeueW01-77BdCn 692722','Open Sans',sans-serif;
+font-size: 15px;}
+.addresses ul.address .address_update {margin-top:5px}
+.addresses ul.address .address_update,
+.addresses ul.address .address_delete { text-transform:none; text-align: right;}
+.addresses ul.address .address_delete a{
+color: #d10019;
+font-size: 13px;
+text-align: right;
+text-transform: uppercase;
+}

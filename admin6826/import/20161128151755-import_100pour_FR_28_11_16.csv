@@ -1,0 +1,890 @@
+﻿ID;Active (0/1);Name *;Categories (x,y,z...);Price tax excluded or Price tax included;Tax rules ID;Wholesale price;On sale (0/1);Discount amount;Discount percent;Discount from (yyyy-mm-dd);Discount to (yyyy-mm-dd);Reference #;Supplier reference #;Supplier;Manufacturer;EAN13;UPC;Ecotax;Width;Height;Depth;Weight;Quantity;Minimal quantity;Visibility;Additional shipping cost;Unity;Unit price;Short description;Description;Tags (x,y,z...);Meta title;Meta keywords;Meta description;URL rewritten;Text when in stock;Text when backorder allowed;Available for order (0 = No, 1 = Yes);Product available date;Product creation date;Show price (0 = No, 1 = Yes);Image URLs (x,y,z...);Delete existing images (0 = No, 1 = Yes);Feature(Name:Value:Position);Available online only (0 = No, 1 = Yes);Condition;Customizable (0 = No, 1 = Yes);Uploadable files (0 = No, 1 = Yes);Text fields (0 = No, 1 = Yes);Out of stock;ID / Name of shop;Advanced stock management;Depends On Stock;Warehouse
+84890;1;100 % Lunettes Racecraft Abyss noir;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-001-02;Z5570-100-001-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-001-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84891;1;100 % Lunettes Racecraft Cobalt bleu;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-002-02;Z5570-100-002-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-002-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84892;1;100 % Lunettes Racecraft Fire red;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-003-02;Z5570-100-003-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-003-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84893;1;100 % Lunettes Racecraft Attack Yellow;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-026-02;Z5570-100-026-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-026-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84894;1;100 % Lunettes Racecraft Lindstrom;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-129-02;Z5570-100-129-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-129-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84895;1;100 % Lunettes Racecraft Legacy;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-130-02;Z5570-100-130-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-130-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84896;1;100 % Lunettes Racecraft Paradise;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-131-02;Z5570-100-131-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-131-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84897;1;100 % Lunettes Racecraft Simbad;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-132-02;Z5570-100-132-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-132-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84898;1;100 % Lunettes Racecraft Derestricted;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-150-02;Z5570-100-150-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-150-02.jpg,http://shop.motochic.ch/shopimages/super/Z5570-100-150-02_01.jpg;;;0;new;0;0;0;2;0;0;0;0
+84899;1;100 % Lunettes Racecraft Alchemy;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-151-02;Z5570-100-151-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-151-02.jpg,http://shop.motochic.ch/shopimages/super/Z5570-100-151-02_01.jpg;;;0;new;0;0;0;2;0;0;0;0
+84900;1;100 % Lunettes Racecraft Glitch;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-152-02;Z5570-100-152-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-152-02.jpg,http://shop.motochic.ch/shopimages/super/Z5570-100-152-02_01.jpg;;;0;new;0;0;0;2;0;0;0;0
+84901;1;100 % Lunettes Racecraft Bobora;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-154-02;Z5570-100-154-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-154-02.jpg,http://shop.motochic.ch/shopimages/super/Z5570-100-154-02_01.jpg;;;0;new;0;0;0;2;0;0;0;0
+84902;1;100 % Lunettes Racecraft St Barth;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-155-02;Z5570-100-155-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-155-02.jpg,http://shop.motochic.ch/shopimages/super/Z5570-100-155-02_01.jpg;;;0;new;0;0;0;2;0;0;0;0
+84903;1;100 % Lunettes Racecraft Corvette;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-156-02;Z5570-100-156-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-156-02.jpg,http://shop.motochic.ch/shopimages/super/Z5570-100-156-02_01.jpg;;;0;new;0;0;0;2;0;0;0;0
+84904;1;100 % Lunettes Racecraft Solar;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-157-02;Z5570-100-157-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-157-02.jpg,http://shop.motochic.ch/shopimages/super/Z5570-100-157-02_01.jpg;;;0;new;0;0;0;2;0;0;0;0
+84905;1;100 % Lunettes Racecraft Ultrasonic;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-176-02;Z5570-100-176-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-176-02.jpg,http://shop.motochic.ch/shopimages/super/Z5570-100-176-02_01.jpg;;;0;new;0;0;0;2;0;0;0;0
+84906;1;100 % Lunettes Racecraft Zoolander;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-177-02;Z5570-100-177-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-177-02.jpg,http://shop.motochic.ch/shopimages/super/Z5570-100-177-02_01.jpg;;;0;new;0;0;0;2;0;0;0;0
+84907;1;100 % Lunettes Racecraft Antigua;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-178-02;Z5570-100-178-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-178-02.jpg,http://shop.motochic.ch/shopimages/super/Z5570-100-178-02_01.jpg;;;0;new;0;0;0;2;0;0;0;0
+84908;1;100 % Lunettes Racecraft Tiedye;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-179-02;Z5570-100-179-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-179-02.jpg,http://shop.motochic.ch/shopimages/super/Z5570-100-179-02_01.jpg;;;0;new;0;0;0;2;0;0;0;0
+84909;1;100 % Lunettes Racecraft Republic;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-187-02;Z5570-100-187-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-187-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84910;1;100 % Lunettes Racecraft Emara;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-188-02;Z5570-100-188-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-188-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84911;1;100 % Lunettes Racecraft Kepler;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-189-02;Z5570-100-189-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-189-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84912;1;100 % Lunettes Racecraft Tanaka;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-191-02;Z5570-100-191-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-191-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84913;1;100 % Lunettes Racecraft Razmataz;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-192-02;Z5570-100-192-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-192-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84914;1;100 % Lunettes Racecraft Hyperloop;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-193-02;Z5570-100-193-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-193-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84915;1;100 % Lunettes Racecraft Bootcamp;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-194-02;Z5570-100-194-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-194-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84916;1;100 % Lunettes Racecraft Watermelon;202,360;69.44444444;1;49.60;0;;5;;;Z5570-100-195-02;Z5570-100-195-02;Motochic;100%;;;;;;;;;;;;;;MX Lunettes , le modèle haut de gamme à 100% en différentes couleurs.;C'est le nec plus ultra de la marque mythique. La lunette Racecraft est équipée de trois couches de mousse. Elle est munie d?une élastique extra large de 4.5 cm recouvert de silicium pour une excellente tenue sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve. Elle est équipée d'un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation du bandeau sur stabilisateur extérieur, pour éviter à l'écran de bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d'aération breveté pour une ventilation optimum et empêcher l'humidité ou le sable de pénétrer</li><li>Inclus un protège nez amovible et 1 sachet de 20 tear offs</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-100-195-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84917;1;100 % Lunettes Racecraft Extra Abyss black;202,360;82.40740741;1;58.86;0;;5;;;Z5570-110-001-02;Z5570-110-001-02;Motochic;100%;;;;;;;;;;;;;;avec une anti-fog ecran de remplacement or miroir;"C´est le nec plus ultra de la marque mythique. La lunette Racecraft est 
+équipée de trois couches de mousse. Elle est munie d?une élastique extra
+ large de 4.5 cm recouvert de silicium pour une excellente tenue sur 
+votre casque. La monture est faite en uréthane, flexible et résistante à
+ toute épreuve. Elle est équipée d´un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation
+ du bandeau sur stabilisateur extérieur, pour éviter à l´écran de 
+bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d´aération breveté pour une ventilation optimum et empêcher l´humidité ou le sable de pénétrer</li><li>Inclus un écran miroir, un protège nez amovible et 1 sachet de 20 tear offs</li></ul>";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-110-001-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84918;1;100 % Lunettes Racecraft Extra Cobalt blue;202,360;82.40740741;1;58.86;0;;5;;;Z5570-110-002-02;Z5570-110-002-02;Motochic;100%;;;;;;;;;;;;;;avec une anti-fog ecran de remplacement or miroir;"C´est le nec plus ultra de la marque mythique. La lunette Racecraft est 
+équipée de trois couches de mousse. Elle est munie d?une élastique extra
+ large de 4.5 cm recouvert de silicium pour une excellente tenue sur 
+votre casque. La monture est faite en uréthane, flexible et résistante à
+ toute épreuve. Elle est équipée d´un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation
+ du bandeau sur stabilisateur extérieur, pour éviter à l´écran de 
+bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d´aération breveté pour une ventilation optimum et empêcher l´humidité ou le sable de pénétrer</li><li>Inclus un écran miroir, un protège nez amovible et 1 sachet de 20 tear offs</li></ul>";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-110-002-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84919;1;100 % Lunettes Racecraft Extra Fire red;202,360;82.40740741;1;58.86;0;;5;;;Z5570-110-003-02;Z5570-110-003-02;Motochic;100%;;;;;;;;;;;;;;avec une anti-fog ecran de remplacement or miroir;"C´est le nec plus ultra de la marque mythique. La lunette Racecraft est 
+équipée de trois couches de mousse. Elle est munie d?une élastique extra
+ large de 4.5 cm recouvert de silicium pour une excellente tenue sur 
+votre casque. La monture est faite en uréthane, flexible et résistante à
+ toute épreuve. Elle est équipée d´un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation
+ du bandeau sur stabilisateur extérieur, pour éviter à l´écran de 
+bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d´aération breveté pour une ventilation optimum et empêcher l´humidité ou le sable de pénétrer</li><li>Inclus un écran miroir, un protège nez amovible et 1 sachet de 20 tear offs</li></ul>";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-110-003-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84920;1;100 % Lunettes Racecraft Extra Attack Yellow;202,360;82.40740741;1;58.86;0;;5;;;Z5570-110-026-02;Z5570-110-026-02;Motochic;100%;;;;;;;;;;;;;;avec une anti-fog ecran de remplacement or miroir;"C´est le nec plus ultra de la marque mythique. La lunette Racecraft est 
+équipée de trois couches de mousse. Elle est munie d?une élastique extra
+ large de 4.5 cm recouvert de silicium pour une excellente tenue sur 
+votre casque. La monture est faite en uréthane, flexible et résistante à
+ toute épreuve. Elle est équipée d´un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation
+ du bandeau sur stabilisateur extérieur, pour éviter à l´écran de 
+bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d´aération breveté pour une ventilation optimum et empêcher l´humidité ou le sable de pénétrer</li><li>Inclus un écran miroir, un protège nez amovible et 1 sachet de 20 tear offs</li></ul>";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-110-026-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84921;1;100 % Lunettes Racecraft Extra Simbad;202,360;82.40740741;1;58.86;0;;5;;;Z5570-110-132-02;Z5570-110-132-02;Motochic;100%;;;;;;;;;;;;;;avec une anti-fog ecran de remplacement or miroir;"C´est le nec plus ultra de la marque mythique. La lunette Racecraft est 
+équipée de trois couches de mousse. Elle est munie d?une élastique extra
+ large de 4.5 cm recouvert de silicium pour une excellente tenue sur 
+votre casque. La monture est faite en uréthane, flexible et résistante à
+ toute épreuve. Elle est équipée d´un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation
+ du bandeau sur stabilisateur extérieur, pour éviter à l´écran de 
+bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d´aération breveté pour une ventilation optimum et empêcher l´humidité ou le sable de pénétrer</li><li>Inclus un écran miroir, un protège nez amovible et 1 sachet de 20 tear offs</li></ul>";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-110-132-02_01.jpg,http://shop.motochic.ch/shopimages/super/Z5570-110-132-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84922;1;100 % Lunettes Racecraft Extra Airstream SE;202,360;82.40740741;1;58.86;0;;5;;;Z5570-110-167-02;Z5570-110-167-02;Motochic;100%;;;;;;;;;;;;;;avec une anti-fog ecran de remplacement or miroir;"C´est le nec plus ultra de la marque mythique. La lunette Racecraft est 
+équipée de trois couches de mousse. Elle est munie d?une élastique extra
+ large de 4.5 cm recouvert de silicium pour une excellente tenue sur 
+votre casque. La monture est faite en uréthane, flexible et résistante à
+ toute épreuve. Elle est équipée d´un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation
+ du bandeau sur stabilisateur extérieur, pour éviter à l´écran de 
+bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d´aération breveté pour une ventilation optimum et empêcher l´humidité ou le sable de pénétrer</li><li>Inclus un écran miroir, un protège nez amovible et 1 sachet de 20 tear offs</li></ul>";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-110-167-02.jpg,http://shop.motochic.ch/shopimages/super/Z5570-110-167-02_01.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84923;1;100 % Lunettes Racecraft Extra Antigua;202,360;82.40740741;1;58.86;0;;5;;;Z5570-110-178-02;Z5570-110-178-02;Motochic;100%;;;;;;;;;;;;;;avec une anti-fog ecran de remplacement or miroir;"C´est le nec plus ultra de la marque mythique. La lunette Racecraft est 
+équipée de trois couches de mousse. Elle est munie d?une élastique extra
+ large de 4.5 cm recouvert de silicium pour une excellente tenue sur 
+votre casque. La monture est faite en uréthane, flexible et résistante à
+ toute épreuve. Elle est équipée d´un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation
+ du bandeau sur stabilisateur extérieur, pour éviter à l´écran de 
+bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d´aération breveté pour une ventilation optimum et empêcher l´humidité ou le sable de pénétrer</li><li>Inclus un écran miroir, un protège nez amovible et 1 sachet de 20 tear offs</li></ul>";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-110-178-02.jpg,http://shop.motochic.ch/shopimages/super/Z5570-110-178-02_01.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84924;1;100 % Lunettes Racecraft Extra TieDays;202,360;82.40740741;1;58.86;0;;5;;;Z5570-110-179-02;Z5570-110-179-02;Motochic;100%;;;;;;;;;;;;;;avec une anti-fog ecran de remplacement or miroir;"C´est le nec plus ultra de la marque mythique. La lunette Racecraft est 
+équipée de trois couches de mousse. Elle est munie d?une élastique extra
+ large de 4.5 cm recouvert de silicium pour une excellente tenue sur 
+votre casque. La monture est faite en uréthane, flexible et résistante à
+ toute épreuve. Elle est équipée d´un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation
+ du bandeau sur stabilisateur extérieur, pour éviter à l´écran de 
+bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d´aération breveté pour une ventilation optimum et empêcher l´humidité ou le sable de pénétrer</li><li>Inclus un écran miroir, un protège nez amovible et 1 sachet de 20 tear offs</li></ul>";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-110-179-02.jpg,http://shop.motochic.ch/shopimages/super/Z5570-110-179-02_01.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84925;1;100 % Lunettes Racecraft Extra Republic;202,360;82.40740741;1;58.86;0;;5;;;Z5570-110-187-02;Z5570-110-187-02;Motochic;100%;;;;;;;;;;;;;;avec une anti-fog ecran de remplacement or miroir;"C´est le nec plus ultra de la marque mythique. La lunette Racecraft est 
+équipée de trois couches de mousse. Elle est munie d?une élastique extra
+ large de 4.5 cm recouvert de silicium pour une excellente tenue sur 
+votre casque. La monture est faite en uréthane, flexible et résistante à
+ toute épreuve. Elle est équipée d´un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation
+ du bandeau sur stabilisateur extérieur, pour éviter à l´écran de 
+bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d´aération breveté pour une ventilation optimum et empêcher l´humidité ou le sable de pénétrer</li><li>Inclus un écran miroir, un protège nez amovible et 1 sachet de 20 tear offs</li></ul>";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-110-187-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84926;1;100 % Lunettes Racecraft Extra Emara;202,360;82.40740741;1;58.86;0;;5;;;Z5570-110-188-02;Z5570-110-188-02;Motochic;100%;;;;;;;;;;;;;;avec une anti-fog ecran de remplacement or miroir;"C´est le nec plus ultra de la marque mythique. La lunette Racecraft est 
+équipée de trois couches de mousse. Elle est munie d?une élastique extra
+ large de 4.5 cm recouvert de silicium pour une excellente tenue sur 
+votre casque. La monture est faite en uréthane, flexible et résistante à
+ toute épreuve. Elle est équipée d´un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation
+ du bandeau sur stabilisateur extérieur, pour éviter à l´écran de 
+bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d´aération breveté pour une ventilation optimum et empêcher l´humidité ou le sable de pénétrer</li><li>Inclus un écran miroir, un protège nez amovible et 1 sachet de 20 tear offs</li></ul>";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-110-188-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84927;1;100 % Lunettes Racecraft Extra Kepler;202,360;82.40740741;1;58.86;0;;5;;;Z5570-110-189-02;Z5570-110-189-02;Motochic;100%;;;;;;;;;;;;;;avec une anti-fog ecran de remplacement or miroir;"C´est le nec plus ultra de la marque mythique. La lunette Racecraft est 
+équipée de trois couches de mousse. Elle est munie d?une élastique extra
+ large de 4.5 cm recouvert de silicium pour une excellente tenue sur 
+votre casque. La monture est faite en uréthane, flexible et résistante à
+ toute épreuve. Elle est équipée d´un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation
+ du bandeau sur stabilisateur extérieur, pour éviter à l´écran de 
+bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d´aération breveté pour une ventilation optimum et empêcher l´humidité ou le sable de pénétrer</li><li>Inclus un écran miroir, un protège nez amovible et 1 sachet de 20 tear offs</li></ul>";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-110-189-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84928;1;100 % Lunettes Racecraft Extra Tanaka;202,360;82.40740741;1;58.86;0;;5;;;Z5570-110-191-02;Z5570-110-191-02;Motochic;100%;;;;;;;;;;;;;;avec une anti-fog ecran de remplacement or miroir;"C´est le nec plus ultra de la marque mythique. La lunette Racecraft est 
+équipée de trois couches de mousse. Elle est munie d?une élastique extra
+ large de 4.5 cm recouvert de silicium pour une excellente tenue sur 
+votre casque. La monture est faite en uréthane, flexible et résistante à
+ toute épreuve. Elle est équipée d´un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation
+ du bandeau sur stabilisateur extérieur, pour éviter à l´écran de 
+bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d´aération breveté pour une ventilation optimum et empêcher l´humidité ou le sable de pénétrer</li><li>Inclus un écran miroir, un protège nez amovible et 1 sachet de 20 tear offs</li></ul>";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-110-191-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84929;1;100 % Lunettes Racecraft Extra Razmataz;202,360;82.40740741;1;58.86;0;;5;;;Z5570-110-192-02;Z5570-110-192-02;Motochic;100%;;;;;;;;;;;;;;avec une anti-fog ecran de remplacement or miroir;"C´est le nec plus ultra de la marque mythique. La lunette Racecraft est 
+équipée de trois couches de mousse. Elle est munie d?une élastique extra
+ large de 4.5 cm recouvert de silicium pour une excellente tenue sur 
+votre casque. La monture est faite en uréthane, flexible et résistante à
+ toute épreuve. Elle est équipée d´un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation
+ du bandeau sur stabilisateur extérieur, pour éviter à l´écran de 
+bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d´aération breveté pour une ventilation optimum et empêcher l´humidité ou le sable de pénétrer</li><li>Inclus un écran miroir, un protège nez amovible et 1 sachet de 20 tear offs</li></ul>";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-110-192-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84930;1;100 % Lunettes Racecraft Extra Hyperloop;202,360;82.40740741;1;58.86;0;;5;;;Z5570-110-193-02;Z5570-110-193-02;Motochic;100%;;;;;;;;;;;;;;avec une anti-fog ecran de remplacement or miroir;"C´est le nec plus ultra de la marque mythique. La lunette Racecraft est 
+équipée de trois couches de mousse. Elle est munie d?une élastique extra
+ large de 4.5 cm recouvert de silicium pour une excellente tenue sur 
+votre casque. La monture est faite en uréthane, flexible et résistante à
+ toute épreuve. Elle est équipée d´un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation
+ du bandeau sur stabilisateur extérieur, pour éviter à l´écran de 
+bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d´aération breveté pour une ventilation optimum et empêcher l´humidité ou le sable de pénétrer</li><li>Inclus un écran miroir, un protège nez amovible et 1 sachet de 20 tear offs</li></ul>";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-110-193-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84931;1;100 % Lunettes Racecraft Extra Bootcamp;202,360;82.40740741;1;58.86;0;;5;;;Z5570-110-194-02;Z5570-110-194-02;Motochic;100%;;;;;;;;;;;;;;avec une anti-fog ecran de remplacement or miroir;"C´est le nec plus ultra de la marque mythique. La lunette Racecraft est 
+équipée de trois couches de mousse. Elle est munie d?une élastique extra
+ large de 4.5 cm recouvert de silicium pour une excellente tenue sur 
+votre casque. La monture est faite en uréthane, flexible et résistante à
+ toute épreuve. Elle est équipée d´un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation
+ du bandeau sur stabilisateur extérieur, pour éviter à l´écran de 
+bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d´aération breveté pour une ventilation optimum et empêcher l´humidité ou le sable de pénétrer</li><li>Inclus un écran miroir, un protège nez amovible et 1 sachet de 20 tear offs</li></ul>";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-110-194-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84932;1;100 % Lunettes Racecraft Extra Watermelon;202,360;82.40740741;1;58.86;0;;5;;;Z5570-110-195-02;Z5570-110-195-02;Motochic;100%;;;;;;;;;;;;;;avec une anti-fog ecran de remplacement or miroir;"C´est le nec plus ultra de la marque mythique. La lunette Racecraft est 
+équipée de trois couches de mousse. Elle est munie d?une élastique extra
+ large de 4.5 cm recouvert de silicium pour une excellente tenue sur 
+votre casque. La monture est faite en uréthane, flexible et résistante à
+ toute épreuve. Elle est équipée d´un protège nez amovible.<br><br><b>Caractéristiques:</b><ul><li>Fixation
+ du bandeau sur stabilisateur extérieur, pour éviter à l´écran de 
+bouger, et pour plaquer au mieux la lunette sur le visage</li><li>Protège nez incorporé dans les lignes de la lunette pour une protection optimale et un look discret</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top </li><li>Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Système d´aération breveté pour une ventilation optimum et empêcher l´humidité ou le sable de pénétrer</li><li>Inclus un écran miroir, un protège nez amovible et 1 sachet de 20 tear offs</li></ul>";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-110-195-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84933;1;100 % Lunettes Accuri Reflex Blue;202,360;50.92592593;1;36.38;0;;5;;;Z5570-200-002-02;Z5570-200-002-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross avec verre Lexan anti-fog clair.;La lunette Accuri a une ergonomie étudiée pour un meilleur confort. Dotée d'un élastique extra large de 4.5 cm recouvert de silicium pour une tenue parfaite sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-200-002-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84934;1;100 % Lunettes Accuri Fluo Yellow;202,360;50.92592593;1;36.38;0;;5;;;Z5570-200-004-02;Z5570-200-004-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross avec verre Lexan anti-fog clair.;La lunette Accuri a une ergonomie étudiée pour un meilleur confort. Dotée d'un élastique extra large de 4.5 cm recouvert de silicium pour une tenue parfaite sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-200-004-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84935;1;100 % Lunettes Gunmetal Accuri;202,360;50.92592593;1;36.38;0;;5;;;Z5570-200-025-02;Z5570-200-025-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross avec verre Lexan anti-fog clair.;La lunette Accuri a une ergonomie étudiée pour un meilleur confort. Dotée d'un élastique extra large de 4.5 cm recouvert de silicium pour une tenue parfaite sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-200-025-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84936;1;100 % Lunettes Accuri Tornado;202,360;50.92592593;1;36.38;0;;5;;;Z5570-200-059-02;Z5570-200-059-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross avec verre Lexan anti-fog clair.;La lunette Accuri a une ergonomie étudiée pour un meilleur confort. Dotée d'un élastique extra large de 4.5 cm recouvert de silicium pour une tenue parfaite sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-200-059-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84937;1;100 % Lunettes Accuri Wilsonian;202,360;50.92592593;1;36.38;0;;5;;;Z5570-200-133-02;Z5570-200-133-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross avec verre Lexan anti-fog clair.;La lunette Accuri a une ergonomie étudiée pour un meilleur confort. Dotée d'un élastique extra large de 4.5 cm recouvert de silicium pour une tenue parfaite sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-200-133-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84938;1;100 % Lunettes Accuri Forrest;202,360;50.92592593;1;36.38;0;;5;;;Z5570-200-134-02;Z5570-200-134-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross avec verre Lexan anti-fog clair.;La lunette Accuri a une ergonomie étudiée pour un meilleur confort. Dotée d'un élastique extra large de 4.5 cm recouvert de silicium pour une tenue parfaite sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-200-134-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84939;1;100 % Lunettes Accuri Federal;202,360;50.92592593;1;36.38;0;;5;;;Z5570-200-135-02;Z5570-200-135-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross avec verre Lexan anti-fog clair.;La lunette Accuri a une ergonomie étudiée pour un meilleur confort. Dotée d'un élastique extra large de 4.5 cm recouvert de silicium pour une tenue parfaite sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-200-135-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84940;1;100 % Lunettes Accuri Tornado 2;202,360;50.92592593;1;36.38;0;;5;;;Z5570-200-136-02;Z5570-200-136-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross avec verre Lexan anti-fog clair.;La lunette Accuri a une ergonomie étudiée pour un meilleur confort. Dotée d'un élastique extra large de 4.5 cm recouvert de silicium pour une tenue parfaite sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-200-136-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84941;1;100 % Lunettes Accuri Raleigh;202,360;50.92592593;1;36.38;0;;5;;;Z5570-200-158-02;Z5570-200-158-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross avec verre Lexan anti-fog clair.;La lunette Accuri a une ergonomie étudiée pour un meilleur confort. Dotée d'un élastique extra large de 4.5 cm recouvert de silicium pour une tenue parfaite sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-200-158-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84942;1;100 % Lunettes Accuri Voltaire;202,360;50.92592593;1;36.38;0;;5;;;Z5570-200-159-02;Z5570-200-159-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross avec verre Lexan anti-fog clair.;La lunette Accuri a une ergonomie étudiée pour un meilleur confort. Dotée d'un élastique extra large de 4.5 cm recouvert de silicium pour une tenue parfaite sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-200-159-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84943;1;100 % Lunettes Accuri Zest;202,360;50.92592593;1;36.38;0;;5;;;Z5570-200-160-02;Z5570-200-160-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross avec verre Lexan anti-fog clair.;La lunette Accuri a une ergonomie étudiée pour un meilleur confort. Dotée d'un élastique extra large de 4.5 cm recouvert de silicium pour une tenue parfaite sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-200-160-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84944;1;100 % Lunettes Accuri Cyan;202,360;50.92592593;1;36.38;0;;5;;;Z5570-200-161-02;Z5570-200-161-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross avec verre Lexan anti-fog clair.;La lunette Accuri a une ergonomie étudiée pour un meilleur confort. Dotée d'un élastique extra large de 4.5 cm recouvert de silicium pour une tenue parfaite sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-200-161-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84945;1;100 % Lunettes Accuri Newsworthy;202,360;50.92592593;1;36.38;0;;5;;;Z5570-200-163-02;Z5570-200-163-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross avec verre Lexan anti-fog clair.;La lunette Accuri a une ergonomie étudiée pour un meilleur confort. Dotée d'un élastique extra large de 4.5 cm recouvert de silicium pour une tenue parfaite sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-200-163-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84946;1;100 % Lunettes Accuri Pegasus;202,360;50.92592593;1;36.38;0;;5;;;Z5570-200-164-02;Z5570-200-164-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross avec verre Lexan anti-fog clair.;La lunette Accuri a une ergonomie étudiée pour un meilleur confort. Dotée d'un élastique extra large de 4.5 cm recouvert de silicium pour une tenue parfaite sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-200-164-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84947;1;100 % Lunettes Accuri Passion;202,360;50.92592593;1;36.38;0;;5;;;Z5570-200-165-02;Z5570-200-165-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross avec verre Lexan anti-fog clair.;La lunette Accuri a une ergonomie étudiée pour un meilleur confort. Dotée d'un élastique extra large de 4.5 cm recouvert de silicium pour une tenue parfaite sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-200-165-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84948;1;100 % Lunettes Accuri Milkyway;202,360;50.92592593;1;36.38;0;;5;;;Z5570-200-196-02;Z5570-200-196-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross avec verre Lexan anti-fog clair.;La lunette Accuri a une ergonomie étudiée pour un meilleur confort. Dotée d'un élastique extra large de 4.5 cm recouvert de silicium pour une tenue parfaite sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-200-196-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84949;1;100 % Lunettes Accuri Passion Orange;202,360;50.92592593;1;36.38;0;;5;;;Z5570-200-197-02;Z5570-200-197-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross avec verre Lexan anti-fog clair.;La lunette Accuri a une ergonomie étudiée pour un meilleur confort. Dotée d'un élastique extra large de 4.5 cm recouvert de silicium pour une tenue parfaite sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-200-197-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84950;1;100 % Lunettes Accuri Sundance;202,360;50.92592593;1;36.38;0;;5;;;Z5570-200-198-02;Z5570-200-198-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross avec verre Lexan anti-fog clair.;La lunette Accuri a une ergonomie étudiée pour un meilleur confort. Dotée d'un élastique extra large de 4.5 cm recouvert de silicium pour une tenue parfaite sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-200-198-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84951;1;100 % Lunettes Accuri Pollok;202,360;50.92592593;1;36.38;0;;5;;;Z5570-200-199-02;Z5570-200-199-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross avec verre Lexan anti-fog clair.;La lunette Accuri a une ergonomie étudiée pour un meilleur confort. Dotée d'un élastique extra large de 4.5 cm recouvert de silicium pour une tenue parfaite sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-200-199-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84952;1;100 % Lunettes Accuri R-Core;202,360;50.92592593;1;36.38;0;;5;;;Z5570-200-201-02;Z5570-200-201-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross avec verre Lexan anti-fog clair.;La lunette Accuri a une ergonomie étudiée pour un meilleur confort. Dotée d'un élastique extra large de 4.5 cm recouvert de silicium pour une tenue parfaite sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-200-201-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84953;1;100 % Lunettes Accuri Cupcoy;202,360;50.92592593;1;36.38;0;;5;;;Z5570-200-202-02;Z5570-200-202-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross avec verre Lexan anti-fog clair.;La lunette Accuri a une ergonomie étudiée pour un meilleur confort. Dotée d'un élastique extra large de 4.5 cm recouvert de silicium pour une tenue parfaite sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-200-202-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84954;1;100 % Lunettes Accuri Saarinen;202,360;50.92592593;1;36.38;0;;5;;;Z5570-200-203-02;Z5570-200-203-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross avec verre Lexan anti-fog clair.;La lunette Accuri a une ergonomie étudiée pour un meilleur confort. Dotée d'un élastique extra large de 4.5 cm recouvert de silicium pour une tenue parfaite sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-200-203-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84955;1;100 % Lunettes Accuri Invaders;202,360;50.92592593;1;36.38;0;;5;;;Z5570-200-204-02;Z5570-200-204-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross avec verre Lexan anti-fog clair.;La lunette Accuri a une ergonomie étudiée pour un meilleur confort. Dotée d'un élastique extra large de 4.5 cm recouvert de silicium pour une tenue parfaite sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-200-204-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84956;1;100 % Lunettes Accuri Enduro noir tornade;202,360;54.62962963;1;39.02;0;;5;;;Z5570-202-061-02;Z5570-202-061-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross avec anti-buée.;La lunette Accuri a une ergonomie étudiée pour un meilleur confort. Dotée d´un élastique extra large de 4.5 cm recouvert de silicium pour une tenue parfaite sur votre casque. La monture est faite en uréthane, flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><br><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li>Double Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire</li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li><li>Version Spécial Enduro</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-202-061-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84957;1;100 % Lunettes OTG Accuri Black Tornado;202,360;54.62962963;1;39.02;0;;5;;;Z5570-204-061-02;Z5570-204-061-02;Motochic;100%;;;;;;;;;;;;;;Cadre pour les porteurs de lunettes;Die Accuri OTG wurde speziell für Brillenträger entwickelt und kann über die Korrektur Brille getragen werden.<br>Antibeschlagscheibe, dreilagiger Schaum und geniale Passform. Die dünnen Scheiben der 100% Motocross Brillen ermöglichen Ihnen die 100%ige Konzentration auf das Renngeschehen ohne lästige Reflektionen.<br><br><b>Eigenschaften:</b><br><ul><li>Spezieller Rahmen für Brillenträger</li><li>Dreilagiger, Schweissabsorbierender Schaum</li><li>Rahmen aus flexiblem und dennoch strapazierfähigem Urethan</li><li>Komfortable Passform durch optimale Krümmung</li><li>45mm breites, silikonbeschichtetes Brillenband</li><li>Inkl. klarem Anti-Fog Lexan-Brillenglas für uneingeschränkte Sicht</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-202-061-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84958;1;100 % Lunettes Accuri Extra Reflex blue;202,360;63.88888889;1;45.63;0;;5;;;Z5570-210-002-02;Z5570-210-002-02;Motochic;100%;;;;;;;;;;;;;;avec une anti-fog ecran de remplacement or miroir;"La lunette Accuri a une ergonomie étudiée pour un meilleur confort. 
+Dotée d´un élastique extra large de 4.5 cm recouvert de silicium pour 
+une tenue parfaite sur votre casque. La monture est faite en uréthane, 
+flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li>Inclu 1 écran miroir<br></li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li></ul>";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-210-002-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84959;1;100 % Lunettes Accuri Extra Black Tornado;202,360;63.88888889;1;45.63;0;;5;;;Z5570-210-004-02;Z5570-210-004-02;Motochic;100%;;;;;;;;;;;;;;avec une anti-fog ecran de remplacement or miroir;"La lunette Accuri a une ergonomie étudiée pour un meilleur confort. 
+Dotée d´un élastique extra large de 4.5 cm recouvert de silicium pour 
+une tenue parfaite sur votre casque. La monture est faite en uréthane, 
+flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li>Inclu 1 écran miroir<br></li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li></ul>";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-210-004-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84960;1;100 % Lunettes Accuri Extra Charger;202,360;63.88888889;1;45.63;0;;5;;;Z5570-210-025-02;Z5570-210-025-02;Motochic;100%;;;;;;;;;;;;;;avec une anti-fog ecran de remplacement or miroir;"La lunette Accuri a une ergonomie étudiée pour un meilleur confort. 
+Dotée d´un élastique extra large de 4.5 cm recouvert de silicium pour 
+une tenue parfaite sur votre casque. La monture est faite en uréthane, 
+flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li>Inclu 1 écran miroir<br></li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li></ul>";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-210-025-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84961;1;100 % Lunettes Accuri Extra Zest;202,360;63.88888889;1;45.63;0;;5;;;Z5570-210-160-02;Z5570-210-160-02;Motochic;100%;;;;;;;;;;;;;;avec une anti-fog ecran de remplacement or miroir;"La lunette Accuri a une ergonomie étudiée pour un meilleur confort. 
+Dotée d´un élastique extra large de 4.5 cm recouvert de silicium pour 
+une tenue parfaite sur votre casque. La monture est faite en uréthane, 
+flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li>Inclu 1 écran miroir<br></li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li></ul>";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-210-160-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84962;1;100 % Lunettes Accuri Extra Passion;202,360;63.88888889;1;45.63;0;;5;;;Z5570-210-165-02;Z5570-210-165-02;Motochic;100%;;;;;;;;;;;;;;avec une anti-fog ecran de remplacement or miroir;"La lunette Accuri a une ergonomie étudiée pour un meilleur confort. 
+Dotée d´un élastique extra large de 4.5 cm recouvert de silicium pour 
+une tenue parfaite sur votre casque. La monture est faite en uréthane, 
+flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li>Inclu 1 écran miroir<br></li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li></ul>";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-210-165-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84963;1;100 % Lunettes Accuri Extra Nova;202,360;63.88888889;1;45.63;0;;5;;;Z5570-210-175-02;Z5570-210-175-02;Motochic;100%;;;;;;;;;;;;;;avec une anti-fog ecran de remplacement or miroir;"La lunette Accuri a une ergonomie étudiée pour un meilleur confort. 
+Dotée d´un élastique extra large de 4.5 cm recouvert de silicium pour 
+une tenue parfaite sur votre casque. La monture est faite en uréthane, 
+flexible et résistante à toute épreuve.<br><br><b>Caractéristiques:</b><ul><li>Ergonomie étudiée pour un meilleur confort</li><li>Monture en uréthane, flexible et résistante à toute épreuve</li><li>Triple mousse pour une absorption de la sueur et un confort 100% Top</li><li>Inclu 1 écran miroir<br></li><li> Ecran anti-rayures et anti-buée pour garder une visibilité 100% claire </li><li>Bandeau 4.5 cm de large avec du silicon anti-dérapant</li></ul>";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-210-175-02.jpg;;Ecran anti-buée:Oui:1;0;new;0;0;0;2;0;0;0;0
+84964;1;100 % Lunettes Accuri Mirror Milkyway;202,360;63.88888889;1;45.63;0;;5;;;Z5570-210-196-02;Z5570-210-196-02;Motochic;100%;;;;;;;;;;;;;;;;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-210-196-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84965;1;100 % Lunettes Accuri Mirror Passion Orange;202,360;63.88888889;1;45.63;0;;5;;;Z5570-210-197-02;Z5570-210-197-02;Motochic;100%;;;;;;;;;;;;;;;;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-210-197-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84966;1;100 % Lunettes Accuri Mirror Sundance;202,360;63.88888889;1;45.63;0;;5;;;Z5570-210-198-02;Z5570-210-198-02;Motochic;100%;;;;;;;;;;;;;;;;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-210-198-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84967;1;100 % Lunettes Accuri Mirror Pollok;202,360;63.88888889;1;45.63;0;;5;;;Z5570-210-199-02;Z5570-210-199-02;Motochic;100%;;;;;;;;;;;;;;;;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-210-199-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84968;1;100 % Lunettes Accuri Mirror R-Core;202,360;63.88888889;1;45.63;0;;5;;;Z5570-210-201-02;Z5570-210-201-02;Motochic;100%;;;;;;;;;;;;;;;;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-210-201-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84969;1;100 % Lunettes Accuri Mirror Cupcoy;202,360;63.88888889;1;45.63;0;;5;;;Z5570-210-202-02;Z5570-210-202-02;Motochic;100%;;;;;;;;;;;;;;;;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-210-202-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84970;1;100 % Lunettes Accuri Mirror Saarinen;202,360;63.88888889;1;45.63;0;;5;;;Z5570-210-203-02;Z5570-210-203-02;Motochic;100%;;;;;;;;;;;;;;;;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-210-203-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84971;1;100 % Lunettes Accuri Mirror Invaders;202,360;63.88888889;1;45.63;0;;5;;;Z5570-210-204-02;Z5570-210-204-02;Motochic;100%;;;;;;;;;;;;;;;;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-210-204-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84972;1;100 % Lunettes Accuri Junior Fluo;235,202;36.11111111;1;25.79;0;;5;;;Z5570-300-004-02;Z5570-300-004-02;Motochic;100%;;;;;;;;;;;;;;MX lunettes pour les enfants.;Nouveau Masque MX Junior 100% Accuri. La Forme de la lunette Accuri permet une adaptation sur le visage et une intégration dans le casque parfaite tandis que la conception du cadre procure la quantité de flux d'air suffisante pour garder votre vision claire et sans buée. Ajoutez le graphisme unique inspiré par 100%.<br><br><b>Caractérsistiques:</b><ul><li>Mousse Triple épaisseur</li><li> Ecran traité anti-buée et anti-rayures</li><li>Bandeau avec silicone pour un parfait maintien</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-300-004-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84973;1;100 % Lunettes Accuri junior noir tornade;235,202;36.11111111;1;25.79;0;;5;;;Z5570-300-061-02;Z5570-300-061-02;Motochic;100%;;;;;;;;;;;;;;MX lunettes pour les enfants.;Antibeschlagscheibe, 3facher Schaum und geniale Passform. Die dünnen Scheiben der 100% Motocross Brillen ermöglichen Ihnen die 100%ige Konzentration auf das Renngeschehen ohne lästige Reflektionen.<br><br><b>Eigenschaften:</b><ul><li>Dreilagiger, schweißabsorbierender Schaum</li><li>Anti-Fog Lexan-Brillenglas für uneingeschränkte Sicht</li><li>Silikonbeschichtetes Brillenband</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-300-061-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84974;1;100 % Lunettes Accuri junior Nimitz;235,202;36.11111111;1;25.79;0;;5;;;Z5570-300-062-02;Z5570-300-062-02;Motochic;100%;;;;;;;;;;;;;;MX lunettes pour les enfants.;Antibeschlagscheibe, 3facher Schaum und geniale Passform. Die dünnen Scheiben der 100% Motocross Brillen ermöglichen Ihnen die 100%ige Konzentration auf das Renngeschehen ohne lästige Reflektionen.<br><br><b>Eigenschaften:</b><ul><li>Dreilagiger, schweißabsorbierender Schaum</li><li>Anti-Fog Lexan-Brillenglas für uneingeschränkte Sicht</li><li>Silikonbeschichtetes Brillenband</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-300-062-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84975;1;100 % Lunettes Accuri Junior Voltaire;235,202;36.11111111;1;25.79;0;;5;;;Z5570-300-159-02;Z5570-300-159-02;Motochic;100%;;;;;;;;;;;;;;MX lunettes pour les enfants.;Nouveau Masque MX Junior 100% Accuri. La Forme de la lunette Accuri permet une adaptation sur le visage et une intégration dans le casque parfaite tandis que la conception du cadre procure la quantité de flux d'air suffisante pour garder votre vision claire et sans buée. Ajoutez le graphisme unique inspiré par 100%.<br><br><b>Caractérsistiques:</b><ul><li>Mousse Triple épaisseur</li><li> Ecran traité anti-buée et anti-rayures</li><li>Bandeau avec silicone pour un parfait maintien</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-300-159-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84976;1;100 % Lunettes Accuri Junior Cyan;235,202;36.11111111;1;25.79;0;;5;;;Z5570-300-161-02;Z5570-300-161-02;Motochic;100%;;;;;;;;;;;;;;MX lunettes pour les enfants.;Nouveau Masque MX Junior 100% Accuri. La Forme de la lunette Accuri permet une adaptation sur le visage et une intégration dans le casque parfaite tandis que la conception du cadre procure la quantité de flux d'air suffisante pour garder votre vision claire et sans buée. Ajoutez le graphisme unique inspiré par 100%.<br><br><b>Caractérsistiques:</b><ul><li>Mousse Triple épaisseur</li><li> Ecran traité anti-buée et anti-rayures</li><li>Bandeau avec silicone pour un parfait maintien</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-300-161-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84977;1;100 % Lunettes Accuri Junior Inferno;235,202;36.11111111;1;25.79;0;;5;;;Z5570-300-162-02;Z5570-300-162-02;Motochic;100%;;;;;;;;;;;;;;MX lunettes pour les enfants.;Nouveau Masque MX Junior 100% Accuri. La Forme de la lunette Accuri permet une adaptation sur le visage et une intégration dans le casque parfaite tandis que la conception du cadre procure la quantité de flux d'air suffisante pour garder votre vision claire et sans buée. Ajoutez le graphisme unique inspiré par 100%.<br><br><b>Caractérsistiques:</b><ul><li>Mousse Triple épaisseur</li><li> Ecran traité anti-buée et anti-rayures</li><li>Bandeau avec silicone pour un parfait maintien</ul></li>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-300-162-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84978;1;100 % Lunettes Strata Lagoon;202,360;26.85185185;1;19.18;0;;5;;;Z5570-400-002-02;Z5570-400-002-02;Motochic;100%;;;;;;;;;;;;;;MX lunettes pour les débutants.;Nouvelle lunette MX 100% Strata. La Forme de la lunette Strata permet une adaptation sur le visage et une intégration dans le casque parfaite tandis que la conception du cadre procure la quantité de flux d'air suffisante pour garder votre vision claire et sans buée. Ajoutez le graphisme unique inspiré par 100%.<br><br><b>Caractéristiques:</b><ul><li>Mousse Double épaisseur</li><li>Ecran traité anti-buée et anti-rayures</li><li>Bandeau avec silicone pour un parfait maintien;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-400-002-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84979;1;100 % Lunettes Strata Fire red;202,360;26.85185185;1;19.18;0;;5;;;Z5570-400-003-02;Z5570-400-003-02;Motochic;100%;;;;;;;;;;;;;;MX lunettes pour les débutants.;Nouvelle lunette MX 100% Strata. La Forme de la lunette Strata permet une adaptation sur le visage et une intégration dans le casque parfaite tandis que la conception du cadre procure la quantité de flux d'air suffisante pour garder votre vision claire et sans buée. Ajoutez le graphisme unique inspiré par 100%.<br><br><b>Caractéristiques:</b><ul><li>Mousse Double épaisseur</li><li>Ecran traité anti-buée et anti-rayures</li><li>Bandeau avec silicone pour un parfait maintien;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-400-003-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84980;1;100 % Lunettes Strata black-lime;202,360;26.85185185;1;19.18;0;;5;;;Z5570-400-027-02;Z5570-400-027-02;Motochic;100%;;;;;;;;;;;;;;MX lunettes pour les débutants.;Nouvelle lunette MX 100% Strata. La Forme de la lunette Strata permet une adaptation sur le visage et une intégration dans le casque parfaite tandis que la conception du cadre procure la quantité de flux d'air suffisante pour garder votre vision claire et sans buée. Ajoutez le graphisme unique inspiré par 100%.<br><br><b>Caractéristiques:</b><ul><li>Mousse Double épaisseur</li><li>Ecran traité anti-buée et anti-rayures</li><li>Bandeau avec silicone pour un parfait maintien;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-400-027-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84981;1;100 % Lunettes Strata Sunny Days;202,360;26.85185185;1;19.18;0;;5;;;Z5570-400-029-02;Z5570-400-029-02;Motochic;100%;;;;;;;;;;;;;;MX lunettes pour les débutants.;Nouvelle lunette MX 100% Strata. La Forme de la lunette Strata permet une adaptation sur le visage et une intégration dans le casque parfaite tandis que la conception du cadre procure la quantité de flux d'air suffisante pour garder votre vision claire et sans buée. Ajoutez le graphisme unique inspiré par 100%.<br><br><b>Caractéristiques:</b><ul><li>Mousse Double épaisseur</li><li>Ecran traité anti-buée et anti-rayures</li><li>Bandeau avec silicone pour un parfait maintien;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-400-029-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84982;1;100 % Lunettes Strata Bubble-gum;202,360;26.85185185;1;19.18;0;;5;;;Z5570-400-077-02;Z5570-400-077-02;Motochic;100%;;;;;;;;;;;;;;MX lunettes pour les débutants.;Nouvelle lunette MX 100% Strata. La Forme de la lunette Strata permet une adaptation sur le visage et une intégration dans le casque parfaite tandis que la conception du cadre procure la quantité de flux d'air suffisante pour garder votre vision claire et sans buée. Ajoutez le graphisme unique inspiré par 100%.<br><br><b>Caractéristiques:</b><ul><li>Mousse Double épaisseur</li><li>Ecran traité anti-buée et anti-rayures</li><li>Bandeau avec silicone pour un parfait maintien;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-400-077-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84983;1;100 % Lunettes Roll Off Strata Lagoon roll off;202,360;60.18518519;1;42.99;0;;5;;;Z5570-420-002-02;Z5570-420-002-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross pour les débutants avec système roll-off.;Roll-off lunette MX 100% Strata. La Forme de la lunette Strata permet une adaptation sur le visage et une intégration dans le casque parfaite tandis que la conception du cadre procure la quantité de flux d´air suffisante pour garder votre vision claire et sans buée. Ajoutez le graphisme unique inspiré par 100%.<br><b>Caractéristiques:</b><br><br><ul><li>Mousse Double épaisseur</li><li>Ecran traité anti-buée et anti-rayures</li><li>Bandeau avec silicone pour un parfait maintien</li><li>Avec Roll-off système</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-420-002-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84984;1;100 % Lunettes Roll Off Strata Goliath;202,360;60.18518519;1;42.99;0;;5;;;Z5570-420-166-02;Z5570-420-166-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de motocross pour les débutants avec système roll-off.;Roll-off lunette MX 100% Strata. La Forme de la lunette Strata permet une adaptation sur le visage et une intégration dans le casque parfaite tandis que la conception du cadre procure la quantité de flux d´air suffisante pour garder votre vision claire et sans buée. Ajoutez le graphisme unique inspiré par 100%.<br><b>Caractéristiques:</b><br><br><ul><li>Mousse Double épaisseur</li><li>Ecran traité anti-buée et anti-rayures</li><li>Bandeau avec silicone pour un parfait maintien</li><li>Avec Roll-off système</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-420-166-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84985;1;100 % Lunettes Strata junior Slash;202,360;26.85185185;1;19.18;0;;5;;;Z5570-500-076-02;Z5570-500-076-02;Motochic;100%;;;;;;;;;;;;;;MX Junior lunettes pour les débutants.;Nouvelle lunette MX 100% Strata pour les enfants.<br>La Forme de la lunette Strata permet une adaptation sur le visage et une intégration dans le casque parfaite tandis que la conception du cadre procure la quantité de flux d´air suffisante pour garder votre vision claire et sans buée. Ajoutez le graphisme unique inspiré par 100%.<br><br><b>Caractéristiques:</b><ul><li>Mousse Double épaisseur</li><li>Ecran traité anti-buée et anti-rayures</li><li>Bandeau avec silicone pour un parfait maintien;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-500-076-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84986;1;100 % Lunettes Strata junior Bubble gum;202,360;26.85185185;1;19.18;0;;5;;;Z5570-500-077-02;Z5570-500-077-02;Motochic;100%;;;;;;;;;;;;;;MX Junior lunettes pour les débutants.;Nouvelle lunette MX 100% Strata pour les enfants.<br>La Forme de la lunette Strata permet une adaptation sur le visage et une intégration dans le casque parfaite tandis que la conception du cadre procure la quantité de flux d´air suffisante pour garder votre vision claire et sans buée. Ajoutez le graphisme unique inspiré par 100%.<br><br><b>Caractéristiques:</b><ul><li>Mousse Double épaisseur</li><li>Ecran traité anti-buée et anti-rayures</li><li>Bandeau avec silicone pour un parfait maintien;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-500-077-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84987;1;100 % Lunettes Strata junior Crafty lime;202,360;26.85185185;1;19.18;0;;5;;;Z5570-500-078-02;Z5570-500-078-02;Motochic;100%;;;;;;;;;;;;;;MX Junior lunettes pour les débutants.;Nouvelle lunette MX 100% Strata pour les enfants.<br>La Forme de la lunette Strata permet une adaptation sur le visage et une intégration dans le casque parfaite tandis que la conception du cadre procure la quantité de flux d´air suffisante pour garder votre vision claire et sans buée. Ajoutez le graphisme unique inspiré par 100%.<br><br><b>Caractéristiques:</b><ul><li>Mousse Double épaisseur</li><li>Ecran traité anti-buée et anti-rayures</li><li>Bandeau avec silicone pour un parfait maintien;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5570-500-078-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+84988;1;100 % Forecast Roll-Off System complet;202,360;60.18518519;1;42.99;0;;5;;;Z5571-120-010-02;Z5571-120-010-02;Motochic;100%;;;;;;;;;;;;;;Komplettes Forecast Roll-Off System.;<ul><li>Monture Roll-Off correspondante pour les lunettes Racecraft/Accuri/Strata</li><li>Récipient transparent qui permet de voir la quantité restante du film</li><li>Largeur du film: 45mm</li><li>Nipple de Tear-off Holeshot </li><li>2 films Roll-off et étui inclus</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5571-120-010-02.jpg,http://shop.motochic.ch/shopimages/super/Z5571-120-010-02_4.jpg,http://shop.motochic.ch/shopimages/super/Z5571-120-010-02_1.jpg,http://shop.motochic.ch/shopimages/super/Z5571-120-010-02_2.jpg,http://shop.motochic.ch/shopimages/super/Z5571-120-010-02_3.jpg;;;0;new;0;0;0;2;0;0;0;0
+84989;1;100 % Sac des lunettes rouge;414,444;45.37037037;1;32.41;0;;5;;;Z5572-001-003-01;Z5572-001-003-01;Motochic;100%;;;;;;;;;;;;;;Poche de lunettes pour faciliter le transport des lunettes de motocross.;Poche de lunettes pour faciliter le transport des lunettes de motocross. Le sac matelassé détient toutes vos lunettes, écrans et accessoires soigneusement rangés et sécurisés. <br><br><ul><li>Sac pour lunettes rembourré jusqu´à 4 lunettes avec accessoires</li><li>Le couvercle EVA préformé offre une protection supplémentaire pendant le transport</li><li>Poches intérieures pour téléphone portable, clés, portefeuille et autres accessoires</li><li>Insert de mousse amovible pour votre caméra GoPro et supports inclus</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5572-001-003-01.jpg,http://shop.motochic.ch/shopimages/super/Z5572-001-003-01_1.jpg;;;0;new;0;0;0;2;0;0;0;0
+84990;1;100 % Sac des lunettes gris;414,444;45.37037037;1;32.41;0;;5;;;Z5572-001-007-01;Z5572-001-007-01;Motochic;100%;;;;;;;;;;;;;;Poche de lunettes pour faciliter le transport des lunettes de motocross.;Poche de lunettes pour faciliter le transport des lunettes de motocross. Le sac matelassé détient toutes vos lunettes, écrans et accessoires soigneusement rangés et sécurisés. <br><br><ul><li>Sac pour lunettes rembourré jusqu´à 4 lunettes avec accessoires</li><li>Le couvercle EVA préformé offre une protection supplémentaire pendant le transport</li><li>Poches intérieures pour téléphone portable, clés, portefeuille et autres accessoires</li><li>Insert de mousse amovible pour votre caméra GoPro et supports inclus</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5572-001-007-01.jpg;;;0;new;0;0;0;2;0;0;0;0
+84991;1;100 % Lunettes de soleil Brugett matte noir;414;73.14814815;1;52.25;0;;5;;;Z5572-001-011-01;Z5572-001-011-01;Motochic;100%;;;;;;;;;;;;;;Lunettes de soleil dans un look cool.;Le style décontracté et le haut niveau de confort que procurent les lunettes Burgett font d?elles un choix judicieux.;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5572-001-011-01.jpg;;;0;new;0;0;0;2;0;0;0;0
+84992;1;100 % Lunettes de soleil Burgett tortoise;414;73.14814815;1;52.25;0;;5;;;Z5572-001-024-01;Z5572-001-024-01;Motochic;100%;;;;;;;;;;;;;;Lunettes de soleil dans un look cool.;Le style décontracté et le haut niveau de confort que procurent les lunettes Burgett font d?elles un choix judicieux.;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5572-001-024-01.jpg,http://shop.motochic.ch/shopimages/super/Z5572-001-024-01_1.jpg,http://shop.motochic.ch/shopimages/super/Z5572-001-024-01_2.jpg;;;0;new;0;0;0;2;0;0;0;0
+84993;1;100 % Sac des lunettes camouflage;414,444;45.37037037;1;32.41;0;;5;;;Z5572-001-085-01;Z5572-001-085-01;Motochic;100%;;;;;;;;;;;;;;Poche de lunettes pour faciliter le transport des lunettes de motocross.;Poche de lunettes pour faciliter le transport des lunettes de motocross. Le sac matelassé détient toutes vos lunettes, écrans et accessoires soigneusement rangés et sécurisés. <br><br><ul><li>Sac pour lunettes rembourré jusqu´à 4 lunettes avec accessoires</li><li>Le couvercle EVA préformé offre une protection supplémentaire pendant le transport</li><li>Poches intérieures pour téléphone portable, clés, portefeuille et autres accessoires</li><li>Insert de mousse amovible pour votre caméra GoPro et supports inclus</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5572-001-085-01.jpg;;;0;new;0;0;0;2;0;0;0;0
+84994;1;100 % Lunettes de soleil Hakan noir mat;414;73.14814815;1;52.25;0;;5;;;Z5572-002-012-01;Z5572-002-012-01;Motochic;100%;;;;;;;;;;;;;;Design classique avec un cadre en métal léger.;;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5572-002-012-01.jpg,http://shop.motochic.ch/shopimages/super/Z5572-002-012-01_1.jpg,http://shop.motochic.ch/shopimages/super/Z5572-002-012-01_2.jpg,http://shop.motochic.ch/shopimages/super/Z5572-002-012-01_3.jpg,http://shop.motochic.ch/shopimages/super/Z5572-002-012-01_4.jpg;;;0;new;0;0;0;2;0;0;0;0
+84995;1;100 % Lunettes de soleil Heikki noir brillant;414;73.14814815;1;52.25;0;;5;;;Z5572-003-001-01;Z5572-003-001-01;Motochic;100%;;;;;;;;;;;;;;Lunettes de soleil avec de grandes lentilles pour une vision optimale.;;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5572-003-001-01.jpg,http://shop.motochic.ch/shopimages/super/Z5572-003-001-01_2.jpg,http://shop.motochic.ch/shopimages/super/Z5572-003-001-01_1.jpg,http://shop.motochic.ch/shopimages/super/Z5572-003-001-01_3.jpg,http://shop.motochic.ch/shopimages/super/Z5572-003-001-01_4.jpg;;;0;new;0;0;0;2;0;0;0;0
+84996;1;100 % Lunettes de soleil Atsuta gloss black;414;63.88888889;1;45.63;0;;5;;;Z5572-004-001-01;Z5572-004-001-01;Motochic;100%;;;;;;;;;;;;;;Style rétro pour hommes et femmes.;Le style délicieusement rétro des lunettes Atsuta saura aussi bien séduire la clientèle féminine que la clientèle masculine.;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5572-004-001-01.jpg;;;0;new;0;0;0;2;0;0;0;0
+84997;1;100 % Lunettes de soleil Atsuta grey tortoise;414;63.88888889;1;45.63;0;;5;;;Z5572-004-007-01;Z5572-004-007-01;Motochic;100%;;;;;;;;;;;;;;Style rétro pour hommes et femmes.;Le style délicieusement rétro des lunettes Atsuta saura aussi bien séduire la clientèle féminine que la clientèle masculine.;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5572-004-007-01.jpg;;;0;new;0;0;0;2;0;0;0;0
+84998;1;100 % Lunettes de soleil Atsuta red black;414;63.88888889;1;45.63;0;;5;;;Z5572-004-013-01;Z5572-004-013-01;Motochic;100%;;;;;;;;;;;;;;Style rétro pour hommes et femmes.;Le style délicieusement rétro des lunettes Atsuta saura aussi bien séduire la clientèle féminine que la clientèle masculine.;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5572-004-013-01.jpg;;;0;new;0;0;0;2;0;0;0;0
+84999;1;100 % Lunettes de soleil Atsuta black fade;414;63.88888889;1;45.63;0;;5;;;Z5572-004-059-01;Z5572-004-059-01;Motochic;100%;;;;;;;;;;;;;;Style rétro pour hommes et femmes.;;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5572-004-059-01.jpg,http://shop.motochic.ch/shopimages/super/Z5572-004-059-01_1.jpg,http://shop.motochic.ch/shopimages/super/Z5572-004-059-01_2.jpg;;;0;new;0;0;0;2;0;0;0;0
+85000;1;100 % Lunettes de soleil Atsuta burgundy;414;63.88888889;1;45.63;0;;5;;;Z5572-004-060-01;Z5572-004-060-01;Motochic;100%;;;;;;;;;;;;;;Style rétro pour hommes et femmes.;Le style délicieusement rétro des lunettes Atsuta saura aussi bien séduire la clientèle féminine que la clientèle masculine.;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5572-004-060-01.jpg;;;0;new;0;0;0;2;0;0;0;0
+85001;1;100 % Lunettes de soleil Atsuta soft touch Black;414;63.88888889;1;45.63;0;;5;;;Z5572-004-061-01;Z5572-004-061-01;Motochic;100%;;;;;;;;;;;;;;Style rétro pour hommes et femmes.;Le style délicieusement rétro des lunettes Atsuta saura aussi bien séduire la clientèle féminine que la clientèle masculine.;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5572-004-061-01.jpg;;;0;new;0;0;0;2;0;0;0;0
+85002;1;100 % Lunettes de soleil Atsuta neon green;414;63.88888889;1;45.63;0;;5;;;Z5572-004-077-01;Z5572-004-077-01;Motochic;100%;;;;;;;;;;;;;;Style rétro pour hommes et femmes.;Le style délicieusement rétro des lunettes Atsuta saura aussi bien séduire la clientèle féminine que la clientèle masculine.;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5572-004-077-01.jpg;;;0;new;0;0;0;2;0;0;0;0
+85003;1;100 % Lunettes de soleil Atsuta clear smoke;414;63.88888889;1;45.63;0;;5;;;Z5572-004-145-01;Z5572-004-145-01;Motochic;100%;;;;;;;;;;;;;;Style rétro pour hommes et femmes.;Le style délicieusement rétro des lunettes Atsuta saura aussi bien séduire la clientèle féminine que la clientèle masculine.;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5572-004-145-01.jpg;;;0;new;0;0;0;2;0;0;0;0
+85004;1;100 % Lunettes de soleil Atsuta basin;414;63.88888889;1;45.63;0;;5;;;Z5572-004-146-01;Z5572-004-146-01;Motochic;100%;;;;;;;;;;;;;;Style rétro pour hommes et femmes.;Le style délicieusement rétro des lunettes Atsuta saura aussi bien séduire la clientèle féminine que la clientèle masculine.;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5572-004-146-01.jpg;;;0;new;0;0;0;2;0;0;0;0
+85005;1;100 % Lunettes de soleil Atsuta ice pick;414;63.88888889;1;45.63;0;;5;;;Z5572-004-148-01;Z5572-004-148-01;Motochic;100%;;;;;;;;;;;;;;Style rétro pour hommes et femmes.;Le style délicieusement rétro des lunettes Atsuta saura aussi bien séduire la clientèle féminine que la clientèle masculine.;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5572-004-148-01.jpg;;;0;new;0;0;0;2;0;0;0;0
+85006;1;100 % Lunettes de soleil Bowen noir mat;414;73.14814815;1;52.25;0;;5;;;Z5572-005-011-01;Z5572-005-011-01;Motochic;100%;;;;;;;;;;;;;;Innovation et de style dans un look classique.;;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5572-005-011-01.jpg,http://shop.motochic.ch/shopimages/super/Z5572-005-011-01_2.jpg,http://shop.motochic.ch/shopimages/super/Z5572-005-011-01_1.jpg;;;0;new;0;0;0;2;0;0;0;0
+85007;1;100 % Lunettes Bowen noir-beige;202,360;63.88888889;1;45.63;0;;5;;;Z5572-005-100-01;Z5572-005-100-01;Motochic;100%;;;;;;;;;;;;;;Innovation et de style dans un look classique.;Le mariage entre l?innovation et le style a donné naissance aux magnifiques lunettes Bowen. Son look classique fait fureur!;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5572-005-100-01.jpg;;;0;new;0;0;0;2;0;0;0;0
+85009;1;100 % Lunettes Barstow Legend olive verte;202,360;91.66666667;1;65.48;0;;5;;;Z5573-001-085-02;Z5573-001-085-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de style avec lentille motocross pour la route.;La Barstow Legend s?illustre grâce à son look résolument urbain et son écran clair Dalloz. Une légende est née! Une housse de protection premium ainsi qu?un écran de rechange clair sont inclus dans l?emballage.;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5573-001-085-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+85010;1;100 % Lunettes Barstow Classic blanc;202,360;91.66666667;1;65.48;0;;5;;;Z5573-002-086-02;Z5573-002-086-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de style avec lentille motocross pour la route.;"Le design intemporel; de la Barstow Classic ainsi que son écran type motocross confèrent un style incomparable à ce modèle destiné à un usage routier. Une housse de protection premium ainsi qu?un écran de rechange clair sont inclus dans l?emballage.";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5573-002-086-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+85011;1;100 % Lunettes Barstow Classic anthrazit;202,360;91.66666667;1;65.48;0;;5;;;Z5573-002-125-02;Z5573-002-125-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de style avec lentille motocross pour la route.;"Le design intemporel; de la Barstow Classic ainsi que son écran type motocross confèrent un style incomparable à ce modèle destiné à un usage routier. Une housse de protection premium ainsi qu?un écran de rechange clair sont inclus dans l?emballage.";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5573-002-125-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+85012;1;100 % Lunettes Barstow Classic beige-braun;202,360;91.66666667;1;65.48;0;;5;;;Z5573-002-126-02;Z5573-002-126-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de style avec lentille motocross pour la route.;"Le design intemporel; de la Barstow Classic ainsi que son écran type motocross confèrent un style incomparable à ce modèle destiné à un usage routier. Une housse de protection premium ainsi qu?un écran de rechange clair sont inclus dans l?emballage.";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5573-002-126-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+85013;1;100 % Lunettes Barstow Classic beige-braun;202,360;91.66666667;1;65.48;0;;5;;;Z5573-002-127-02;Z5573-002-127-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de style avec lentille motocross pour la route.;"Le design intemporel; de la Barstow Classic ainsi que son écran type motocross confèrent un style incomparable à ce modèle destiné à un usage routier. Une housse de protection premium ainsi qu?un écran de rechange clair sont inclus dans l?emballage.";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5573-002-127-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+85014;1;100 % Lunettes Barstow Classic braun-orange;202,360;91.66666667;1;65.48;0;;5;;;Z5573-002-128-02;Z5573-002-128-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de style avec lentille motocross pour la route.;"Le design intemporel; de la Barstow Classic ainsi que son écran type motocross confèrent un style incomparable à ce modèle destiné à un usage routier. Une housse de protection premium ainsi qu?un écran de rechange clair sont inclus dans l?emballage.";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5573-002-128-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+85015;1;100 % Lunettes Barstow Classic Bowery;202,360;91.66666667;1;65.48;0;;5;;;Z5573-002-180-02;Z5573-002-180-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de style avec lentille motocross pour la route.;"Le design intemporel; de la Barstow Classic ainsi que son écran type motocross confèrent un style incomparable à ce modèle destiné à un usage routier. Une housse de protection premium ainsi qu?un écran de rechange clair sont inclus dans l?emballage.";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5573-002-180-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+85016;1;100 % Lunettes Barstow Classic Hudson;202,360;91.66666667;1;65.48;0;;5;;;Z5573-002-181-02;Z5573-002-181-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de style avec lentille motocross pour la route.;"Le design intemporel; de la Barstow Classic ainsi que son écran type motocross confèrent un style incomparable à ce modèle destiné à un usage routier. Une housse de protection premium ainsi qu?un écran de rechange clair sont inclus dans l?emballage.";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5573-002-181-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+85017;1;100 % Lunettes Barstow Classic OSFA;202,360;91.66666667;1;65.48;0;;5;;;Z5573-002-182-02;Z5573-002-182-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de style avec lentille motocross pour la route.;"Le design intemporel; de la Barstow Classic ainsi que son écran type motocross confèrent un style incomparable à ce modèle destiné à un usage routier. Une housse de protection premium ainsi qu?un écran de rechange clair sont inclus dans l?emballage.";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5573-002-182-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+85018;1;100 % Lunettes Barstow Classic Deus Ex Machina New;202,360;91.66666667;1;65.48;0;;5;;;Z5573-002-183-02;Z5573-002-183-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de style avec lentille motocross pour la route.;"Le design intemporel; de la Barstow Classic ainsi que son écran type motocross confèrent un style incomparable à ce modèle destiné à un usage routier. Une housse de protection premium ainsi qu?un écran de rechange clair sont inclus dans l?emballage.";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5573-002-183-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+85019;1;100 % Lunettes Barstow Classic Ornamental Conifer 16;202,360;91.66666667;1;65.48;0;;5;;;Z5573-002-184-02;Z5573-002-184-02;Motochic;100%;;;;;;;;;;;;;;Lunettes de style avec lentille motocross pour la route.;"Le design intemporel; de la Barstow Classic ainsi que son écran type motocross confèrent un style incomparable à ce modèle destiné à un usage routier. Une housse de protection premium ainsi qu?un écran de rechange clair sont inclus dans l?emballage.";;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5573-002-184-02.jpg;;;0;new;0;0;0;2;0;0;0;0
+85020;1;100 % Barstow noir;238;69.44444444;1;49.60;0;;5;;;Z5574-013-001;Z5574-013-001;Motochic;100%;;;;;;;;;;;;;;;Matériau: 80% coton, 20% Polyester<br><b>Tailles: S - 2XL</b>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5574-013-001-10.jpg;;;0;new;0;0;0;2;0;0;0;0
+85021;1;100 % Sac à dos Porter noir;239,249;45.37037037;1;32.41;0;;5;;;Z5576-002-001-01;Z5576-002-001-01;Motochic;100%;;;;;;;;;;;;;;;Le sac de réservoir stylisé Porter de la marque 100% convainc par sa conception classique et sa qualité au top.<br><br><ul><li>Grand compartiment principal</li><li>Compartiment rembourré séparé pour ordinateur portable</li><li>Compartiment supplémentaire </li><li>Dimensions: 45x30x12cm</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5576-002-001-01.jpg;;;0;new;0;0;0;2;0;0;0;0
+85022;1;100 % Sac à dos Porter Camo;239,249;45.37037037;1;32.41;0;;5;;;Z5576-002-064-01;Z5576-002-064-01;Motochic;100%;;;;;;;;;;;;;;;Le sac de réservoir stylisé Porter de la marque 100% convainc par sa conception classique et sa qualité au top.<br><br><ul><li>Grand compartiment principal</li><li>Compartiment rembourré séparé pour ordinateur portable</li><li>Compartiment supplémentaire </li><li>Dimensions: 45x30x12cm</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5576-002-064-01.jpg;;;0;new;0;0;0;2;0;0;0;0
+85023;1;100 % Sac à dos Porter Teal;239,249;45.37037037;1;32.41;0;;5;;;Z5576-002-171-01;Z5576-002-171-01;Motochic;100%;;;;;;;;;;;;;;;Le sac de réservoir stylisé Porter de la marque 100% convainc par sa conception classique et sa qualité au top.<br><br><ul><li>Grand compartiment principal</li><li>Compartiment rembourré séparé pour ordinateur portable</li><li>Compartiment supplémentaire </li><li>Dimensions: 45x30x12cm</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5576-002-171-01.jpg;;;0;new;0;0;0;2;0;0;0;0
+85024;1;100 % Sac à dos Transit gris;239,249;45.37037037;1;32.41;0;;5;;;Z5576-003-007-01;Z5576-003-007-01;Motochic;100%;;;;;;;;;;;;;;;Le sac de réservoir stylisé Transit de la marque 100% convainc par sa conception individuelle et par sa haute qualité.<br><br><ul><li>Grand compartiment principal</li><li>Compartiment rembourré séparé pour ordinateur portable</li><li>Compartiment doublée de Fleece pour lunettes de soleil</li><li>Dimensions: 48x30x16cm</li></ul><br>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5576-003-007-01.jpg;;;0;new;0;0;0;2;0;0;0;0
+85025;1;100 % Sac à dos Transit Navy;239,249;45.37037037;1;32.41;0;;5;;;Z5576-003-015-01;Z5576-003-015-01;Motochic;100%;;;;;;;;;;;;;;;Le sac de réservoir stylisé Transit de la marque 100% convainc par sa conception individuelle et par sa haute qualité.<br><br><ul><li>Grand compartiment principal</li><li>Compartiment rembourré séparé pour ordinateur portable</li><li>Compartiment doublée de Fleece pour lunettes de soleil</li><li>Dimensions: 48x30x16cm</li></ul><br>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5576-003-015-01.jpg;;;0;new;0;0;0;2;0;0;0;0
+85026;1;100 % Sac à dos Transit Skyler;239,249;45.37037037;1;32.41;0;;5;;;Z5576-003-111-01;Z5576-003-111-01;Motochic;100%;;;;;;;;;;;;;;;Le sac de réservoir stylisé Transit de la marque 100% convainc par sa conception individuelle et par sa haute qualité.<br><br><ul><li>Grand compartiment principal</li><li>Compartiment rembourré séparé pour ordinateur portable</li><li>Compartiment doublée de Fleece pour lunettes de soleil</li><li>Dimensions: 48x30x16cm</li></ul><br>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5576-003-111-01.jpg;;;0;new;0;0;0;2;0;0;0;0
+85027;1;100 % Deluge noir;238;63.88888889;1;45.63;0;;5;;;Z5579-001-001;Z5579-001-001;Motochic;100%;;;;;;;;;;;;;;100% nice!;Matériau: 100% coton<br><b>Tailles: S - 2XL</b><br>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5579-001-001-10.jpg;;;0;new;0;0;0;2;0;0;0;0
+85028;1;100 % Barstow Selecteur;238;45.37037037;1;32.41;0;;5;;;Z5579-002-001;Z5579-002-001;Motochic;100%;;;;;;;;;;;;;;;Matériau: 100% coton<br><b>Tailles: S - XL</b>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5579-002-001-10.jpg;;;0;new;0;0;0;2;0;0;0;0
+85029;1;100 % Syndicate noir;238;54.62962963;1;39.02;0;;5;;;Z5579-004-001;Z5579-004-001;Motochic;100%;;;;;;;;;;;;;;100% nice! In diversen Farbenvarianten.;Matériau: 55% coton, 45% Polyester<br><b>Tailles: S - 2XL</b>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5579-004-001-11.jpg;;;0;new;0;0;0;2;0;0;0;0
+85030;1;100 % Syndicate rouge;238;54.62962963;1;39.02;0;;5;;;Z5579-004-003;Z5579-004-003;Motochic;100%;;;;;;;;;;;;;;100% nice! In diversen Farbenvarianten.;Matériau: 55% coton, 45% Polyester<br><b>Tailles: S - 2XL</b>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5579-004-003-10.jpg;;;0;new;0;0;0;2;0;0;0;0
+85031;1;100 % Syndicate noir header;238;54.62962963;1;39.02;0;;5;;;Z5579-004-059;Z5579-004-059;Motochic;100%;;;;;;;;;;;;;;100% nice! In diversen Farbenvarianten.;Matériau: 55% coton, 45% Polyester<br><b>Tailles: S - 2XL</b>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5579-004-059-10.jpg;;;0;new;0;0;0;2;0;0;0;0
+85032;1;100 % Syndicate navy;238;54.62962963;1;39.02;0;;5;;;Z5579-004-090;Z5579-004-090;Motochic;100%;;;;;;;;;;;;;;100% nice! In diversen Farbenvarianten.;Matériau: 55% coton, 45% Polyester<br><b>Tailles: S - 2XL</b>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5579-004-090-10.jpg;;;0;new;0;0;0;2;0;0;0;0
+85033;1;100 % Official noir;238;54.62962963;1;39.02;0;;5;;;Z5579-005-001;Z5579-005-001;Motochic;100%;;;;;;;;;;;;;;100% nice!;Matériau: 80% coton, 20% Polyester<br><b>Tailles: S - 2XL</b>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5579-005-001-10.jpg;;;0;new;0;0;0;2;0;0;0;0
+85034;1;100 % Corpo noir;238;50.92592593;1;36.38;0;;5;;;Z5579-007-001;Z5579-007-001;Motochic;100%;;;;;;;;;;;;;;100% nice!;Matériau: 80% coton, 20% Polyester<br><b>Tailles: S - XL</b><br>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5579-007-001-10.jpg;;;0;new;0;0;0;2;0;0;0;0
+85035;1;100 % Hoody vert;238;50.92592593;1;36.38;0;;5;;;Z5579-009-005;Z5579-009-005;Motochic;100%;;;;;;;;;;;;;;100% nice! In diversen Farbenvarianten.;Matériau: 55% coton, 45% Polyester<br><b>Tailles: S - 2XL</b>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5579-009-005-10.jpg;;;0;new;0;0;0;2;0;0;0;0
+85036;1;100 % Flat Track noir;238;69.44444444;1;49.60;0;;5;;;Z5579-010-001;Z5579-010-001;Motochic;100%;;;;;;;;;;;;;;100% nice!;Matériau: 55% coton, 45% Polyester<br><b>Tailles: S - 2XL</b><br>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5579-010-001-10.jpg;;;0;new;0;0;0;2;0;0;0;0
+85037;1;100 % Gravel noir;238;45.37037037;1;32.41;0;;5;;;Z5579-011-001;Z5579-011-001;Motochic;100%;;;;;;;;;;;;;;100% nice! In diversen Farbenvarianten.;Matériau: 100% coton<br><b>Tailles: S - 2XL</b>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5579-011-001-10.jpg;;;0;new;0;0;0;2;0;0;0;0
+85038;1;100 % Gravel charcoal;238;45.37037037;1;32.41;0;;5;;;Z5579-011-018;Z5579-011-018;Motochic;100%;;;;;;;;;;;;;;100% nice! In diversen Farbenvarianten.;Matériau: 100% coton<br><b>Tailles: S - 2XL</b>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5579-011-018-10.jpg;;;0;new;0;0;0;2;0;0;0;0
+85039;1;100 % Brymann gris;238;50.92592593;1;36.38;0;;5;;;Z5579-014-007;Z5579-014-007;Motochic;100%;;;;;;;;;;;;;;100% nice!;Matériau: 65% coton, 35% Polyester<br><b>Tailles: S - 2XL</b>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-11-28;2016-11-28;1;http://shop.motochic.ch/shopimages/super/Z5579-014-007-10.jpg;;;0;new;0;0;0;2;0;0;0;0
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

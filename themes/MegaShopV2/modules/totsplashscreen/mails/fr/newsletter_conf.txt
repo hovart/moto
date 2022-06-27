@@ -1,0 +1,3 @@
+Bonjour,
+Merci de votre inscription à notre newsletter
+{shop_url} propulsé par Prestashop

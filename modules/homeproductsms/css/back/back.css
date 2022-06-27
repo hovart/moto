@@ -1,0 +1,223 @@
+/**
+* 2007-2015 Mack Stores
+*
+* NOTICE OF LICENSE
+*
+* This code is a property of MackStores. In No way any one is authorised to use this code  or modify this code and redistribute without prior
+* permission from the authour i.e MackStores
+*
+*
+*  @author    Mack Stores contact:-sales@mackstores.com
+*  @copyright 2007-2015 Mack Stores
+*  International Registered Trademark & Property of Mack Stores
+*/
+
+label.ms_t
+{
+float: none;
+clear: none;
+padding: 0 0px 0;
+margin: 0px;
+font-weight: normal;
+font-size: 12px;
+text-shadow: none;
+}
+
+.error_mackstores {
+	color: #D8000C;
+	background-color: #FFBABA;
+}
+
+
+
+hr.style-two {
+	border: 0;
+	border-bottom: 1px dashed #ccc;
+	background: #999;
+	margin-top: 20px;
+	margin-bottom:20px;
+}
+
+
+.box_me {
+	position: relative;
+	width: 93%;
+	background: #ddd;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	padding: 2em 1.5em;
+	color: rgba(0,0,0, .8);
+	text-shadow:  0px 0px 0px #5F5F5F;
+	margin: 0px auto;
+	border: 1px solid #fff;
+
+
+
+	-moz-box-shadow: 0px 0px 7px #000000;
+	-webkit-box-shadow: 0px 0px 7px #000000;
+	box-shadow: 0px 0px 7px #000000 ;
+}
+
+h4
+{
+	font-family: Arial, Helvetica, sans-serif;
+	margin-bottom: .7em;
+	line-height: 1.4em;
+}
+
+
+
+
+.pdr_blk
+{
+
+
+}
+
+.pdr_blk_sub
+{
+	display: none;
+}
+
+
+
+/* Table style */
+.hm_prd_ms_tb
+{
+	width:100%;
+	text-align: center;
+	background-color: #fff;
+                border: 1px solid #ccc;
+                padding: 0: border-radius:3px;
+                -moz-border-radius: 3px;
+                -webkit-border-radius: 3px;
+
+}
+
+.hm_prd_ms_tb td
+{
+  background:#FFFFFF;
+  padding:10px ;
+  text-align:left;
+  vertical-align:middle;
+  font-weight:300;
+  font-size:19px;
+  text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1);
+  border-right: 1px solid #C1C3D1;
+}
+
+.hm_prd_ms_tb tr
+{
+	border-top: 1px solid #C1C3D1;
+  border-bottom-: 1px solid #C1C3D1;
+  color:#666B85;
+  font-size:16px;
+  font-weight:normal;
+  text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);
+}
+
+.hm_prdhhh_ms_tb tr:hover td {
+  background:#4E5066;
+  color:#FFFFFF;
+  border-top: 1px solid #22262e;
+  border-bottom: 1px solid #22262e;
+}
+
+.hm_prd_ms_tb .tDnD_whileDrag  {
+
+background:#4E5066 !important;
+  color:#4E5066;
+  border: 2px solid #22262e;
+
+
+}
+
+
+.hm_prd_ms_tb tr th {
+                    color:#D5DDE5;;
+  background:#1b1e24;
+  border-bottom:4px solid #9ea7af;
+  border-right: 1px solid #343a45;
+  font-size:21px;
+  font-weight: 100;
+  padding:10px;
+  text-align:left;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+  vertical-align:middle;
+
+                    }
+
+
+/*position update notification*/
+.notif_ms
+{
+	width:100%;
+	background :green;
+	display: none;
+}
+
+.notif_ms .text
+{
+	padding: 8px;
+	text-align: center;
+vertical-align: middle;
+font-weight: 900;
+font-size: 17px;
+text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1);
+color: white;
+display: inherit;
+}
+
+.notif_ms_del
+{
+	width:100%;
+	background :green;
+	display: none;
+}
+
+.notif_ms_del .text
+{
+	padding: 8px;
+	text-align: center;
+vertical-align: middle;
+font-weight: 900;
+font-size: 17px;
+text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1);
+color: white;
+display: inherit;
+}
+
+
+
+/* Buttons */
+#buttonhpms
+{
+  cursor: pointer;
+  background: -moz-linear-gradient(center top, #f9f9f9, #e3e3e3) repeat scroll 0 0 transparent;
+  background: -webkit-gradient(linear, center top, center bottom, from(#f9f9f9), to(#e3e3e3)) repeat scroll 0 0 transparent;
+  border-color: #ccc #bbb #a0a0a0;
+  border-left: 1px solid #bbb;
+  border-radius: 3px 3px 3px 3px;
+  border-right: 1px solid #bbb;
+  border-style: solid;
+  border-width: 1px;
+  color: #000;
+  margin: 5px 0;
+  outline: medium none;
+    padding: 5px 20px 5px 20px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  text-shadow: 0 1px 0 #fff;
+  text-decoration: none;
+    font-weight: 300;
+  font-size: 17px;
+
+}
+
+#buttonhpms:hover
+{
+ border-color: grey;
+ font-weight: 500;
+ color: #006C1A;
+}

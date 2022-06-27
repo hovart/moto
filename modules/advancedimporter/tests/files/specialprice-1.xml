@@ -1,0 +1,16 @@
+<objects>
+	<object type="specificPrice" external-reference="demo-1">
+		<external_reference for="id_product" type="product">demo-1</external_reference>
+		<id_group>1</id_group>
+		<price>0</price>
+		<reduction>0.2</reduction>
+		<reduction_type>percentage</reduction_type> <!-- ou amount -->
+		<from_quantity>1</from_quantity>
+		<id_customer>0</id_customer>
+		<id_shop>1</id_shop>
+		<id_country>0</id_country>
+		<id_currency>0</id_currency>
+		<from>0000-00-00</from>
+		<to>0000-00-00</to>
+	</object>
+</objects>

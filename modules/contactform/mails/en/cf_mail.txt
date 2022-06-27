@@ -1,0 +1,7 @@
+{shop_name}
+ 
+Message from your form {formtitle} ({date})
+ 
+Here is the message sent:
+{message}
+{shop_name} powered by PrestaShop™

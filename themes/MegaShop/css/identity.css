@@ -1,0 +1,40 @@
+#identity #right_column {display:none}
+
+#identity h3 {
+	font-weight:normal;
+	font-size:13px
+}
+#identity p {}
+
+#identity form.std fieldset {
+	margin-top:0;
+	padding:10px;
+}
+
+#identity .std p.required {}
+
+#identity .std p.text label,
+#identity .std p.password label,
+#identity .std p.select label {
+	
+}
+#identity .std p.text input,
+#identity .std p.password input {}
+
+#identity .std p.select select {}
+
+#identity .std p.radio span {
+	
+}
+#identity .std p.radio input {
+	border:none;
+}
+
+#identity .std p.checkbox input {
+	
+}
+
+#identity .std p.submit {}
+#identity .std p.submit .button {}
+
+#identity .std #security_informations {font-size:11px; padding:0;}

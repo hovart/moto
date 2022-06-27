@@ -1,0 +1,8 @@
+<stocks>
+	<stock>
+		<product use-external-reference="1">product-demo-1</product>
+		<mode>set</mode>
+		<sellable_out_of_stock>1</sellable_out_of_stock>
+		<quantity>10</quantity>
+	</stock>
+</stocks>

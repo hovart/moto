@@ -1,0 +1,14 @@
+/nbproject/
+/cron2.php
+/flows/import/imported/*.xml*
+/flows/import/imported/*.csv*
+/flows/import/queue/UPLOADED
+/flows/import/queue/*.xml
+/flows/import/error/*.xml*
+/flows/import/queue/*.csv
+/flows/import/queue/*.csv*
+/classes/helper/custom.php
+/lock/*.lock
+*.*~
+*.swp
+config*.xml

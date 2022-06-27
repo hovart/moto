@@ -1,0 +1,11 @@
+Hola {firstname} {lastname},
+
+Le informamos de que acaba de conseguir {nb_discount} vale(s) de descuento, relativo a su apadrinamiento.
+
+Este es el número de su vale : {voucher_num}, que le da derecho a unos portes gratuitos.
+Copie este código y pongalo en la cesta de la compra de su próximo pedido, antes de hacer el pago.
+
+
+
+{shop_name}
+{shop_url}

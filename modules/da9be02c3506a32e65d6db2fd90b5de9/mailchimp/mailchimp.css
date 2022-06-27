@@ -1,0 +1,359 @@
+.mailchimp-config {
+}
+.mailchimp-config fieldset {
+	background:#f0f0f0;
+	border:5px solid #00bcd3;
+	font-size:1.1em;
+	margin:0;
+	padding:1em;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	box-shadow: 2px 2px 5px #888;
+	-moz-box-shadow: 2px 2px 5px #888;
+	-webkit-box-shadow: 2px 2px 5px #888;
+}
+.mailchimp-config legend {
+	background:#00bcd3;
+	border:2px solid #ddd;
+	font-weight:700;
+	margin:0;
+	padding:.2em .5em;
+	text-align:left;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	box-shadow: 0px 0px 3px #888;
+	-moz-box-shadow: 0px 0px 3px #888;
+	-webkit-box-shadow: 0px 0px 3px #888;
+	line-height: 52px;
+	color: #fff;
+	
+}
+.mailchimp-config .text {
+	background-color: #00bcd3;
+	padding: 5px;
+	color: #fff;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	clear: both;
+	text-decoration: none;
+	font-weight: bold;
+	display: block;
+}
+.mailchimp-config input {
+	background: #fff;
+	border: 2px solid #00bcd3;
+	height: 20px;
+	width: 300px;
+	font-size: 14px;
+	color: #e76246;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	font-weight: bold;
+}
+.mailchimp-config .button {
+	background: #e76246;
+	border: 0px solid #00bcd3;
+	height: 30px;
+	width: 425px;
+	font-size: 14px;
+	color: #fff;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	font-weight: bold;
+}
+.mailchimp-config input.button:hover {
+	background: #ea8772;
+	border: 0px solid #00bcd3;
+	height: 30px;
+	width: 425px;
+	font-size: 14px;
+	color: #f6f6f7;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	font-weight: bold;
+}
+.mailchimp-config #account {
+	float: left;
+	width: 425px;
+}
+.mailchimp-config .mailchimp-textarea {
+	width: 425px;
+	overflow: hidden
+}
+.mailchimp-config .info {
+	width: 410px;
+	margin-left: 450px;
+	padding: 10px;
+	background-color: #00bcd3;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+.mailchimp-config .info h1 {
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	display:block;
+	background: #e76246;
+	padding: 5px;
+	margin-top: -10px;
+	border-radius: 0 0 5px 5px;
+	-moz-border-radius: 0 0 5px 5px;
+	-webkit-border-radius: 0 0 5px 5px;
+	box-shadow: 0 2px 3px #888;
+	-moz-box-shadow: 0 2px 3px #888;
+	-webkit-box-shadow: 0 2px 3px #888;
+
+}
+
+.mailchimp-config .info p {
+	color: #fff;
+	font-size: 14px;
+	line-height: 16px;
+	font-family: "Helvetica", Arial, Tahoma;
+	font-weight: bold;
+	padding: 5px;
+	background-color: #37c3d4;
+	margin-bottom: 10px;
+}
+.mailchimp-config .info .imp {
+	color:#e76246;
+}
+.mailchimp-main {
+	background:#f0f0f0;
+	border:5px solid #00bcd3;
+	font-size:1.1em;
+	margin:0;
+	padding:1em;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	box-shadow: 2px 2px 5px #888;
+	-moz-box-shadow: 2px 2px 5px #888;
+	-webkit-box-shadow: 2px 2px 5px #888;
+}
+
+.mailchimp-main legend {
+		background:#00bcd3;
+	border:2px solid #ddd;
+	font-weight:700;
+	margin:0;
+	padding:.2em .5em;
+	text-align:left;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	box-shadow: 0px 0px 3px #888;
+	-moz-box-shadow: 0px 0px 3px #888;
+	-webkit-box-shadow: 0px 0px 3px #888;
+	line-height: 30px;
+	color: #fff;
+}
+
+.mailchimp-main .button {
+	background-color: #DD624B;
+	-webkit-box-shadow: 0px 1px 0 #A9422E, 0px -1px 0 #A9422E;
+	-moz-box-shadow: 0px 1px 0 #A9422E, 0px -1px 0 #A9422E;
+	box-shadow: 0px 1px 0 #A9422E, 0px -1px 0 #A9422E;
+	border: 0px solid #00bcd3;
+	height: 20px;
+	font-size: 12px;
+	color: #fff;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	font-weight: bold;
+	padding: 0 5px 0 5px;
+}
+.mailchimp-main .button:hover {
+	background-color: #De5215;
+	-webkit-box-shadow: 0px 1px 0 #A9422E, 0px -1px 0 #A9422E;
+	-moz-box-shadow: 0px 1px 0 #A9422E, 0px -1px 0 #A9422E;
+	box-shadow: 0px 2px 1px #888, 0px -1px 0 #A9422E;
+	border: 0px solid #00bcd3;
+	height: 20px;
+	font-size: 12px;
+	color: #f6f6f7;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	font-weight: bold;
+	padding: 0 5px 0 5px;
+}
+.mailchimp-main .buttons {
+	background-color: #DD624B;
+	-webkit-box-shadow: 0px 1px 0 #A9422E, 0px -1px 0 #A9422E;
+	-moz-box-shadow: 0px 1px 0 #A9422E, 0px -1px 0 #A9422E;
+	box-shadow:  0px 2px 1px #888, 0px -1px 0 #A9422E;
+	border: 0px solid #00bcd3;
+	height: 20px;
+	width: 350px;
+	font-size: 12px;
+	color: #f6f6f7;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	font-weight: bold;
+	padding: 0 5px 0 5px;  
+}
+.mailchimp-main .buttons:hover {
+	background-color: #De5215;
+	-webkit-box-shadow: 0px 1px 0 #A9422E, 0px -1px 0 #A9422E;
+	-moz-box-shadow: 0px 1px 0 #A9422E, 0px -1px 0 #A9422E;
+	box-shadow:  0px 2px 1px #888, 0px -1px 0 #A9422E;
+	border: 0px solid #00bcd3;
+	height: 20px;
+	width: 350px;
+	font-size: 12px;
+	color: #f6f6f7;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	font-weight: bold;
+	padding: 0 5px 0 5px;
+}
+.mailchimp-main .buttonx {
+	background: #00bcd3;
+	border: 0px solid #00bcd3;
+	height: 20px;
+	font-size: 12px;
+	color: #fff;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	font-weight: bold;
+	padding: 0 5px 0 5px;
+
+}
+.mailchimp-main .buttonx:hover {
+	background: #00bcd3;
+	border: 0px solid #00bcd3;
+	height: 20px;
+	font-size: 12px;
+	color: #f6f6f7;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	box-shadow: 0px 2px 2px #888;
+	-moz-box-shadow: 0px 2px 2px #888;
+	-webkit-box-shadow: 0px 2px 2px #888;
+	font-weight: bold;
+	padding: 0 5px 0 5px;
+
+}
+.mailchimp-config .create {
+	background-color: #DD624B;
+	-webkit-box-shadow: 0px 1px 0 #A9422E, 0px -1px 0 #A9422E;
+	-moz-box-shadow: 0px 1px 0 #A9422E, 0px -1px 0 #A9422E;
+	box-shadow: 0px 1px 0 #A9422E, 0px -1px 0 #A9422E;
+	color: #fff;
+	text-decoration: none;
+	font-size: 16px;
+	padding: 5px;
+	font-family: "Helvetica", Arial, Tahoma;
+	font-weight: bold;
+	border-radius: 7px;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	line-height: 50px;
+}
+.mailchimp-config .create:hover {
+	background-color: #de5215;
+	-webkit-box-shadow: 0px 1px 0 #A9422E, 0px -1px 0 #A9422E;
+	-moz-box-shadow: 0px 1px 0 #A9422E, 0px -1px 0 #A9422E;
+	box-shadow: 0px 1px 0 #A9422E, 0px -1px 0 #A9422E;
+	color: #f6f6f7;
+	text-decoration: none;
+	font-size: 16px;
+	padding: 5px;
+	font-family: "Helvetica", Arial, Tahoma;
+	font-weight: bold;
+	border-radius: 7px;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	line-height: 50px;
+}
+
+.mailchimp-main .title {
+	background:#00bcd3;
+	
+	font-weight:700;
+	margin:0;
+	padding:.2em .5em;
+	text-align:left;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	color: #fff;
+	margin-left: 527px;
+width: 350px;
+margin-top: -35px;
+margin-bottom: 10px;
+}
+
+.mailchimp-main .table tr th {
+	vertical-align: top;
+	border-right: 1px solid #dfd5c3;
+	padding: 1px 2px;
+}
+
+fieldset img {
+padding: 0 2px 0 0;
+vertical-align: bottom;
+}
+
+.mailchimp-main .subscribe {
+	width: 350px;
+	float: left;
+	margin-left: 90px;
+	margin-top: 20px;
+}
+.mailchimp-main .subscribe, .mailchimp-main .unsubscribe {
+	
+}
+.mailchimp-main .subscribe select, .mailchimp-main .unsubscribe select {
+	width: 350px;
+	margin-top: 10px;
+}
+
+.mailchimp-main .unsubscribe {
+	width: 350px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+#mailchimp-statisticas ul {
+	width: 27%;
+	margin-right: 1%;
+	float: left;
+	list-style: none;
+	list-style-image: none;
+	list-style-type: none;
+}
+#mailchimp-statisticas b {
+background:#00bcd3;
+	font-weight:700;
+	margin:0;
+	padding:.2em .5em;
+	text-align:left;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	color: #fff;
+margin-bottom: 10px;
+}
+
+#mailchimp-statisticas li {
+	color: #888;
+	text-transform: capitalize;
+	margin-bottom: 5px;
+}

@@ -1,0 +1,76 @@
+
+table#product_comparison tbody tr td.product-block {vertical-align: top;}
+table#product_comparison tbody tr td.td_empty,
+table#product_comparison tbody tr td.feature-name, table#product_comparison tbody tr.comparison_header {
+  background: #fbfbfb;
+}
+table#product_comparison tbody tr td.comparison_infos {}
+  table#product_comparison tbody tr td.comparison_infos div.center {
+    margin: 0 auto;
+    width: 80px; }
+table#product_comparison tbody tr td.td_empty {vertical-align: bottom;}
+table#product_comparison tbody tr td.td_empty > span {
+  font-weight: bold;
+}
+table#product_comparison .remove {
+  text-align: right;
+  padding: 0 0 15px 0; }
+  table#product_comparison .remove a {
+    font-size: 23px;
+    line-height: 23px;
+    color: #c0c0c0; }
+    table#product_comparison .remove a:hover {
+      color: #515151; }
+table#product_comparison .product-image-block {
+  display: inline-block;
+  position: relative; }
+table#product_comparison .product-image-block .product_image {
+  border: 1px solid #e5e5e5;
+  display: block;
+  padding: 5px;
+  margin: 0 0 10px;
+}
+
+table#product_comparison h5 {margin: 0 0 15px;}
+table#product_comparison .prices-container {margin: 0 0 15px;}
+table#product_comparison .comparison_availability_statut {
+  display: none;
+  font-weight: 700;
+  color: #060; }
+table#product_comparison .product_discount {margin-top: 5px;}
+table#product_comparison .product_discount .reduced-price {color: red;}
+table#product_comparison .product_desc {display: none;}
+table#product_comparison .button-container a,
+table#product_comparison .button-container > span {
+  margin-bottom: 10px; }
+table#product_comparison .comparison_unit_price {
+  font-style: italic;
+}
+table#product_comparison .product-rating {
+  margin: 0 auto;
+  overflow: hidden;
+}
+table#product_comparison .comparison_feature .product_name {display: none;}
+
+.footer_link {
+  margin: 0 0 20px 0; }
+
+#stOCClose {
+  width: 29px !important;
+  height: 29px !important; }
+
+.stButton .stFb,
+.stButton .stTwbutton,
+.stButton .stMainServices,
+.stButton .stButton_gradient {
+  height: 22px !important; }
+
+.share strong {
+  display: block;
+  margin-bottom: 10px; }
+.share > div {
+  margin-bottom: 8px; }
+
+.stArrow {
+  display: none !important; }
+

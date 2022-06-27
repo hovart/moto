@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>homeproductsms</name>
+	<displayName><![CDATA[Display Products on the Home Page]]></displayName>
+	<version><![CDATA[1.0.1]]></version>
+	<description><![CDATA[This module allows to continently display products according  to your own choice]]></description>
+	<author><![CDATA[Mack Stores]]></author>
+	<tab><![CDATA[others]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to unistall the product?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

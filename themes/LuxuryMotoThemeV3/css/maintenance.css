@@ -1,0 +1,40 @@
+.provisoire{
+  background: #000;
+  color: #fff;
+  text-align:center;
+}
+#maintenance {
+  margin: 0 auto;
+  width: 100%;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+#maintenance .logo {}
+#maintenance h1 {
+  border-bottom: 1px solid #DDDDDD;
+  font-size: 24px;
+  font-weight: normal;
+  margin: 0 0 15px;
+  padding: 0 0 15px;
+  text-transform: uppercase;
+}
+#maintenance #message {
+  color: #777;
+  font-size: 20px;
+  padding: 0 50px 0 330px;
+}
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  padding-top: 25px;
+  height: 0;
+}
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 10%;
+  width: 80%;
+  height: 80%;
+}

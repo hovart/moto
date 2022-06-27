@@ -1,0 +1,539 @@
+﻿ID;Active (0/1);Name *;Categories (x,y,z...);Price tax excluded or Price tax included;Tax rules ID;Wholesale price;On sale (0/1);Discount amount;Discount percent;Discount from (yyyy-mm-dd);Discount to (yyyy-mm-dd);Reference #;Supplier reference #;Supplier;Manufacturer;EAN13;UPC;Ecotax;Width;Height;Depth;Weight;Quantity;Minimal quantity;Visibility;Additional shipping cost;Unity;Unit price;Short description;Description;Tags (x,y,z...);Meta title;Meta keywords;Meta description;URL rewritten;Text when in stock;Text when backorder allowed;Available for order (0 = No, 1 = Yes);Product available date;Product creation date;Show price (0 = No, 1 = Yes);Image URLs (x,y,z...);Delete existing images (0 = No, 1 = Yes);Feature(Name:Value:Position);Available online only (0 = No, 1 = Yes);Condition;Customizable (0 = No, 1 = Yes);Uploadable files (0 = No, 1 = Yes);Text fields (0 = No, 1 = Yes);Out of stock;ID / Name of shop;Advanced stock management;Depends On Stock;Warehouse
+83795;1;Casque Bell Moto-9 Carbon - Tagger Clash Blue;282;647.2222222;1;388.33;0;;;;;BE704987;BE704987;Parts-World;Bell;;;;;;;;0;;;;;;Quand vous avez été présent en compétition depuis aussi longtemps que Bell (60 ans), il n’est pas présomptueux de dire que vous connaissez votre sujet et avez réalisé quelques trucs positifs ici ou là. Pour faire progresser l’ajustement déjà parfait du Moto-9, nous nous sommes inspirés du calotin intérieur segmenté de notre casque de BMX Segment™.;<ul><li>Coque composite Carbone ultralégère en trois (3) tailles différentes</li><li>Adaptative Fit : construction segmentée du calotin pour un ajustement idéal à la tête du pilote </li><li>Velocity Flow Ventilation System™ pour une ventilation et un flux d’air maximum</li><li>Visière réglable Flying Bridge Visor™ avec prises d’air intégrées </li><li>Habillage intérieur démontable et lavable X-Static® XT2 silver </li><li>Intérieur Wear™</li><li>Système d’habillage des joues magnétique Magnefusion™ Emergency Release System (MERS) pour un retrait facilité du casque en cas d’intervention des secouristes</li><li>Vis de réglage de visière rapide Quick Flip™ manipulable même avec les gants</li><li>Mentonnière doublée d’un calotin EPS ventilé</li><li>Grille de ventilation intégrée à la mentonnière</li><li>Maintien de la sangle par nouvelle attache magnétique Magnefusion™ (Système breveté)</li><li>Fermeture de la jugulaire rembourrée par anneau double-D</li><li>Livré avec une sacoche de transport BELL </li><li>Homologation: ECE 22.05, Snell M2015, DOT, AS/NZ</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83794.jpg;0;Couleur:Bleu:1,Type de casque:Cross:2,Genre:Adultes:3,Coque:Carbone:4,Ecran anti-buée:Non:5,Cache-nez:Oui:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Oui:12;0;new;0;0;0;2;0;0;0;0
+83796;1;Casque Bell Moto-9 Carbon - Pinned White;282;647.2222222;1;388.33;0;;;;;BE704988;BE704988;Parts-World;Bell;;;;;;;;0;;;;;;Quand vous avez été présent en compétition depuis aussi longtemps que Bell (60 ans), il n’est pas présomptueux de dire que vous connaissez votre sujet et avez réalisé quelques trucs positifs ici ou là. Pour faire progresser l’ajustement déjà parfait du Moto-9, nous nous sommes inspirés du calotin intérieur segmenté de notre casque de BMX Segment™.;<ul><li>Coque composite Carbone ultralégère en trois (3) tailles différentes</li><li>Adaptative Fit : construction segmentée du calotin pour un ajustement idéal à la tête du pilote </li><li>Velocity Flow Ventilation System™ pour une ventilation et un flux d’air maximum</li><li>Visière réglable Flying Bridge Visor™ avec prises d’air intégrées </li><li>Habillage intérieur démontable et lavable X-Static® XT2 silver </li><li>Intérieur Wear™</li><li>Système d’habillage des joues magnétique Magnefusion™ Emergency Release System (MERS) pour un retrait facilité du casque en cas d’intervention des secouristes</li><li>Vis de réglage de visière rapide Quick Flip™ manipulable même avec les gants</li><li>Mentonnière doublée d’un calotin EPS ventilé</li><li>Grille de ventilation intégrée à la mentonnière</li><li>Maintien de la sangle par nouvelle attache magnétique Magnefusion™ (Système breveté)</li><li>Fermeture de la jugulaire rembourrée par anneau double-D</li><li>Livré avec une sacoche de transport BELL </li><li>Homologation: ECE 22.05, Snell M2015, DOT, AS/NZ</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83795.jpg,https://www.motogoodeal.ch/img/import/bell/83795_1.jpg;0;Couleur:Blanc:1,Type de casque:Cross:2,Genre:Adultes:3,Coque:Carbone:4,Ecran anti-buée:Non:5,Cache-nez:Oui:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Oui:12;0;new;0;0;0;2;0;0;0;0
+83797;1;Casque Bell Moto-9 Carbon - Pinned Orange;282;647.2222222;1;388.33;0;;;;;BE704989;BE704989;Parts-World;Bell;;;;;;;;0;;;;;;Quand vous avez été présent en compétition depuis aussi longtemps que Bell (60 ans), il n’est pas présomptueux de dire que vous connaissez votre sujet et avez réalisé quelques trucs positifs ici ou là. Pour faire progresser l’ajustement déjà parfait du Moto-9, nous nous sommes inspirés du calotin intérieur segmenté de notre casque de BMX Segment™.;<ul><li>Coque composite Carbone ultralégère en trois (3) tailles différentes</li><li>Adaptative Fit : construction segmentée du calotin pour un ajustement idéal à la tête du pilote </li><li>Velocity Flow Ventilation System™ pour une ventilation et un flux d’air maximum</li><li>Visière réglable Flying Bridge Visor™ avec prises d’air intégrées </li><li>Habillage intérieur démontable et lavable X-Static® XT2 silver </li><li>Intérieur Wear™</li><li>Système d’habillage des joues magnétique Magnefusion™ Emergency Release System (MERS) pour un retrait facilité du casque en cas d’intervention des secouristes</li><li>Vis de réglage de visière rapide Quick Flip™ manipulable même avec les gants</li><li>Mentonnière doublée d’un calotin EPS ventilé</li><li>Grille de ventilation intégrée à la mentonnière</li><li>Maintien de la sangle par nouvelle attache magnétique Magnefusion™ (Système breveté)</li><li>Fermeture de la jugulaire rembourrée par anneau double-D</li><li>Livré avec une sacoche de transport BELL </li><li>Homologation: ECE 22.05, Snell M2015, DOT, AS/NZ</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83796.jpg;0;Couleur:Orange:1,Type de casque:Cross:2,Genre:Adultes:3,Coque:Carbone:4,Ecran anti-buée:Non:5,Cache-nez:Oui:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Oui:12;0;new;0;0;0;2;0;0;0;0
+83798;1;Casque Bell Moto-9 Carbon - Solid Matte Black;282;647.2222222;1;388.33;0;;;;;BE704992;BE704992;Parts-World;Bell;;;;;;;;0;;;;;;Quand vous avez été présent en compétition depuis aussi longtemps que Bell (60 ans), il n’est pas présomptueux de dire que vous connaissez votre sujet et avez réalisé quelques trucs positifs ici ou là. Pour faire progresser l’ajustement déjà parfait du Moto-9, nous nous sommes inspirés du calotin intérieur segmenté de notre casque de BMX Segment™.;<ul><li>Coque composite Carbone ultralégère en trois (3) tailles différentes</li><li>Adaptative Fit : construction segmentée du calotin pour un ajustement idéal à la tête du pilote </li><li>Velocity Flow Ventilation System™ pour une ventilation et un flux d’air maximum</li><li>Visière réglable Flying Bridge Visor™ avec prises d’air intégrées </li><li>Habillage intérieur démontable et lavable X-Static® XT2 silver </li><li>Intérieur Wear™</li><li>Système d’habillage des joues magnétique Magnefusion™ Emergency Release System (MERS) pour un retrait facilité du casque en cas d’intervention des secouristes</li><li>Vis de réglage de visière rapide Quick Flip™ manipulable même avec les gants</li><li>Mentonnière doublée d’un calotin EPS ventilé</li><li>Grille de ventilation intégrée à la mentonnière</li><li>Maintien de la sangle par nouvelle attache magnétique Magnefusion™ (Système breveté)</li><li>Fermeture de la jugulaire rembourrée par anneau double-D</li><li>Livré avec une sacoche de transport BELL </li><li>Homologation: ECE 22.05, Snell M2015, DOT, AS/NZ</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83797.jpg;0;Couleur:Noir mat:1,Type de casque:Cross:2,Genre:Adultes:3,Coque:Carbone:4,Ecran anti-buée:Non:5,Cache-nez:Oui:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Oui:12;0;new;0;0;0;2;0;0;0;0
+83799;1;Casque Bell Bullitt - TT;192;517.5925926;1;310.56;0;;;;;BE705000;BE705000;Parts-World;Bell;;;;;;;;0;;;;;;"Inspiré par le tout premier casque intégral, le modèle BELL Star, le Bullitt est une version moderne de l'original. Doté d'un fitting exceptionnel et de détails d’une qualité extrême, le Bullitt est le casque idéal pour ceux qui recherchent un look vintage tout en bénéficiant de la protection d’un casque intégral. 
+<br><strong>BELL BULLITT = pas Retro mais Original!</strong>
+";<ul><li>Coque en fibre de verre en trois (3) tailles différentes </li><li>Trois (3) tailles de calotins EPS</li><li>Intérieur en cuir de dine complétement démontable</li><li>Prédispose pour accepter un système de communication</li><li>Système d’aération</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Magnefusion™ pour la rétention de la visière </li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83798.jpg,https://www.motogoodeal.ch/img/import/bell/83798_1.jpg;0;Couleur:Blanc:1,Type de casque:Intégrale:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83800;1;Casque Bell Bullitt - Solid Matte Black;192;517.5925926;1;310.56;0;;;;;BE705001;BE705001;Parts-World;Bell;;;;;;;;0;;;;;;"Inspiré par le tout premier casque intégral, le modèle BELL Star, le Bullitt est une version moderne de l'original. Doté d'un fitting exceptionnel et de détails d’une qualité extrême, le Bullitt est le casque idéal pour ceux qui recherchent un look vintage tout en bénéficiant de la protection d’un casque intégral. 
+<br><strong>BELL BULLITT = pas Retro mais Original!</strong>
+";<ul><li>Coque en fibre de verre en trois (3) tailles différentes </li><li>Trois (3) tailles de calotins EPS</li><li>Intérieur en cuir de dine complétement démontable</li><li>Prédispose pour accepter un système de communication</li><li>Système d’aération</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Magnefusion™ pour la rétention de la visière </li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83799.jpg;0;Couleur:Noir mat:1,Type de casque:Intégrale:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83801;1;Casque Bell Bullitt - Solid White;192;517.5925926;1;310.56;0;;;;;BE705002;BE705002;Parts-World;Bell;;;;;;;;0;;;;;;"Inspiré par le tout premier casque intégral, le modèle BELL Star, le Bullitt est une version moderne de l'original. Doté d'un fitting exceptionnel et de détails d’une qualité extrême, le Bullitt est le casque idéal pour ceux qui recherchent un look vintage tout en bénéficiant de la protection d’un casque intégral. 
+<br><strong>BELL BULLITT = pas Retro mais Original!</strong>
+";<ul><li>Coque en fibre de verre en trois (3) tailles différentes </li><li>Trois (3) tailles de calotins EPS</li><li>Intérieur en cuir de dine complétement démontable</li><li>Prédispose pour accepter un système de communication</li><li>Système d’aération</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Magnefusion™ pour la rétention de la visière </li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83800.jpg;0;Couleur:Blanc:1,Type de casque:Intégrale:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83802;1;Casque Bell Bullitt - Blue Flake;192;517.5925926;1;310.56;0;;;;;BE705003;BE705003;Parts-World;Bell;;;;;;;;0;;;;;;"Inspiré par le tout premier casque intégral, le modèle BELL Star, le Bullitt est une version moderne de l'original. Doté d'un fitting exceptionnel et de détails d’une qualité extrême, le Bullitt est le casque idéal pour ceux qui recherchent un look vintage tout en bénéficiant de la protection d’un casque intégral. 
+<br><strong>BELL BULLITT = pas Retro mais Original!</strong>
+";<ul><li>Coque en fibre de verre en trois (3) tailles différentes </li><li>Trois (3) tailles de calotins EPS</li><li>Intérieur en cuir de dine complétement démontable</li><li>Prédispose pour accepter un système de communication</li><li>Système d’aération</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Magnefusion™ pour la rétention de la visière </li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83801.jpg,https://www.motogoodeal.ch/img/import/bell/83801_1.jpg,https://www.motogoodeal.ch/img/import/bell/83801_2.jpg;0;Couleur:Bleu:1,Type de casque:Intégrale:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83803;1;Casque Bell Custom 500 - Matte Blue Flake;198;239.8148148;1;143.89;0;;;;;BE705004;BE705004;Parts-World;Bell;;;;;;;;0;;;;;;"Le 500, premier casque jet destiné à la compétition, créé en 1954 au lancement de BELL, et ses descendants, ont inspiré nombre de nos concurrents. Mais rien ne vaut l’original, pas vrai? 
+Alors qu’il semblait impossible de faire beaucoup mieux, BELL est retourné au labo pour améliorer le légendaire Custom 500. <br><strong>BELL Custom 500 = la legende est de retour!</strong>
+";<ul><li>Coque en Carbone ou fibre de verre en cinq (5) tailles différentes </li><li>Cinq (5) tailles de calotins EPS</li><li>Intérieur en cuir de dine </li><li>Prédispose pour accepter un système de communication</li><li>5 pressions intégrées pour accueillir visières et accessoires</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83802.jpg;0;Couleur:Bleu:1,Type de casque:Jet:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83804;1;Casque Bell Custom 500 - Matte Brown Metallic;198;239.8148148;1;143.89;0;;;;;BE705005;BE705005;Parts-World;Bell;;;;;;;;0;;;;;;"Le 500, premier casque jet destiné à la compétition, créé en 1954 au lancement de BELL, et ses descendants, ont inspiré nombre de nos concurrents. Mais rien ne vaut l’original, pas vrai? 
+Alors qu’il semblait impossible de faire beaucoup mieux, BELL est retourné au labo pour améliorer le légendaire Custom 500. <br><strong>BELL Custom 500 = la legende est de retour!</strong>
+";<ul><li>Coque en Carbone ou fibre de verre en cinq (5) tailles différentes </li><li>Cinq (5) tailles de calotins EPS</li><li>Intérieur en cuir de dine </li><li>Prédispose pour accepter un système de communication</li><li>5 pressions intégrées pour accueillir visières et accessoires</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83803.jpg,https://www.motogoodeal.ch/img/import/bell/83803_1.jpg;0;Couleur:Brun:1,Type de casque:Jet:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83805;1;Casque Bell Custom 500 - Solid Black;198;239.8148148;1;143.89;0;;;;;BE705006;BE705006;Parts-World;Bell;;;;;;;;0;;;;;;"Le 500, premier casque jet destiné à la compétition, créé en 1954 au lancement de BELL, et ses descendants, ont inspiré nombre de nos concurrents. Mais rien ne vaut l’original, pas vrai? 
+Alors qu’il semblait impossible de faire beaucoup mieux, BELL est retourné au labo pour améliorer le légendaire Custom 500. <br><strong>BELL Custom 500 = la legende est de retour!</strong>
+";<ul><li>Coque en Carbone ou fibre de verre en cinq (5) tailles différentes </li><li>Cinq (5) tailles de calotins EPS</li><li>Intérieur en cuir de dine </li><li>Prédispose pour accepter un système de communication</li><li>5 pressions intégrées pour accueillir visières et accessoires</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83804.jpg,https://www.motogoodeal.ch/img/import/bell/83804_0.jpg;0;Couleur:Noir:1,Type de casque:Jet:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83806;1;Casque Bell Custom 500 - Matte Grey Primer;198;239.8148148;1;143.89;0;;;;;BE705007;BE705007;Parts-World;Bell;;;;;;;;0;;;;;;"Le 500, premier casque jet destiné à la compétition, créé en 1954 au lancement de BELL, et ses descendants, ont inspiré nombre de nos concurrents. Mais rien ne vaut l’original, pas vrai? 
+Alors qu’il semblait impossible de faire beaucoup mieux, BELL est retourné au labo pour améliorer le légendaire Custom 500. <br><strong>BELL Custom 500 = la legende est de retour!</strong>
+";<ul><li>Coque en Carbone ou fibre de verre en cinq (5) tailles différentes </li><li>Cinq (5) tailles de calotins EPS</li><li>Intérieur en cuir de dine </li><li>Prédispose pour accepter un système de communication</li><li>5 pressions intégrées pour accueillir visières et accessoires</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83805.jpg,https://www.motogoodeal.ch/img/import/bell/83805_1.jpg;0;Couleur:Gris:1,Type de casque:Jet:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83807;1;Casque Bell Custom 500 - Matte Orange Flake;198;239.8148148;1;143.89;0;;;;;BE705008;BE705008;Parts-World;Bell;;;;;;;;0;;;;;;"Le 500, premier casque jet destiné à la compétition, créé en 1954 au lancement de BELL, et ses descendants, ont inspiré nombre de nos concurrents. Mais rien ne vaut l’original, pas vrai? 
+Alors qu’il semblait impossible de faire beaucoup mieux, BELL est retourné au labo pour améliorer le légendaire Custom 500. <br><strong>BELL Custom 500 = la legende est de retour!</strong>
+";<ul><li>Coque en Carbone ou fibre de verre en cinq (5) tailles différentes </li><li>Cinq (5) tailles de calotins EPS</li><li>Intérieur en cuir de dine </li><li>Prédispose pour accepter un système de communication</li><li>5 pressions intégrées pour accueillir visières et accessoires</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83806.jpg,https://www.motogoodeal.ch/img/import/bell/83806_1.jpg;0;Couleur:Orange:1,Type de casque:Jet:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83808;1;Casque Bell Bullitt - Solid Gloss Black;192;517.5925926;1;310.56;0;;;;;BE705009;BE705009;Parts-World;Bell;;;;;;;;0;;;;;;"Inspiré par le tout premier casque intégral, le modèle BELL Star, le Bullitt est une version moderne de l'original. Doté d'un fitting exceptionnel et de détails d’une qualité extrême, le Bullitt est le casque idéal pour ceux qui recherchent un look vintage tout en bénéficiant de la protection d’un casque intégral. 
+<br><strong>BELL BULLITT = pas Retro mais Original!</strong>
+";<ul><li>Coque en fibre de verre en trois (3) tailles différentes </li><li>Trois (3) tailles de calotins EPS</li><li>Intérieur en cuir de dine complétement démontable</li><li>Prédispose pour accepter un système de communication</li><li>Système d’aération</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Magnefusion™ pour la rétention de la visière </li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83807.jpg;0;Couleur:Noir:1,Type de casque:Intégrale:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83809;1;Casque Bell Custom 500 - Solid Matte Black;198;239.8148148;1;143.89;0;;;;;BE705010;BE705010;Parts-World;Bell;;;;;;;;0;;;;;;"Le 500, premier casque jet destiné à la compétition, créé en 1954 au lancement de BELL, et ses descendants, ont inspiré nombre de nos concurrents. Mais rien ne vaut l’original, pas vrai? 
+Alors qu’il semblait impossible de faire beaucoup mieux, BELL est retourné au labo pour améliorer le légendaire Custom 500. <br><strong>BELL Custom 500 = la legende est de retour!</strong>
+";<ul><li>Coque en Carbone ou fibre de verre en cinq (5) tailles différentes </li><li>Cinq (5) tailles de calotins EPS</li><li>Intérieur en cuir de dine </li><li>Prédispose pour accepter un système de communication</li><li>5 pressions intégrées pour accueillir visières et accessoires</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83808.jpg,https://www.motogoodeal.ch/img/import/bell/83808_1.jpg;0;Couleur:Noir mat:1,Type de casque:Jet:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83810;1;Casque Bell Custom 500 - Solid Vintage White;198;239.8148148;1;143.89;0;;;;;BE705011;BE705011;Parts-World;Bell;;;;;;;;0;;;;;;"Le 500, premier casque jet destiné à la compétition, créé en 1954 au lancement de BELL, et ses descendants, ont inspiré nombre de nos concurrents. Mais rien ne vaut l’original, pas vrai? 
+Alors qu’il semblait impossible de faire beaucoup mieux, BELL est retourné au labo pour améliorer le légendaire Custom 500. <br><strong>BELL Custom 500 = la legende est de retour!</strong>
+";<ul><li>Coque en Carbone ou fibre de verre en cinq (5) tailles différentes </li><li>Cinq (5) tailles de calotins EPS</li><li>Intérieur en cuir de dine </li><li>Prédispose pour accepter un système de communication</li><li>5 pressions intégrées pour accueillir visières et accessoires</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83809_0.jpg,https://www.motogoodeal.ch/img/import/bell/83809_1.jpg,https://www.motogoodeal.ch/img/import/bell/83809_2.jpg;0;Couleur:Blanc:1,Type de casque:Jet:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83811;1;Casque Bell RS-1 - Liner Pearl White;192;517.5925926;1;310.56;0;;;;;BE705017;BE705017;Parts-World;Bell;;;;;;;;0;;;;;;Le nouveau rs-1 offre des performances de haut de gamme. La nouvelle forme suit mieux le contour de la tête afin d’offrir encore plus de confort et de stabilité dans le vent derrière une bulle. Bell a non seulement su améliorer l’aération dans le RS-1 grâce à l’aide de son system « Velocity Flow® », mais aérodynamisme a été encore optimisé grâce à sa calotte profilée et les spoilers.;<ul><li>Coque en Tri-Composite (Kevlar, Aramid, fibre de verre)</li><li>Trois (3) tailles de calottes</li><li>Intérieure EPS en plusieurs densités et 3 tailles différentes. </li><li>Système aération Velocity Flow Ventilation™ avec FlowAdjust™ </li><li>Intérieur en X-Static XT2 complètement amovible</li><li>Prédispose pour accepter un système de communication</li><li>Pare nuque hermétique (air et bruit) </li><li>Système de démontage rapide et sans outils de l’écran</li><li>Ecran 3D Nutra Fog, anti-rayures et antibuée</li><li>Blocage de sécurité de l’écran</li><li>Fermeture par boucle double D avec embout de jugulaire magnétique</li><li>Homologation: ECE 22.05, Snell M2015, DOT, AS/NZ</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83810.jpg,https://www.motogoodeal.ch/img/import/bell/83810_1.jpg,https://www.motogoodeal.ch/img/import/bell/83810_2.jpg;0;Couleur:Blanc:1,Type de casque:Intégrale:2,Genre:Adultes:3,Coque:Tri-Composite:4,Ecran anti-buée:Oui:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Oui:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83812;1;Casque Bell RS-1 - Liner Matte Black;192;517.5925926;1;310.56;0;;;;;BE705018;BE705018;Parts-World;Bell;;;;;;;;0;;;;;;Le nouveau rs-1 offre des performances de haut de gamme. La nouvelle forme suit mieux le contour de la tête afin d’offrir encore plus de confort et de stabilité dans le vent derrière une bulle. Bell a non seulement su améliorer l’aération dans le RS-1 grâce à l’aide de son system « Velocity Flow® », mais aérodynamisme a été encore optimisé grâce à sa calotte profilée et les spoilers.;<ul><li>Coque en Tri-Composite (Kevlar, Aramid, fibre de verre)</li><li>Trois (3) tailles de calottes</li><li>Intérieure EPS en plusieurs densités et 3 tailles différentes. </li><li>Système aération Velocity Flow Ventilation™ avec FlowAdjust™ </li><li>Intérieur en X-Static XT2 complètement amovible</li><li>Prédispose pour accepter un système de communication</li><li>Pare nuque hermétique (air et bruit) </li><li>Système de démontage rapide et sans outils de l’écran</li><li>Ecran 3D Nutra Fog, anti-rayures et antibuée</li><li>Blocage de sécurité de l’écran</li><li>Fermeture par boucle double D avec embout de jugulaire magnétique</li><li>Homologation: ECE 22.05, Snell M2015, DOT, AS/NZ</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83811.jpg,https://www.motogoodeal.ch/img/import/bell/83811_1.jpg,https://www.motogoodeal.ch/img/import/bell/83811_2.jpg;0;Couleur:Noir:1,Type de casque:Intégrale:2,Genre:Adultes:3,Coque:Tri-Composite:4,Ecran anti-buée:Oui:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Oui:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83813;1;Casque Bell RS-1 - Emblem White;192;517.5925926;1;310.56;0;;;;;BE705019;BE705019;Parts-World;Bell;;;;;;;;0;;;;;;Le nouveau rs-1 offre des performances de haut de gamme. La nouvelle forme suit mieux le contour de la tête afin d’offrir encore plus de confort et de stabilité dans le vent derrière une bulle. Bell a non seulement su améliorer l’aération dans le RS-1 grâce à l’aide de son system « Velocity Flow® », mais aérodynamisme a été encore optimisé grâce à sa calotte profilée et les spoilers.;<ul><li>Coque en Tri-Composite (Kevlar, Aramid, fibre de verre)</li><li>Trois (3) tailles de calottes</li><li>Intérieure EPS en plusieurs densités et 3 tailles différentes. </li><li>Système aération Velocity Flow Ventilation™ avec FlowAdjust™ </li><li>Intérieur en X-Static XT2 complètement amovible</li><li>Prédispose pour accepter un système de communication</li><li>Pare nuque hermétique (air et bruit) </li><li>Système de démontage rapide et sans outils de l’écran</li><li>Ecran 3D Nutra Fog, anti-rayures et antibuée</li><li>Blocage de sécurité de l’écran</li><li>Fermeture par boucle double D avec embout de jugulaire magnétique</li><li>Homologation: ECE 22.05, Snell M2015, DOT, AS/NZ</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83812.jpg;0;Couleur:Blanc:1,Type de casque:Intégrale:2,Genre:Adultes:3,Coque:Tri-Composite:4,Ecran anti-buée:Oui:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Oui:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83814;1;Casque Bell RS-1 - Servo Blue;192;517.5925926;1;310.56;0;;;;;BE705020;BE705020;Parts-World;Bell;;;;;;;;0;;;;;;Le nouveau rs-1 offre des performances de haut de gamme. La nouvelle forme suit mieux le contour de la tête afin d’offrir encore plus de confort et de stabilité dans le vent derrière une bulle. Bell a non seulement su améliorer l’aération dans le RS-1 grâce à l’aide de son system « Velocity Flow® », mais aérodynamisme a été encore optimisé grâce à sa calotte profilée et les spoilers.;<ul><li>Coque en Tri-Composite (Kevlar, Aramid, fibre de verre)</li><li>Trois (3) tailles de calottes</li><li>Intérieure EPS en plusieurs densités et 3 tailles différentes. </li><li>Système aération Velocity Flow Ventilation™ avec FlowAdjust™ </li><li>Intérieur en X-Static XT2 complètement amovible</li><li>Prédispose pour accepter un système de communication</li><li>Pare nuque hermétique (air et bruit) </li><li>Système de démontage rapide et sans outils de l’écran</li><li>Ecran 3D Nutra Fog, anti-rayures et antibuée</li><li>Blocage de sécurité de l’écran</li><li>Fermeture par boucle double D avec embout de jugulaire magnétique</li><li>Homologation: ECE 22.05, Snell M2015, DOT, AS/NZ</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83813.png,https://www.motogoodeal.ch/img/import/bell/83813_1.jpg;0;Couleur:Bleu:1,Type de casque:Intégrale:2,Genre:Adultes:3,Coque:Tri-Composite:4,Ecran anti-buée:Oui:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Oui:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83815;1;Casque Bell RS-1 - RSD Flash Bronze;192;517.5925926;1;310.56;0;;;;;BE705021;BE705021;Parts-World;Bell;;;;;;;;0;;;;;;Le nouveau rs-1 offre des performances de haut de gamme. La nouvelle forme suit mieux le contour de la tête afin d’offrir encore plus de confort et de stabilité dans le vent derrière une bulle. Bell a non seulement su améliorer l’aération dans le RS-1 grâce à l’aide de son system « Velocity Flow® », mais aérodynamisme a été encore optimisé grâce à sa calotte profilée et les spoilers.;<ul><li>Coque en Tri-Composite (Kevlar, Aramid, fibre de verre)</li><li>Trois (3) tailles de calottes</li><li>Intérieure EPS en plusieurs densités et 3 tailles différentes. </li><li>Système aération Velocity Flow Ventilation™ avec FlowAdjust™ </li><li>Intérieur en X-Static XT2 complètement amovible</li><li>Prédispose pour accepter un système de communication</li><li>Pare nuque hermétique (air et bruit) </li><li>Système de démontage rapide et sans outils de l’écran</li><li>Ecran 3D Nutra Fog, anti-rayures et antibuée</li><li>Blocage de sécurité de l’écran</li><li>Fermeture par boucle double D avec embout de jugulaire magnétique</li><li>Homologation: ECE 22.05, Snell M2015, DOT, AS/NZ</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83814.jpg,https://www.motogoodeal.ch/img/import/bell/83814_1.jpg,https://www.motogoodeal.ch/img/import/bell/83814_2.jpg;0;Couleur:Bronze:1,Type de casque:Intégrale:2,Genre:Adultes:3,Coque:Tri-Composite:4,Ecran anti-buée:Oui:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Oui:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83816;1;Casque Bell RS-1 - Airtrix Meltdown;192;517.5925926;1;310.56;0;;;;;BE705022;BE705022;Parts-World;Bell;;;;;;;;0;;;;;;Le nouveau rs-1 offre des performances de haut de gamme. La nouvelle forme suit mieux le contour de la tête afin d’offrir encore plus de confort et de stabilité dans le vent derrière une bulle. Bell a non seulement su améliorer l’aération dans le RS-1 grâce à l’aide de son system « Velocity Flow® », mais aérodynamisme a été encore optimisé grâce à sa calotte profilée et les spoilers.;<ul><li>Coque en Tri-Composite (Kevlar, Aramid, fibre de verre)</li><li>Trois (3) tailles de calottes</li><li>Intérieure EPS en plusieurs densités et 3 tailles différentes. </li><li>Système aération Velocity Flow Ventilation™ avec FlowAdjust™ </li><li>Intérieur en X-Static XT2 complètement amovible</li><li>Prédispose pour accepter un système de communication</li><li>Pare nuque hermétique (air et bruit) </li><li>Système de démontage rapide et sans outils de l’écran</li><li>Ecran 3D Nutra Fog, anti-rayures et antibuée</li><li>Blocage de sécurité de l’écran</li><li>Fermeture par boucle double D avec embout de jugulaire magnétique</li><li>Homologation: ECE 22.05, Snell M2015, DOT, AS/NZ</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83815.jpg,https://www.motogoodeal.ch/img/import/bell/83815_1.jpg,https://www.motogoodeal.ch/img/import/bell/83815_2.jpg,https://www.motogoodeal.ch/img/import/bell/83815_3.jpg;0;Couleur:Orange:1,Type de casque:Intégrale:2,Genre:Adultes:3,Coque:Tri-Composite:4,Ecran anti-buée:Oui:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Oui:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83817;1;Casque Bell Custom 500 - Headcase Cueball;198;276.8518519;1;166.11;0;;;;;BE705708;BE705708;Parts-World;Bell;;;;;;;;0;;;;;;"Le 500, premier casque jet destiné à la compétition, créé en 1954 au lancement de BELL, et ses descendants, ont inspiré nombre de nos concurrents. Mais rien ne vaut l’original, pas vrai? 
+Alors qu’il semblait impossible de faire beaucoup mieux, BELL est retourné au labo pour améliorer le légendaire Custom 500. <br><strong>BELL Custom 500 = la legende est de retour!</strong>
+";<ul><li>Coque en Carbone ou fibre de verre en cinq (5) tailles différentes </li><li>Cinq (5) tailles de calotins EPS</li><li>Intérieur en cuir de dine </li><li>Prédispose pour accepter un système de communication</li><li>5 pressions intégrées pour accueillir visières et accessoires</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83816.jpg,https://www.motogoodeal.ch/img/import/bell/83816_1.jpg,https://www.motogoodeal.ch/img/import/bell/83816_2.jpg;0;Couleur:Blanc:1,Type de casque:Jet:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83818;1;Casque Bell Custom 500 - RSD Check It;198;276.8518519;1;166.11;0;;;;;BE705709;BE705709;Parts-World;Bell;;;;;;;;0;;;;;;"Le 500, premier casque jet destiné à la compétition, créé en 1954 au lancement de BELL, et ses descendants, ont inspiré nombre de nos concurrents. Mais rien ne vaut l’original, pas vrai? 
+Alors qu’il semblait impossible de faire beaucoup mieux, BELL est retourné au labo pour améliorer le légendaire Custom 500. <br><strong>BELL Custom 500 = la legende est de retour!</strong>
+";<ul><li>Coque en Carbone ou fibre de verre en cinq (5) tailles différentes </li><li>Cinq (5) tailles de calotins EPS</li><li>Intérieur en cuir de dine </li><li>Prédispose pour accepter un système de communication</li><li>5 pressions intégrées pour accueillir visières et accessoires</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83817.jpg,https://www.motogoodeal.ch/img/import/bell/83817_1.jpg,https://www.motogoodeal.ch/img/import/bell/83817_2.jpg;0;Couleur:Carbon:1,Type de casque:Jet:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83819;1;Casque Bell Custom 500 - Chem Candy Mean Green;198;276.8518519;1;166.11;0;;;;;BE705710;BE705710;Parts-World;Bell;;;;;;;;0;;;;;;"Le 500, premier casque jet destiné à la compétition, créé en 1954 au lancement de BELL, et ses descendants, ont inspiré nombre de nos concurrents. Mais rien ne vaut l’original, pas vrai? 
+Alors qu’il semblait impossible de faire beaucoup mieux, BELL est retourné au labo pour améliorer le légendaire Custom 500. <br><strong>BELL Custom 500 = la legende est de retour!</strong>
+";<ul><li>Coque en Carbone ou fibre de verre en cinq (5) tailles différentes </li><li>Cinq (5) tailles de calotins EPS</li><li>Intérieur en cuir de dine </li><li>Prédispose pour accepter un système de communication</li><li>5 pressions intégrées pour accueillir visières et accessoires</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83818.jpg,https://www.motogoodeal.ch/img/import/bell/83818_1.jpg,https://www.motogoodeal.ch/img/import/bell/83818_2.jpg;0;Couleur:Vert:1,Type de casque:Jet:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83820;1;Casque Bell Bullitt - RSD Viva;192;610.1851852;1;366.11;0;;;;;BE705714;BE705714;Parts-World;Bell;;;;;;;;0;;;;;;"Inspiré par le tout premier casque intégral, le modèle BELL Star, le Bullitt est une version moderne de l'original. Doté d'un fitting exceptionnel et de détails d’une qualité extrême, le Bullitt est le casque idéal pour ceux qui recherchent un look vintage tout en bénéficiant de la protection d’un casque intégral. 
+<br><strong>BELL BULLITT = pas Retro mais Original!</strong>
+";<ul><li>Coque en fibre de verre en trois (3) tailles différentes </li><li>Trois (3) tailles de calotins EPS</li><li>Intérieur en cuir de dine complétement démontable</li><li>Prédispose pour accepter un système de communication</li><li>Système d’aération</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Magnefusion™ pour la rétention de la visière </li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83819.jpg;0;Couleur:Blanc:1,Type de casque:Intégrale:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83821;1;Casque Bell Moto-9 Carbon Flex - Matte Blocked Black;282;647.2222222;1;388.33;0;;;;;BE706081;BE706081;Parts-World;Bell;;;;;;;;0;;;;;;Quand vous avez été présent en compétition depuis aussi longtemps que Bell (60 ans), il n’est pas présomptueux de dire que vous connaissez votre sujet et avez réalisé quelques trucs positifs ici ou là. Pour faire progresser l’ajustement déjà parfait du Moto-9, nous nous sommes inspirés du calotin intérieur segmenté de notre casque de BMX Segment™.;<ul><li>Coque composite Carbone ultralégère en trois (3) tailles différentes</li><li>Système FLEX de calotin progressif 3 éléments EPO / EPP / EPS pour une gestion optimisée des énergies linéaires et rotationnelles à basse, moyenne et haute vitesse d’impact </li><li>Adaptative Fit : construction segmentée du calotin pour un ajustement idéal à la tête du pilote </li><li>Velocity Flow Ventilation System™ pour une ventilation et un flux d’air maximum</li><li>Visière réglable Flying Bridge Visor™ avec prises d’air intégrées </li><li>Habillage intérieur démontable et lavable X-Static® XT2 silver </li><li>Intérieur Wear™</li><li>Système d’habillage des joues magnétique Magnefusion™ Emergency Release System (MERS) pour un retrait facilité du casque en cas d’intervention des secouristes</li><li>Vis de réglage de visière rapide Quick Flip™ manipulable même avec les gants</li><li>Mentonnière doublée d’un calotin EPS ventilé</li><li>Grille de ventilation intégrée à la mentonnière</li><li>Maintien de la sangle par nouvelle attache magnétique Magnefusion™ (Système breveté)</li><li>Fermeture de la jugulaire rembourrée par anneau double-D</li><li>Livré avec une sacoche de transport BELL </li><li>Homologation: ECE 22.05, Snell M2015, DOT, AS/NZ</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83820.jpg;0;Couleur:Noir mat:1,Type de casque:Cross:2,Genre:Adultes:3,Coque:Carbone:4,Ecran anti-buée:Non:5,Cache-nez:Oui:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Oui:12;0;new;0;0;0;2;0;0;0;0
+83822;1;Casque Bell Star Carbon - RSD Technique;192;739.8148148;1;443.89;0;;;;;BE706153;BE706153;Parts-World;Bell;;;;;;;;0;;;;;;"Depuis 1954, Bell Helmets est à l'avant-garde en matière de protection de la tête dans l'univers des sports motorisés.
+Bell s'est fixé comme objectif pour 2016 d'affermir la position de son modèle phare sur le marché du motocyclisme avec le lancement de la nouvelle ligne des casques Pro Star, Race Star et Star.";<ul><li>Coque en fibre de verre Tri-Matrix </li><li>Calotin en tissu X-Static® XT2 Silver</li><li>Visière Panovision™ classe optique 1 avec système de montage rapide sans outils</li><li>Visière supplémentaire Pinlock Max Vision™</li><li>Intérieure complètement démontables</li><li>Système aération Velocity Flow Ventilation™ </li><li>Fermeture par boucle double D avec embout de jugulaire magnétique</li><li>Champ de vision pour milieu urbain</li><li>Homologation : Snell M2015, DOT, ECE 22.05, AS/NZ</li><li>Garantie de 5 ans</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83821.jpg;0;Couleur:RSD Technique:1,Type de casque:Intégrale:2,Genre:Adultes:3,Coque:Carbone:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Oui:12;0;new;0;0;0;2;0;0;0;0
+83823;1;Casque Bell Star Carbon - Dunlop Replica;192;739.8148148;1;443.89;0;;;;;BE706155;BE706155;Parts-World;Bell;;;;;;;;0;;;;;;"Depuis 1954, Bell Helmets est à l'avant-garde en matière de protection de la tête dans l'univers des sports motorisés.
+Bell s'est fixé comme objectif pour 2016 d'affermir la position de son modèle phare sur le marché du motocyclisme avec le lancement de la nouvelle ligne des casques Pro Star, Race Star et Star.";<ul><li>Coque en fibre de verre Tri-Matrix </li><li>Calotin en tissu X-Static® XT2 Silver</li><li>Visière Panovision™ classe optique 1 avec système de montage rapide sans outils</li><li>Visière supplémentaire Pinlock Max Vision™</li><li>Intérieure complètement démontables</li><li>Système aération Velocity Flow Ventilation™ </li><li>Fermeture par boucle double D avec embout de jugulaire magnétique</li><li>Champ de vision pour milieu urbain</li><li>Homologation : Snell M2015, DOT, ECE 22.05, AS/NZ</li><li>Garantie de 5 ans</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83822.jpg;0;Couleur:Dunlop Replica:1,Type de casque:Intégrale:2,Genre:Adultes:3,Coque:Carbone:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Oui:12;0;new;0;0;0;2;0;0;0;0
+83824;1;Casque Bell Star Carbon - Fillmore Replica;192;739.8148148;1;443.89;0;;;;;BE706157;BE706157;Parts-World;Bell;;;;;;;;0;;;;;;"Depuis 1954, Bell Helmets est à l'avant-garde en matière de protection de la tête dans l'univers des sports motorisés.
+Bell s'est fixé comme objectif pour 2016 d'affermir la position de son modèle phare sur le marché du motocyclisme avec le lancement de la nouvelle ligne des casques Pro Star, Race Star et Star.";<ul><li>Coque en fibre de verre Tri-Matrix </li><li>Calotin en tissu X-Static® XT2 Silver</li><li>Visière Panovision™ classe optique 1 avec système de montage rapide sans outils</li><li>Visière supplémentaire Pinlock Max Vision™</li><li>Intérieure complètement démontables</li><li>Système aération Velocity Flow Ventilation™ </li><li>Fermeture par boucle double D avec embout de jugulaire magnétique</li><li>Champ de vision pour milieu urbain</li><li>Homologation : Snell M2015, DOT, ECE 22.05, AS/NZ</li><li>Garantie de 5 ans</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83823.jpg;0;Couleur:Fillmore Replica:1,Type de casque:Intégrale:2,Genre:Adultes:3,Coque:Carbone:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Oui:12;0;new;0;0;0;2;0;0;0;0
+83825;1;Casque Bell Star Carbon - Matte Black;192;739.8148148;1;443.89;0;;;;;BE706160;BE706160;Parts-World;Bell;;;;;;;;0;;;;;;"Depuis 1954, Bell Helmets est à l'avant-garde en matière de protection de la tête dans l'univers des sports motorisés.
+Bell s'est fixé comme objectif pour 2016 d'affermir la position de son modèle phare sur le marché du motocyclisme avec le lancement de la nouvelle ligne des casques Pro Star, Race Star et Star.";<ul><li>Coque en fibre de verre Tri-Matrix </li><li>Calotin en tissu X-Static® XT2 Silver</li><li>Visière Panovision™ classe optique 1 avec système de montage rapide sans outils</li><li>Visière supplémentaire Pinlock Max Vision™</li><li>Intérieure complètement démontables</li><li>Système aération Velocity Flow Ventilation™ </li><li>Fermeture par boucle double D avec embout de jugulaire magnétique</li><li>Champ de vision pour milieu urbain</li><li>Homologation : Snell M2015, DOT, ECE 22.05, AS/NZ</li><li>Garantie de 5 ans</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83824.jpg;0;Couleur:Matte Black:1,Type de casque:Intégrale:2,Genre:Adultes:3,Coque:Carbone:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Oui:12;0;new;0;0;0;2;0;0;0;0
+83826;1;Casque Bell Star Carbon - Union;192;739.8148148;1;443.89;0;;;;;BE706163;BE706163;Parts-World;Bell;;;;;;;;0;;;;;;"Depuis 1954, Bell Helmets est à l'avant-garde en matière de protection de la tête dans l'univers des sports motorisés.
+Bell s'est fixé comme objectif pour 2016 d'affermir la position de son modèle phare sur le marché du motocyclisme avec le lancement de la nouvelle ligne des casques Pro Star, Race Star et Star.";<ul><li>Coque en fibre de verre Tri-Matrix </li><li>Calotin en tissu X-Static® XT2 Silver</li><li>Visière Panovision™ classe optique 1 avec système de montage rapide sans outils</li><li>Visière supplémentaire Pinlock Max Vision™</li><li>Intérieure complètement démontables</li><li>Système aération Velocity Flow Ventilation™ </li><li>Fermeture par boucle double D avec embout de jugulaire magnétique</li><li>Champ de vision pour milieu urbain</li><li>Homologation : Snell M2015, DOT, ECE 22.05, AS/NZ</li><li>Garantie de 5 ans</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83825.jpg;0;Couleur:Union:1,Type de casque:Intégrale:2,Genre:Adultes:3,Coque:Carbone:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Oui:12;0;new;0;0;0;2;0;0;0;0
+83827;1;Casque Bell Bullitt - Barn Fresh;192;610.1851852;1;366.11;0;;;;;BE706218;BE706218;Parts-World;Bell;;;;;;;;0;;;;;;"Inspiré par le tout premier casque intégral, le modèle BELL Star, le Bullitt est une version moderne de l'original. Doté d'un fitting exceptionnel et de détails d’une qualité extrême, le Bullitt est le casque idéal pour ceux qui recherchent un look vintage tout en bénéficiant de la protection d’un casque intégral. 
+<br><strong>BELL BULLITT = pas Retro mais Original!</strong>
+";<ul><li>Coque en fibre de verre en trois (3) tailles différentes </li><li>Trois (3) tailles de calotins EPS</li><li>Intérieur en cuir de dine complétement démontable</li><li>Prédispose pour accepter un système de communication</li><li>Système d’aération</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Magnefusion™ pour la rétention de la visière </li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83826.jpg;0;Couleur:Bleu:1,Type de casque:Intégrale:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83828;1;Casque Bell Bullitt - Carbon Matte;192;739.8148148;1;443.89;0;;;;;BE706222;BE706222;Parts-World;Bell;;;;;;;;0;;;;;;"Inspiré par le tout premier casque intégral, le modèle BELL Star, le Bullitt est une version moderne de l'original. Doté d'un fitting exceptionnel et de détails d’une qualité extrême, le Bullitt est le casque idéal pour ceux qui recherchent un look vintage tout en bénéficiant de la protection d’un casque intégral. 
+<br><strong>BELL BULLITT = pas Retro mais Original!</strong>
+";<ul><li>Coque en fibre de verre en trois (3) tailles différentes </li><li>Trois (3) tailles de calotins EPS</li><li>Intérieur en cuir de dine complétement démontable</li><li>Prédispose pour accepter un système de communication</li><li>Système d’aération</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Magnefusion™ pour la rétention de la visière </li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83827.jpg;0;Couleur:Carbon mat:1,Type de casque:Intégrale:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83829;1;Casque Bell Bullitt - Carbon RSD Bagger;192;739.8148148;1;443.89;0;;;;;BE706224;BE706224;Parts-World;Bell;;;;;;;;0;;;;;;"Inspiré par le tout premier casque intégral, le modèle BELL Star, le Bullitt est une version moderne de l'original. Doté d'un fitting exceptionnel et de détails d’une qualité extrême, le Bullitt est le casque idéal pour ceux qui recherchent un look vintage tout en bénéficiant de la protection d’un casque intégral. 
+<br><strong>BELL BULLITT = pas Retro mais Original!</strong>
+";<ul><li>Coque en fibre de verre en trois (3) tailles différentes </li><li>Trois (3) tailles de calotins EPS</li><li>Intérieur en cuir de dine complétement démontable</li><li>Prédispose pour accepter un système de communication</li><li>Système d’aération</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Magnefusion™ pour la rétention de la visière </li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83828.jpg;0;Couleur:Blanc:1,Type de casque:Intégrale:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83830;1;Casque Bell Custom 500 - Carbon RSD Talladega;198;462.037037;1;277.22;0;;;;;BE706230;BE706230;Parts-World;Bell;;;;;;;;0;;;;;;"Le 500, premier casque jet destiné à la compétition, créé en 1954 au lancement de BELL, et ses descendants, ont inspiré nombre de nos concurrents. Mais rien ne vaut l’original, pas vrai? 
+Alors qu’il semblait impossible de faire beaucoup mieux, BELL est retourné au labo pour améliorer le légendaire Custom 500. <br><strong>BELL Custom 500 = la legende est de retour!</strong>
+";<ul><li>Coque en Carbone ou fibre de verre en cinq (5) tailles différentes </li><li>Cinq (5) tailles de calotins EPS</li><li>Intérieur en cuir de dine </li><li>Prédispose pour accepter un système de communication</li><li>5 pressions intégrées pour accueillir visières et accessoires</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83829_0.jpg,https://www.motogoodeal.ch/img/import/bell/83829.jpg,https://www.motogoodeal.ch/img/import/bell/83829_1.jpg;0;Couleur:Carbon:1,Type de casque:Jet:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83831;1;Casque Bell Custom 500 - Carbon Matte;198;462.037037;1;277.22;0;;;;;BE706232;BE706232;Parts-World;Bell;;;;;;;;0;;;;;;"Le 500, premier casque jet destiné à la compétition, créé en 1954 au lancement de BELL, et ses descendants, ont inspiré nombre de nos concurrents. Mais rien ne vaut l’original, pas vrai? 
+Alors qu’il semblait impossible de faire beaucoup mieux, BELL est retourné au labo pour améliorer le légendaire Custom 500. <br><strong>BELL Custom 500 = la legende est de retour!</strong>
+";<ul><li>Coque en Carbone ou fibre de verre en cinq (5) tailles différentes </li><li>Cinq (5) tailles de calotins EPS</li><li>Intérieur en cuir de dine </li><li>Prédispose pour accepter un système de communication</li><li>5 pressions intégrées pour accueillir visières et accessoires</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83830_1.jpg,https://www.motogoodeal.ch/img/import/bell/83830.jpeg;0;Couleur:Carbon mat:1,Type de casque:Jet:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83832;1;Casque Bell Custom 500 - Indy;198;276.8518519;1;166.11;0;;;;;BE706234;BE706234;Parts-World;Bell;;;;;;;;0;;;;;;"Le 500, premier casque jet destiné à la compétition, créé en 1954 au lancement de BELL, et ses descendants, ont inspiré nombre de nos concurrents. Mais rien ne vaut l’original, pas vrai? 
+Alors qu’il semblait impossible de faire beaucoup mieux, BELL est retourné au labo pour améliorer le légendaire Custom 500. <br><strong>BELL Custom 500 = la legende est de retour!</strong>
+";<ul><li>Coque en Carbone ou fibre de verre en cinq (5) tailles différentes </li><li>Cinq (5) tailles de calotins EPS</li><li>Intérieur en cuir de dine </li><li>Prédispose pour accepter un système de communication</li><li>5 pressions intégrées pour accueillir visières et accessoires</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83832.jpg;0;Couleur:vert:1,Type de casque:Jet:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83833;1;Casque Bell Custom 500 - Solid Black Flake;198;239.8148148;1;143.89;0;;;;;BE706236;BE706236;Parts-World;Bell;;;;;;;;0;;;;;;"Le 500, premier casque jet destiné à la compétition, créé en 1954 au lancement de BELL, et ses descendants, ont inspiré nombre de nos concurrents. Mais rien ne vaut l’original, pas vrai? 
+Alors qu’il semblait impossible de faire beaucoup mieux, BELL est retourné au labo pour améliorer le légendaire Custom 500. <br><strong>BELL Custom 500 = la legende est de retour!</strong>
+";<ul><li>Coque en Carbone ou fibre de verre en cinq (5) tailles différentes </li><li>Cinq (5) tailles de calotins EPS</li><li>Intérieur en cuir de dine </li><li>Prédispose pour accepter un système de communication</li><li>5 pressions intégrées pour accueillir visières et accessoires</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83833_0.jpg,https://www.motogoodeal.ch/img/import/bell/83833.gif;0;Couleur:Noir:1,Type de casque:Jet:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83834;1;Casque Bell Moto-9 Carbon Flex - Factory;282;647.2222222;1;388.33;0;;;;;BE706926;BE706926;Parts-World;Bell;;;;;;;;0;;;;;;Quand vous avez été présent en compétition depuis aussi longtemps que Bell (60 ans), il n’est pas présomptueux de dire que vous connaissez votre sujet et avez réalisé quelques trucs positifs ici ou là. Pour faire progresser l’ajustement déjà parfait du Moto-9, nous nous sommes inspirés du calotin intérieur segmenté de notre casque de BMX Segment™.;<ul><li>Coque composite Carbone ultralégère en trois (3) tailles différentes</li><li>Système FLEX de calotin progressif 3 éléments EPO / EPP / EPS pour une gestion optimisée des énergies linéaires et rotationnelles à basse, moyenne et haute vitesse d’impact </li><li>Adaptative Fit : construction segmentée du calotin pour un ajustement idéal à la tête du pilote </li><li>Velocity Flow Ventilation System™ pour une ventilation et un flux d’air maximum</li><li>Visière réglable Flying Bridge Visor™ avec prises d’air intégrées </li><li>Habillage intérieur démontable et lavable X-Static® XT2 silver </li><li>Intérieur Wear™</li><li>Système d’habillage des joues magnétique Magnefusion™ Emergency Release System (MERS) pour un retrait facilité du casque en cas d’intervention des secouristes</li><li>Vis de réglage de visière rapide Quick Flip™ manipulable même avec les gants</li><li>Mentonnière doublée d’un calotin EPS ventilé</li><li>Grille de ventilation intégrée à la mentonnière</li><li>Maintien de la sangle par nouvelle attache magnétique Magnefusion™ (Système breveté)</li><li>Fermeture de la jugulaire rembourrée par anneau double-D</li><li>Livré avec une sacoche de transport BELL </li><li>Homologation: ECE 22.05, Snell M2015, DOT, AS/NZ</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83834.jpg,https://www.motogoodeal.ch/img/import/bell/83834_1.jpg,https://www.motogoodeal.ch/img/import/bell/83834_2.jpg,https://www.motogoodeal.ch/img/import/bell/83834_3.jpg;0;Couleur:Jaune:1,Type de casque:Cross:2,Genre:Adultes:3,Coque:Carbone:4,Ecran anti-buée:Non:5,Cache-nez:Oui:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Oui:12;0;new;0;0;0;2;0;0;0;0
+83835;1;Casque Bell Bullitt Carbon - RSD Mojo;192;739.8148148;1;443.89;0;;;;;BE706997;BE706997;Parts-World;Bell;;;;;;;;0;;;;;;"Inspiré par le tout premier casque intégral, le modèle BELL Star, le Bullitt est une version moderne de l'original. Doté d'un fitting exceptionnel et de détails d’une qualité extrême, le Bullitt est le casque idéal pour ceux qui recherchent un look vintage tout en bénéficiant de la protection d’un casque intégral. 
+<br><strong>BELL BULLITT = pas Retro mais Original!</strong>
+";<ul><li>Coque en Carbone en trois (3) tailles différentes </li><li>Trois (3) tailles de calotins EPS</li><li>Intérieur en cuir de dine complétement démontable</li><li>Prédispose pour accepter un système de communication</li><li>Système d’aération</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Magnefusion™ pour la rétention de la visière </li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83835.jpg;0;Couleur:Noir:1,Type de casque:Intégrale:2,Genre:Adultes:3,Coque:Carbone:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83836;1;Casque Bell Bullitt - Chemical Candy Grey;192;610.1851852;1;366.11;0;;;;;BE706999;BE706999;Parts-World;Bell;;;;;;;;0;;;;;;"Inspiré par le tout premier casque intégral, le modèle BELL Star, le Bullitt est une version moderne de l'original. Doté d'un fitting exceptionnel et de détails d’une qualité extrême, le Bullitt est le casque idéal pour ceux qui recherchent un look vintage tout en bénéficiant de la protection d’un casque intégral. 
+<br><strong>BELL BULLITT = pas Retro mais Original!</strong>
+";<ul><li>Coque en fibre de verre en trois (3) tailles différentes </li><li>Trois (3) tailles de calotins EPS</li><li>Intérieur en cuir de dine complétement démontable</li><li>Prédispose pour accepter un système de communication</li><li>Système d’aération</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Magnefusion™ pour la rétention de la visière </li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83836.jpg,https://www.motogoodeal.ch/img/import/bell/83836_1.jpg;0;Couleur:Gris:1,Type de casque:Intégrale:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83837;1;Casque Bell Custom 500 - Carbon RSD Bomb;198;462.037037;1;277.22;0;;;;;BE707003;BE707003;Parts-World;Bell;;;;;;;;0;;;;;;"Le 500, premier casque jet destiné à la compétition, créé en 1954 au lancement de BELL, et ses descendants, ont inspiré nombre de nos concurrents. Mais rien ne vaut l’original, pas vrai? 
+Alors qu’il semblait impossible de faire beaucoup mieux, BELL est retourné au labo pour améliorer le légendaire Custom 500. <br><strong>BELL Custom 500 = la legende est de retour!</strong>
+";<ul><li>Coque en Carbone ou fibre de verre en cinq (5) tailles différentes </li><li>Cinq (5) tailles de calotins EPS</li><li>Intérieur en cuir de dine </li><li>Prédispose pour accepter un système de communication</li><li>5 pressions intégrées pour accueillir visières et accessoires</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83837.jpg,https://www.motogoodeal.ch/img/import/bell/83837_1.jpg,https://www.motogoodeal.ch/img/import/bell/83837_2.jpg;0;Couleur:Noir mat:1,Type de casque:Jet:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83838;1;Casque Bell Custom 500 - Airtrix Heritage;198;276.8518519;1;166.11;0;;;;;BE707004;BE707004;Parts-World;Bell;;;;;;;;0;;;;;;"Le 500, premier casque jet destiné à la compétition, créé en 1954 au lancement de BELL, et ses descendants, ont inspiré nombre de nos concurrents. Mais rien ne vaut l’original, pas vrai? 
+Alors qu’il semblait impossible de faire beaucoup mieux, BELL est retourné au labo pour améliorer le légendaire Custom 500. <br><strong>BELL Custom 500 = la legende est de retour!</strong>
+";<ul><li>Coque en Carbone ou fibre de verre en cinq (5) tailles différentes </li><li>Cinq (5) tailles de calotins EPS</li><li>Intérieur en cuir de dine </li><li>Prédispose pour accepter un système de communication</li><li>5 pressions intégrées pour accueillir visières et accessoires</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83838.JPG,https://www.motogoodeal.ch/img/import/bell/83838_1.jpg,https://www.motogoodeal.ch/img/import/bell/83838_2.JPG,https://www.motogoodeal.ch/img/import/bell/83838_3.JPG;0;Couleur:Bleu:1,Type de casque:Jet:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83839;1;Casque Bell Bullitt - Stripes Vintage Pearl White;192;517.5925926;1;310.56;0;;;;;BE707013;BE707013;Parts-World;Bell;;;;;;;;0;;;;;;"Inspiré par le tout premier casque intégral, le modèle BELL Star, le Bullitt est une version moderne de l'original. Doté d'un fitting exceptionnel et de détails d’une qualité extrême, le Bullitt est le casque idéal pour ceux qui recherchent un look vintage tout en bénéficiant de la protection d’un casque intégral. 
+<br><strong>BELL BULLITT = pas Retro mais Original!</strong>
+";<ul><li>Coque en fibre de verre en trois (3) tailles différentes </li><li>Trois (3) tailles de calotins EPS</li><li>Intérieur en cuir de dine complétement démontable</li><li>Prédispose pour accepter un système de communication</li><li>Système d’aération</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Magnefusion™ pour la rétention de la visière </li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83839.jpg;0;Couleur:Blanc:1,Type de casque:Intégrale:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83840;1;Casque Bell Custom 500 - Stripes Pearl White;198;239.8148148;1;143.89;0;;;;;BE707015;BE707015;Parts-World;Bell;;;;;;;;0;;;;;;"Le 500, premier casque jet destiné à la compétition, créé en 1954 au lancement de BELL, et ses descendants, ont inspiré nombre de nos concurrents. Mais rien ne vaut l’original, pas vrai? 
+Alors qu’il semblait impossible de faire beaucoup mieux, BELL est retourné au labo pour améliorer le légendaire Custom 500. <br><strong>BELL Custom 500 = la legende est de retour!</strong>
+";<ul><li>Coque en Carbone ou fibre de verre en cinq (5) tailles différentes </li><li>Cinq (5) tailles de calotins EPS</li><li>Intérieur en cuir de dine </li><li>Prédispose pour accepter un système de communication</li><li>5 pressions intégrées pour accueillir visières et accessoires</li><li>Différents visières disponibles en option pour un look personnalisé</li><li>Jugulaire rembourrée avec fermeture par anneau Double-D</li><li>Homologation: ECE 22.05, DOT</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83840.jpg;0;Couleur:Blanc:1,Type de casque:Jet:2,Genre:Adultes:3,Coque:Fibres de verre:4,Ecran anti-buée:Non:5,Cache-nez:Non:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83841;1;Casque Bell MX-9 - Pro Circuit Replica;282;276.8518519;1;166.11;0;;;;;BE707064;BE707064;Parts-World;Bell;;;;;;;;0;;;;;;"Si vous recherchez le parfait équilibre entre performance et design (inspiré du modèle haut de gamme Moto-9 qui collectionne trophées et victoires) à un prix économique, ne cherchez pas plus loin que le tout nouveau MX-9 ! 
+Doté de caractéristiques et fonctionnalités sans équivalent dans sa catégorie, le MX-9 change vraiment la donne en matière de casque MX.";<ul><li>Coque en polycarbonate ultralégère en trois (3) tailles différentes</li><li>3 calotins EPS pour un confort </li><li>Velocity Flow Ventilation System™ pour une ventilation et un flux d’air maximum</li><li>Intérieur démontable et lavable pour un maximum d’hygiène et de confort.</li><li>Visière réglable Flying Bridge Visor™ avec prises d’air intégrées </li><li>Grille de ventilation intégrée à la mentonnière</li><li>Fermeture de la jugulaire rembourrée par anneau double-D</li><li>Homologation: ECE 22.05, DOT, </li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83841.jpg;0;Couleur:Noir vert:1,Type de casque:Cross:2,Genre:Adultes:3,Coque:Polycarbonate:4,Ecran anti-buée:Non:5,Cache-nez:Oui:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Non:12;0;new;0;0;0;2;0;0;0;0
+83842;1;Casque Bell Moto-9 Carbon Flex - Pro Circuit Replica;282;702.7777778;1;421.67;0;;;;;BE707066;BE707066;Parts-World;Bell;;;;;;;;0;;;;;;Quand vous avez été présent en compétition depuis aussi longtemps que Bell (60 ans), il n’est pas présomptueux de dire que vous connaissez votre sujet et avez réalisé quelques trucs positifs ici ou là. Pour faire progresser l’ajustement déjà parfait du Moto-9, nous nous sommes inspirés du calotin intérieur segmenté de notre casque de BMX Segment™.;<ul><li>Coque composite Carbone ultralégère en trois (3) tailles différentes</li><li>Système FLEX de calotin progressif 3 éléments EPO / EPP / EPS pour une gestion optimisée des énergies linéaires et rotationnelles à basse, moyenne et haute vitesse d’impact </li><li>Adaptative Fit : construction segmentée du calotin pour un ajustement idéal à la tête du pilote </li><li>Velocity Flow Ventilation System™ pour une ventilation et un flux d’air maximum</li><li>Visière réglable Flying Bridge Visor™ avec prises d’air intégrées </li><li>Habillage intérieur démontable et lavable X-Static® XT2 silver </li><li>Intérieur Wear™</li><li>Système d’habillage des joues magnétique Magnefusion™ Emergency Release System (MERS) pour un retrait facilité du casque en cas d’intervention des secouristes</li><li>Vis de réglage de visière rapide Quick Flip™ manipulable même avec les gants</li><li>Mentonnière doublée d’un calotin EPS ventilé</li><li>Grille de ventilation intégrée à la mentonnière</li><li>Maintien de la sangle par nouvelle attache magnétique Magnefusion™ (Système breveté)</li><li>Fermeture de la jugulaire rembourrée par anneau double-D</li><li>Livré avec une sacoche de transport BELL </li><li>Homologation: ECE 22.05, Snell M2015, DOT, AS/NZ</li><li>5 ans de garantie</li><li>Tailles : XS, S, M, L, XL, XXL</li></ul>;;;;;;En Stock;Disponibilité: Délais sur demande;1;2016-07-12;2016-07-12;1;https://www.motogoodeal.ch/img/import/bell/83842.png,https://www.motogoodeal.ch/img/import/bell/83842.jpg;0;Couleur:Noir jaune:1,Type de casque:Cross:2,Genre:Adultes:3,Coque:Carbone:4,Ecran anti-buée:Non:5,Cache-nez:Oui:6,Double écran solaire:Non:7,Inérieur démontable et lavable:Oui:8,Livré avec une housse:Oui:9,Ecran Anti-Rayures:Non:10,Jugulaire:Boucle double-D:11,Ventilé:Oui:12;0;new;0;0;0;2;0;0;0;0
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

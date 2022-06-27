@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>fbpromote</name>
+            <displayName><![CDATA[Facebook Fan Coupon]]></displayName>
+            <version><![CDATA[3.2.1]]></version>
+            <description><![CDATA[Faites la promotion de votre page Facebook et de votre boutique]]></description>
+            <author><![CDATA[Business Tech]]></author>
+            <tab><![CDATA[advertising_marketing]]></tab>
+            <is_configurable>1</is_configurable>
+            <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+        </module>

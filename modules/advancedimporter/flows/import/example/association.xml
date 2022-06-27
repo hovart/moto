@@ -1,0 +1,20 @@
+<associations>
+	<association productid="12">
+		<mode>replace</mode> <!-- add or replace -->
+		<category>2</category>
+		<category>3</category>
+		<category>5</category>
+	</association>
+	<association productid="13">
+		<mode>add</mode> <!-- add or replace -->
+		<category>2</category>
+	</association>
+	<association ean13="1234">
+		<mode>add</mode> <!-- add or replace -->
+		<category>4</category>
+	</association>
+	<association reference="demo_2">
+		<mode>add</mode> <!-- add or replace -->
+		<category>4</category>
+	</association>
+</associations>

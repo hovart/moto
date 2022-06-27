@@ -1,0 +1,7 @@
+*ERROR* 	2016/02/09 - 11:57:58: Table 'prestashop.ps_theme' doesn't exist<br /><br /><pre>
+			SELECT su.physical_uri, su.virtual_uri, su.domain, su.domain_ssl, t.id_theme, t.name, t.directory
+			FROM ps_shop s
+			LEFT JOIN ps_shop_url su ON (s.id_shop = su.id_shop)
+			LEFT JOIN ps_theme t ON (t.id_theme = s.id_theme)
+			WHERE s.id_shop = 1
+			AND s.active = 1 AND s.deleted = 0 AND su.main = 1 LIMIT 1</pre> at line 791 in file classes/db/Db.php

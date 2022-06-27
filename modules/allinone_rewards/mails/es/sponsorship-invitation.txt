@@ -1,0 +1,12 @@
+Hola,
+
+Su amig@ {firstname} {lastname} le ha enviado una invitación a ser su ahijad@ en {shop_url}.
+Conviertase en su ahijad@ para conseguir {nb_discount} vale(s) de descuento de {discount} !
+
+Para acceder, nada más sencillo. Dirijase a la dirección siguiente :
+{link}
+
+
+
+{shop_name}
+{shop_url}

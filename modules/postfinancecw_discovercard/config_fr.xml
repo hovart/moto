@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>postfinancecw_discovercard</name>
+	<displayName><![CDATA[PostFinance: Discover Card]]></displayName>
+	<version><![CDATA[3.0.17]]></version>
+	<description><![CDATA[Ce module permet &agrave; vos clients de payer avec Discover Card par PostFinance.]]></description>
+	<author><![CDATA[customweb ltd]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Est-ce que vous êtes sûre que vous voules désinstaller le module et effacer tous les paramètres?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

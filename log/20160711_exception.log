@@ -1,0 +1,3 @@
+*ERROR* 	2016/07/11 - 14:31:27: Property StockAvailable->id_product_attribute is empty at line 909 in file classes/ObjectModel.php
+*ERROR* 	2016/07/11 - 14:31:33: Property StockAvailable->id_product_attribute is empty at line 909 in file classes/ObjectModel.php
+*ERROR* 	2016/07/11 - 14:46:21: Property StockAvailable->id_product_attribute is empty at line 909 in file classes/ObjectModel.php

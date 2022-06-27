@@ -1,0 +1,7 @@
+<delete>
+    <object type="EntityLink" external-reference="demo-1">
+        <table_name>product_tag</table_name>
+        <entity_left_name>id_product</entity_left_name>
+        <entity_right_name>id_tag</entity_right_name>
+    </object>
+</delete>

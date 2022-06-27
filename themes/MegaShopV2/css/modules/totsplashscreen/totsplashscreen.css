@@ -1,0 +1,136 @@
+/******************
+ *
+ *      Module created by 202-ecommerce
+ *
+******************/
+
+#totsplashscreenfont{
+     background: #999;
+     position: fixed;
+     width: 100%!important;
+     height: 100%;
+     top: 0;
+     left: 0;
+     text-align: left;
+     z-index: 9998;
+     color: #000;
+     line-height: normal;
+}
+
+#totsplashscreen{
+     background: #FFF;
+     position: fixed;
+     /*max-height: 80%;*/
+     min-height:300px;
+     /*top: 50%;
+     left: 50%;*/
+     text-align: justify;
+     /*margin:-180px 0 0 -290px;*/
+     padding: 15px;
+     padding-bottom: 37px;
+     z-index: 9999;
+     color: #000;
+     line-height: normal;
+}
+
+#header #totsplashscreenfont div, #header #totsplashscreen div{
+     float: none;
+}
+
+#totsplashscreen #closed{
+     background: url('images/close.png') right center no-repeat;
+     height: 24px;
+     line-height: 24px;
+     text-align: right;
+     text-transform: uppercase;
+     color: #999;
+     font-weight: bold;
+     margin-bottom: 10px;
+     cursor: pointer;
+     position: absolute;
+     right: -11px;
+     top: -12px;
+     width: 24px;
+}
+
+#header #totsplashscreen #totSplashLeft{
+     padding: 0;
+     margin: 0;
+     float: left;
+     border-right: 1px solid #CCC;
+}
+
+#header #totsplashscreen #totSplashLeft h2, #header #totsplashscreen #totSplashRight h2{
+     background: none;
+     color: #000;
+     line-height: normal;
+     height: auto;
+     font-size: 150%;
+}
+
+#header #totsplashscreen #totSplashLeft p{
+     margin: 5px ;
+}
+
+#header #totsplashscreen #totSplashLeft p:last-child{
+     margin: 0 ;
+     text-align: center;
+     width: 100%;
+}
+
+#header #totsplashscreen #totSplashRight{
+     float: right;
+}
+
+#header #totsplashscreen #totSplashRight p{
+     margin: 5px ;
+}
+
+#header #totsplashscreen #totSplashRight input[type=submit]{
+     border-radius: 2px;
+     width: 100px;
+     height: 20px;
+     line-height: 18px;
+     padding:0;
+     background: none;
+     box-shadow: 0.1em 0.1em 0.2em 0.2em #999;  
+     -webkit-box-shadow: 0.1em 0.1em 0.2em 0.2em #999;  
+     -moz-box-shadow: 0.1em 0.1em 0.2em 0.2em #999;
+}
+
+#header #totsplashscreen #totSplashRight p:last-child{
+     margin: 0 ;
+     text-align: center;
+     width: 100%;
+}
+
+#header #totsplashscreen #totsplashscreen p{
+     max-width: 550px;
+     padding: 0;
+     margin: 5px 0;
+}
+
+#header #totsplashscreenfont#totsplashscreen img{
+     max-width:550px;
+     max-height: 400px;
+}
+
+.totSplashPermission{
+     text-align:center;
+     text-align: center;
+     margin-top: 20px;
+     font-size: 22px;
+	 text-align:center;
+}
+
+.totSplashPermission > a{
+     margin-right:20px;
+     display:inline-block;
+}
+@media only screen and (max-width: 767px) and (min-width: 480px){
+     
+}
+
+@media only screen and (max-width: 479px){
+
+}

@@ -1,0 +1,42 @@
+*ERROR* 	2016/02/15 - 14:49:34: Table 'prestashop.ps_shop_url' doesn't exist<br /><br /><pre>SELECT s.id_shop, CONCAT(su.physical_uri, su.virtual_uri) AS uri, su.domain, su.main
+					FROM ps_shop_url su
+					LEFT JOIN ps_shop s ON (s.id_shop = su.id_shop)
+					WHERE (su.domain = 'prestashop.vs1.details.cognix-systems.net' OR su.domain_ssl = 'prestashop.vs1.details.cognix-systems.net')
+						AND s.active = 1
+						AND s.deleted = 0
+					ORDER BY LENGTH(CONCAT(su.physical_uri, su.virtual_uri)) DESC</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/02/15 - 14:49:50: Table 'prestashop.ps_shop_url' doesn't exist<br /><br /><pre>SELECT s.id_shop, CONCAT(su.physical_uri, su.virtual_uri) AS uri, su.domain, su.main
+					FROM ps_shop_url su
+					LEFT JOIN ps_shop s ON (s.id_shop = su.id_shop)
+					WHERE (su.domain = 'prestashop.vs1.details.cognix-systems.net' OR su.domain_ssl = 'prestashop.vs1.details.cognix-systems.net')
+						AND s.active = 1
+						AND s.deleted = 0
+					ORDER BY LENGTH(CONCAT(su.physical_uri, su.virtual_uri)) DESC</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/02/15 - 14:50:50: Table 'prestashop.ps_shop_url' doesn't exist<br /><br /><pre>SELECT s.id_shop, CONCAT(su.physical_uri, su.virtual_uri) AS uri, su.domain, su.main
+					FROM ps_shop_url su
+					LEFT JOIN ps_shop s ON (s.id_shop = su.id_shop)
+					WHERE (su.domain = 'prestashop.vs1.details.cognix-systems.net' OR su.domain_ssl = 'prestashop.vs1.details.cognix-systems.net')
+						AND s.active = 1
+						AND s.deleted = 0
+					ORDER BY LENGTH(CONCAT(su.physical_uri, su.virtual_uri)) DESC</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/02/15 - 14:50:53: Table 'prestashop.ps_shop_url' doesn't exist<br /><br /><pre>SELECT s.id_shop, CONCAT(su.physical_uri, su.virtual_uri) AS uri, su.domain, su.main
+					FROM ps_shop_url su
+					LEFT JOIN ps_shop s ON (s.id_shop = su.id_shop)
+					WHERE (su.domain = 'prestashop.vs1.details.cognix-systems.net' OR su.domain_ssl = 'prestashop.vs1.details.cognix-systems.net')
+						AND s.active = 1
+						AND s.deleted = 0
+					ORDER BY LENGTH(CONCAT(su.physical_uri, su.virtual_uri)) DESC</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/02/15 - 14:51:00: Table 'prestashop.ps_theme' doesn't exist<br /><br /><pre>
+			SELECT su.physical_uri, su.virtual_uri, su.domain, su.domain_ssl, t.id_theme, t.name, t.directory
+			FROM ps_shop s
+			LEFT JOIN ps_shop_url su ON (s.id_shop = su.id_shop)
+			LEFT JOIN ps_theme t ON (t.id_theme = s.id_theme)
+			WHERE s.id_shop = 1
+			AND s.active = 1 AND s.deleted = 0 AND su.main = 1 LIMIT 1</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/02/15 - 14:51:01: Table 'prestashop.ps_theme' doesn't exist<br /><br /><pre>
+			SELECT su.physical_uri, su.virtual_uri, su.domain, su.domain_ssl, t.id_theme, t.name, t.directory
+			FROM ps_shop s
+			LEFT JOIN ps_shop_url su ON (s.id_shop = su.id_shop)
+			LEFT JOIN ps_theme t ON (t.id_theme = s.id_theme)
+			WHERE s.id_shop = 1
+			AND s.active = 1 AND s.deleted = 0 AND su.main = 1 LIMIT 1</pre> at line 791 in file classes/db/Db.php

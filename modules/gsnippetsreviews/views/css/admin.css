@@ -1,0 +1,49 @@
+/* General - START */
+#gsr .clr_0,#gsr .clr_1,#gsr .clr_5,#gsr .clr_10,#gsr .clr_15,#gsr .clr_20,#gsr .clr_30,#gsr .clr_50,#gsr .clr_80,#gsr .clr_100,#gsr .clr_hr{ background:none; clear:both !important;float:none !important;position:relative; padding:0 !important;margin:0 !important;display:block !important}
+#gsr .clr_hr, #gsr .clr_0{height:0 !important;}
+#gsr .clr_1{height:1px !important}
+#gsr .clr_5{height:5px !important}
+#gsr .clr_10{height:10px !important}
+#gsr .clr_15{height:15px !important}
+#gsr .clr_20{height:20px !important}
+#gsr .clr_30{height:30px !important}
+#gsr .clr_50{height:50px !important}
+#gsr .clr_80{height:80px !important}
+#gsr .clr_100{height:100px !important}
+#gsr .clr_hr{ border-bottom:1px solid #CCC !important;}
+#gsr .center {text-align: center !important;}
+#gsr .float-right {float: right;}
+#gsr .bt-effect {box-shadow: 1px 1px 12px #555;}
+#gsr .submenu {margin-left: 20px;}
+#gsr .list-group-item {cursor: pointer !important;}
+#gsr .disabled {border: none !important; background-color: #F9F9F9 !important;}
+#gsr .bootstrap .table thead>tr>th span.title_box .label-tooltip {
+	color: #000000 !important;
+	background-color: transparent !important;
+	border: none !important;
+	border-bottom: none !important;
+	padding: 0 5px !important;
+}
+#gsr .bootstrap .switch{
+	float: left;
+}
+#gsr .red-text {color: #ff0000; font-weight: bold;}
+#gsr .icon-caret.current {color: #25b9d7;}
+#gsr .icon-caret {color: #6c868e;font-size: 1rem !important; display: inline-block !important;}
+/* General - END */
+
+.tree-selected {
+	color: white;
+	background-color: #00aff0 !important;
+}
+
+/* Admin Controller - reviews list details - START */
+.marginTop10px {margin-top: 10px;}
+.marginTop5px {margin-top: 5px;}
+.aoTitle{ border: none; font-size: 1.2em; line-height: 2.2em; text-transform: uppercase; border-bottom: solid 1px #eee; border: 1px solid #ccc; border-radius: 3px 3px 0 0; height: auto; margin: -13px -13px 10px !important; padding: 4px 13px !important; }
+.aoWrapPanel{  margin: -14px -8px 0;}
+.aoPanel{ margin-bottom: -4px !important;}
+.aoPanel h4{ border-bottom: 1px solid #BBBDC4; padding:7px 0;}
+/* Admin Controller - reviews list details - END */
+
+

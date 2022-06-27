@@ -1,0 +1,8 @@
+<products>
+	<product external-reference="demo-1" >
+		<name lang="fr">Nom</name>
+		<description lang="fr">Description du produit</description>
+		<categorypath separator="&gt;"><![CDATA[baladeur > baladeur vidéo > accessoire]]></categorypath> <!-- Ajout du produit dans la catégorie baladeur > baladeur vidéo > accessoire -->
+		<price>19.99</price>
+	</product>
+</products>

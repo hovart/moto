@@ -1,0 +1,14 @@
+<products>
+	<product external-reference="product-demo-1" >
+		<name lang="fr">Nom</name>
+		<description lang="fr">Description du produit</description>
+		<price>19.99</price>
+		<tax>FR Taux réduit (5.5%)</tax>
+	</product>
+	<product external-reference="product-demo-2" >
+		<name lang="fr">Nom</name>
+		<description lang="fr">Description du produit</description>
+		<price>19.99</price>
+		<id_tax_rules_group>1</id_tax_rules_group>
+	</product>
+</products>

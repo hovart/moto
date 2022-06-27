@@ -1,0 +1,16 @@
+/* Block newsletter */
+#footer #newsletter_block_footer {padding-right:0}
+#newsletter_block_footer .title_block{}
+#newsletter_block_footer li{overflow:hidden;}
+#newsletter_block_footer p {padding:8px 0 0;}
+#newsletter_block_footer p.success_inline {color: #418B19;}
+#newsletter_block_footer p.warning_inline {color: #DA0F00;}
+#newsletter_block_footer .inputNew {float:left; border-radius:0;width: 80%;height: 17px;}
+#newsletter_block_footer .button_mini {
+	float: left;
+	border-radius: 0;
+	padding: 8px;
+	background: #d81b1d;
+	width: 15%;
+}
+#newsletter_block_footer .button_mini:hover {}

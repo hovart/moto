@@ -1,0 +1,31 @@
+/*This code defines a white background for the website page.*/
+/*#page {
+	background:white ;
+	padding:0 10px;
+	-webkit-box-shadow: 0 0 10px #000;
+	box-shadow: 0 0 10px #000;
+}*/
+
+/*This code sets CSS BG below Javascript BG*/
+body{
+  z-index : 0;
+  position : relative ;
+}
+
+.abg_click_zone {
+	z-index: -1;
+}
+
+/*disable the selection of the background*/
+.vegas-overlay{
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+/*Footer  for theme 1.5*/
+/*#footer.clearfix.alpha{
+  margin-left : -10px;
+  width : 1000px;
+}*/

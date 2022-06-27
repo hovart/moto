@@ -1,0 +1,357 @@
+/*
+	Global
+*/
+#gsr .clear {clear: both;}
+#gsr .text-size-07 {font-size: 0.7em;}
+#gsr .text-size-1 {font-size: 1em;}
+#gsr .text-size-9 {font-size: 9pt;}
+#gsr .left {float: left;}
+#gsr .inline {display: inline !important;}
+#gsr .inline-block {display: inline !important;}
+#gsr .width-auto {width: auto;}
+#gsr .width-100 {width: 100%;}
+#gsr .padding-left5 {padding-left: 5px !important;}
+#gsr .padding-left10 {padding-left: 10px !important;}
+#gsr .inline-block {display: inline !important;}
+#gsr .text-center, .gsr-text-center  {text-align: center !important;}
+#gsr .nowrap  {white-space: nowrap;}
+#gsr .hide {display: none;}
+#gsr .clr_0,
+#gsr .clr_1,
+#gsr .clr_5,
+#gsr .clr_10,
+#gsr .clr_15,
+#gsr .clr_20,
+#gsr .clr_30,
+#gsr .clr_50,
+#gsr .clr_80,
+#gsr .clr_100,
+.gsr-clr_0,
+.gsr-clr_1,
+.gsr-clr_5,
+.gsr-clr_10,
+.gsr-clr_15,
+.gsr-clr_20,
+.gsr-clr_30,
+.gsr-clr_50,
+.gsr-clr_80,
+.gsr-clr_100,
+#gsr .clr_hr {background:none; clear:both !important;float:none !important;position:relative; padding:0 !important;margin:0 !important;display:block !important}
+#gsr .clr_hr,
+.gsr-clr_0,
+#gsr .clr_0 {height:0 !important;}
+#gsr .clr_1, .gsr-clr_0 {height:1px !important}
+#gsr .clr_5, .gsr-clr_5 {height:5px !important}
+#gsr .clr_10, .gsr-clr_10 {height:10px !important}
+#gsr .clr_15, .gsr-clr_15 {height:15px !important}
+#gsr .clr_20, .gsr-clr_20 {height:20px !important}
+#gsr .clr_30, .gsr-clr_30 {height:30px !important}
+#gsr .clr_40, .gsr-clr_40 {height:40px !important}
+#gsr .clr_50, .gsr-clr_50 {height:50px !important}
+#gsr .clr_80, .gsr-clr_80 {height:80px !important}
+#gsr .clr_100, .gsr-clr_100 {height:100px !important}
+#gsr .clr_hr {border-bottom:1px solid #CCC !important;}
+#gsr div.radio span {display: inline !important}
+#gsr .size14 {font-size: 14px !important;}
+#gsr .green {color: #4cbb6c !important;}
+#gsr .red {color: #a94442 !important;}
+#gsr .cbk-pointer {cursor:pointer !important;}
+/*
+	END - Global
+*/
+
+
+/*
+	product-review-block.tpl
+*/
+#gsr.productAction .block-review,
+#gsr.productBottom .block-review,
+#gsr.productReassurance .block-review {
+	background-color: #FFFFFF;
+}
+#gsr.productAction .block-review-item,
+#gsr.productBottom .block-review-item,
+#gsr.productReassurance .block-review-item {
+	padding-top: 1rem;
+	padding-right: 1.5rem;
+	padding-bottom: 1rem;
+	padding-left: 1.5rem;
+}
+#gsr.productAction .block-review-item .title,
+#gsr.productBottom .block-review-item .title,
+#gsr.productReassurance .block-review-item .title {
+	font-weight: 700;
+	font-size: 14pt;
+	/*color: #2fb5d2;*/
+	color: #414141;
+	border-top-color: initial;
+	border-top-style: none;
+	border-top-width: initial;
+	border-right-color: initial;
+	border-right-style: none;
+	border-right-width: initial;
+	border-bottom-color: rgb(47, 181, 210);
+	border-bottom-style: solid;
+	border-bottom-width: 3px;
+	border-left-color: initial;
+	border-left-style: none;
+	border-left-width: initial;
+	border-image-source: initial;
+	border-image-slice: initial;
+	border-image-width: initial;
+	border-image-outset: initial;
+	border-image-repeat: initial;
+	border-bottom-width: 3px;
+	border-bottom-style: solid;
+	border-bottom-color: rgb(235, 235, 235);
+	display: block;
+	padding-right: 1em;
+	padding-bottom: 0.5em;
+}
+#gsr .block-review-item a {text-decoration: none !important}
+#gsr.productAction .block-review-item .display-distribution,
+#gsr.productBottom .block-review-item .display-distribution,
+#gsr.productReassurance .block-review-item .display-distribution {
+	border: solid 1px #EBEBEB;
+	padding: 2px 0 0 8px;
+	width: 125px;
+}
+div.modal-footer #gsr .block-review {text-align: left !important;}
+div.modal-footer #gsr #bt_btn-review-list {display: none !important;}
+div.modal-footer #gsr #bt_btn-review-form {display: none !important;}
+/*
+	END - product-review-block.tpl
+*/
+
+/*
+	product-review-list.tpl
+*/
+#gsr.list-review,
+#gsr.list-review-tabs17 {
+	background-color: #FFFFFF;
+	display: block;
+}
+#gsr.list-review-tabs17 .inline {
+	display: inline !important;
+}
+#gsr.list-review {
+	padding-top: 1rem;
+	padding-right: 1.5rem;
+	padding-bottom: 1rem;
+	padding-left: 1.5rem;
+}
+#gsr .review-line {border-bottom: 1px solid #ddd; padding-bottom: 15px;}
+#gsr.list-review .border-left,
+#gsr.list-review-tabs17 .border-left {border-left: 5px solid #DFDCDC !important; padding-left: 10px !important;}
+#gsr #comment-form .title,
+#gsr .review-account .title,
+#gsr.all-review .title,
+#gsr.list-review .title {
+	font-weight: 700;
+	font-size: 14pt;
+	/*color: #2fb5d2;*/
+	color: #414141;
+	border-top-color: initial;
+	border-top-style: none;
+	border-top-width: initial;
+	border-right-color: initial;
+	border-right-style: none;
+	border-right-width: initial;
+	border-left-color: initial;
+	border-left-style: none;
+	border-left-width: initial;
+	border-image-source: initial;
+	border-image-slice: initial;
+	border-image-width: initial;
+	border-image-outset: initial;
+	border-image-repeat: initial;
+	border-bottom-width: 3px;
+	border-bottom-style: solid;
+	border-bottom-color: rgb(235, 235, 235);
+	display: block;
+	padding-right: 1em;
+	padding-bottom: 0.5em;
+}
+#gsr .fb-no-valign > span {vertical-align: inherit !important;}
+#gsr .fb-height-24 > span {height: 24px !important;}
+/*#gsr .list-review {margin-bottom: 10px !important; display: inline;}*/
+/*#gsr .list-review strong {color: #333; font-weight: normal; font-size: 16px;}*/
+/*#gsr .list-review a {font-size: 10pt;font-weight: 600;}*/
+#gsr.list-review-item {
+	padding-top: 1rem;
+	padding-right: 1.5rem;
+	padding-bottom: 1rem;
+	padding-left: 1.5rem;
+}
+#gsr .blockquote footer {font-size: 12px;}
+#gsr blockquote {margin-left: 30px;}
+#gsr blockquote p {font-size: 15px;}
+/*
+	END - product-review-list.tpl
+*/
+
+/*
+	hook/review-page-list.tpl (stars and rating returned into ProductListReview hook)
+*/
+#gsr-review-list.bg-white, #gsr-review-list .bg-white {background-color: white;}
+.gsr-review-count-padding {padding: 3px !important;}
+.gsr-review-count-padding-1611 {vertical-align: top !important;}
+.gsr-review-count-rating {vertical-align: middle; color: #333;}
+.gsr-review-stars-1611 div.radio span {display: inline !important;}
+.gsr-review-count-rating-1611 {vertical-align: top !important; color: #333; padding: 0 !important;}
+.gsr-no-underline {text-decoration: no-underline !important;}
+.gsr-side-text-8 {font-size: 8px !important; float: left !important; padding-left: 10px !important;}
+.gsr-side-text-9 {font-size: 9px !important; float: left !important; padding-left: 10px !important;}
+.gsr-side-text-10 {font-size: 10px !important; float: left !important; padding-left: 10px !important;}
+.gsr-side-text-11 {font-size: 11px !important; float: left !important; padding-left: 10px !important;}
+.gsr-side-text-12 {font-size: 12px !important; float: left !important; padding-left: 10px !important;}
+.gsr-side-text-13 {font-size: 13px !important; float: left !important; padding-left: 10px !important;}
+.gsr-side-text-14 {font-size: 14px !important; float: left !important; padding-left: 10px !important;}
+.gsr-side-text-15 {font-size: 15px !important; float: left !important; padding-left: 10px !important;}
+.gsr-side-text-16 {font-size: 16px !important; float: left !important; padding-left: 10px !important;}
+.gsr-side-text-17 {font-size: 17px !important; float: left !important; padding-left: 10px !important;}
+.gsr-side-text-18 {font-size: 18px !important; float: left !important; padding-left: 10px !important;}
+#gsr .review-line-comment {margin-bottom: 10px !important; display: inline;}
+#gsr .review-line-comment strong {color: #333; font-weight: normal; font-size: 16px;}
+#gsr .review-line-comment a {font-size: 10pt;font-weight: 600;}
+#gsr .review-line-comment p {padding-left: 15px !important;}
+#gsr .review-line-comment p.border-left {border-left: 5px solid #DFDCDC !important; padding-left: 10px !important;}
+#gsr .review-line-list {margin-bottom: 10px !important; display: inline;}
+/*
+	END - hook/review-page-list.tpl (stars and rating returned into ProductListReview hook
+*/
+
+/*
+	comment form (hook/product-review-form.tpl / front/review-form.tpl)
+*/
+#gsr #comment-form {color: #333; text-align: left; padding-right: 15px !important;}
+#gsr #comment-form label {text-align: left !important;}
+#gsr #comment-form .border-bottom {
+	border-bottom-width: 3px;
+	border-bottom-style: solid;
+	border-bottom-color: rgb(235, 235, 235);
+}
+#gsr #comment-form .inline {display: inline-block;}
+#gsr #comment-form .padding-20 {padding:0 20px 20px 20px;}
+#gsr #comment-form .margin-top {margin-top: 9px;}
+#gsr #comment-form .margin-left {margin-left: 10px;}
+#gsr #comment-form .stars-right {float: right !important; margin-right: 5px; display: inline !important;margin-top: 0px;}
+#gsr #comment-form .review {cursor:pointer; margin-bottom: 15px; display: block;}
+#gsr #comment-form .review-report {float: right !important; margin-bottom: 10px !important;cursor: pointer !important;}
+#gsr #comment-form .review-title {width: 300px;}
+#gsr #comment-form .review-comment {width: 300px; height: 200px;}
+#gsr #comment-form .product {}
+#gsr #comment-form .product a { display: inline-block;}
+#gsr #comment-form .product img {float:left; margin-right:20px; border: 1px solid #ccc;}
+#gsr #comment-form .product .description {margin-top: 15px; line-height:18px; color:#666;}
+#gsr #comment-form .product .description a {width: 100% !important;}
+#gsr #comment-form .product .description a img {float:left; margin-right:20px;}
+#gsr #comment-form label {display: block; margin:12px 0 4px 0; font-weight: bold; font-size: 12px;}
+#gsr #comment-form input {padding: 0 5px; height: 28px; width: 100% !important; min-width: 100% !important; border: 1px solid #ccc; background: #fff;}
+#gsr #comment-form img.left {float:left; margin-right:20px;}
+#gsr #comment-form textarea {padding: 0 5px; height: 200px; width: 100% !important; min-width: 100% !important; border: 1px solid #ccc; background: #fff;}
+#gsr #comment-form div.rewards-info {padding: 5px 10px !important; background-color: #f6f6f7; border: 1px solid #D0D3D8; margin-bottom: 10px;}
+#gsr #comment-form div.rewards-info p {margin: 0 !important; padding: 5px 0 !important;}
+#gsr #comment-form div.rewards-info p, #gsr #comment-form div.rewards-info p span, #gsr #comment-form div.rewards-info p span img {vertical-align: middle;}
+#gsr #comment-form .footer {margin-top: 20px;font-size: 12px;}
+#gsr #comment-form .content {padding-bottom: 10px; font-weight: bold; font-size: 12px}
+#gsr #comment-form .required {font-size: 12px; color: red;vertical-align: bottom;}
+#gsr #comment-form .size12 {margin-right: 10px;font-size: 12px !important;}
+#gsr #comment-form .help-block {color: #b7b7b7 !important;}
+#gsr #comment-form .has-error input[type="text"],
+#gsr #comment-form .has-error input[type="search"],
+#gsr #comment-form .has-error input[type="password"],
+#gsr #comment-form .has-error textarea,
+#gsr #comment-form .has-error select {
+	background-color: #f9cce1;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+	box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+}
+/* Start responsive modal */
+@media only screen and (max-width:1020px){
+	#fancybox-wrap {width:70% !important; margin:3% 15% !important; left:0 !important;}
+	#fancybox-wrap #fancybox-content, #fancybox-wrap #fancybox-img{ height:100% !important; width:auto !important; text-align:center; max-width:100% !important;}
+	#fancybox-wrap #fancybox-content {width:98% !important; padding:1% !important; border:none !important;}
+	#gsr #comment-form .product img {width:45%; margin-right:5%;}
+}
+@media only screen and (max-width:750px) {
+	#gsr #comment-form .product img {width:100%; margin:0; margin-bottom:10px;}
+	#gsr #comment-form .product .description {margin:0;}
+	#gsr #comment-form .product .margin-15 {margin:15px !important;}
+}
+/* Stop responsive modal */
+/*
+	END - comment form (hook/product-review-form.tpl / front/review-form.tpl)
+*/
+
+/*
+	last-reviews-block.tpl
+*/
+#gsr .last-reviews-top,
+#gsr .last-reviews-home,
+#gsr .last-reviews-bottom,
+#gsr .last-reviews-colLeft,
+#gsr .last-reviews-colRight {
+	background: #fff;
+	border-radius: 2px;
+}
+#gsr .last-reviews-top,
+#gsr .last-reviews-home,
+#gsr .last-reviews-bottom {
+	margin-bottom: 1rem;
+	padding-top: 1.125rem;
+	padding-left: 1.125rem;
+	padding-right: 1.125rem;
+	padding-bottom: 3.125rem;
+}
+#gsr .last-reviews-colLeft,
+#gsr .last-reviews-colRight {
+	margin-bottom: 1rem;
+	padding-top: 1.05rem;
+	padding-left: 1.05rem;
+	padding-right: 1.05rem;
+	padding-bottom: 3.125rem;
+}
+#gsr .last-reviews-top .h2,
+#gsr .last-reviews-home .h2,
+#gsr .last-reviews-bottom .h2,
+#gsr .last-reviews-colLeft .h2,
+#gsr .last-reviews-colRight .h2 {
+	padding-bottom: 0.5em;
+	border-bottom-width: 3px;
+	border-bottom-style: solid;
+	border-bottom-color: rgb(235, 235, 235);
+}
+#gsr .last-reviews-bottom div.align-right, .last-reviews-top div.align-right, .last-reviews-home div.align-right, .last-reviews-colLeft div.align-right, .last-reviews-colRight div.align-right {float: right; margin-right: 5px;}
+#gsr .last-reviews-bottom div.review-line, #gsr .last-reviews-top div.review-line {padding-left: 15px; padding-right: 10px;}
+#gsr .last-reviews-bottom .review-name {color: inherit;}
+#gsr .last-reviews-bottom .review-line-name strong {color: #777;}
+#gsr .last-reviews-bottom .title-block,
+#gsr .last-reviews-bottom .title-block a {background: none; border: none; color: #FFF !important; text-transform: none; padding: 0; margin: 0; margin-bottom: 15px;}
+#gsr .last-reviews-bottom div.align-right {float: right; margin-right: 5px;}
+#gsr .last-reviews-bottom .btn.btn-default.button.button-small {color: #555454 !important;}
+/*
+	END - last-reviews-block.tpl
+*/
+
+/*
+	My account > my reviews page (front/customer-account.tpl)
+*/
+#gsr table th.min-120 {min-width: 120px;}
+#gsr .icon-ok-sign {font-size: 20px !important;color:#3C763D;}
+#gsr .icon-remove-sign, #gsr .icon-time {font-size:20px; color:#A94442;}
+/* Slider block */
+#gsr .homeslider-container .homeslider-description {padding: 20px;}
+#gsr .homeslider-container .homeslider-description h3 {background: #FFF;}
+#gsr .homeslider-container .homeslider-description p {width: 100%;}
+#gsr .homeslider-container .wrap-ao-rating-block {position: absolute; top: 50px; left: 0; width: 100%; text-align: center;}
+#gsr .homeslider-container .wrap-ao-rating-block .ao-rating-block {display: inline-block; padding: 20px; background-color: rgb(255, 255, 255); background-color: rgba(255, 255, 255, 0.9);}
+#gsr .homeslider-container .wrap-ao-rating-block .ao-rating-block .btn {display: inline-block;}
+#gsr .homeslider-container .wrap-ao-rating-block .ao-rating-block .btn {display: inline-block;}
+#gsr .homeslider-container .wrap-ao-rating-block .ao-rating-block .star-rating-control {display: inline-block;}
+#gsr #homepage-slider .bx-controls .bx-controls-direction a, #gsr #homepage-slider .bx-controls .bx-controls-direction a:hover:before{background: none; border: none;}
+#gsr #homepage-slider .bx-controls .bx-controls-direction .bx-prev:after, #gsr #homepage-slider .bx-controls .bx-controls-direction .bx-next:after {color: #2fb5d2 !important; font-size: 30px !important;}
+#gsr #homepage-slider .bx-controls .bx-controls-direction a {margin-top: 50px !important;}
+/*
+	END - My account > my reviews page (front/customer-account.tpl)
+*/

@@ -1,0 +1,14 @@
+{shop_name}
+ 
+
+Bericht van uw formulier {formtitle} ({date})
+
+
+
+Hier de boodschap is:
+
+
+{message}
+
+{shop_name} powered by PrestaShop™
+

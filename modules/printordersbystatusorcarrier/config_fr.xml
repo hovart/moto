@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>printordersbystatusorcarrier</name>
+	<displayName><![CDATA[Impression de commandes par statut ou transporteur]]></displayName>
+	<version><![CDATA[1.1]]></version>
+	<description><![CDATA[Gagnez du temps en imprimant vos factures/bons de livraison par statut ou transporteur]]></description>
+	<author><![CDATA[Ixycom]]></author>
+	<tab><![CDATA[billing_invoicing]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,43 @@
+#tptn-config {
+	position: fixed;
+	left:0;
+	top:70px;
+	width:245px;
+	z-index:105;
+}
+
+#tptn-config-switch {
+	background: #333;
+	color: #fff;
+	font-family: "FontAwesome";
+	font-size: 20px;
+	display: block;
+	text-align: center;
+	width:40px;
+	height:40px;
+	line-height: 40px;
+	text-decoration: none;
+}
+#tptn-config-switch:before{content: "\f00d";}
+#tptn-config-switch.config-open:before {content: "\f013";}
+
+#tptn-config-inner {
+	background:#fff;
+	border: 1px solid #e5e5e5;
+	display:none;
+}
+
+#tptn-config .tptn-config-block{border-bottom:1px solid #ddd; padding: 15px; overflow: hidden;}
+#tptn-config .tptn-config-block.last{border-bottom:none;}
+#tptn-config .tptn-config-block p{float:left; font-size: 12px; color: #888; margin:15px 0 0;}
+
+#tptn-config .tptn-btn-block{background:#f5f5f5;}
+
+#tptn-config .tptn-config-title {font-size: 14px; margin:0 0 10px;}
+
+.skin-input-item{float:left; margin-right:15px; width:30px; height:30px; line-height: 30px; cursor: pointer;}
+.skin-input-item.lastitem{margin-right:0}
+
+#tptn-config button{padding: 7px 10px;}
+#tptn-config .apply{float:left;}
+#tptn-config .reset{float:right;}

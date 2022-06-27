@@ -1,0 +1,36 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{fbpromote}megashop>fbpromote_7e2a6a0203b97a3c9b9f8c85af621aea'] = 'Facebook Fan Coupon';
+$_MODULE['<{fbpromote}megashop>fbpromote_8aee3c11054c417d6e027d59e03475c1'] = 'Faites la promotion de votre page Facebook et de votre boutique';
+$_MODULE['<{fbpromote}megashop>fbpromote_f9e4884c7654daa6581b42ed90aeaba4'] = 'Colonne gauche';
+$_MODULE['<{fbpromote}megashop>fbpromote_feb6cc332459769fe15570bf332a6b50'] = 'Colonne droite';
+$_MODULE['<{fbpromote}megashop>fbpromote_c888438d14855d7d96a2724ee9c306bd'] = 'Paramètres mis à jour';
+$_MODULE['<{fbpromote}megashop>fbpromote_adb114b8d55842c71aeb54b503f66175'] = 'Créer un bon de réduction pour votre page fan';
+$_MODULE['<{fbpromote}megashop>fbpromote_00a6c950474bdce58ec2212b73a23bc9'] = 'URL de votre page Facebook Fan';
+$_MODULE['<{fbpromote}megashop>fbpromote_cf6964e57fc5ed2000af41b39cc71f10'] = 'Description du bon de réduction';
+$_MODULE['<{fbpromote}megashop>fbpromote_36bb22d6d703cd996a0cd272f19d5396'] = 'La description est affichée dans le panier lorsque l\'utilisateur applique ce bon de réduction';
+$_MODULE['<{fbpromote}megashop>fbpromote_abb87304e80cc22e9c178406d1d201e3'] = 'Type du bon de réduction';
+$_MODULE['<{fbpromote}megashop>fbpromote_386c339d37e737a436499d423a77df0c'] = 'Devises';
+$_MODULE['<{fbpromote}megashop>fbpromote_37be07209f53a5d636d5c904ca9ae64c'] = 'Pourcentage';
+$_MODULE['<{fbpromote}megashop>fbpromote_edf7f0a17b8a8f1732f12856fcbc8a6b'] = 'Montant du bon de réduction';
+$_MODULE['<{fbpromote}megashop>fbpromote_fb3ee2f9986901f4fdfceccc7f4a6b50'] = 'Pourcentage de réduction du bon';
+$_MODULE['<{fbpromote}megashop>fbpromote_5c94310361f144803f2efb05311efb1f'] = 'Minimum d\'achat obligatoire';
+$_MODULE['<{fbpromote}megashop>fbpromote_81303c486e6de6a5c3eafb03f61151fb'] = 'Validité du bon de réduction';
+$_MODULE['<{fbpromote}megashop>fbpromote_01e16aa827d5caa063c1acaeed5a608f'] = 'heure(s)';
+$_MODULE['<{fbpromote}megashop>fbpromote_466ff61f4367f43a1e2bf7656be3a022'] = 'ID application Facebook';
+$_MODULE['<{fbpromote}megashop>fbpromote_0ab3c22787d90b6abbcb51245b51bc87'] = 'Si vous avez déjà créé une application Facebook pour un autre module et pour une quelconque raison que celle-ci soit reliée à votre domaine, vous pouvez renseigner votre ID d\'application ici et ainsi bénéficier de la fonctionnalité qui vérifiera si vos clients sont déjà connectés à Facebook avant de cliquer sur le bouton j\'aime et les avertir de se connecter avant s\'ils ne le sont pas';
+$_MODULE['<{fbpromote}megashop>fbpromote_a8e36b2a6e996d6b9f46bd6bb76a048d'] = 'Hooks à afficher';
+$_MODULE['<{fbpromote}megashop>fbpromote_a61896b1f961acb266f1e1fca0f554ab'] = 'Vous pouvez sélectionner plusieurs hooks afin d\'afficher le bloc du module dans différents hooks. Le hook \"Shopping Cart Footer\" est installé par défaut';
+$_MODULE['<{fbpromote}megashop>fbpromote_a4d3b161ce1309df1c4e25df28694b7b'] = 'Envoyer';
+$_MODULE['<{fbpromote}megashop>fbpromote_a7f6b2caa906c3104ae382c97a6a5558'] = 'Votre bon de réduction est le suivant';
+$_MODULE['<{fbpromote}megashop>fbpromote_4d2f6bcf039e6c4ca16a276b30e647bb'] = 'Un bon de réduction a déja été associé à votre compte';
+$_MODULE['<{fbpromote}megashop>fbpromote_6c14ea14924a2c64b13536f355a946bb'] = 'valable jusqu\'au';
+$_MODULE['<{fbpromote}megashop>fbpromote_6db58af24d5d3c4f9830c73bfd8af3f3'] = 'votre bon de réduction a expiré';
+$_MODULE['<{fbpromote}megashop>fbpromote_202e3808164bc96237695f3ffac20e71'] = 'votre bon de réduction a déjà été utilisé';
+$_MODULE['<{fbpromote}megashop>fbpromote_604b90851bffa0d69ddf8288b85fe12a'] = 'Vous avez déjà généré un code promo. Nous le ré-affichons ci-dessous pour votre confort.';
+$_MODULE['<{fbpromote}megashop>fbpromoteblock_10c1e445e850cfae14aac934f171b87e'] = 'Devenez fan';
+$_MODULE['<{fbpromote}megashop>fbpromoteblock_6f45657468d6548764a07576d2f7e12e'] = 'Devenez fan de notre page Facebook et bénéficiez de';
+$_MODULE['<{fbpromote}megashop>fbpromoteblock_caa38d4d6a39a62c024778822449b7fa'] = 'de remise !';
+$_MODULE['<{fbpromote}megashop>fbpromoteblock_b31a7c90639b59264d7aeb9b8dc47bf8'] = 'Si vous n\'êtes pas connecté à Facebook, veuillez, s\'il vous plaît, vous connecter d\'abord et ensuite rafraichir cette page avant de cliquer sur le bouton j\'aime. Sinon, vous n\'obtiendrez pas votre bon de réduction';

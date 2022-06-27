@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>syspay</name>
+	<displayName><![CDATA[123syspay.com]]></displayName>
+	<version><![CDATA[2.0.2]]></version>
+	<description><![CDATA[Encaissez le monde entier ! Pas besoin de contrat VAD. Activation imm&eacute;diate. 1000&euro; de processing offert. Essai gratuit sans engagement.]]></description>
+	<author><![CDATA[SysPay]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

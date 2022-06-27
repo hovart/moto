@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>okom_countdown</name>
+	<displayName><![CDATA[Compte &agrave; Rebours]]></displayName>
+	<version><![CDATA[2.4]]></version>
+	<description><![CDATA[Affiche un compte &agrave; rebours avec deux messages sur votre site]]></description>
+	<author><![CDATA[Okom3pom]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

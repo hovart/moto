@@ -1,0 +1,8 @@
+Felicidades {sponsor_firstname} {sponsor_lastname},
+
+Su amig@ {sponsored_firstname} {sponsored_lastname} a quién mandó una invitación a ser un@ de sus ahojad@s acaba de registrarse en la web de {shop_name} {shop_url}! Póngase en contacto con el/la y dele la bienvenida.
+
+
+
+{shop_name}
+{shop_url}

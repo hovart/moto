@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>blockbestsellerz</name>
+            <displayName><![CDATA[Best sellers]]></displayName>
+            <version><![CDATA[1]]></version>
+            <description><![CDATA[Add a block that displaying the shop&#039;s top sellers. In this version you will found a new design and two new options: you can set the number of products to be displayed in this block and you can turn on/off the showing random top sellers.]]></description>
+            <author><![CDATA[]]></author>
+            <tab><![CDATA[Blocks]]></tab>
+            <is_configurable>1</is_configurable>
+            <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+        </module>

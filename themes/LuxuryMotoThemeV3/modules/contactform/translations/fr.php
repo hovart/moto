@@ -1,0 +1,36 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{contactform}luxurymotothemev3>contactform_cc307e7e272af7b8130d273fbce6e18a'] = 'Gestion de formulaires';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_2b5c331edbfb83f6ff4cc01625078438'] = 'Ce module vous permet de créer des formulaires';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_455311c3a6177b6867d3560210c3b497'] = 'Vous devez definir un alias de la langue par défaut';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_1000843b98a8ab60c6647108787237a5'] = 'Vous devez definir au moins le titre pour la langue par défaut';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_2a81ce1d69a8c672b13f713fed8efbd7'] = 'L\'dresse email est obligatoire';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_0b2d48dcbfcf208bb1420f1438cf94c3'] = 'Adresse e-mail invalide';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_813502fbbe7c223aa8d196e44e6f9d69'] = 'N\'utiliser pas l\'id \"email\"';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_7e9d152fdb45b013d8ea99bc9c729e09'] = 'Relation supprimée avec succè.';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_11e097a3fda3012b8b31d92c11b0e218'] = 'L\'ordre a été changé avec succès';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_5251010ec9e364492c236bf8b9983928'] = 'Fichier introuvable';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_3aa09611c7c5ca24cdfdc2e51900c56e'] = 'Format de fichier invalide';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_296cf4e25f88a06a7505347ae2e799ed'] = 'L\'importation est terminé avec succès ';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_91720ea14f524428f4662c400d23f945'] = 'Invalide clé privé captcha';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_b0a0317739e7d20bfe0a77f1d1a2c314'] = 'Les paramètres ont été mis à jour avec succès';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_56818536f2626f65b39afc2bf7fa301e'] = 'Veuillez remplir tous les champs';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_8f10b2c5e527496bb1714a3bb61ef0fc'] = 'Mail envoyé';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_e9b18a468f2c5de10fcb3af49c529aff'] = 'Impossible d\'ouvrir le fichier .htacess';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_b9aeca960e30afa22961d96ec4f01d19'] = 'le fichier .htaccess mis à jour avec succès';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_81af8ad72dc64a57208ef822e7e9967c'] = 'le fichier n\'est pas disponible en écriture. Assurez que vous en avez bien le droit';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_e8b5edfba77a72e50f97eb8a01a2df4c'] = 'Le formulaire par défaut que vous avez choisi est déjà utilisé par défaut dans une autre relation.';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_b67dab78fdba7fd602e7f5267f60d344'] = 'Merci de choisir un autre.';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_74d12d061321049178c4def2fbfc8bf4'] = 'S\'il vous plaît sélectionner au moins un formulaire pour la relation.';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_6d93dd06c9fe2a16be4a19f9c29cd558'] = 'Vous devez spécifier un titre de la relation pour la langue par défaut.';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_5189b084d0243e87e3b081ba79246129'] = 'Relation créée avec succès.';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_f1bc08d2efd58e54c883b73982090029'] = 'Elément créé avec succès.';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_04f20e56949e31d6a3f09093c1bb502c'] = 'L\'ordre des éléments a été mise à jour avec succès.';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_87e766df8626ee44169d2118e64e56de'] = 'Formulaire supprimé avec succès';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_f7e90a6cff06e7c5e88b5f53227667f8'] = 'Des erreurs sont survenues lors de la suppréssion du formulaire';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_da15480830e6520be7ec5efd2b3f3644'] = 'Champ supprimé avec succès';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_5f2469bc7a8d592c06347e68af111ca2'] = 'Des erreurs sont survenues lors de la suppréssion du champ';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_1ca598e0329588e7b5eb1b85b38b8eda'] = 'Le bouton d\'activation vient d\'être changé';
+$_MODULE['<{contactform}luxurymotothemev3>contactform_e526c15d66d1f28dabffc96f382325eb'] = 'Elément supprimé avec succè.';

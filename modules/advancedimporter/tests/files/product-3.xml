@@ -1,0 +1,10 @@
+<products>
+	<product external-reference="product-demo-1" >
+		<name lang="fr">Nom</name>
+		<description lang="fr">Description du produit</description>
+		<images>
+            <url>/modules/advancedimporter/views/img/media/01.jpg</url> <!-- depuis le disque locale -->
+			<url>http://prestashopxmlimporter.madef.fr/app.png</url> <!-- depuis un serveur distant -->
+		</images>
+	</product>
+</products>

@@ -1,0 +1,15 @@
+.content_scene_cat {margin-bottom:20px;}
+#category .cat_desc {color: #777; margin: 0 0 30px;}
+
+/* Sub Categories Styles */
+#subcategories {margin-bottom: 15px; overflow: hidden;}
+
+#subcategories ul {overflow: hidden;}
+#subcategories ul li {
+  display: inline-block;
+  font-size: 14px;
+  margin: 0 20px 15px 0;
+}
+#subcategories ul li .subcategory-name:hover{text-decoration: none;}
+#subcategories ul li .subcategory-image,
+#subcategories ul li .cat_desc {display: none;}

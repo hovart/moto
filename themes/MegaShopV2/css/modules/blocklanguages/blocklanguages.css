@@ -1,0 +1,29 @@
+/* block top languages */
+#languages_block_top {
+	position: absolute;
+	z-index:4;
+}
+#languages_block_top p {
+	background:url("../../../img/custom/bullet2.gif") no-repeat scroll right 6px transparent;
+	position: relative;
+	padding:0 12px 8px 0;
+    color:#777;
+}
+
+#languages_block_top ul#first-languages li { padding: 3px 9px; }
+#languages_block_top ul#first-languages li a{ color:#777;}
+#languages_block_top ul#first-languages li.selected_language,
+#languages_block_top ul#first-languages li a:hover{color:#FE5252; text-decoration: none;}
+#languages_block_top .countries_ul{
+	background:#fff;
+	box-shadow:0 0 5px 0 rgba(0, 0, 0, 0.3);
+	display:none;
+	list-style-type:none;
+	padding: 5px 0;
+	width:95px;
+}
+#languages_block_top .countries_ul_hover{
+	display:block;
+	position:absolute;
+	right:0;
+}

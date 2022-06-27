@@ -1,0 +1,107 @@
+.toolbarBox .pageTitle h3 {
+    font-size: 1.6em;
+    font-weight: normal;
+    line-height: 52px;
+    margin: 0;
+    padding: 0;
+    text-shadow: 0 1px 0 #fff;
+}
+.toolbarBox .toolbar_btn {
+    border: 1px solid #f8f8f8;
+    font-size: 11px;
+    cursor: pointer;
+    display: block;
+    float: left;
+    padding: 1px 5px;
+    white-space: nowrap;
+    text-shadow: 0 1px 0 #ffffff;
+    background: none;
+    margin: 0;
+}
+.toolbarBox .toolbar_btn:hover {
+    background-color: #fff;
+    border: 1px inset #ccc;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+
+.toolbarBox .process-icon-doc { background-image: url('../img/process-icon-doc.png'); }
+
+.ui-tabs-vertical { width: 55em; }
+.ui-tabs-vertical .ui-tabs-nav { padding: .2em .1em .2em .2em; float: left; width: 12em; }
+.ui-tabs-vertical .ui-tabs-nav li { clear: left; width: 100%; border-bottom-width: 1px !important; border-right-width: 0 !important; margin: 0 -1px .2em 0; }
+.ui-tabs-vertical .ui-tabs-nav li a { display:block; }
+.ui-tabs-vertical .ui-tabs-nav li.ui-tabs-active { padding-bottom: 0; padding-right: .1em; border-right-width: 1px; border-right-width: 1px; }
+.ui-tabs-vertical .ui-tabs-panel { padding: 1em; float: right; width: 40em;}
+
+#tabs{ padding: 0; border: 0 none; background: none;}
+#tabs.ui-tabs-vertical{ width: 100%;}
+#tabs .ui-tabs-nav{ border:none; width: 210px; padding: 0; background: #F8F8F8; border-bottom: 1px solid #ccced7; border-radius:0;}
+#tabs .ui-tabs-nav li{ margin: 0; padding: 0; border: none; background: none;}
+#tabs .ui-tabs-nav a{ width: 190px; display:block; padding: 8px 10px; border: 1px solid #ccced7; border-right: none; border-bottom:0; float: none; color: #000000; font-weight: normal;}
+#tabs .ui-tabs-nav .ui-state-active a{ background-color: #ebedf4; font-weight: bold;}
+#tabs #tabs-wrapper{ margin-left: 200px; background-color: #ebedf4; border: 1px solid #ccced7; overflow: hidden; min-height: 250px;}
+#tabs .ui-tabs-panel{ margin: 10px; padding: 0; width: auto; float: none;}
+#tabs h4{ font-size: 18px; font-weight: normal; margin-top: 0;}
+#tabs h3{ font-size: 16px; font-weight: normal; margin-top: 0;}
+#tabs label{ float: none; width: auto;}
+
+#tab-menu a:before{ display: block; height: 16px; width: 16px; content:''; float: left; margin-right: 10px;}
+#icon-1:before{ background: url("../img/icon_check.png") no-repeat 0 0;}
+#icon-2:before{ background: url("../img/icon_filter.png") no-repeat 0 0;}
+#icon-3:before{ background: url("../img/icon_arrow_refresh.png") no-repeat 0 0;}
+#icon-4:before{ background: url("../img/icon_setting_tools.png") no-repeat 0 0;}
+#icon-5:before{ background: url("../img/icon_category_group.png") no-repeat 0 0;}
+#icon-1s:before{ background: url("../img/icon_setting_tools.png") no-repeat 0 0;}
+#icon-2s:before{ background: url("../img/icon_google.png") no-repeat 0 0;}
+#icon-3s:before{ background: url("../img/icon_help.png") no-repeat 0 0;}
+
+
+#tabs .config{ background-color: #F8F8F8; padding: 10px; font-size: 1em;}
+#tabs .config .margin-form {
+    color: #7F7F7F;
+    padding: 0 0 1em 210px;
+}
+#tabs .config label {
+    border-bottom: 1px dotted #DFD5C3 !important;
+    font-weight: normal;
+    margin-right: 10px;
+    text-align: left;
+    width: 450px;
+    float:left;
+}
+#tabs .floatLeft .config label {
+    width: 200px;
+
+}
+#tabs .config .margin-form label {
+    border-bottom: none !important;
+    font-weight: normal;
+    margin-right: 10px;
+    text-align: left;
+    width: auto;
+    float:none;
+}
+.width3{ width: 100% !important;}
+.width50{ width: 50%;}
+.floatLeft{ float: left; min-width: 500px;}
+.marginRight10{ margin-right: 10px;}
+.separation{ clear: both;}
+
+ul#sortable_filters{ overflow:hidden;}
+ul#sortable_filters, ul.sortable_criterion{ padding:0;}
+ul.sortable_criterion li{ cursor: move;}
+ul#sortable_filters li{ list-style:none; border:1px solid #CCCCCC; background:#E2EBEE; padding:5px; margin-bottom:5px;}
+ul#sortable_filters li a{ float:right;}
+ul#sortable_filters li ul li{background:none repeat scroll 0 0 #FFFFF0; border:1px solid #DFD5C3;}
+ul#sortable_filters li ul li a{ float:right;}
+
+.criteria_group{ background-color: #ebedf4; padding: 10px; border: 1px dashed #ccced7; margin-top: 10px;}
+.criteria_group.first{ margin-top: 0px;}
+.criteria_group .title{ font-weight: bold; float: left;}
+.criteria_group .title small{ font-weight: normal; font-style: italic;}
+.criteria_group .actions{ float: right; overflow: hidden;}
+.criteria_group .actions li{ float: right; cursor: pointer;}
+.criteria_group .actions li .button{ cursor: pointer; margin-left: 10px;}

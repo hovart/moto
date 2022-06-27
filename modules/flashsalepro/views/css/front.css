@@ -1,0 +1,152 @@
+
+.padding-top {
+	padding-top: 15px;
+}
+
+#cornerBanner {
+	-moz-box-shadow: 2px 2px 20px #888;
+	-moz-transform: rotate(-45deg);
+	-moz-transform-origin: 50% 50%;
+	-webkit-transform: rotate(-41deg);
+	-webkit-transform-origin: 50% 50%;
+	position: absolute;
+	width: 213px;
+	z-index: 2;
+	left: -95px;
+	text-align: center;
+	z-index: 10000;
+}
+
+.product-list-button {
+	border: 1px solid;
+	pointer-events: none;
+	border-color: #06b2e6;
+	padding: 10px 14px;
+	display: block;
+	background: linear-gradient(to bottom, #009ad0 0%, #007ab7 100%);
+}
+
+.ghost-button {
+	display: inline-block;
+	width: 200px;
+	color: #fff;
+	border: 1px solid #fff;
+	text-align: center;
+	outline: none;
+	text-decoration: none;
+}
+
+.ghost-button-stock-manual {
+	margin-top: 75px;
+  	padding: 8px;
+	color:#000000;
+	border: 1px solid #000000;
+}
+
+.ghost-button-timed {
+	padding: 6px;
+}
+
+.tighten-up {
+	margin:0px;
+	padding:0px;
+}
+
+.sale-image-bground {
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+
+.flash-sale-item-img {
+	height:172px;
+}
+
+.home-product-name {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.carousel-banner {
+	height:172px;
+}
+
+.flash-sale-item-info {
+	float:right;
+}
+
+.stock-manual-h2 {
+	margin-left: 40px;
+	margin-top: 0px;
+}
+
+.clock-outer-center {
+    float: right;
+    right: 50%;
+    position: relative;
+}
+.clock-inner-center {
+    float: right;
+    right: -50%;
+    position: relative;
+}
+
+.view-all-outer-center {
+    float: right;
+    right: 50%;
+    position: relative;
+}
+.view-all-inner-center {
+    float: right;
+    right: -50%;
+    position: relative;
+}
+
+.flash-sale-product-list-img
+{
+	max-height: 200px;
+}
+
+/* Tablet */
+@media screen and (max-width: 850px) {
+	#cornerBanner {
+		-webkit-transform: rotate(-35deg);
+		-webkit-transform-origin: 37% -121%;
+		position: absolute;
+		width: 213px;
+		z-index: 2;
+		left: -95px;
+		text-align: center;
+	}
+}
+/*Apple iPhone 5*/
+@media screen and (max-width: 450px) {
+	
+	.ghost-button-timed {
+		margin-top: -7px;
+		margin-bottom: 5px;
+	}
+
+	.flash-sale-item-img {
+		height:172px;
+	}
+
+	.tighten-up-devise {
+		margin:0px;
+		padding:0px;
+	}
+	
+	#cornerBanner {
+		-webkit-transform: rotate(-37deg);
+		-webkit-transform-origin: 7% 50%;
+		position: absolute;
+		width: 175px;
+		z-index: 2;
+		left: -20px;
+		text-align: center;
+	}
+
+	.stock-manual-h2 {
+		margin-left: 10px;
+	}
+}

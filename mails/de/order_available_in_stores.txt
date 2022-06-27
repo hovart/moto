@@ -1,0 +1,15 @@
+Bonjour {firstname} {lastname},
+ 
+ 
+Nous avons le plaisir de vous informer que votre commande {order_name} est disponible dans votre boutique Motogoodeal : 
+{delivery_block_html} 
+ 
+Votre colis enregistré au nom de {firstname} {lastname} , vous sera remis sur présentation d'une pièce d'identité. Une personne de votre choix peut également retirer votre colis. Cette personne devra impérativement se présenter avec votre pièce d'identité et la sienne.
+
+Nous vous remercions de votre confiance et souhaitons avoir prochainement le plaisir de vous servir à nouveau. 
+
+Cordialement, 
+
+L'équipe {shop_name} !
+ 
+{shop_name}

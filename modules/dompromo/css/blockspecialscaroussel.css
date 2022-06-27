@@ -1,0 +1,197 @@
+/**
+ * This <div> element is wrapped by jCarousel around the list
+ * and has the classname "carousel-container".
+ */
+.carousel-container {
+    position: relative;
+}
+
+.carousel-clip {
+    z-index: 2;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    position: relative;
+}
+
+.carousel-list {
+    z-index: 1;
+    overflow: hidden;
+    position: relative;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.carousel-list li,
+.carousel-item {
+    float: left;
+    list-style: none;
+    /* We set the width/height explicitly. No width/height causes infinite loops. */
+    width: 75px;
+    height: 75px;
+}
+
+/**
+ * The buttons are added dynamically by jCarousel before
+ * the <ul> list (inside the <div> described above) and
+ * have the classnames "carousel-next" and "carousel-prev".
+ */
+.carousel-next {
+    z-index: 3;
+    display: none;
+}
+
+.carousel-prev {
+    z-index: 3;
+    display: none;
+}
+
+
+.carousel-skin-tango .carousel-container {
+}
+
+.carousel-skin-tango .carousel-container-horizontal {
+    width: 245px;
+    padding: 20px 40px;
+}
+
+.carousel-skin-tango .carousel-container-vertical {
+    width: 192px;
+    height: 85px;
+}
+
+.carousel-skin-tango .carousel-clip-horizontal {
+    width:  245px;
+    height: 75px;
+}
+
+.carousel-skin-tango .carousel-clip-vertical {
+    width:  192px;
+    height: 85px;
+}
+
+.carousel-skin-tango .carousel-item {
+    width: 192px;
+    height: 85px;
+}
+
+.carousel-skin-tango .carousel-item-horizontal {
+    margin-right: 10px;
+}
+
+.carousel-skin-tango .carousel-item-vertical {
+    margin-bottom: 5px;
+}
+
+.carousel-skin-tango .carousel-item-placeholder {
+    background: #fff;
+    color: #000;
+}
+
+/**
+ *  Horizontal Buttons
+ */
+.carousel-skin-tango .carousel-next-horizontal {
+    position: absolute;
+    top: 43px;
+    right: 5px;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    background: transparent url(next-horizontal.png) no-repeat 0 0;
+}
+
+.carousel-skin-tango .carousel-next-horizontal:hover {
+    background-position: -32px 0;
+}
+
+.carousel-skin-tango .carousel-next-horizontal:active {
+    background-position: -64px 0;
+}
+
+.carousel-skin-tango .carousel-next-disabled-horizontal,
+.carousel-skin-tango .carousel-next-disabled-horizontal:hover,
+.carousel-skin-tango .carousel-next-disabled-horizontal:active {
+    cursor: default;
+    background-position: -96px 0;
+}
+
+.carousel-skin-tango .carousel-prev-horizontal {
+    position: absolute;
+    top: 43px;
+    left: 5px;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    background: transparent url(prev-horizontal.png) no-repeat 0 0;
+}
+
+.carousel-skin-tango .carousel-prev-horizontal:hover {
+    background-position: -32px 0;
+}
+
+.carousel-skin-tango .carousel-prev-horizontal:active {
+    background-position: -64px 0;
+}
+
+.carousel-skin-tango .carousel-prev-disabled-horizontal,
+.carousel-skin-tango .carousel-prev-disabled-horizontal:hover,
+.carousel-skin-tango .carousel-prev-disabled-horizontal:active {
+    cursor: default;
+    background-position: -96px 0;
+}
+
+/**
+ *  Vertical Buttons
+ */
+.carousel-skin-tango .carousel-next-vertical {
+    position: absolute;
+    bottom: 5px;
+    left: 43px;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    background: transparent url(next-vertical.png) no-repeat 0 0;
+}
+
+.carousel-skin-tango .carousel-next-vertical:hover {
+    background-position: 0 -32px;
+}
+
+.carousel-skin-tango .carousel-next-vertical:active {
+    background-position: 0 -64px;
+}
+
+.carousel-skin-tango .carousel-next-disabled-vertical,
+.carousel-skin-tango .carousel-next-disabled-vertical:hover,
+.carousel-skin-tango .carousel-next-disabled-vertical:active {
+    cursor: default;
+    background-position: 0 -96px;
+}
+
+.carousel-skin-tango .carousel-prev-vertical {
+    position: absolute;
+    top: 5px;
+    left: 43px;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    background: transparent url(prev-vertical.png) no-repeat 0 0;
+}
+
+.carousel-skin-tango .carousel-prev-vertical:hover {
+    background-position: 0 -32px;
+}
+
+.carousel-skin-tango .carousel-prev-vertical:active {
+    background-position: 0 -64px;
+}
+
+.carousel-skin-tango .carousel-prev-disabled-vertical,
+.carousel-skin-tango .carousel-prev-disabled-vertical:hover,
+.carousel-skin-tango .carousel-prev-disabled-vertical:active {
+    cursor: default;
+    background-position: 0 -96px;
+}

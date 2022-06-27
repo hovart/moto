@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>mdg_damienudry</name>
+            <displayName><![CDATA[(mdg) Blocs produits phares damien udry]]></displayName>
+            <version><![CDATA[2.3]]></version>
+            <description><![CDATA[Afficher des blocs produits phares Damien udry.]]></description>
+            <author><![CDATA[Michel DUMONT]]></author>
+            <tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall>Ëtes vous sur de vouloir désinstaller ?</confirmUninstall>
+            <is_configurable>1</is_configurable>
+            <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+        </module>

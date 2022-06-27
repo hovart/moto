@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>countdownspecialblock</name>
+	<displayName><![CDATA[Countdown Specials block]]></displayName>
+	<version><![CDATA[0.1]]></version>
+	<description><![CDATA[Adds a countdown block on your shop with specials price products.]]></description>
+	<author><![CDATA[themes.madalweb.com]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

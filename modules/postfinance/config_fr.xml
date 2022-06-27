@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>postfinance</name>
+	<displayName><![CDATA[PostFinance]]></displayName>
+	<version><![CDATA[1.0.3]]></version>
+	<description><![CDATA[Ce module vous permet d&#039;accepter les paiements r&eacute;alis&eacute;s via la solution d&#039;acceptation des paiements de PostFinance]]></description>
+	<author><![CDATA[Prestashop]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

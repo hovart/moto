@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>tptnmobilemenu</name>
+	<displayName><![CDATA[Menu for Mobiles/Tablets - Templatin]]></displayName>
+	<version><![CDATA[1.0]]></version>
+	<description><![CDATA[Add a new menu in header for mobiles/tablets.]]></description>
+	<author><![CDATA[Templatin]]></author>
+	<tab><![CDATA[Blocks]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

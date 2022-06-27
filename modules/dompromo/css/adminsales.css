@@ -1,0 +1,69 @@
+
+#sales {
+	
+	width:900px;
+	height:40px !important;
+	margin:0 !important; 
+	padding:0;	
+	
+	_margin-bottom:-2px;
+}
+
+#sales li { 
+	float:left; 
+	margin:0; 
+	padding:0; 
+	text-indent:0; 
+	list-style-type:none;
+}
+
+#sales li a {
+	background: #dddddd url(../images/tab.png) no-repeat 0 -80px;
+	display:block;
+	height: 40px;   
+	width: 160px; 	
+	padding:0px 10px;
+	margin:0px;
+	
+	/* font decoration */
+	color:#000;
+	font-size:12px;
+	line-height:33px;
+	text-align:left;
+	text-decoration:none;
+}
+
+#sales li a img.img_lang {
+	margin-top: -2px;
+	margin-right: 5px;
+}
+
+
+#sales a.tab_on {
+	background-color: #DDFFAA;
+}
+
+#sales a.tab_general {
+	background-color: #FFF6D3;
+}
+
+#sales a.tab_lang_default {
+	background-color: #D1EAEF;
+}
+
+
+#sales a:hover {
+	background-position: 0 -40px;
+}
+
+#sales a.current {
+	background-position: 0 0 !important;
+	cursor:default;
+	font-weight: bold;
+}
+
+
+#content_tabs{
+margin-left: 14px;
+
+}

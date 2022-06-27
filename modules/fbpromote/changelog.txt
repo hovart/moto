@@ -1,0 +1,60 @@
+Facebook Fan Coupon
+www.businesstech.fr
+
+**************************************
+Change history for Facebook Fan Coupon
+**************************************
+
+Version 3.2.1 (22/01/2013)
+
+- small bug fix for lines break in to javascript code, status was in-line with app ID.
+
+Version 3.2.0 (31/12/2013)
+
+- Change the way to load FB init in order to solve a randomly behavior of Facebook like button callback function.
+- Added new FB app ID setting for displaying a different text when customers are not logged in to Facebook before clicking on like button.
+- Added selecting hooks to display in any hooks as well as left and right columns are optional unlike to the "Shopping Cart Footer" hook which is mandatory and installed by default
+
+Version 3.1.2 (29/11/2013)
+
+- increase version number
+
+
+Version 3.1.1 (22/11/2013)
+
+- Added Spanish and Italian translations
+
+
+Version 3.1.0 (04/10/2013)
+
+- make the module compatible with FB PS Essentials + FB Google Rich Snippets for Facebook like button callback.
+
+
+Version 3.0.5 (20/09/2013)
+
+- rollback on javascript FB event with window.fbAsyncInit, avoid FB like button callback to be executed sometimes.
+
+
+Version 3.0.4 (12/08/2012)
+
+- Improve loading of Facebook JavaScript to avoid problems with CCC on Facebook all.js + conflicts with other FB modules
+
+
+Version 3.0.3 (28/06/2013)
+
+- Removed highlight in cart as it causes issues with guest checkout
+- Changed coupon code prefix from FB to FBCOUPON
+- Added message when customer displays again the same code
+- Updated a few texts
+
+
+Version 3.0.2 (03/06/2013)
+
+-Small fix to JavaScript file as it was causing an issue when JS CCC was acticated in Performance
+
+
+Version 3.0.1 (03/06/2013)
+
+- Business Tech took over from PrestaShop (was version 2.9.2) on this date and will maintain the module from now on (agreement between the 2 parties)
+- Made the module 1.5 compatible and fixed some small bugs
+- Added hook on shopping cart footer

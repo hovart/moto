@@ -1,0 +1,52 @@
+/* BLOCK #lateralreinsurance_block ******************************************************************** */
+
+#lateralreinsurance2_block p{
+   background:none repeat scroll 0 0 #333;
+    font-size:14px;
+	font-weight:bold;
+	text-transform:uppercase;
+	color:#eee;
+	margin:0 0 4px;
+	padding:12px 0 12px 20px;
+	text-shadow:0 1px 0 #222;
+	 -moz-border-radius: 6px 6px 0 0;
+    -webkit-border-radius: 6px 6px 0 0;
+    border-radius: 6px 6px 0 0;
+}	
+.image2_ok {
+    float:right;
+	margin-top:2px;
+	margin-right:355px;
+}
+#lateralreinsurance2_block {
+    background:none repeat scroll 0 0 #ddd;
+     margin-bottom:12px;
+	 -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+
+}
+#lateralreinsurance2_block li {
+	float:left;
+	list-style:none outside none;
+	padding:15px 10px !important;
+	font-size:12px;
+	font-weight:bold;
+	color:#333;
+	text-transform:uppercase;
+	text-shadow:0 1px 0 #fff
+}
+#lateralreinsurance2_block .width1 li {width:87px}
+#lateralreinsurance2_block .width2 li {width:87px}
+#lateralreinsurance2_block .width3 li {width:87px}
+#lateralreinsurance2_block .width4 li {width:87px}
+#lateralreinsurance2_block .width5 li {width:87px}
+#lateralreinsurance2_block li img{
+	float:left;
+	margin-right:14px;
+}
+#lateralreinsurance2_block li span {
+	float:left;
+	padding-top:14px;
+	width:110%;
+}

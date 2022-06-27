@@ -1,0 +1,3 @@
+"products","name[fr]","name[en]","reference","price","tax"
+"product","Nom en français","Name in english","test",18,"FR Taux réduit (5.5%)"
+"product","Nom en français 2","Name in english 2","test2",180.45,"FR Taux réduit (5.5%)"

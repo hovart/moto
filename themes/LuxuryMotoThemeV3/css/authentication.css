@@ -1,0 +1,15 @@
+/** Authentication Styles **/
+#authentication #create-account_form,
+#authentication #login_form {min-height: 390px; margin-bottom: 30px;}
+#authentication #new_account_form {clear: both;}
+#authentication h3.top-indent{margin-top: 50px;}
+#authentication #create-account_form .submit,
+#authentication #login_form .submit{margin: 0;}
+.lost_password a{text-decoration: underline;}
+.lost_password a:hover{text-decoration: none;}
+
+#account-creation_form .id_state,
+#account-creation_form .dni,
+#account-creation_form .postcode {
+  display: none; }
+#account-creation_form .submit{margin: 30px 0 0;}

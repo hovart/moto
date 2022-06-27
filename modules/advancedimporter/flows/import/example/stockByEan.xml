@@ -1,0 +1,12 @@
+<stocks>
+	<stock>
+		<ean13>1234</ean13>
+		<mode>set</mode>
+		<quantity>100</quantity>
+	</stock>
+	<stock>
+		<ean13>12345</ean13>
+		<mode>set</mode>
+		<quantity>200</quantity>
+	</stock>
+</stocks>

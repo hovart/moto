@@ -1,0 +1,30 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_08782856060d9342d88d63d50f6cff76'] = 'Лидеры продаж (zapalm версия)';
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_4fb41e300911d43b1adb710d4a9aaedb'] = 'Этот блок отображает лидеров продаж. В отличие от стандартной версии блока, этот позволяет задать количество отображаемого товара и включить перемешивание товаров в блоке, чтобы при просмотре страниц, лидеры продаж показывались случайно. Так же изменен дизайн блока – теперь он более наглядный.';
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_7c19473789fd795286056bb0e2593382'] = 'Вы должны заполнить поле \"Отображаемое количество\"';
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_cebb3830ab118361345f53dbc4071468'] = 'Неверное количество товаров.';
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_f4d1ea475eaa85102e2b4e6d95da84bd'] = 'Подтверждение';
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_c888438d14855d7d96a2724ee9c306bd'] = 'Настройки сохранены';
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_f4f70727dc34561dfde1a3c529b6205c'] = 'Настройки';
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_e451e6943bb539d1bd804d2ede6474b5'] = 'Отображаемое количество';
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_8ce2b5b3ffa27a8a66220a49357a1582'] = 'Впишите число отображаемых товаров в блоке';
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_d308fd921caf047cf711b8ad8744abd8'] = 'Перемешивать товары';
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_29c215c05a0b499fa64f76a70bafd4da'] = 'Поставьте галочку, если хотите чтобы товары в блоке перемешивались';
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_c9cc8cce247e49bae79f15173ce97354'] = 'Сохранить';
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_77abd48d0a4b2599252746283cf415bd'] = 'Информация и модуле';
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_34b6cd75171affba6957e308dcbd92be'] = 'Версия';
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_794df3791a8c800841516007427a2aa3'] = 'Лицензия';
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_1659e51b77a2e746942d2f4d0c2278a0'] = 'свободная';
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_6bb6d58b728200b4db7d63055275a07d'] = 'Форумы';
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_ba0a6ddd94c73698a3658f92ac222f8a'] = 'английский';
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_11eb6dd2f9dcf57686be6f609d853f9c'] = 'русский';
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_15bbb9d0bbf25e8d2978de1168c749dc'] = 'Сайт';
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_bbaff12800505b22a853e8b7f4eb6a22'] = 'Контакт';
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_c439802d77032ec9895a48c6ba5883e2'] = 'пожалуйста, пишите мне только на русском или на английском';
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_ef0b714daae3279c5c56db2714ec8575'] = 'Спасибо за то, что пользуетесь модулем';
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_3cb29f0ccc5fd220a97df89dafe46290'] = 'Лидеры продаж';
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_eae99cd6a931f3553123420b16383812'] = 'Все лидеры продаж';
+$_MODULE['<{blockbestsellerz}prestashop>blockbestsellerz_f7be84d6809317a6eb0ff3823a936800'] = 'Пока нет лидеров продаж';

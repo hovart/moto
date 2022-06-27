@@ -1,0 +1,5 @@
+﻿Newsletter from {shop_name}
+
+{message}
+
+{shop_url}

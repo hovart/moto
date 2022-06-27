@@ -1,0 +1,23 @@
+
+#delivery_address {margin-right:65px;}
+
+.bloc_adresses{
+	overflow: hidden;
+	margin-top: 15px;
+}
+.addresses .item,
+.addresses .alternate_item{position:relative;}
+.address li {margin: 5px 0 0;}
+.address li.address_title {
+	font-size: 14px;
+	font-weight: 600;
+	margin: 0 0 20px;
+}
+.address li.address_update {
+	margin: 0;
+	position: absolute;
+	right: 30px;
+	top: 25px;
+}
+.address li.address_update a{color: #777; font-size: 21px; margin: 0 0 0 5px;}
+.address li.address_update a:hover{color: #333;}

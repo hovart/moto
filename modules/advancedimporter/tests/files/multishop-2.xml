@@ -1,0 +1,14 @@
+<products>
+	<product external-reference="demo-4">
+		<shop>1</shop>
+		<shop>2</shop>
+		<name lang="fr">Nom</name>
+		<description lang="fr">Description du produit</description>
+		<price>19.99</price>
+	</product>
+	<product external-reference="demo-4">
+		<shop>2</shop>
+		<reference>ref01</reference>
+		<name lang="fr">Nouveau nom</name>
+	</product>
+</products>

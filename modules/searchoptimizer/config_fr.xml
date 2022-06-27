@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>searchoptimizer</name>
+	<displayName><![CDATA[Search Optimizer]]></displayName>
+	<version><![CDATA[1.0.1]]></version>
+	<description><![CDATA[Search Optimizer vous aide effectuer des recherches plus rapidement et de les optimiser dans votre boutique. Il vous permet &eacute;galement de trouver les mots recherch&eacute;s par vos clients .]]></description>
+	<author><![CDATA[Novansis]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Etes-vous sûr que vous voulez désinstaller Search Optimizer? Toutes les données stockées seront perdues.]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

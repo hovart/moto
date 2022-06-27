@@ -1,0 +1,50 @@
+#tptnmobilemenu{
+	position:absolute;
+	width:100%;
+	left:0;
+	z-index:10;
+}
+#tptnmobilemenu .blockresp-title{
+    color: #383637;
+    font-family: 'Open Sans';
+    font-size: 14px;
+	padding:0 10px;
+	line-height:41px;
+	text-transform: uppercase;
+}
+#tptnmobilemenu .tglr{
+	background: url("../img/menu_tglr.png") no-repeat scroll center center transparent;
+    float: right;
+    height: 18px;
+    padding:10px;
+    width: 22px;
+}
+
+.mobilemenu, .mobilemenu ul{list-style: none;}
+.mobilemenu{
+	display:none;
+}
+.mobilemenu a {
+	padding:11px;
+	display: block;
+	text-transform: uppercase;
+}
+.mobilemenu a:hover {text-decoration:none;}
+.mobilemenu ul li a {padding-left:20px;}
+.mobilemenu ul ul li a {padding-left:30px;}
+.mobilemenu .tptnresp-icon {
+	background-image:url("../img/mob_tglr.png");
+	background-repeat:no-repeat;
+	background-color:rgba(0, 0, 0, 0.2);
+	background-position:center 0;
+	float:right;
+	cursor:pointer;
+	margin:5px 8px 0;
+	height:26px;
+	width:26px;
+}
+.mobilemenu .tptnresp-icon.active {background-position:center -26px;}
+.mobilemenu .tglr:hover,
+.mobilemenu .tptnresp-icon:hover,
+.mobilemenu .tptnresp-icon.active{background-color:rgba(0, 0, 0, 0.5);}
+

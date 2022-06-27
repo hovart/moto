@@ -1,0 +1,10 @@
+<products>
+	<product external-reference="demo-1">
+		<name lang="fr">Nom</name>
+		<description lang="fr">Description du produit</description>
+		<price>20</price>
+		<price_type>te</price_type>
+		<id_tax_rules_group>1</id_tax_rules_group>
+	</product>
+</products>
+

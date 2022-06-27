@@ -1,0 +1,148 @@
+#enabled_filters {
+	margin: 0 0 10px 0;
+	background: #333;
+	padding: 5px;
+}
+#layered_block_left #enabled_filters .layered_subtitle {padding:0;}
+#enabled_filters ul li {}
+#enabled_filters li a {
+	float: right;
+	cursor: pointer;
+}
+#layered_block_left .layered_close {
+	position: absolute;
+	right: 10px;
+	top: 7px;
+}
+#layered_block_left span.layered_close a {
+	background:url("../../../img/custom/less.png") no-repeat 0 center;
+	display:block;
+	height:14px;
+	width:10px;
+	text-decoration: none;
+	text-indent:-5000px;
+}
+#layered_block_left span.closed a {
+	background:url("../../../img/custom/more.png") no-repeat 0 center;
+}
+
+#layered_block_left .layered_subtitle {
+	background: #333;
+	font-size:15px;
+	display: block;
+	margin: 0 0 5px;
+	padding: 5px;
+	text-transform: uppercase;
+	color: #fff;
+}
+#layered_block_left ul {
+	clear: both;
+	padding: 5px 0;
+}
+#layered_block_left ul  li {padding:2px 0}
+#layered_block_left ul li label {cursor: pointer;}
+#layered_block_left div.block_content {padding: 10px 10px;}
+#layered_block_left ul {}
+#layered_block_left ul li {}
+#layered_block_left div > form > div > div {position:relative; margin:0 0 20px;}
+#layered_block_left #enabled_filters , #layered_url_filter_block{font-size: 11px;}
+#layered_block_left #enabled_filters ul li {color: #fff; font-size: 12px;font-weight: bold;}
+
+
+/* Style moved form the template to the css  */
+
+#layered_block_left #enabled_filters ul li:hover {
+	background: inherit;
+	color: #fff;
+}
+#layered_block_left #enabled_filters a {
+	color: red;
+	font-size: 13px;
+	text-decoration: none;
+	text-transform: uppercase;
+	background: #fff;
+	padding: 0 5px;
+	font-weight: bold;
+}
+#layered_block_left ul li:hover {
+}
+#layered_block_left ul li input.checkbox {
+	vertical-align: middle;
+}
+#layered_block_left ul li .disabled {
+	color: #666;
+}
+#layered_block_left .color-option {
+	border: 1px solid #666666;
+	height: 16px;
+	margin-left: 0;
+	padding: 0;
+	width: 16px;
+}
+#layered_block_left .color-option.disable {
+	opacity: 0.5;
+	filter:alpha(opacity=50);
+	-moz-opacity:0.5; 
+}
+#layered_block_left .nomargin a {
+	display: inline;
+}
+#layered_form .select {
+	width: 165px;
+}
+#layered_form .color-option {
+	margin-left: 0;
+	width: 16px;
+	height: 16px;
+	padding:0;
+	border: 1px solid #666;
+}
+#layered_form  .color-option.on {
+	border: 1px solid red;
+}
+#layered_form input[type=radio] {
+	margin-left: 2px;
+	vertical-align: middle;
+}
+.layered_price_range {
+	margin-left: 7px;
+}
+.layered_price_range_unit {
+	margin-right: 7px;
+}
+.layered_slider_container {
+	margin: 6px 0 6px 7px; width: 91%;
+}
+.layered_slider {
+	margin-top:5px;
+}
+.layered_input_range_min {
+	width:30px;
+}
+.layered_input_range_max {
+	width:40px;
+}
+.layered_list_selected {
+	font-weight: bold;
+}
+.layered_list {
+	display: block;
+	cursor: pointer;
+}
+.layered_list:hover {
+	font-weight: bold;
+}
+.layered_ajax_loader p {
+	margin: 20px 0;
+	text-align: center;
+}
+.hide-action {
+	text-align: center;
+	text-align: right;
+	display: block;
+	cursor: pointer;
+}
+.hide-action:hover {
+	font-weight: bold;
+}
+#layered_form div div ul {padding:0 0 0 1px;}

@@ -1,0 +1,7 @@
+<associations>
+	<association external-reference="demo-1">
+		<mode>replace</mode>
+		<category use-external-reference="1">demo-1</category>
+		<category use-external-reference="1">demo-2</category>
+	</association>
+</associations>

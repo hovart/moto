@@ -1,0 +1,12 @@
+<stocks>
+	<stock>
+		<reference>demo_6</reference>
+		<mode>set</mode>
+		<quantity>400</quantity>
+	</stock>
+	<stock>
+		<reference>test</reference>
+		<mode>set</mode>
+		<quantity>500</quantity>
+	</stock>
+</stocks>

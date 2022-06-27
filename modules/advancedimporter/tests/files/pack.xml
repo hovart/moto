@@ -1,0 +1,22 @@
+<objects>
+    <object type="Product" external-reference="demo-1">
+        <name>demo-1</name>
+        <link_rewrite>demo-1</link_rewrite>
+    </object>
+    <object type="Product" external-reference="demo-2">
+        <name>demo-2</name>
+        <link_rewrite>demo-2</link_rewrite>
+    </object>
+    <object type="Product" external-reference="demo-3">
+        <name>demo-3</name>
+        <link_rewrite>demo-3</link_rewrite>
+    </object>
+    <object type="ProductPack" external-reference="demo-1">
+        <external_reference for="id_product_pack" type="Product">demo-1</external_reference>
+        <external_reference for="id_product_item" type="Product">demo-2</external_reference>
+    </object>
+    <object type="ProductPack" external-reference="demo-2">
+        <external_reference for="id_product_pack" type="Product">demo-1</external_reference>
+        <external_reference for="id_product_item" type="Product">demo-3</external_reference>
+    </object>
+</objects>

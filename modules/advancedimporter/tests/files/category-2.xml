@@ -1,0 +1,7 @@
+<objects>
+	<object type="category" external-reference="demo-3">
+		<name lang="fr">Nom de la catégorie</name>
+		<link_rewrite lang="fr">Nom</link_rewrite>
+		<external_reference for="id_parent" type="category">demo-1</external_reference>
+	</object>
+</objects>

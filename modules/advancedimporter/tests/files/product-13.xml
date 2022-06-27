@@ -1,0 +1,28 @@
+<products>
+	<product external-reference="product-demo-1" >
+		<shop>1</shop>
+		<shop>2</shop>
+		<name lang="fr">Nom</name>
+		<description lang="fr">Description du produit</description>
+		<price>12</price>
+		<active>1</active>
+		<categorypath>Accueil</categorypath>
+		<images>
+			<url>http://prestashopxmlimporter.madef.fr/app.png</url> <!-- depuis un serveur distant -->
+		</images>
+		<combinations sexternal-reference="combination-1">
+			<price>10.5</price>
+			<unit_price_impact>0</unit_price_impact>
+			<minimal_quantity>0</minimal_quantity>
+			<images>1</images>
+			<attributes>1</attributes>
+		</combinations>
+		<combinations sexternal-reference="combination-2">
+			<price>11.5</price>
+			<unit_price_impact>0</unit_price_impact>
+			<minimal_quantity>0</minimal_quantity>
+			<images>1</images>
+			<attributes>2</attributes>
+		</combinations>
+	</product>
+</products>

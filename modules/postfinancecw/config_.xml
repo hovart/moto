@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>postfinancecw</name>
+	<displayName><![CDATA[DISPLAY NAME]]></displayName>
+	<version><![CDATA[3.0.17]]></version>
+	<description><![CDATA[ACCEPTS PAYMENTS MAIN]]></description>
+	<author><![CDATA[customweb ltd]]></author>
+	<tab><![CDATA[checkout]]></tab>
+	<confirmUninstall><![CDATA[DELETE CONFIRMATION]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

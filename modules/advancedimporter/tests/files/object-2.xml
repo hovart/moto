@@ -1,0 +1,5 @@
+<objects>
+	<object type="taxRulesGroup" external-reference="tax-1">
+		<name>Groupe de règle de taxe</name>
+	</object>
+</objects>

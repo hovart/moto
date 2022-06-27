@@ -1,0 +1,51 @@
+#products_carriers_filter label {
+	float: none;
+	width: auto;
+}
+
+#samdha_content #tabModel table {
+	width: 100%;
+}
+
+#samdha_content .actions_list ul {
+  position: absolute;
+  width: 100px;
+  z-index: 1;
+}
+
+/* http://stackoverflow.com/a/6888810/2530962 */
+#model_upload_input {
+    position: absolute;
+    top : -9999em;
+}
+
+#samdha_content .multiselect_addall,
+#samdha_content .multiselect_removeall {
+    position: absolute;
+    top: 30px;
+    left: 168px;
+}
+#samdha_content .multiselect_removeall {
+    top: auto;
+    bottom: 10px;
+}
+
+#samdha_content .selectableHeader,
+#samdha_content .selectionHeader {
+    text-align: left;
+    padding: 0.25em;
+    font-weight: bold;
+    background-color: #F5F5F5;
+    background-image: none;
+    border-color: #DDD;
+    border-style: solid;
+    border-width: 1px 1px 0;
+    color: #333;
+}
+
+#samdha_content .field_add,
+#samdha_content .field_delete,
+#samdha_content .field_up,
+#samdha_content .field_down {
+    cursor: pointer;
+}

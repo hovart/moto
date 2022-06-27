@@ -1,0 +1,100 @@
+*ERROR* 	2016/01/31 - 22:36:23: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+
+					 AND product_shop.`visibility` IN ("both", "catalog")
+					
+					
+					
+' at line 35<br /><br /><pre>SELECT p.*, product_shop.*, stock.out_of_stock, IFNULL(stock.quantity, 0) as quantity, MAX(product_attribute_shop.id_product_attribute) id_product_attribute, product_attribute_shop.minimal_quantity AS product_attribute_minimal_quantity, pl.`description`, pl.`description_short`, pl.`available_now`,
+					pl.`available_later`, pl.`link_rewrite`, pl.`meta_description`, pl.`meta_keywords`, pl.`meta_title`, pl.`name`, MAX(image_shop.`id_image`) id_image,
+					il.`legend`, m.`name` AS manufacturer_name, cl.`name` AS category_default,
+					DATEDIFF(product_shop.`date_add`, DATE_SUB(NOW(),
+					INTERVAL 10
+						DAY)) > 0 AS new, product_shop.price AS orderprice
+				FROM `ps_category_product` cp
+						LEFT JOIN `ps_product` p
+							ON p.`id_product` = cp.`id_product`
+						 INNER JOIN ps_product_shop product_shop
+		ON (product_shop.id_product = p.id_product AND product_shop.id_shop = 1)
+						LEFT JOIN `ps_product_attribute` pa
+						ON (p.`id_product` = pa.`id_product`)
+						 LEFT JOIN ps_product_attribute_shop product_attribute_shop
+		ON (product_attribute_shop.id_product_attribute = pa.id_product_attribute AND product_attribute_shop.id_shop = 1 AND product_attribute_shop.`default_on` = 1)
+						 LEFT JOIN ps_stock_available stock
+			ON (stock.id_product = p.id_product AND stock.id_product_attribute = IFNULL(`product_attribute_shop`.id_product_attribute, 0) AND stock.id_shop = 1  AND stock.id_shop_group = 0  )
+						LEFT JOIN `ps_category_lang` cl
+							ON (product_shop.`id_category_default` = cl.`id_category`
+							AND cl.`id_lang` = 1 AND cl.id_shop = 1 )
+						LEFT JOIN `ps_product_lang` pl
+							ON (p.`id_product` = pl.`id_product`
+							AND pl.`id_lang` = 1 AND pl.id_shop = 1 )
+						LEFT JOIN `ps_image` i
+							ON (i.`id_product` = p.`id_product`) LEFT JOIN ps_image_shop image_shop
+		ON (image_shop.id_image = i.id_image AND image_shop.id_shop = 1 AND image_shop.cover=1)
+						LEFT JOIN `ps_image_lang` il
+							ON (image_shop.`id_image` = il.`id_image`
+							AND il.`id_lang` = 1)
+						LEFT JOIN `ps_manufacturer` m
+							ON m.`id_manufacturer` = p.`id_manufacturer`
+						LEFT JOIN `ps_specific_price` splprc
+							ON p.`id_product` = splprc.`id_product`
+				WHERE product_shop.`id_shop` = 1
+					AND cp.`id_category` IN ()
+
+					 AND product_shop.`visibility` IN ("both", "catalog")
+					
+					
+					
+
+
+					GROUP BY product_shop.id_product ORDER BY cp.`position` ASC
+			LIMIT 0,1000</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/01/31 - 22:43:17: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+
+					 AND product_shop.`visibility` IN ("both", "catalog")
+					
+					
+					
+' at line 35<br /><br /><pre>SELECT p.*, product_shop.*, stock.out_of_stock, IFNULL(stock.quantity, 0) as quantity, MAX(product_attribute_shop.id_product_attribute) id_product_attribute, product_attribute_shop.minimal_quantity AS product_attribute_minimal_quantity, pl.`description`, pl.`description_short`, pl.`available_now`,
+					pl.`available_later`, pl.`link_rewrite`, pl.`meta_description`, pl.`meta_keywords`, pl.`meta_title`, pl.`name`, MAX(image_shop.`id_image`) id_image,
+					il.`legend`, m.`name` AS manufacturer_name, cl.`name` AS category_default,
+					DATEDIFF(product_shop.`date_add`, DATE_SUB(NOW(),
+					INTERVAL 10
+						DAY)) > 0 AS new, product_shop.price AS orderprice
+				FROM `ps_category_product` cp
+						LEFT JOIN `ps_product` p
+							ON p.`id_product` = cp.`id_product`
+						 INNER JOIN ps_product_shop product_shop
+		ON (product_shop.id_product = p.id_product AND product_shop.id_shop = 1)
+						LEFT JOIN `ps_product_attribute` pa
+						ON (p.`id_product` = pa.`id_product`)
+						 LEFT JOIN ps_product_attribute_shop product_attribute_shop
+		ON (product_attribute_shop.id_product_attribute = pa.id_product_attribute AND product_attribute_shop.id_shop = 1 AND product_attribute_shop.`default_on` = 1)
+						 LEFT JOIN ps_stock_available stock
+			ON (stock.id_product = p.id_product AND stock.id_product_attribute = IFNULL(`product_attribute_shop`.id_product_attribute, 0) AND stock.id_shop = 1  AND stock.id_shop_group = 0  )
+						LEFT JOIN `ps_category_lang` cl
+							ON (product_shop.`id_category_default` = cl.`id_category`
+							AND cl.`id_lang` = 1 AND cl.id_shop = 1 )
+						LEFT JOIN `ps_product_lang` pl
+							ON (p.`id_product` = pl.`id_product`
+							AND pl.`id_lang` = 1 AND pl.id_shop = 1 )
+						LEFT JOIN `ps_image` i
+							ON (i.`id_product` = p.`id_product`) LEFT JOIN ps_image_shop image_shop
+		ON (image_shop.id_image = i.id_image AND image_shop.id_shop = 1 AND image_shop.cover=1)
+						LEFT JOIN `ps_image_lang` il
+							ON (image_shop.`id_image` = il.`id_image`
+							AND il.`id_lang` = 1)
+						LEFT JOIN `ps_manufacturer` m
+							ON m.`id_manufacturer` = p.`id_manufacturer`
+						LEFT JOIN `ps_specific_price` splprc
+							ON p.`id_product` = splprc.`id_product`
+				WHERE product_shop.`id_shop` = 1
+					AND cp.`id_category` IN ()
+
+					 AND product_shop.`visibility` IN ("both", "catalog")
+					
+					
+					
+
+
+					GROUP BY product_shop.id_product ORDER BY cp.`position` ASC
+			LIMIT 0,4</pre> at line 791 in file classes/db/Db.php

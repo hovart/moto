@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>postfinancecw</name>
+	<displayName><![CDATA[Int&eacute;gration PostFinance]]></displayName>
+	<version><![CDATA[3.0.17]]></version>
+	<description><![CDATA[Ce module vous permet de traiter des paiement par PostFinance.]]></description>
+	<author><![CDATA[customweb ltd]]></author>
+	<tab><![CDATA[checkout]]></tab>
+	<confirmUninstall><![CDATA[Est-ce que vous êtes sûre que vous voules désinstaller le module et effacer tous les paramètres?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

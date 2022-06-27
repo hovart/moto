@@ -1,0 +1,9 @@
+<products>
+	<product>
+		<price_type>ti</price_type>
+		<name lang="fr">Nom</name>
+		<description lang="fr">Description</description>
+		<price>18.589</price>
+		<tax>FR Taux réduit (5.5%)</tax>
+	</product>
+</products>

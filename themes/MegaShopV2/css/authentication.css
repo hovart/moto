@@ -1,0 +1,50 @@
+/* create account ****************************************************************************** */
+#account-creation_form {}
+
+#account-creation_form  fieldset {}
+#account-creation_form  h3 {
+	background: none repeat scroll 0 0 #eee;
+    border-bottom: 1px solid #e5e5e5;
+    font-weight: normal;
+	margin:0 0 10px;
+    padding: 8px;
+    text-transform: uppercase;
+}
+#center_column #account-creation_form p {margin:0; padding:0 0 10px 0}
+#account-creation_form p.required {color:#444;}
+
+#account-creation_form p.radio span,
+#account-creation_form p.text label,
+#account-creation_form p.password label,
+#account-creation_form p.select label,
+#account-creation_form p.select span,
+#account-creation_form p.textarea label {}
+#account-creation_form p.radio label {
+	float:none;
+	padding-right:10px;
+	width:auto;
+}
+#account-creation_form p.checkbox label {
+	float:none;
+	width:auto;
+}
+#account-creation_form p.text input,
+#account-creation_form p.password input,
+#account-creation_form p.select input {}
+#account-creation_form p.checkbox input {}
+#account-creation_form p.select select {
+	margin-right:10px;
+}
+#account-creation_form p.textarea textarea {
+	height:80px;
+	width:30%;
+}
+#account-creation_form span.form_info {
+	display:block;
+	margin-top:5px;
+	color:#666;
+	font-size:11px;
+}
+#account-creation_form p.inline-infos {}
+	
+#center_column #account-creation_form p.cart_navigation {margin:20px 0}

@@ -1,0 +1,128 @@
+#product_comments_block_extra {
+	margin: 0 0 20px;
+	overflow: hidden;
+}
+#product_comments_block_extra li + li{
+	border-left: 1px solid #CCCCCC;
+	margin:0 0 0 10px;
+	padding:0 0 0 10px;
+}
+
+#product_comments_block_extra .comments_note {float:left; margin:0 10px 0 0; overflow:hidden;}
+#product_comments_block_extra .comments_note span,
+#product_comments_block_extra .star_content {float:left}
+#product_comments_block_extra .star_content {}
+
+#product_comments_block_extra div.star {}
+
+#product_comments_block_extra div.star_on {}
+
+#product_comments_block_extra .comments_advices {
+	float:left;
+	overflow:hidden;
+	margin: 1px 0 0;
+}
+.comments_advices li {display: inline-block;}
+
+/* pop-in add grade/advice */
+#fancybox-wrap {}
+#fancybox-content {}
+
+#new_comment_form {}
+
+#new_comment_form ul.grade_content {list-style-type:none}
+#new_comment_form .grade_content li {width:50%}
+#new_comment_form .product {margin: 0 0 20px}
+
+#new_comment_form .grade_content {margin:0 0 20px 0}
+#new_comment_form .grade_content span,
+#new_comment_form .grade_content span {
+	display:inline-block;
+	padding:0 10px;
+	width:150px;/* 160 */
+	font-weight:bold
+}
+#new_comment_form .grade_content .cancel {margin-right:5px}
+
+.new_comment_form_content {}
+.new_comment_form_content .intro_form {
+	padding-bottom: 10px;
+	font-weight: bold;
+	font-size: 12px
+}
+
+#new_comment_form label {
+	display: block;
+	margin:15px 0 5px;
+}
+#new_comment_form input,
+#new_comment_form textarea {width: 90%;}
+
+#new_comment_form .submit {
+	margin-top:20px;
+	padding:0;
+	font-size:13px;
+	text-align:right
+}
+#new_comment_form button {}
+
+#new_comment_form #criterions_list {}
+
+#new_comment_form #criterions_list li {
+	margin-bottom: 10px;
+}
+
+#new_comment_form #criterions_list label {
+	float: left;
+	margin: 0;
+}
+
+#new_comment_form #criterions_list .star_content {
+	float: left;
+	margin: 0 0 0 10px;
+	cursor: pointer;
+}
+
+#new_comment_form #new_comment_form_footer {
+	margin-top: 20px;
+}	
+
+/* TAB COMMENTS */
+#product_comments_block_tab {}
+
+#product_comments_block_tab div.comment {
+	margin:0 0 10px;
+	padding:0 0 10px;
+	border-bottom: 1px solid #ddd;
+}
+
+#product_comments_block_tab div.comment div.comment_author {
+	margin: 0 0 10px;
+	overflow: hidden;
+}
+#product_comments_block_tab .comment_author_infos {float: left;}
+#product_comments_block_tab div.comment .star_content {float:right;}
+
+
+#product_comments_block_tab .comment_author_infos em {color:#666; font-size: 11px; margin: 0 0 0 10px;}
+
+#product_comments_block_tab div.comment div.comment_details {color: #666;}
+#product_comments_block_tab div.comment_details .title_block{font-style: italic; font-size: 14px;}
+#product_comments_block_tab div.comment_details p {margin: 0 0 10px}
+#product_comments_block_tab div.comment_details ul {margin:0}
+
+#product_comments_block_tab div.comment_details li {
+	background: url("../../../img/custom/bullet.gif") no-repeat scroll left center transparent;
+	padding:2px 0 2px 11px;
+	font-size:12px;
+}
+
+#product_comments_block_tab button.usefulness_btn {
+	margin:0 0 0 5px;
+	padding:0 5px 2px;
+}
+#product_comments_block_tab span.report_btn {cursor: pointer}
+#product_comments_block_tab span.report_btn:hover {text-decoration:underline}
+
+.fl { float: left; }
+.fr { float: right; }

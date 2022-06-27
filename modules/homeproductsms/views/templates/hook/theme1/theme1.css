@@ -1,0 +1,363 @@
+/**
+* 2007-2015 Mack Stores
+*
+* NOTICE OF LICENSE
+*
+* This code is a property of MackStores. In No way any one is authorised to use this code  or modify this code and redistribute without prior
+* permission from the authour i.e MackStores
+*
+*
+*  @author    Mack Stores contact:-sales@mackstores.com
+*  @copyright 2007-2015 Mack Stores
+*  International Registered Trademark & Property of Mack Stores
+*/
+
+/* theme 1 simple theme */
+.img_container_hpm
+{
+	border: 1px solid #d6d4d4;
+	width:100%;
+	margin-bottom: 15px;
+}
+.img_container_hpm  img
+{
+	width:100%;
+}
+
+.name_hpm
+{
+	width: 100%;
+	line-height: 23px;
+	font-size: 17px;
+	overflow: hidden;
+	min-height: 57px;
+	padding: 5px;
+	margin-bottom: 15px;
+
+
+}
+
+.price_hpm
+{
+	width: 100%;
+	min-height: 30px;
+	margin-bottom: 15px;
+
+}
+
+.prd_price_act_hpm
+{
+	font-family: helvetica,arial,sans-serif;
+	font-size: 26px;
+	font-weight: bold;
+	color: #222;
+}
+
+.prd_price_old_hpm
+{
+	font-family: helvetica,arial,sans-serif;
+	font-size: 12px;
+	color: #6f6f6f;
+	text-decoration: line-through;
+	  margin-left: 5px;
+}
+
+.price_perc_reduce_hpm
+{
+	  background: #f13340;
+  border: 1px solid #d02a2c;
+  font: 600 21px/24px "Open Sans", sans-serif;
+  color: white;
+  padding: 0 5px 0 3px;
+  display: inline-block;
+    margin-left: 5px;
+}
+
+.sale_box_hpm
+{
+	right: -5px;
+}
+
+.new_box_hpm .sale_box_hpm
+{
+	position: absolute;
+	top: -4px;
+	overflow: hidden;
+	height: 85px;
+	width: 85px;
+	text-align: center;
+	z-index: 0;
+}
+
+.time_cnt_dn_hpm
+{
+	height:30px;
+	position: relative;
+}
+/* countdown */
+div.countdown {
+	position:relative;
+	  color: rgb(103, 103, 103);
+}
+div.countdown li {
+	display: inline-block;
+}
+div.countdown li span {
+	font-size: 15px;
+	font-weight: 900;
+	line-height: 12px;
+}
+div.countdown li.seperator {
+	font-size: 14px;
+	line-height: 12px;
+	vertical-align: baseline;
+}
+
+
+.cnt_hpm_over
+{
+	font-size: 12px;
+}
+
+.asw
+{
+	font-size: 12px;
+	list-style: none;
+	display: flex;
+}
+
+
+/* ON SALE AND  NEW LABELS ------------------------------------ */
+
+.sale_img
+{
+
+	  position: absolute;
+  top: -2px;
+   right: -3px;
+  overflow: hidden;
+  height: 85px;
+  width: 85px;
+  text-align: center;
+  z-index: 0;
+
+
+}
+
+.sale_img .sale_txt
+{
+  font: 700 14px/12px Arial, Helvetica, sans-serif;
+  color: white;
+  background: #f13340;
+  text-transform: uppercase;
+  padding: 9px 0 7px;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.24);
+  width: 130px;
+  text-align: center;
+  display: block;
+  position: absolute;
+  right: -33px;
+  top: 16px;
+  z-index: 1;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+
+}
+
+.sale_img .sale_txt:after
+{
+	  position: absolute;
+  bottom: -3px;
+  left: 5px;
+  width: 0px;
+  height: 0px;
+  border-style: solid;
+  border-width: 4px 4px 0px 4px;
+  border-color: #ad2b34 transparent transparent transparent;
+  content: ".";
+  text-indent: -5000px;
+  -webkit-transform: rotate(135deg);
+  -ms-transform: rotate(135deg);
+  transform: rotate(135deg);
+
+}
+
+.sale_img .sale_txt:before
+{
+	  position: absolute;
+  bottom: -3px;
+  right: 4px;
+  width: 0px;
+  height: 0px;
+  border-style: solid;
+  border-width: 4px 4px 0px 4px;
+  border-color: #ad2b34 transparent transparent transparent;
+  content: ".";
+  text-indent: -5000px;
+  -webkit-transform: rotate(225deg);
+  -ms-transform: rotate(225deg);
+  transform: rotate(225deg);
+}
+
+.new_img
+{
+	  position: absolute;
+   top: -2px;
+   left: -3px;
+  overflow: hidden;
+  height: 85px;
+  width: 85px;
+  text-align: center;
+  z-index: 0;
+}
+
+.new_img .new_txt
+{
+	  font: 700 14px/12px Arial, Helvetica, sans-serif;
+  color: white;
+  background: #f13340;
+  text-transform: uppercase;
+  padding: 9px 0 7px;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.24);
+  width: 130px;
+  text-align: center;
+  display: block;
+  position: absolute;
+  left: -33px;
+  top: 16px;
+  z-index: 1;
+  -webkit-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+.new_img .new_txt:after
+{
+	position: absolute;
+  bottom: -3px;
+  left: 3px;
+  width: 0px;
+  height: 0px;
+  border-style: solid;
+  border-width: 4px 4px 0px 4px;
+  border-color: #ad2b34 transparent transparent transparent;
+  content: ".";
+  text-indent: -5000px;
+  -webkit-transform: rotate(135deg);
+  -ms-transform: rotate(135deg);
+  transform: rotate(135deg);
+
+}
+
+.new_img .new_txt:before
+{
+position: absolute;
+  bottom: -3px;
+  right: 5px;
+  width: 0px;
+  height: 0px;
+  border-style: solid;
+  border-width: 4px 4px 0px 4px;
+  border-color: #ad2b34 transparent transparent transparent;
+  content: ".";
+  text-indent: -5000px;
+  -webkit-transform: rotate(225deg);
+  -ms-transform: rotate(225deg);
+  transform: rotate(225deg);
+}
+
+/* ADD TO CART MORE AND VIEW----------------------------------- */
+.contain
+{
+	width:100%;
+	border: 1px solid grey;
+	display: inline-block;
+}
+
+.contain_inside
+{
+	display: inline-block;
+	  width: 100%;
+	  margin-bottom: 15px;
+}
+
+.box1
+{
+	background-color: rgb(241, 51, 64);
+	padding: 13px 14px;
+	font: 700 17px/21px Arial, Helvetica, sans-serif;
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-bottom: 8px;
+	color: white;
+	display: inline-block;
+	max-width: 100%;
+}
+
+
+.box1:hover {
+   border-top-color: #750000;
+   background: #750000;
+   color: #ffffff;
+   max-width: 100%;
+   }
+.box1:active {
+   border-top-color: #ffffff;
+   background: #ffffff;
+   }
+
+.box2
+{
+	background-color: rgb(66, 70, 79);
+	padding: 13px 14px;
+	font: 700 17px/21px Arial, Helvetica, sans-serif;
+	display: inline-block;
+	margin-right: 5px;
+	margin-left: 5px;
+	color: white;
+	margin-bottom: 8px;
+	 max-width: 100%;
+
+}
+
+.box2:hover {
+   border-top-color: rgb(41, 44, 50);
+   background: rgb(58, 58, 58);
+   color: #ffffff;
+   max-width: 100%;
+   }
+.box2:active {
+   border-top-color: #ffffff;
+   background: #ffffff;
+   }s
+
+#box3
+{
+	vertical-align: top;
+	display: inline-block;
+	  background-color: rgb(195, 195, 195);
+  padding-left:0px;
+  padding-right: 0px;
+  margin-right: 5px;
+	margin-left: 5px;
+	max-width: 100%;
+}
+
+#box3 img
+{
+	vertical-align: top !important;
+	width:31px;
+
+}
+
+.title_hpm
+{
+
+}
+/*  THEME END */
+
+.advert_hpms
+{
+	font-size: 10px;
+}

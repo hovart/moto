@@ -1,0 +1,214 @@
+.nobootstrap {
+	min-width: 800px;
+}
+
+.center {
+	text-align: center;
+}
+
+.language_flags {
+	display: none;
+	background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #555555;
+    display: none;
+    float: left;
+    margin: 4px;
+    padding: 8px;
+    width: 90px;
+}
+
+.displayed_flag {
+	float: left;
+	margin-left: 4px;
+}
+
+.ui-multiselect-checkboxes li {
+	font-size: 11px;
+}
+
+.ui-multiselect-checkboxes label {
+	text-shadow: none;
+	text-align: left;
+	font-weight: normal;
+}
+
+.tabs table {
+	margin: 0;
+	padding: 0;
+	border-collapse: collapse;
+	font-size: 11px;
+}
+
+.tabs table td.label {
+	width: 390px;
+}
+
+.tabs label {
+	padding-right: 0px;
+	font-size: 11px;
+	width: 420px;
+	text-align: left;
+	font-weight: normal;
+}
+
+.tabs label.t {
+	font-size: 11px;
+	padding-left: 0px;
+}
+
+.tabs label.indent {
+	width: 390px;
+	padding-left: 30px;
+}
+
+.tabs .margin-form {
+	float: left;
+	padding-left: 0px;
+}
+
+.tabs fieldset {
+	margin-bottom: 20px;
+}
+
+.level_information {
+	margin-top: 5px;
+}
+
+.level_information label.level {
+	width: 100%;
+	padding-bottom: 5px;
+}
+
+.optional {
+	overflow: auto;
+}
+
+.optional label {
+	text-indent: 30px;
+}
+
+.multiselect {
+	width: 130px;
+}
+
+/* onglet statistiques */
+.statistics div.title {
+	border-bottom: 1px dotted #CCCCCC;
+    font-weight: bold;
+    margin-bottom: 5px;
+    padding-bottom: 2px;
+    text-transform: uppercase;
+    padding-top: 20px;
+}
+
+.statistics table {
+	width: 100%;
+	font-size: 11px;
+}
+
+.statistics tr.title {
+	background-color: #FFF6D3;
+	font-weight: bold;
+	height: 20px;
+	text-transform: uppercase;
+}
+
+.statistics td {
+	padding: 4px;
+	text-align: center;
+}
+
+.statistics table.general td {
+	width: 14%;
+}
+
+.statistics table.channels td {
+	width: 16%;
+}
+.statistics table.channels td.title {
+	text-align: left;
+}
+.statistics table.channels td.price {
+	text-align: right;
+}
+.statistics table.sponsors td {
+	/*width: 10%;*/
+}
+.statistics table.sponsors td.title {
+	text-align: left;
+	width: 20%;
+}
+.statistics table.sponsors td.price {
+	text-align: right;
+}
+.statistics table.sponsors td.reward {
+	/*width: 14%;*/
+}
+
+.rewards_template img {
+	cursor: pointer;
+	vertical-align: middle !important;
+}
+
+.rewards_template input[type=button] {
+	margin-top: 0;
+}
+
+#rewards_template_customers_button {
+	cursor: pointer;
+	font-weight: bold;
+}
+
+#rewards_template_customers {
+	display: none;
+	padding-top: 10px;
+}
+
+/* CSS for autocomplete 1.5 */
+.ui-autocomplete, .ac_results {
+	width: 570px;
+	max-height: 160px;
+	overflow-y: auto;
+	overflow-x: hidden;
+	padding: 5px;
+	border-color: #DDDDDD;
+}
+.ui-autocomplete .ui-state-hover, .ac_over {
+	font-weight: normal;
+	border: none;
+	cursor: pointer;
+	background-color: #3399FF;
+}
+.ac_even, .ac_odd {
+	background-color: transparent;
+	color: #555555;
+}
+.ac_even:hover, .ac_odd:hover {
+	background-color: #3399FF;
+	color: #FFFFFF;
+}
+.ui-autocomplete span, .ac_results span {
+	display: inline-block;
+	margin-right: 10px;
+}
+.ui-autocomplete .ui-menu-item a, .ac_results li {
+	padding: 0px;
+}
+div.autocomplete_header {
+	border-bottom: dashed 1px #BBBBBB;
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+span.autocomplete_id_customer {
+	width: 30px;
+	text-align: right;
+}
+span.autocomplete_firstname {
+	width: 160px;
+}
+span.autocomplete_lastname {
+	width: 160px;
+}
+span.autocomplete_email {
+	width: 160px;
+}

@@ -1,0 +1,9 @@
+<products>
+	<product external-reference="demo-1" >
+		<name lang="fr">Nom</name>
+		<feature external-reference="feature-test" external-reference-value="feature-value-test" /> <!-- Ajout utilisant les références externes (cf "Flux objet") -->
+		<feature id="3" id-value="16" /> <!-- Ajout utilisant les IDs -->
+		<feature name="Prise casque" name-value="Jack stéréo"/> <!-- Ajout utilisant les noms. Si les valeurs n'existent pas, elles sont alors créées. -->
+		<feature name="Test" name-value="Test Value" custom="1"/> <!-- Ajout utilisant une valeur personnalisée (déconseillé) -->
+	</product>
+</products>

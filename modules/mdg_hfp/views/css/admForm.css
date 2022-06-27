@@ -1,0 +1,22 @@
+.mdgTabs{ background-color:#fafafa; border:1px solid #ccced7; border-right:none; float:left; width:140px; margin-right:-1px;}
+.mdgTabs ul{padding:0;margin:0;}
+.mdgTabs ul li.tab-row { border:none; }
+.mdgTabs ul li.tab-row:first-child  a {border-top:none;}
+.mdgTabs ul li.tab-row a { display:block; font-weight:normal; color:#666;padding: 7px 10px; border-top:1px solid #CCCED7; border-right:1px solid #CCCED7;}
+.mdgTabs ul li.tab-row a.selected { background-color:#EBEDF4;font-weight:bold;color:#000; border-right:none;}
+
+.mdg-tab-content h4.tab {margin-top:0;}
+
+.mdg-tab-content hr {border-bottom:1px solid #CCCED7;}
+
+.mdg-tab-content fieldset {margin-bottom:20px; margin-left:140px;}
+.mdg-tab-content select {padding-left:5px;}
+	.mdg-tab-content option {padding:0 5px 1px;}
+
+
+/* form without tabs */
+.mdg-content fieldset {margin-bottom:20px;}
+	.mdg-content h4 {margin-top:0;}
+
+	.mdg-content hr {border-bottom:1px solid #CCCED7;}
+

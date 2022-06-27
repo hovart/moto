@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>attributes</name>
+	<displayName><![CDATA[Product Attributes on List]]></displayName>
+	<version><![CDATA[1.0.9]]></version>
+	<description><![CDATA[Module displays product attributes on list]]></description>
+	<author><![CDATA[MyPresta.eu]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

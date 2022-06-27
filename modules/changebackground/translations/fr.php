@@ -1,0 +1,34 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{changebackground}prestashop>changebackground_96bd28a058a23ee2fef2e6f7eaa4c914'] = 'Changer l\'arrière plan de votre boutique';
+$_MODULE['<{changebackground}prestashop>changebackground_75f73c51388eaa626e3f21bd920b0cdc'] = 'Ajouter une image d\'arrière plan à votre boutique';
+$_MODULE['<{changebackground}prestashop>changebackground_226ed577d0eff50725be6447bcd5a2f0'] = 'Erreur de téléchargement de fichier';
+$_MODULE['<{changebackground}prestashop>changebackground_4eee3e422284a5585a2a709ff6839b92'] = 'Configuration';
+$_MODULE['<{changebackground}prestashop>changebackground_d6a638f90a2504f1708d08993e95f4b7'] = 'Activer l\'affichage de l\'image 1';
+$_MODULE['<{changebackground}prestashop>changebackground_b2a5abfeef9e36964281a31e17b57c97'] = 'Oui';
+$_MODULE['<{changebackground}prestashop>changebackground_14b8f0494c6f1460c3720d0ce692dbca'] = 'Non';
+$_MODULE['<{changebackground}prestashop>changebackground_83b5a65e518c21ed0a5f2b383dd9b617'] = 'Supprimer l\'image';
+$_MODULE['<{changebackground}prestashop>changebackground_706bebc78ad992a07e4c1ce0f39def81'] = 'Aucune image';
+$_MODULE['<{changebackground}prestashop>changebackground_8c38cf08a0d0a01bd44c682479432350'] = 'Changer l\'image';
+$_MODULE['<{changebackground}prestashop>changebackground_d794f6ccdd3aeee43654c5d6ea6315be'] = 'Répétion de l\'image';
+$_MODULE['<{changebackground}prestashop>changebackground_45a2f3fa4b144999e4cd9772114d9856'] = 'Répéter l\'image';
+$_MODULE['<{changebackground}prestashop>changebackground_c0f3327d00981875e7af4c3531ef827a'] = 'Répéter l\'image horizontalement';
+$_MODULE['<{changebackground}prestashop>changebackground_eff1df1280ad5c16713842720f08a1d5'] = 'Répéter l\'image verticalement';
+$_MODULE['<{changebackground}prestashop>changebackground_54f2999c69ba53032d09f7d218160b06'] = 'Répéter l\'image seulement une fois';
+$_MODULE['<{changebackground}prestashop>changebackground_b8d047df53bbcda8919d4c9b4b27deba'] = 'Positionnement de l\'image Haut/Bas';
+$_MODULE['<{changebackground}prestashop>changebackground_3ebb3fd63d4e9f9124c0196eb883c7ec'] = 'Haut';
+$_MODULE['<{changebackground}prestashop>changebackground_f6e660ced42e946f69a41cc473d923cc'] = 'Bas';
+$_MODULE['<{changebackground}prestashop>changebackground_3418f1af444053908a826260d26823c4'] = 'Positionnement de l\'image Droite/Milieu/Gauche';
+$_MODULE['<{changebackground}prestashop>changebackground_3c8c479b3333a309f2ea15978b4e4d31'] = 'à Droite';
+$_MODULE['<{changebackground}prestashop>changebackground_d64a4d022098892cecf250b5842c2a48'] = 'au Centre';
+$_MODULE['<{changebackground}prestashop>changebackground_7831b614c93d74439067cca61fb2bf29'] = 'à Gauche';
+$_MODULE['<{changebackground}prestashop>changebackground_128f5632d276a3335309ac20a810ef69'] = 'Image Fixe';
+$_MODULE['<{changebackground}prestashop>changebackground_0aff9363546491ee559992e7b0520dad'] = 'Activer l\'affichage de l\'image 2';
+$_MODULE['<{changebackground}prestashop>changebackground_aa0c7bc02ada688a1b7bd2c4da82fd3f'] = 'Activer une couleur d\'arrière-plan';
+$_MODULE['<{changebackground}prestashop>changebackground_21592835dd487cf2d2b52fe85a274936'] = 'Choisir une couleur';
+$_MODULE['<{changebackground}prestashop>changebackground_ad3d06d03d94223fa652babc913de686'] = 'Sauvegarder';
+$_MODULE['<{changebackground}prestashop>changebackground_170405830311b8a768c60caaa5ad111f'] = 'S\'abonner à la chaîne Youtube du blog';
+$_MODULE['<{changebackground}prestashop>changebackground_1afe3489038a7b2efa3cf80d391264e7'] = 'Suivre l\'actualité de My-Theme-Shop.com';
+$_MODULE['<{changebackground}prestashop>changebackground_66cb5091485d2d1ac5466d0ae138f539'] = 'S\'abonner aux news pour être informé';

@@ -1,0 +1,13 @@
+/* Block editorial */
+.editorial_block {margin:15px 0 0; clear:both;}
+.editorial_block .rte {color:#333;}
+.editorial_block h1 {
+	border-bottom: 1px solid #B8B8B8;
+	margin: 0 0 10px;
+	padding: 0 0 5px;
+}
+#editorial_block_center .rte h2{
+	font-size:12px;
+	padding:0 0 5px;
+}
+#editorial_block_center .rte p {padding:0 0 10px;}

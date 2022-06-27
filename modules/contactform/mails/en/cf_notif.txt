@@ -1,0 +1,7 @@
+{shop_name}
+ 
+Notification message form {shop_name} ({date})
+ 
+{message}
+ 
+{shop_name} powered by PrestaShop™

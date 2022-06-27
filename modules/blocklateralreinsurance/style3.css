@@ -1,0 +1,53 @@
+/* BLOCK #lateralreinsurance_block ******************************************************************** */
+
+#lateralreinsurance3_block p{
+   background:none repeat scroll 0 0 #333;
+    font-size:14px;
+	font-weight:bold;
+	text-transform:uppercase;
+	color:#eee;
+	margin:0 0 4px;
+	padding:12px 0 12px 20px;
+	text-shadow:0 1px 0 #222;
+	 -moz-border-radius: 6px 6px 0 0;
+    -webkit-border-radius: 6px 6px 0 0;
+    border-radius: 6px 6px 0 0;
+}	
+.image3_ok {
+    float:right;
+	margin-top:2px;
+	margin-right:800px;
+}
+#lateralreinsurance3_block {
+    background:none repeat scroll 0 0 #ddd;
+     margin-bottom:12px;
+	 -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+
+}
+#lateralreinsurance3_block li {
+	float:left;
+	list-style:none outside none;
+	padding:15px 10px !important;
+	font-size:13px;
+	font-weight:bold;
+	color:#333;
+	text-transform:uppercase;
+	text-shadow:0 1px 0 #fff
+}
+#lateralreinsurance3_block .width1 li {width:960px}
+#lateralreinsurance3_block .width2 li {width:470px}
+#lateralreinsurance3_block .width3 li {width:305px}
+#lateralreinsurance3_block .width4 li {width:224px}
+#lateralreinsurance3_block .width5 li {width:175px}
+#lateralreinsurance3_block li img{
+	float:left;
+	margin-right:10px;
+}
+#lateralreinsurance3_block li span {
+	float:left;
+	color:#333;
+	padding-top:10px;
+	width:65%;
+}

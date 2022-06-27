@@ -1,0 +1,118 @@
+@media only screen and (min-width: 992px) {
+
+  #tptnmobilemenu{display:none}
+
+  #tptntopmenu{
+    background: #333;
+    position: absolute;
+    width: 100%;
+    z-index: 101;
+  }
+  #tptntopmenu.sticky{
+    position: fixed;
+    top: 0;
+  }
+  .mega-menu {}
+  .mega-menu > li > ul {visibility: hidden;}
+  .mega-menu ul {position: relative; padding: 0; margin: 0;}
+  .mega-menu .sub {display: none;}
+  .mega-menu li {
+    list-style:none;
+    float: left;
+    position:relative;
+  }
+  .mega-menu li.tptn-mega-li{position:static;}
+  .mega-menu li a {
+    font-size:14px;
+    font-weight: 600;
+    color: #fff;
+    display: block;
+    padding: 16px;
+    text-decoration:none;
+    text-transform: uppercase;
+    -webkit-transition: background 0.5s;
+    transition: background 0.5s;
+  }
+  .mega-menu li .sub-container {position:absolute;}
+  .mega-menu li .sub-container.mega{}
+  .mega-menu li .sub {
+    background:#fff;
+    box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.2);
+    padding: 10px 0 0;
+  }
+  .mega-menu li .sub .tptn-mega-row {overflow:hidden; clear:both;}
+  .mega-menu li .mega .sub{padding:20px 0 0 20px;}
+  .mega-menu li .sub li {float:none;}
+  .mega-menu li .sub li.mega-hdr {float:left; padding:0 10px 10px 0;}
+  .mega-menu li .sub li.mega-hdr.last {}
+  .mega-menu li .sub li .mega-hdr-a {
+    color: #111;
+    font-weight: 600;
+    margin: 0 0 15px;
+    text-transform: uppercase;
+  }
+  .mega-menu li .sub li a {
+    color: #888;
+    font-size: 13px;
+    font-weight: 400;
+    margin: 0 0 8px;
+    padding: 0;
+    text-transform: none;
+  }
+  .mega-menu li .sub ul{}
+  .mega-menu li .sub ul li {}
+
+  .mega-menu li .non-mega .sub{padding:15px;}
+  .mega-menu li .non-mega .sub li{width:180px}
+
+  .mega-menu li .category-thumbnail{display: none;}
+
+}
+
+@media only screen and (max-width: 991px) {
+
+  .mega-menu{display: none;}
+
+  #tptnmobilemenu{position: absolute;}
+  #tptnmobilemenu .toggler{
+    color: #fff;
+    font-size: 21px;
+    position: static;
+    cursor: pointer;
+    display: block;
+    text-align: center;
+    width: 40px;
+    line-height: 40px;
+    height: 40px;
+  }
+  #tptnmobilemenu .toggler:after{font-family: "FontAwesome"; content: "\f0c9";}
+  #tptnmobilemenu .toggler.active:after{content: "\f00d";}
+  .mobilemenu{
+    background: #fff;
+    box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.2);
+    position: absolute;
+    left: 0;
+    width: 300px;
+    z-index: 101;
+  }
+  .mobilemenu,
+  .mobilemenu .category-thumbnail{display:none;}
+  .mobilemenu a {
+    border-bottom: 1px solid #e5e5e5;
+    padding: 10px;
+    display: block;
+  }
+  .mobilemenu a:hover {text-decoration:none;}
+  .mobilemenu ul li a {padding-left:20px;}
+  .mobilemenu ul ul li a {padding-left:30px;}
+  .mobilemenu .tglr {
+    color: #bbb;
+    font-size: 14px;
+    cursor: pointer;
+    float: right;
+    padding: 12px 10px 10px;
+  }
+
+}

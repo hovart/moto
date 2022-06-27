@@ -1,0 +1,31 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{contactform}prestashop>contactform_2b5c331edbfb83f6ff4cc01625078438'] = ' Dieses modul ermöglicht es ihnen, formulare zu erstellen ';
+$_MODULE['<{contactform}prestashop>contactform_455311c3a6177b6867d3560210c3b497'] = 'Sie müssen einen Aliasnamen für die Standardsprache definieren';
+$_MODULE['<{contactform}prestashop>contactform_2a81ce1d69a8c672b13f713fed8efbd7'] = ' Die email-adresse ist erforderlich ';
+$_MODULE['<{contactform}prestashop>contactform_0b2d48dcbfcf208bb1420f1438cf94c3'] = ' UngÜltige e-mail-adresse ';
+$_MODULE['<{contactform}prestashop>contactform_813502fbbe7c223aa8d196e44e6f9d69'] = 'Verwenden Sie nicht die id \"email\"';
+$_MODULE['<{contactform}prestashop>contactform_7e9d152fdb45b013d8ea99bc9c729e09'] = 'Mit Follow einander entfernt Beziehung.';
+$_MODULE['<{contactform}prestashop>contactform_11e097a3fda3012b8b31d92c11b0e218'] = 'Der Auftrag wurde erfolgreich geändert';
+$_MODULE['<{contactform}prestashop>contactform_5251010ec9e364492c236bf8b9983928'] = ' File Not Found ';
+$_MODULE['<{contactform}prestashop>contactform_3aa09611c7c5ca24cdfdc2e51900c56e'] = ' UngÜltiges Dateiformat ';
+$_MODULE['<{contactform}prestashop>contactform_296cf4e25f88a06a7505347ae2e799ed'] = ' Der Import wird erfolgreich abgeschlossen ';
+$_MODULE['<{contactform}prestashop>contactform_91720ea14f524428f4662c400d23f945'] = 'Ungültige privaten Schlüssel captcha';
+$_MODULE['<{contactform}prestashop>contactform_b0a0317739e7d20bfe0a77f1d1a2c314'] = ' Die Parameter wurden erfolgreich aktualisiert ';
+$_MODULE['<{contactform}prestashop>contactform_56818536f2626f65b39afc2bf7fa301e'] = 'Bitte füllen Sie alle Felder';
+$_MODULE['<{contactform}prestashop>contactform_8f10b2c5e527496bb1714a3bb61ef0fc'] = ' E-Mail gesendet ';
+$_MODULE['<{contactform}prestashop>contactform_e8b5edfba77a72e50f97eb8a01a2df4c'] = 'Die Standard-Formular, das Sie gewählt haben, ist bereits standardmäßig in einer anderen Beziehung verwendet.';
+$_MODULE['<{contactform}prestashop>contactform_b67dab78fdba7fd602e7f5267f60d344'] = 'Wir danken Ihnen, einen anderen zu wählen.';
+$_MODULE['<{contactform}prestashop>contactform_74d12d061321049178c4def2fbfc8bf4'] = 'Bitte wählen Sie mindestens ein Formular für die Beziehung.';
+$_MODULE['<{contactform}prestashop>contactform_6d93dd06c9fe2a16be4a19f9c29cd558'] = 'Sie müssen einen Titel in Bezug auf die Standardsprache angeben.';
+$_MODULE['<{contactform}prestashop>contactform_5189b084d0243e87e3b081ba79246129'] = 'Beziehung erfolgreich erstellt.';
+$_MODULE['<{contactform}prestashop>contactform_f1bc08d2efd58e54c883b73982090029'] = 'Elément créé avec succès.';
+$_MODULE['<{contactform}prestashop>contactform_04f20e56949e31d6a3f09093c1bb502c'] = 'Die Reihenfolge der Elemente wurde erfolgreich aktualisiert.';
+$_MODULE['<{contactform}prestashop>contactform_87e766df8626ee44169d2118e64e56de'] = ' Form erfolgreich gelöscht ';
+$_MODULE['<{contactform}prestashop>contactform_f7e90a6cff06e7c5e88b5f53227667f8'] = ' Fehler beim Löschen der Form ';
+$_MODULE['<{contactform}prestashop>contactform_da15480830e6520be7ec5efd2b3f3644'] = ' Field erfolgreich gelöscht ';
+$_MODULE['<{contactform}prestashop>contactform_5f2469bc7a8d592c06347e68af111ca2'] = ' Fehler aufgetreten beim Entfernen des Feldes ';
+$_MODULE['<{contactform}prestashop>contactform_1ca598e0329588e7b5eb1b85b38b8eda'] = ' Die Aktivierung Taste wurde geändert ';
+$_MODULE['<{contactform}prestashop>contactform_e526c15d66d1f28dabffc96f382325eb'] = 'Artikel gelöscht aufeinander folgen.';

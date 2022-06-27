@@ -1,0 +1,8 @@
+<objects>
+	<object type="customer" external-reference="demo-1">
+		<lastname>Lastname</lastname>
+		<firstname>Firstname</firstname>
+		<email>test@domain.tld</email>
+		<passwd modifier="Tools::encrypt">myPassword</passwd>
+	</object>
+</objects>

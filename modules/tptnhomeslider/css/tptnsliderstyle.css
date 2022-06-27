@@ -1,0 +1,66 @@
+#tptnhomeslider .owl-wrapper:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+/* display none until init */
+#tptnhomeslider{
+	display: none;
+	position: relative;
+	width: 100%;
+	-ms-touch-action: pan-y;
+}
+#tptnhomeslider .owl-wrapper{
+	display: none;
+	position: relative;
+	-webkit-transform: translate3d(0px, 0px, 0px);
+}
+#tptnhomeslider .owl-wrapper-outer{overflow: hidden;}
+#tptnhomeslider .owl-wrapper-outer.autoHeight{
+	-webkit-transition: height 500ms ease-in-out;
+	-moz-transition: height 500ms ease-in-out;
+	-ms-transition: height 500ms ease-in-out;
+	-o-transition: height 500ms ease-in-out;
+	transition: height 500ms ease-in-out;
+}
+	
+#tptnhomeslider .owl-item{float: left;}
+
+/* Styling Next and Prev buttons */
+#tptnhomeslider .owl-controls .owl-pagination{text-align:center;}
+#tptnhomeslider .owl-controls .owl-page{display:inline-block;}
+#tptnhomeslider .owl-controls .owl-page span{
+	background: #ccc;
+	display:block;
+	margin:0 7px 0 0;
+	width:10px;
+	height:10px;
+	cursor:pointer;
+}
+#tptnhomeslider .owl-controls .owl-page.active span{background:#444;}
+
+#tptnhomeslider .owl-buttons{}
+#tptnhomeslider .owl-buttons div{
+    background-image:url("../img/arrows.png");
+    background-repeat: no-repeat;
+    position:absolute;
+    top:45%;
+    height:45px;
+    width:45px;
+    cursor:pointer;
+}
+#tptnhomeslider .owl-buttons .owl-prev{left:0; background-position:0 0;}
+#tptnhomeslider .owl-buttons .owl-prev:hover{background-position:0 -45px;}
+#tptnhomeslider .owl-buttons .owl-next{right:0; background-position:-45px 0;}
+#tptnhomeslider .owl-buttons .owl-next:hover{background-position:-45px -45px;}
+
+/* mouse grab icon */
+.grabbing {cursor:url("../img/grabbing.png") 8 8, move;}
+/* preloading images */
+.owl-item.loading{
+	min-height: 150px;
+	background: url("../img/ajax-loader.gif") no-repeat center center;
+}

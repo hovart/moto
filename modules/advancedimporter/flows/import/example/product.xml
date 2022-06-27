@@ -1,0 +1,36 @@
+<products>
+	<product>
+		<name lang="fr">Nom</name>
+		<name lang="en">Name</name>
+		<description lang="fr">Description du produit</description>
+		<description lang="en">Product's description</description>
+		<price>19.99999</price>
+		<tax>FR Taux réduit (5.5%)</tax>
+		<images>
+			<insertion>replace</insertion> <!-- replace or add -->
+			<copy>move</copy> <!-- move or copy -->
+            <url>/modules/advancedimporter/views/img/media/01.jpg</url>
+            <url>/modules/advancedimporter/views/img/media/01.jpg</url>
+		</images>
+		<combinations>
+			<id>48</id>
+			<price>10.5</price>
+			<unit_price_impact>0</unit_price_impact>
+			<images>1</images>
+			<attributes>1</attributes>
+			<attributes>3</attributes>
+		</combinations>
+		<categorypath separator="&gt;"><![CDATA[test > test2 > test3]]></categorypath> <!-- Will create the categories automatically -->
+		<!-- <feature external-reference="feature-test-01" external-reference-value="feature-value-test-01" />-->
+		<feature id="3" id-value="16" />
+		<feature name="Test" name-value="Test Value" custom="1"/> <!-- Will create the features and features' value automatically -->
+	</product>
+	<product>
+		<name lang="fr">Nom 2</name>
+		<name lang="en">Name 2</name>
+		<description lang="fr">Description du produit 2</description>
+		<description lang="en">Product's description 2</description>
+		<price>18.589</price>
+		<tax>FR Taux réduit (5.5%)</tax>
+	</product>
+</products>

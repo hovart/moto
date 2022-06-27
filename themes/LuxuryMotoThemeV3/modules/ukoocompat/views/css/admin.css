@@ -1,0 +1,5 @@
+.icon-AdminUkooCompatParent:before{ content: "\f00c";}
+.process-icon-book:before{ content: "";}
+#content.bootstrap #ukoocompat_modal .panel{ margin-bottom: 0;}
+#content.bootstrap #ukoocompat_modal .panel .panel{ margin-bottom: 20px;}
+#content.bootstrap #ukoocompat_modal .panel .panel .panel-footer{ height: auto;}

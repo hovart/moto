@@ -1,0 +1,43 @@
+/** One-Page Checkout Styles **/
+#order-opc {}
+#order-opc .cart_navigation {margin-bottom: 50px;}
+#order-opc .page-heading.step-num {}
+#order-opc .page-heading.step-num span {margin: 0 5px 0 0;}
+#new_account_form h3.top-indent{margin-top: 50px;}
+#opc_new_account #login_form_content p.submit{margin: 0;}
+
+#order-opc .lost_password {
+  display: inline-block;
+  text-decoration: underline;
+  margin: 0 0 30px;
+}
+#order-opc .lost_password:hover {text-decoration: none;}
+#order-opc .title_block {}
+  #order-opc .opc-button {}
+  #order-opc ul.bullet {
+    color: #999;
+    margin-bottom: 15px; }
+  #order-opc .date-select {
+    padding-bottom: 10px; }
+  #order-opc .opc-add-save {
+    border-top: 1px solid #ddd;
+    margin-top: 30px;
+    padding-top: 30px; }
+  #order-opc #message {
+    margin-bottom: 20px; }
+  #order-opc #opc_payment_methods {
+    margin-bottom: 30px; }
+#order-opc #opc_payment_methods p.warning {}
+  #order-opc #opc_account {
+   }
+  #order-opc .address_delivery.select {
+    margin-bottom: 15px; }
+  #order-opc #address_invoice_form.form-group {
+    margin-bottom: 30px; }
+
+#order-opc .opc-main-block{margin: 0 0 50px;}
+
+#new_account_form .id_state,
+#new_account_form .dni,
+#new_account_form .postcode {
+  display: none; }

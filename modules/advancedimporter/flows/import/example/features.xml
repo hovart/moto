@@ -1,0 +1,9 @@
+<objects>
+	<object type="feature" external-reference="feature-test">
+		<name lang="en">Feature Test</name>
+	</object>
+	<object type="featureValue" external-reference="feature-value-test">
+		<value lang="en">Value Test</value>
+		<external_reference for="id_feature" external-reference="feature-test" type="feature"/>
+	</object>
+</objects>

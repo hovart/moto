@@ -1,0 +1,13 @@
+{shop_name}
+ 
+
+
+Mensaje de su Formulario {formtitle} ({date})
+
+
+Aquí está el mensaje
+
+{message}
+
+{shop_name} powered by PrestaShop™
+

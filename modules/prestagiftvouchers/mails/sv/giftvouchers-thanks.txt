@@ -1,0 +1,9 @@
+Thanks !
+
+Thanks for your purchase of the gift voucher, {customer_firstname} {customer_lastname} !
+
+We are pleased to offer you a gift voucher worth {giftvoucher_value} {giftvoucher_currency} that you can use on your next order by using the following code : {giftvoucher_code}.
+
+
+
+{shop_url} réalisé par PrestaShop™

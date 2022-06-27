@@ -1,0 +1,30 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{mailalerts}default>mailalerts-account_ae0e822b6fad0de61c231ef188997e92'] = 'Vous devez avoir un produit pour effacer une alerte.';
+$_MODULE['<{mailalerts}default>mailalerts-account_0d15d3afa8c174934ff0e43ce3b99bd3'] = 'Vous devez être identifié pour gérer vos alertes.';
+$_MODULE['<{mailalerts}default>mailalerts-account_a9839ad48cf107667f73bad1d651f2ca'] = 'Aucun template trouvé';
+$_MODULE['<{mailalerts}default>mailalerts_fd30254803e8db32521d3390131a44da'] = 'Alertes email';
+$_MODULE['<{mailalerts}default>mailalerts_2d51f4a7ab8a12c4f35b507019523b8c'] = 'Envoie des notifications par e-mail aux clients et aux marchands.';
+$_MODULE['<{mailalerts}default>mailalerts_8fd3b84964bd6dfec8095f658d200b29'] = 'Etes-vous sûr de vouloir supprimer toutes les notifications clients ?';
+$_MODULE['<{mailalerts}default>mailalerts_c1ee76f076a5b97e3b4b0c0e5703246e'] = 'Mise à jour des réglages impossible';
+$_MODULE['<{mailalerts}default>mailalerts_ce241f25e003bafeb9fce6857d8f027f'] = 'Merci d\'entrer une (ou plusieurs) addresse(s) email';
+$_MODULE['<{mailalerts}default>mailalerts_29aae9c646337554f4de7ae29050c39f'] = 'E-mail invalide :';
+$_MODULE['<{mailalerts}default>mailalerts_7cb9a154f101c674c945f88dad5c5e28'] = 'Aucun message';
+$_MODULE['<{mailalerts}default>mailalerts_1d744a9ad1dac20645cfc4a36b77323b'] = 'image(s)';
+$_MODULE['<{mailalerts}default>mailalerts_9137796c15dd92e5553c3f29574d0968'] = 'Code de réduction :';
+$_MODULE['<{mailalerts}default>mailalerts_58a20987a1f4e45d508b4491614a2c57'] = 'Notifications pour le client';
+$_MODULE['<{mailalerts}default>mailalerts_6f974bbda9064a9c0836370dbf5a6076'] = 'Notifications pour le marchand';
+$_MODULE['<{mailalerts}default>mailalerts-account_36c94bd456cf8796723ad09eac258aef'] = 'Gérer mon compte';
+$_MODULE['<{mailalerts}default>mailalerts-account_d95cf4ab2cbf1dfb63f066b50558b07d'] = 'Mon compte';
+$_MODULE['<{mailalerts}default>mailalerts-account_4edfd10d0bb5f51e0fd2327df608b5a8'] = 'Mes alertes';
+$_MODULE['<{mailalerts}default>mailalerts-account_1063e38cb53d94d386f21227fcd84717'] = 'Supprimer';
+$_MODULE['<{mailalerts}default>mailalerts-account_8bb23c2ae698681ebb650f43acb54dab'] = 'Aucune alerte mail.';
+$_MODULE['<{mailalerts}default>mailalerts-account_0b3db27bc15f682e92ff250ebb167d4b'] = 'Retour à votre compte';
+$_MODULE['<{mailalerts}default>my-account_4edfd10d0bb5f51e0fd2327df608b5a8'] = 'Mes alertes';
+$_MODULE['<{mailalerts}default>product_67135a14d3ac4f1369633dd006d6efec'] = 'votre@email.com';
+$_MODULE['<{mailalerts}default>product_61172eb93737ebf095d3fa02119ce1df'] = 'Demande de notification enregistrée';
+$_MODULE['<{mailalerts}default>product_bb51a155575b81f4a07f7a9bafdc3b01'] = 'Vous avez déjà une alerte pour ce produit';
+$_MODULE['<{mailalerts}default>product_900f8551b29793ecb604a545b2059cc1'] = 'Votre adresse e-mail est invalide';
+$_MODULE['<{mailalerts}default>product_546e02eaa9a986c83cc347e273269f2c'] = 'Prévenez-moi lorsque le produit est disponible';

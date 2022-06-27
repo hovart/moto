@@ -1,0 +1,8 @@
+<products>
+	<product external-reference="demo-1">
+		<name lang="fr">Nom</name>
+		<description lang="fr">Description du produit</description>
+		<price>20</price>
+		<tax>FR Taux réduit (5.5%)</tax>
+	</product>
+</products>

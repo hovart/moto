@@ -1,0 +1,9 @@
+#product_list p.compare{
+color: #333;
+font-size: 13px;
+margin: 12px 0 0;
+padding: 0;
+text-transform: uppercase;
+position: absolute;
+bottom: 10px;
+}

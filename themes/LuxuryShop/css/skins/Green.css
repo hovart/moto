@@ -1,0 +1,69 @@
+/**Global**/
+button:hover,
+input.button_mini:hover,
+input.button_small:hover,
+input.button:hover,
+input.button_large:hover,
+input.exclusive_mini:hover,
+input.exclusive_small:hover,
+input.exclusive:hover,
+input.exclusive_large:hover,
+a.button_mini:hover,
+a.button_small:hover,
+a.button:hover,
+a.button_large:hover,
+a.exclusive_mini:hover,
+a.exclusive_small:hover,
+a.exclusive:hover,
+a.exclusive_large:hover,
+span.button_mini:hover,
+span.button_small:hover,
+span.button:hover,
+span.button_large:hover,
+span.exclusive_mini:hover,
+span.exclusive_small:hover,
+span.exclusive:hover,
+span.exclusive_large:hover {background:#4DC7A0;}
+#left_column .block .title_block{border-bottom:3px solid #4DC7A0;}
+#left_column .block .title_block a:hover {color: #4DC7A0;}
+#left_column .block_content li a:hover{color:#4DC7A0;}
+ul.pagination li.current span{background:#4DC7A0;}
+ul.step li.step_current span,
+ul.step li.step_current_end span {background:#4DC7A0;}
+.breadcrumb a:hover{color:#4DC7A0;}
+#back-top:hover{background:#4DC7A0;}
+.product-name:hover,
+.product-name a:hover{color:#4DC7A0;}
+#subcategories ul li .subcategory-name:hover{color:#4DC7A0;}
+.sdsarticleCat .sdstitle_block a:hover,
+.sdsarticleCat .sdsreadMore a:hover,
+#articleRelated a:hover{color:#4DC7A0;}
+/** Prices **/
+.tptncarousel .price,
+ul.product_list .price,
+.content_prices .our_price_display {color: #4DC7A0;}
+/**Language-Curency**/
+#languages-block-top ul li.selected span,
+#languages-block-top ul li:hover a,
+#currencies-block-top ul li.selected a,
+#currencies-block-top ul li:hover a{color:#4DC7A0;}
+/**Top menu**/
+.mega-menu > li.mega-hover > a {background: #4DC7A0;}
+.mega-menu li .sub li a:hover{color: #4DC7A0;}
+#tptnmobilemenu .toggler {background:#4DC7A0;}
+/** HomePage **/
+.tabs_title li a:hover,
+.tabs_title li a.selected,
+.tptncarousel .block_title span{border-bottom: 3px solid #4DC7A0;}
+#latest-blog a:hover{color: #4DC7A0;}
+.flex-direction-nav a:hover,
+.tptncarousel .owl-buttons div:hover {background:#4DC7A0;}
+/**Product-list**/
+.tptncarousel .functional-buttons a:hover,
+ul.product_list .functional-buttons a:hover{background:#4DC7A0;}
+/**Product**/
+.pb-right-column #product_manufacturer a {color: #4DC7A0;}
+.idTabs a:hover,
+.idTabs .selected{border-bottom: 3px solid #4DC7A0;}
+/**Product comments**/
+#product_comments_block_extra a:hover{color:#4DC7A0;}

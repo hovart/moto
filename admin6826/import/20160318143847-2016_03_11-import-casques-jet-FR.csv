@@ -1,0 +1,2085 @@
+﻿id;Active (0/1);Name *;Categories;Price tax excluded or Price tax included;Tax rules ID;Wholesale price;On sale (0/1);Discount amount;Discount percent;Discount from (yyyy-mm-dd);Discount to (yyyy-mm-dd);SKU;Supplier reference #;Supplier;Manufacturer;EAN13;UPC;Ecotax;Width;Height;Depth;Weight;Quantity;Minimal quantity;Visibility;Additional shipping cost;Unity;Unit price;Short description;Description;Tags (x,y,z...);Meta title;Meta keywords;Meta description;URL rewritten;Text when in stock;Text when backorder allowed;Available for order (0 = No, 1 = Yes);Product available date;Product creation date;Show price (0 = No, 1 = Yes);image url;Delete existing images (0 = No, 1 = Yes);Feature(Name:Value:Position);Available online only (0 = No, 1 = Yes);Condition;Customizable (0 = No, 1 = Yes);Uploadable files (0 = No, 1 = Yes);Text fields (0 = No, 1 = Yes);Out of stock;ID / Name of shop;Advanced stock management;Depends On Stock;Warehouse
+80001;1;Rocc Casque Classic Rouge;198;91.67;1;45.84;;;;;;9212;9212;Freidig;Rocc;;;;;;;;0;;;;;;"<ul>
+     <li> Casque classique </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable < li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : ABS </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable <li>
+     <li> Poids env. 1100 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;https://www.motogoodeal.ch/img/import/9212_0.jpg;0;Type de casque:Jet:1,Couleur:rouge: 2,Genre:Unisexe:3,Matériel :ABS:4,Poids:env.1100g :5,Intérieur tout confort : antibactérien, amovible, lavable:6,Fermeture:Quick Release:7;;new;0;0;0;0;0;0;0;0
+80002;1;Rocc Casque Classic Blanc;198;91.67;1;45.84;;;;;;9216;9216;Freidig;Rocc;;;;;;;;0;;;;;;"<ul>
+     <li> Casque classique </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable < li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : ABS </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable <li>
+     <li> Poids env. 1100 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;https://www.motogoodeal.ch/img/import/9216_0.jpg;0;Type de casque:Jet:1,Couleur:blanc: 2,Genre:Unisexe:3,Matériel :ABS:4,Poids:env.1100g :5,Intérieur tout confort : antibactérien, amovible, lavable:6,Fermeture:Quick Release:7;;new;0;0;0;0;0;0;0;0
+80004;1;Mr 202 Casque Jet / Ecran Solaire;198;156.48;1;78.24;;;;;;MR202 WS;MR202 WS;Freidig;MR 202;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’une visière escamotable, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;https://www.motogoodeal.ch/img/import/MR202 WS 069 S_0.jpg;0;Type de casque:Jet:1,Couleur:noir blanc:2,Genre:Unisexe:3;;new;0;0;0;0;0;0;0;0
+80010;1;Premier Casque Retro Noir Blanc;198;184.26;1;147.408;;;;;;40152;40152;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’une visière escamotable, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;https://www.motogoodeal.ch/img/import/40152 S_0.jpg;0;Type de casque:Jet:1,Couleur:noir blanc:2,Genre:Unisexe:3;;new;0;0;0;0;0;0;0;0
+80011;1;Premier Casque Jt3 Retro;198;156.48;1;125.184;;;;;;43201;43201;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’une visière solaire escamotable, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Fibre de carbone </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable <li>
+     <li> Poids env. 1150g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43201_0.jpg;0;Type de casque:Jet:1,Couleur:noir,blanc:2,Genre:Unisexe:3,Coque:fibre de carbonne:4,Ecran anti-rayures:oui:5,Poids:1150g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80012;1;Premier Casque Jt2 Tt2Bm;198;165.74;1;132.592;;;;;;43241;43241;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’une visière solaire escamotable, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Fibre de carbone </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable <li>
+     <li> Poids env. 1150g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43241_0.jpg;0;Type de casque:Jet:1,Couleur:noir,rouge,blanc:2,Genre:Unisexe:3,Coque:fibre de carbonne:4,Ecran anti-rayures:oui:5,Poids:1150g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80013;1;Rocc 140 Casque Demi-Jet Titan Metallic;198;91.67;1;73.336;;;;;;9140;9140;Freidig;Rocc;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’une visière solaire escamotable, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable <li>
+     <li> Poids env. 1390g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;https://www.motogoodeal.ch/img/import/9140 S 900 S_0.jpg;0;Type de casque:Jet:1,Couleur:titan métallique:2,Genre:Unisexe:3,Ecran anti-rayures:oui:4,Poids:1390g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7;;new;0;0;0;0;0;0;0;0
+80014;1;Rocc 140 Casque Demi-Jet Blanc ;198;91.67;1;73.336;;;;;;9140 PW;9140 PW;Freidig;Rocc;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’une visière solaire escamotable, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable <li>
+     <li> Poids env. 1390g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;https://www.motogoodeal.ch/img/import/9140 PW 006 S_0.jpg;0;Type de casque:Jet:1,Couleur:blanc:2,Genre:Unisexe:3,Ecran anti-rayures:oui:4,Poids:1390g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7;;new;0;0;0;0;0;0;0;0
+80015;1;Rocc 180 Titan Metallic;198;175;1;140;;;;;;1807;1807;Freidig;Rocc;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’une visière solaire escamotable, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Fibre de verre </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable <li>
+     <li> Poids env. 1250g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;https://www.motogoodeal.ch/img/import/1907_0.jpg;0;Type de casque:Jet:1,Couleur:titan métallique:2,Genre:Unisexe:3,Coque:fibre de verre:4,Ecran anti-rayures:oui:5,Poids:1250g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8 ;;new;0;0;0;0;0;0;0;0
+80016;1;Rocc 180 Noir Mat;198;175;1;140;;;;;;1809;1809;Freidig;Rocc;;;;;;;;0;;;;;;"<ul>
+     <li> Casque avec écran solaire intégré </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable < li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière solaire escamotable, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Fibre de verre </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable <li>
+     <li> Poids env. 1250g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;https://www.motogoodeal.ch/img/import/1809 S_0.jpg,https://www.motogoodeal.ch/img/import/1809 S_1.jpg;0;Type de casque:Jet:1,Couleur:noir mat:2,Genre:Unisexe:3,Coque:fibre de verre:4,Ecran anti-rayures:oui:5,Poids:1250g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8 ;;new;0;0;0;0;0;0;0;0
+80017;1;Premier Vintage Dlit Vert/Rouge/Blanc;198;300.93;1;240.744;;;;;;43402;43402;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire escamotable légèrement teintée </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable < li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière solaire escamotable légèrement teintée, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable <li>
+     <li> Poids env. 990g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43402_0.jpg;0;Type de casque:Jet:1,Couleur:noir rouge blanc:2,Genre:Unisexe:3;;new;0;0;0;0;0;0;0;0
+80018;1;Premier Vintage U9 Noir Brillant;198;276.85;1;221.48;;;;;;43410;43410;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire escamotable légèrement teintée </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable < li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière solaire escamotable légèrement teintée, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable <li>
+     <li> Poids env. 990g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43410_0.jpg;0;Type de casque:Jet:1,Couleur:noir brillant:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80019;1;Premier Vintage Carbon;198;184.26;1;147.408;;;;;;43417;43417;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire escamotable légèrement teintée </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable < li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière solaire escamotable légèrement teintée, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable <li>
+     <li> Poids env. 990g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43417_0.jpg;0;Type de casque:Jet:1,Couleur:carbonne:2,Genre:Unisexe:3,Coque:Carbon-Aramidic:4,Ecran anti-rayures:oui:5,Poids:900g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:boucle double-D:9;;new;0;0;0;0;0;0;0;0
+80020;1;Premier Vintage Vuk Uk England;198;300.93;1;240.744;;;;;;43421;43421;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire escamotable légèrement teintée </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable < li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière solaire escamotable légèrement teintée, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable <li>
+     <li> Poids env. 990g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43421_0.jpg;0;Type de casque:Jet:1,Couleur:drapeau UK:2,Genre:Unisexe:3,Ecran anti-rayures:oui:4,Double écran solaire:non:5,Intérieur démontable et lavable:oui:6;;new;0;0;0;0;0;0;0;0
+80035;1;Premier Vintage Dlbm Noir/Blanc/Or ;198;313.89;1;251.112;;;;;;43609;43609;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire escamotable légèrement teintée </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"Visière escamotable, légèrement teintée, fermeture Quick
+Release, poids env. 900g, homologué ece 22-05
+Intérieur tout confort: antibactérien, amovible, lavable
+Matériel: Dyneema-Carbon-Aramidic";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43609_0.jpg;0;Type de casque:Jet:1,Couleur:noir blanc or:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:boucle micrométrique ;;new;0;0;0;0;0;0;0;0
+80038;1;Premier Clio Y0 Blanc/Noir;198;137.96;1;110.368;;;;;;43616;43616;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’une visière escamotable, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43616_0.jpg;0;Type de casque:Jet:1,Couleur:blanc noir:2,Genre:Unisexe:3,Double écran solaire:non:4;;new;0;0;0;0;0;0;0;0
+80039;1;Premier Clio Y9Bm Noir/Blanc;198;137.96;1;110.368;;;;;;43617;43617;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’une visière escamotable, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43617_0.jpg;0;Type de casque:Jet:1,Couleur:noir blanc:2,Genre:Unisexe:3,Double écran solaire:non:4;;new;0;0;0;0;0;0;0;0
+80040;1;Premier Eos U9Bm Noir Mat;198;110.19;1;88.152;;;;;;43618;43618;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’une visière escamotable, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43618_0.jpg;0;Type de casque:Jet:1,Couleur:noir mat:2,Genre:Unisexe:3,Ecran anti-rayures:oui:4, Double écran solaire:non:5,Intérieur démontable et lavable:oui:6;;new;0;0;0;0;0;0;0;0
+80041;1;Rocc 180 Rouge Metallic;198;165.74;1;132.592;;;;;;1812;1812;Freidig;Rocc;;;;;;;;0;;;;;;"<ul>
+     <li> Visière claire et anti-rayures avec aération dynamique réglable </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable < li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est disponible avec 2 tailles de coque. Il est doté d’un écran solaire intégré, d’une visière claire, anti-rayures avec aération réglable, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Fibre </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable <li>
+     <li> Poids env. 1.250g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/1812_0.jpg;0;Type de casque:Jet:1,Couleur:rouge métallique:2,Genre:Unisexe:3,Coque:fibre de verre:4,Ecran anti-rayures:oui:5,Poids:1250g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8 ;;new;0;0;0;0;0;0;0;0
+80042;1;Rocc 180 Neon Jaune;198;165.74;1;132.592;;;;;;1818;1818;Freidig;Rocc;;;;;;;;0;;;;;;"<ul>
+     <li> Visière claire et anti-rayures avec aération dynamique réglable </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable < li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est disponible avec 2 tailles de coque. Il est doté d’un écran solaire intégré, d’une visière claire, anti-rayures avec aération réglable, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Fibre </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable <li>
+     <li> Poids env. 1.250g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/1818_0.jpg;0;Type de casque:Jet:1,Couleur:neon:2,Genre:Unisexe:3,Coque:fibre de verre:4,Ecran anti-rayures:oui:5,Poids:1250g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8 ;;new;0;0;0;0;0;0;0;0
+80043;1;Rocc 180 Titan Metallic/Blanc;198;156.48;1;125.184;;;;;;1819;1819;Freidig;Rocc;;;;;;;;0;;;;;;"<ul>
+     <li> Visière claire et anti-rayures avec aération dynamique réglable </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable < li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est disponible avec 2 tailles de coque. Il est doté d’un écran solaire intégré, d’une visière claire, anti-rayures avec aération réglable, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Fibre </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable <li>
+     <li> Poids env. 1.250g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/1819_0.jpg;0;Type de casque:Jet:1,Couleur:titan métallique blanc:2,Genre:Unisexe:3,Coque:fibre de verre:4,Ecran anti-rayures:oui:5,Poids:1250g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8 ;;new;0;0;0;0;0;0;0;0
+80044;1;Rocc 190 Argent Mat;198;115.74;1;92.592;;;;;;1907;1907;Freidig;Rocc;;;;;;;;0;;;;;;"<ul>
+     <li> Visière claire et anti-rayures </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable < li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’un écran solaire intégré, d’une visière claire, anti-rayures, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable <li>
+     <li> Poids env. 1.050g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/1907_0.jpg;0;Type de casque:Jet:1,Couleur:argent mat:2,Genre:Unisexe:3,Poids:1050g:4,Double écran solaire:non:5;;new;0;0;0;0;0;0;0;0
+80045;1;Rocc 190 Noir Mat;198;115.74;1;92.592;;;;;;1909;1909;Freidig;Rocc;;;;;;;;0;;;;;;"<ul>
+     <li> Visière claire et anti-rayures </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable < li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’un écran solaire intégré, d’une visière claire, anti-rayures, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable <li>
+     <li> Poids env. 1.050g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/1909_0.jpg;0;Type de casque:Jet:1,Couleur:noir:2,Genre:Unisexe:3,Poids:1050g:4,Double écran solaire:non:5;;new;0;0;0;0;0;0;0;0
+80046;1;Rocc 300 Neon Orange;198;110.19;1;88.152;;;;;;3007;3007;Freidig;Rocc;;;;;;;;0;;;;;;"<ul>
+     <li> Ecran solaire interne anti-rayures </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul>";"<p>short <strong>Ce casque est doté d’un écran solaire interne anti-rayures, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/3007_0.jpg;0;Type de casque:Jet:1,Couleur:orange:2,Genre:Unisexe:3, Ecran anti-rayures:oui:4,Double écran solaire:non:5,Intérieur démontable et lavable:oui:6;;new;0;0;0;0;0;0;0;0
+80047;1;Premier Vintage He9;198;300.93;1;240.744;;;;;;43418 M;43418 M;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Ecran solaire interne anti-rayures </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul>";"<p>short <strong>Ce casque est doté d’un écran solaire interne anti-rayures, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : fibre de carbone </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;https://www.motogoodeal.ch/img/import/43418 M.jpg;0;Type de casque:Jet:1,Couleur:noir:2,Genre:Unisexe:3,Coque:fibre de carbonne:4,Intérieur démontable et lavable:oui:5;;new;0;0;0;0;0;0;0;0
+80048;1;Mr 214 Noir Mat U9Bm;198;156.48;1;125.184;;;;;;MR214 MA;MR214 MA;Freidig;MR 214;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’une visière escamotable, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/MR214%20MA_0.jpg;0;Type de casque:Jet:1,Couleur:noir mat:2,Genre:Unisexe:3;;new;0;0;0;0;0;0;0;0
+80049;1;Mr 214 Blanc/Noir G8 ;198;87.96;1;70.368;;;;;;MR214 WS;MR214 WS;Freidig;MR 214;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’une visière escamotable, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/MR214%20WS_0.jpg;0;Type de casque:Jet:1,Couleur:noir blanc:2,Genre:Unisexe:3;;new;0;0;0;0;0;0;0;0
+80050;1;M.Robert 313 Noir Mat;198;156.48;1;125.184;;;;;;MR313 MA;MR313 MA;Freidig;M.Robert;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’une visière escamotable, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/MR313%20MA_0.jpg;0;Type de casque:Jet:1,Couleur:noir mat:2,Genre:Unisexe:3;;new;0;0;0;0;0;0;0;0
+80051;1;M.Robert 313 Blanc ;198;119.44;1;95.552;;;;;;MR313 W;MR313 W;Freidig;M.Robert;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’une visière escamotable, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/MR313%20W_0.jpg;0;Type de casque:Jet:1,Couleur:blanc:2,Genre:Unisexe:3;;new;0;0;0;0;0;0;0;0
+80052;1;Rocc Casque Classic Oliv Mat Star;198;91.67;1;73.336;;;;;;9414-;9414-;Freidig;Rocc;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’une visière escamotable, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/9414-_0.jpg;0;Type de casque:Jet:1,Couleur:noir:2,Genre:Unisexe:3;;new;0;0;0;0;0;0;0;0
+80053;1;Rocc Casque Classic Noir Mat Flag;198;91.67;1;73.336;;;;;;9419-;9419-;Freidig;Rocc;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’une visière escamotable, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/9419-_0.jpg;0;Type de casque:Jet:1,Couleur:noir:2,Genre:Unisexe:3;;new;0;0;0;0;0;0;0;0
+80054;1;Premier Bliss U9 Bm Noir Mat;198;165.74;1;132.592;;;;;;43261-;43261-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Ecran solaire interne anti-rayures </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul>";"<p>short <strong>Ce casque est doté d’un écran solaire interne anti-rayures, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : Thermoplastic </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43261_0.jpg;0;Type de casque:Jet:1,Couleur:noir mat:2,Genre:Homme:3,Coque:thermoplastique:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80055;1;Premier Vintage Ck Race Flag Noir Brillant;198;313.89;1;251.112;;;;;;43404-;43404-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Ecran solaire interne anti-rayures </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul>";"<p>short <strong>Ce casque est doté d’un écran solaire interne anti-rayures, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : Fibre tri-composite </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43404_0.jpg;0;Type de casque:Jet:1,Couleur:noir:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80056;1;"Premier Vintage Ck One Orange ""One""";198;313.89;1;251.112;;;;;;434071-;434071-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Ecran solaire interne anti-rayures </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul>";"<p>short <strong>Ce casque est doté d’un écran solaire interne anti-rayures, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : Fibre tri-composite </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/434071-_0.jpg;0;Type de casque:Jet:1,Couleur:orange:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80057;1;Premier Vintage Ck One Old Style Argent Race Flag;198;341.67;1;273.336;;;;;;43409-;43409-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Ecran solaire interne anti-rayures </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul>";"<p>short <strong>Ce casque est doté d’un écran solaire interne anti-rayures, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : Fibre tri-composite </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43409-_0.jpg;0;Type de casque:Jet:1,Couleur:argent:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80058;1;"Premier Vintage Ck One Old Style Argent ""One""";198;341.67;1;273.336;;;;;;434091-;434091-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Ecran solaire interne anti-rayures </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul>";"<p>short <strong>Ce casque est doté d’un écran solaire interne anti-rayures, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : Fibre tri-composite </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/434091-_0.jpg;0;Type de casque:Jet:1,Couleur:argent:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80059;1;Premier Vintage U12 Jaune;198;276.85;1;221.48;;;;;;43411-;43411-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Ecran solaire interne anti-rayures </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul>";"<p>short <strong>Ce casque est doté d’un écran solaire interne anti-rayures, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : Fibre tri-composite </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43411-_0.jpg;0;Type de casque:Jet:1,Couleur:noir:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80060;1;Premier Vintage U2 Rouge;198;276.85;1;221.48;;;;;;43412-;43412-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Ecran solaire interne anti-rayures </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul>";"<p>short <strong>Ce casque est doté d’un écran solaire interne anti-rayures, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : Fibre tri-composite </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43412-_0.jpg;0;Type de casque:Jet:1,Couleur:rouge:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80061;0;Premier Vintage U9 Bm Noir Mat;198;276.85;1;221.48;;;;;;43419-;43419-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Ecran solaire interne anti-rayures </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul>";"Casque avec visière solaire escamotable, légèrement teintée, fermeture Quick Release, poids env. 990 g, homologué ece 22-05
+
+Matériel: Dyneema-Carbon-Aramidic
+Intérieur tout confort: antibactérien, amovible, lavable";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43419-_0.jpg;0;Type de casque:Jet:1,Couleur:noir mat:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80062;1;Premier Vintage Flag Usa Bm Noir Mat;198;313.89;1;251.112;;;;;;43423;43423;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Ecran solaire interne anti-rayures </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul>";"<p>short <strong>Ce casque est doté d’un écran solaire interne anti-rayures, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : Fibre tri-composite </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43423_0.jpg;0;Type de casque:Jet:1,Couleur:noir:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80063;1;Premier Vintage Confederate 9Bm Noir Mat;198;313.89;1;251.112;;;;;;43424-;43424-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Ecran solaire interne anti-rayures </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul>";"<p>short <strong>Ce casque est doté d’un écran solaire interne anti-rayures, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : Fibre tri-composite </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43424-_0.jpg;0;Type de casque:Jet:1,Couleur:noir mat:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80065;1;Premier Vintage Bm Star Camouflage;198;313.89;1;251.112;;;;;;43444-;43444-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Ecran solaire interne anti-rayures </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul>";"<p>short <strong>Ce casque est doté d’un écran solaire interne anti-rayures, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : Fibre tri-composite </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43444_0.jpg;0;Type de casque:Jet:1,Couleur:camouflage:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80067;1;Premier Vintage Star Camo Argent;198;313.89;1;251.112;;;;;;43448-;43448-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Ecran solaire interne anti-rayures </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul>";"<p>short <strong>Ce casque est doté d’un écran solaire interne anti-rayures, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : Fibre tri-composite </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43448-_0.jpg;0;Type de casque:Jet:1,Couleur:camouflage:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80069;1;Premier Vintage Fl 9Bm Noir Mat;198;313.89;1;251.112;;;;;;43450-;43450-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Ecran solaire interne anti-rayures </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul>";"<p>short <strong>Ce casque est doté d’un écran solaire interne anti-rayures, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : Fibre tri-composite </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43450-_0.jpg;0;Type de casque:Jet:1,Couleur:noir mat:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80070;1;Premier Vintage Tr8 Blanc Metallic;198;313.89;1;251.112;;;;;;43451-;43451-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Ecran solaire interne anti-rayures </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul>";"<p>short <strong>Ce casque est doté d’un écran solaire interne anti-rayures, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : Fibre tri-composite </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43451-_0.jpg;0;Type de casque:Jet:1,Couleur:blanc:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80071;1;Premier Vintage Skm 18Bm Blanc Mat;198;313.89;1;251.112;;;;;;43453-;43453-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Ecran solaire interne anti-rayures </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul>";"<p>short <strong>Ce casque est doté d’un écran solaire interne anti-rayures, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : Fibre tri-composite </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43453-_0.jpg;0;Type de casque:Jet:1,Couleur:blanc mat:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80073;1;Premier Vintage 9 Bm Vanity Noir Mat;198;313.89;1;251.112;;;;;;43455-;43455-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable légèrement teintée </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière escamotable légèrement teintée, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Real Titanium-Vectran-Carbon </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 900 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43455-_0.jpg;0;Type de casque:Jet:1,Couleur:noir:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80075;1;Premier Vintage Skm 19 Noir;198;313.89;1;251.112;;;;;;43457-;43457-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable  </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’une visière escamotable, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : Dyneema, carbone, aramide et résine époxy </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43457-_0.jpg;0;Type de casque:Jet:1,Couleur:noir:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80076;1;Premier Vintage Pin Up Old Style Silver;198;341.67;1;273.336;;;;;;43458-;43458-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire anti-rayures  </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’un écran solaire interne anti-rayures, et d’un système de ventilation Dynamic® pour une meilleure aération du casque. </strong></p>
+<ul>
+     <li> Matériel : Dyneema, Carbone et Aramide </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43458-_0.jpg;0;Type de casque:Jet:1,Couleur:argent:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80077;1;Premier Vintage Pin Up Gold;198;313.89;1;251.112;;;;;;43459-;43459-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire anti-rayures  </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’un écran solaire interne anti-rayures, et d’un système de ventilation Dynamic® pour une meilleure aération du casque. </strong></p>
+<ul>
+     <li> Matériel : Dyneema, Carbone et Aramide </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43459-_0.jpg;0;Type de casque:Jet:1,Couleur:or:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80078;1;Premier Vintage Pin Up U8 Bm;198;313.89;1;251.112;;;;;;43460-;43460-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire anti-rayures  </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’un écran solaire interne anti-rayures, et d’un système de ventilation Dynamic® pour une meilleure aération du casque. </strong></p>
+<ul>
+     <li> Matériel : Dyneema, Carbone et Aramide </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43460-_0.jpg;0;Type de casque:Jet:1,Couleur:blanc:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80079;1;Premier Vintage Pin Up Military;198;313.89;1;251.112;;;;;;43461-;43461-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire anti-rayures  </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’un écran solaire interne anti-rayures, et d’un système de ventilation Dynamic® pour une meilleure aération du casque. </strong></p>
+<ul>
+     <li> Matériel : Dyneema, Carbone et Aramide </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43461-_0.jpg;0;Type de casque:Jet:1,Couleur:militaire:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80080;1;Premier Vintage Old Style Argent Dekor;198;341.67;1;273.336;;;;;;43462-;43462-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire anti-rayures  </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’un écran solaire interne anti-rayures, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : Dyneema, Carbone et Aramide </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;https://www.motogoodeal.ch/img/import/43458-L_0.jpg;0;Type de casque:Jet:1,Couleur:argent:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80081;1;Premier Vintage Old Style Argent;198;341.67;1;273.336;;;;;;43463-;43463-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire anti-rayures  </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’un écran solaire interne anti-rayures, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : Dyneema, Carbone et Aramide </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;https://www.motogoodeal.ch/img/import/43463-.jpg;0;Type de casque:Jet:1,Couleur:argent:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80082;1;Premier Vintage Old Style Orange;198;341.67;1;273.336;;;;;;43464-;43464-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire anti-rayures  </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’un écran solaire interne anti-rayures, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : Dyneema, Carbone et Aramide </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;https://www.motogoodeal.ch/img/import/43464-.jpg;0;Type de casque:Jet:1,Couleur:orange:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80083;1;Premier Vangarde Star Carbon;198;369.44;1;295.552;;;;;;43480-;43480-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire rétractable anti-rayures  </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’un écran solaire interne rétractable anti-rayures, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : Fibre de carbonne </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 1000 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43480-_0.jpg;0;Type de casque:Jet:1,Couleur:carbonne:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:1100g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80084;1;Premier Vangarde U9 Bm Noir Mat;198;295.37;1;236.296;;;;;;43481-;43481-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire rétractable anti-rayures  </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’un écran solaire interne rétractable anti-rayures, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : Fibre de carbonne </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 1000 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43481-_0.jpg;0;Type de casque:Jet:1,Couleur:noir:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:1100g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80085;1;Premier Eos Ed 9 Bm Noir Mat Race;198;110.19;1;88.152;;;;;;43604-;43604-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire intégré anti-rayures  </li>
+     <li> Intérieur tout confort: antibactérien </li>
+     <li> Fermeture Quick Release </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’un écran solaire clair intégré anti-rayures, et d’une fermeture à Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Thermoplast </li>
+     <li> Intérieur tout confort : antibactérien </li>
+     <li> Poids : env. 1000 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43604-_0.jpg;0;Type de casque:Jet:1,Couleur:blanc gris:2,Genre:Unisexe:3,Ecran anti-rayures:oui:4, Double écran solaire:non:5,Intérieur démontable et lavable:oui:6;;new;0;0;0;0;0;0;0;0
+80086;1;Premier Eos U8 Blanc;198;110.19;1;88.152;;;;;;43605-;43605-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire intégré anti-rayures  </li>
+     <li> Intérieur tout confort: antibactérien </li>
+     <li> Fermeture Quick Release </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’un écran solaire clair intégré anti-rayures, et d’une fermeture à Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Thermoplast </li>
+     <li> Intérieur tout confort : antibactérien </li>
+     <li> Poids : env. 1000 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43605-_0.jpg;0;Type de casque:Jet:1,Couleur:blanc:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80087;1;Premier Demy Pepe U8 Blanc;198;202.78;1;162.224;;;;;;43612-;43612-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire anti-rayures  </li>
+     <li> Intérieur tout confort: antibactérien </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’un écran solaire anti-rayures, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : Carbone et Aramide </li>
+     <li> Intérieur tout confort : antibactérien </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43612_0.jpg;0;Type de casque:Jet:1,Couleur:blanc:2,Genre:Femme:3;;new;0;0;0;0;0;0;0;0
+80088;1;Premier Free Evo U8 Blanc Brillant;198;258.33;1;206.664;;;;;;43620-;43620-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Ecran interne fumé anti-rayures  </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’un écran interne fumé anti-rayures, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : Dyneema, Carbone et Aramide </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 1000 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43620_0.jpg;0;Type de casque:Jet:1,Couleur:blanc:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:1000g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80089;1;Premier Free Evo U8 Noir Brillant;198;258.33;1;206.664;;;;;;43621-;43621-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Ecran interne fumé anti-rayures  </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’un écran interne fumé anti-rayures, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : Dyneema, Carbone et Aramide </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 1000 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43621_0.jpg;0;Type de casque:Jet:1,Couleur:noir:2,Genre:Unisexe:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:1000g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80091;1;Premier Free Evo U9 Bm Noir Mat;198;239.81;1;191.848;;;;;;43623-;43623-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable avec aérations </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière escamotable avec aérations et d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 1000 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43623_0.jpg;0;Type de casque:Jet:1,Couleur:noir mat:2,Genre:Femme:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:1000g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80092;1;Premier Scooby U8 Blanc Brillant;198;143.52;1;114.816;;;;;;43631-;43631-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable avec aérations </li>
+     <li> Intérieur antibactérien </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"Casque avec visière claire, anti-rayures, aération, fermeture Quick Release, homologué ece 22-05
+
+Matériel: Thermoplast
+Intérieur tout confort: antibactérien";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43631_0.jpg;0;Type de casque:Jet:1,Couleur:blanc:2,Genre:Unisexe:3,Coque:fibre thermoplastic:4,Ecran anti-rayures:oui:5,Poids:950g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8;;new;0;0;0;0;0;0;0;0
+80093;1;Premier Scooby U9 Bm Noir Mat;198;143.52;1;114.816;;;;;;43632-;43632-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière claire, anti-rayures </li>
+     <li> Intérieur tout confort: antibactérien < li>
+     <li> Fermeture Quick Release </li>
+</ul>";"Casque avec visière claire, anti-rayures, aération, fermeture Quick Release, homologué ece 22-05
+
+Matériel: Thermoplast
+Intérieur tout confort: antibactérien";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43632_0.jpg;0;Type de casque:Jet:1,Couleur:noir mat:2,Genre:Unisexe:3,Coque:fibre thermoplastique:4,Ecran anti-rayures:oui:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7;;new;0;0;0;0;0;0;0;0
+80094;1;Premier Scooby Ed Rouge;198;143.52;1;114.816;;;;;;43633-;43633-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière claire, anti-rayures </li>
+     <li> Intérieur tout confort: antibactérien < li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière claire anti-rayures avec aération, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Termoplast </li>
+     <li> Intérieur tout confort : antibactérien <li>
+     <li> Homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43633-_0.jpg;0;Type de casque:Jet:1,Couleur:rouge:2,Genre:Unisexe:3,Coque:fibre thermoplastique:4,Ecran anti-rayures:oui:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7;;new;0;0;0;0;0;0;0;0
+80095;1;Premier Scooby Ed 8 Blanc;198;143.52;1;114.816;;;;;;43634-;43634-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière claire, anti-rayures </li>
+     <li> Intérieur tout confort: antibactérien < li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière claire anti-rayures avec aération, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Termoplast </li>
+     <li> Intérieur tout confort : antibactérien <li>
+     <li> Homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43634-_0.jpg;0;Type de casque:Jet:1,Couleur:blanc:2,Genre:Unisexe:3,Coque:fibre thermoplastique:4,Ecran anti-rayures:oui:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7;;new;0;0;0;0;0;0;0;0
+80096;1;Premier Scooby Ed 9 Bm Noir;198;143.52;1;114.816;;;;;;43635-;43635-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière claire, anti-rayures </li>
+     <li> Intérieur tout confort: antibactérien < li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière claire anti-rayures avec aération, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Termoplast </li>
+     <li> Intérieur tout confort : antibactérien <li>
+     <li> Homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43635-_0.jpg;0;Type de casque:Jet:1,Couleur:noir:2,Genre:Unisexe:3,Coque:fibre thermoplastique:4,Poids:1250g :5,Ecran anti-rayures:oui:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8;;new;0;0;0;0;0;0;0;0
+80097;1;Premier Soul Y8 Blanc;198;165.74;1;132.592;;;;;;43690-;43690-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière réglable légèrement teintée </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable li>
+     <li> Fermeture Quick Release </li>
+</ul>";"Casque avec visière réglable, légèrement teintée, visière solaire escamotable, fermeture Quick Release, poids env. 1.250 g, homologué ece 22-05
+
+Matériel: Termoplastic
+Intérieur tout confort: antibactérien, amovible, lavable";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43690-_0.jpg;0;Type de casque:Jet:1,Couleur:blanc:2,Genre:Unisexe:3,Coque:fibre thermoplastique:4,Poids:1250g :5,Ecran anti-rayures:oui:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:boucle micrométrique :9;;new;0;0;0;0;0;0;0;0
+80098;1;Premier Soul Y9 Bm Noir;198;165.74;1;132.592;;;;;;43691-;43691-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière réglable légèrement teintée </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière solaire escamotable, réglable légèrement teintée, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Termoplastic </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable <li>
+     <li> Poids : env. 1.250 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43691-_0.jpg;0;Type de casque:Jet:1,Couleur:noir:2,Genre:Unisexe:3,Coque:fibre thermoplastique:4,Poids:1250g :5,Ecran anti-rayures:oui:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:boucle micrométrique :9;;new;0;0;0;0;0;0;0;0
+80099;1;Premier Le Petit U9 Bm Noir Mat;198;249.07;1;199.256;;;;;;43730-;43730-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière transparente, clipée et amovible </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière transparente, clipée et amovible et d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 800 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43730-_0.jpg;0;Type de casque:Jet:1,Couleur:noir mat:2,Genre:Femme:3,Coque:fibre tri-composite:4,Poids:800g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80100;1;Premier Le Petit Flame 9Bm Noir Mat;198;267.59;1;214.072;;;;;;43731-;43731-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière amovible </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière amovible et d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 900 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43731-_0.jpg;0;Type de casque:Jet:1,Couleur:noir mat:2,Genre:Femme:3,Coque:fibre tri-composite:4,Poids:900g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80101;1;Premier Le Petit Star 9Bm Noir Mat;198;267.59;1;214.072;;;;;;43732-;43732-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière transparente, clipée et amovible </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière transparente, clipée et amovible et d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 800 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43732-_0.jpg;0;Type de casque:Jet:1,Couleur:noir mat:2,Genre:Femme:3,Coque:fibre tri-composite:4,Poids:800g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80102;1;Premier Le Petit Vanity 8;198;267.59;1;214.072;;;;;;43733-;43733-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière amovible </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière amovible et d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 900 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43733-_0.jpg;0;Type de casque:Jet:1,Couleur:noir,rose:2,Genre:Femme:3,Coque:fibre tri-composites:4,Ecran anti-rayures:oui:5,Poids:990g:6,Double écran solaire:non:7,Intérieur démontable et lavable:oui:8,Jugulaire:Boucle micrométrique:9;;new;0;0;0;0;0;0;0;0
+80103;1;Premier Le Petit Carbon;198;276.85;1;221.48;;;;;;43734-;43734-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière amovible </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière amovible et d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 900 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43734-_0.jpg;0;Type de casque:Jet:1,Couleur:carbonne:2,Genre:Femme:3,Coque:fibre tri-composite:4,Poids:900g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80104;1;Premier Le Petit U9 Bm Noir Mat;198;249.07;1;199.256;;;;;;43735-;43735-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière amovible </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière amovible, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable <li>
+     <li> Poids : env. 900 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43735-_0.jpg;0;Type de casque:Jet:1,Couleur:noir mat:2,Genre:Femme:3,Coque:fibre tri-composite:4,Poids:900g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80105;1;Premier Le Petit U9 Bm Noir Mat;198;267.59;1;214.072;;;;;;43736-;43736-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière transparente, clipé et amovible </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière transparente, clipée et amovible et d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 800 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43736-_0.jpg;0;Type de casque:Jet:1,Couleur:noir mat:2,Genre:Femme:3,Coque:fibre tri-composite:4,Poids:800g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80106;1;Premier Le Petit Tr8 World Blanc;198;267.59;1;214.072;;;;;;43737-;43737-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière amovible </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière amovible, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable li>
+     <li> Poids : env. 900 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43737-_0.jpg;0;Type de casque:Jet:1,Couleur:blanc:2,Genre:Femme:3,Coque:fibre tri-composite:4,Poids:800g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80107;1;Kabuto Avand Ii Citta Flat Black;198;230.56;1;184.448;;;;;;55100-;55100-;Freidig;Kabuto;;;;;;;;0;;;;;;"<ul>
+     <li> Visière amovible </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière amovible, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable li>
+     <li> Homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/55100-_0.jpg;0;Type de casque:Jet:1,Couleur:Noir:1,Genre:Unisexe:2;;new;0;0;0;0;0;0;0;0
+80108;1;Kabuto Avand Ii  Staid Flat Black / White;198;230.56;1;184.448;;;;;;55120-;55120-;Freidig;Kabuto;;;;;;;;0;;;;;;"<ul>
+     <li> Visière claire avec système de ventilation </li>
+     <li> Doublure: antibactérien, amovibe, lavable, Coolmax®</li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est disponible avec 3 tailles de coques, une visière claire, préparé pour Pinlock®, avec système de ventilation et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Thermo Plastic Shell (TPS) </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 1390 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/55120-_0.jpg;0;Type de casque:Jet:1,Couleur:noir:2,Genre:Unisexe:3,Coque:fibre thermoplastic:4,Poids:1390g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80109;1;Kabuto Avand Ii  Staid White / Black;198;230.56;1;184.448;;;;;;55130-;55130-;Freidig;Kabuto;;;;;;;;0;;;;;;"<ul>
+     <li> Visière claire avec système de ventilation </li>
+     <li> Doublure: antibactérien, amovibe, lavable, Coolmax®</li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est disponible avec 3 tailles de coques, une visière claire, préparé pour Pinlock®, avec système de ventilation et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Thermo Plastic Shell (TPS) </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 1390 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;https://www.motogoodeal.ch/img/import/55130-S_0.jpg;0;Type de casque:Jet:1,Couleur:blanc noir:2,Genre:Unisexe:3,Coque:fibre thermoplastic:4,Poids:1390g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80111;1;Premier Vintage Star 2 Rouge;198;300.93;1;240.744;;;;;;43441-;43441-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable légèrement teintée </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière escamotable légèrement teintée, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Real Carbon </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 900 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43441_0.jpg;0;Type de casque:Jet:1,Couleur:rouge:2,Genre:Unisexe:3, Coque:fibre de carbonne:4,Poids:900g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80112;1;Premier Vintage Bm Star Carbon;198;300.93;1;240.744;;;;;;43442-;43442-;Freidig;Premier;;;;;;;;2;;;;;;"<ul>
+     <li> Visière solaire escamotable légèrement teintée </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière solaire escamotable, légèrement teintée, et d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : Carbon Aramidic Fiber </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 900 g, homologué ece 22-05</li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43442_0.jpg;0;Type de casque:Jet:1,Couleur:carbonne:2,Genre:Unisexe:3,Poids:900g:4,Double écran solaire:non:5,Intérieur démontable et lavable:oui:6,Jugulaire:boucle micrométrique:7;;new;0;0;0;0;0;0;0;0
+80113;1;Premier Vintage Kevlar Carbon Mat;198;300.93;1;240.744;;;;;;43443-;43443-;Freidig;Premier;;;;;;;;4;;;;;;"<ul>
+     <li> Visière solaire escamotable légèrement teintée </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière solaire escamotable, légèrement teintée, et d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : Carbon Aramidic Fiber </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 900 g, homologué ece 22-05</li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43443_0.jpg;0;Type de casque:Jet:1,Couleur:carbonne:2,Genre:Unisexe:3,Poids:900g:4,Double écran solaire:non:5,Intérieur démontable et lavable:oui:6,Jugulaire:boucle micrométrique:7;;new;0;0;0;0;0;0;0;0
+80114;1;Premier Vintage 8 Bm Star Blanc Mat;198;300.93;1;240.744;;;;;;43445-;43445-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire escamotable légèrement teintée </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière solaire escamotable, légèrement teintée, et d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic</li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05</li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43445_0.jpg;0;Type de casque:Jet:1,Couleur:blanc mat:2,Genre:Unisexe:3,Coque:fibre tri-composite :4,Poids:990g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80115;1;Premier Vintage Sk8 Skull Blanc Brillant;198;300.93;1;240.744;;;;;;43446-;43446-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable légèrement teintée </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière escamotable légèrement teintée, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43446_0.jpg;0;Type de casque:Jet:1,Couleur:blanc mat:2,Genre:Unisexe:3,Coque:fibre tri-composite :4,Poids:990g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80116;1;Premier Vintage Sk9 Bm Skull Noir Mat;198;300.93;1;240.744;;;;;;43447-;43447-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire escamotable légèrement teintée </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière solaire escamotable, légèrement teintée, et d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic</li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05</li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43447_0.jpg;0;Type de casque:Jet:1,Couleur:blanc mat:2,Genre:Homme:3,Coque:fibre tri-composite :4,Poids:990g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80117;1;Premier Vintage 9Bm Eight Noir Mat;198;300.93;1;240.744;;;;;;43449-;43449-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire escamotable légèrement teintée </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière solaire escamotable, légèrement teintée, et d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic</li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05</li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43449-_0.jpg;0;Type de casque:Jet:1,Couleur:noir:2,Genre:Homme:3,Coque:fibre tri-composite :4,Poids:990g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80118;1;Premier Vintage Tr9 Noir Metallic;198;300.93;1;240.744;;;;;;43452-;43452-;Freidig;Premier;;;;;;;;1;;;;;;"<ul>
+     <li> Visière solaire escamotable légèrement teintée </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière escamotable, légèrement teintée, et d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : Real Titanium-Vectran-Carbon </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 900 g, Release homologué ece 22-05</li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43452-_0.jpg;0;Type de casque:Jet:1,Couleur:noir:2,Genre:Femme:3,Coque:fibre tri-composite :4,Poids:900g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80119;1;Premier Vintage 9 Bm Mali Noir Mat;198;300.93;1;240.744;;;;;;43454-;43454-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable légèrement teintée </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière escamotable légèrement teintée, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Real Titanium-Vectran-Carbon </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 900 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43454-_0.jpg;0;Type de casque:Jet:1,Couleur:noir:2,Genre:Unisexe:3,Coque:fibre tri-composite :4,Poids:900g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80120;1;Premier Vintage Skm 8Bm Blanc Mat;198;300.93;1;240.744;;;;;;43456-;43456-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable légèrement teintée </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’une visière escamotable légèrement teintée, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Real Titanium-Vectran-Carbon </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 900 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43456-_0.jpg;0;Type de casque:Jet:1,Couleur:blanc:2,Genre:Unisexe:3,Coque:fibre tri-composite :4,Poids:900g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80121;1;Premier Vintage Noir Mat/Orange;198;300.93;1;240.744;;;;;;43610;43610;Freidig;Premier;;;;;;;;4;;;;;;"<ul>
+     <li> Visière escamotable légèrement teintée </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière escamotable légèrement teintée et d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 900 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43610_0.jpg;0;Type de casque:Jet:1,Couleur:noir orange:2,Genre:Femme:3,Coque:fibre tri-composite :4,Poids:900g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80122;1;Premier Classic U9 Bm Noir Mat;198;300.93;1;240.744;;;;;;43611-;43611-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière amovible </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière amovible et d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 900 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43611_0.jpg;0;Type de casque:Jet:1,Couleur:noir:2,Genre:Homme:3,Coque:fibre tri-composite :4,Poids:900g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80123;1;Premier Free Evo It 08 Bm Blanc Noir Mat;198;300.93;1;240.744;;;;;;43622-;43622-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière claire, anti-rayures et anti-buée </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière escamotable avec aérations et d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 1.000 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43622_0.jpg;0;Type de casque:Jet:1,Couleur:noir blanc:2,Genre:Femme:3,Coque:fibre tri-composite :4,Poids:1000g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80124;1;Kabuto Avand Ii Flat Royal Gunmetal;198;300.93;1;240.744;;;;;;55110-;55110-;Freidig;Kabuto;;;;;;;;0;;;;;;"<ul>
+     <li> Visière claire avec système de ventilation </li>
+     <li> Doublure: antibactérien, amovibe, lavable, Coolmax®</li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est disponible avec 3 tailles de coques, une visière claire, préparé pour Pinlock®, avec système de ventilation et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Thermo Plastic Shell (TPS) </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 1390 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/55110-_0.jpg;0;Type de casque:Jet:1,Couleur:gris:2,Genre:Femme:3,Coque:fibre thermoplastic:4,Poids:1390g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80125;1;Kabuto Avand Ii Flat Black;198;300.93;1;240.744;;;;;;55140-;55140-;Freidig;Kabuto;;;;;;;;0;;;;;;"<ul>
+     <li> Visière claire avec système de ventilation </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable < li>
+     <li> Fermeture Quick Release </li>
+</ul>";"Disponible avec 3 tailles de coques, visière claire, préparé pour Pinlock®, système de ventilation, fermeture Quick Release, poids env. 1.390 g, homologué ece 22-05
+
+Matériel: Thermo Plastic Shell (TPS)
+Doublure: antibactérien, amovibe, lavable, Coolmax®";;;;;;;;1;2016-03-10;2016-03-10;1;https://www.motogoodeal.ch/img/import/55140-S_0.jpg;0;Type de casque:Jet:1,Couleur:noir:2,Genre:Homme:3,Coque:fibre thermoplastic:4,Poids:1390g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80126;1;Rocc 140 Casque Demi-Jet Blanc Mat;198;119.44;1;95.552;;;;;;1417-;1417-;Freidig;Rocc;;;;;;;;0;;;;;;"<ul>
+     <li> Visière claire anti-rayures </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable < li>
+     <li> Fermeture Quick Release </li>
+</ul>";"Casque avec visière claire, anti-rayures, fermeture Quick Release, aération réglable, poids env.
+1.350g, homologué ece 22-05
+Matériel: ABS
+Intérieur tout confort: antibactérien, col amovible";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/1417_0.jpg;0;Type de casque:Jet:1,Couleur:blanc mat:2,Genre:Unisexe:3, Ecran anti-rayures:oui:4,Poids:1350g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80127;1;Rocc 140 Casque Demi-Jet Noir Mat;198;119.44;1;95.552;;;;;;1419-;1419-;Freidig;Rocc;;;;;;;;0;;;;;;"<ul>
+     <li> Visière claire anti-rayures </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable < li>
+     <li> Fermeture Quick Release </li>
+</ul>";"Casque avec visière claire, anti-rayures, fermeture Quick Release, aération réglable, poids env.
+1.350g, homologué ece 22-05
+Matériel: ABS
+Intérieur tout confort: antibactérien, col amovible";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/1419_0.jpg;0;Type de casque:Jet:1,Couleur:noir mat:2,Genre:Unisexe:3,Ecran anti-rayures:oui:4,Poids:1350g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80128;1;Rocc 130 Casque Jet Noir/Metallic ;198;119.44;1;95.552;;;;;;9130;9130;Freidig;Rocc;;;;;;;;0;;;;;;"<ul>
+     <li> Visière claire anti-rayures au design retro </li>
+     <li> Intérieur tout confort: Mousse de joue lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière claire anti-rayures avec aération réglable, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : ABS </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 1350 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;https://www.motogoodeal.ch/img/import/9130 S 900 S_0.jpg;0;Type de casque:Jet:1,Couleur:noir métallique:2,Genre:Unisexe:3,Ecran anti-rayures:oui:4,Poids:1350g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80129;1;Rocc 140 Casque Demi-Jet Titan Metallic;198;91.67;1;73.336;;;;;;9140;9140;Freidig;Rocc;;;;;;;;0;;;;;;"<ul>
+     <li> Visière claire anti-rayures avec aérations réglables </li>
+     <li> Intérieur tout confort: antibactérien </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"Col amovible, visière claire, anti-rayures, fermeture Quick Release, aération réglable, poids env. 1.350 g, homologué ece 22-05
+
+Matériel: ABS
+Intérieur tout confort: antibactérien";;;;;;;;1;2016-03-10;2016-03-10;1;https://www.motogoodeal.ch/img/import/9140 S 900 S_0.jpg;0;Type de casque:Jet:1,Couleur:noir:2,Genre:Homme:3,Ecran anti-rayures:oui:4,Poids:1350g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80130;1;Rocc Casque Classic Noir Metallic;198;91.67;1;73.336;;;;;;9200;9200;Freidig;Rocc;;;;;;;;0;;;;;;"<ul>
+     <li> 2 tailles de coque </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est disponible avec 2 tailles de coque, et est doté d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : ABS </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 1.100 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;https://www.motogoodeal.ch/img/import/9200 990 S_0.jpg;0;Type de casque:Jet:1,Couleur:noir métallique:2,Genre:Unisexe:3,Intérieur démontable et lavable:oui:4;;new;0;0;0;0;0;0;0;0
+80131;1;Rocc Casque Classic Noir Metallic;198;91.67;1;73.336;;;;;;9200 S ;9200 S ;Freidig;Rocc;;;;;;;;0;;;;;;"<ul>
+     <li> 2 tailles de coque </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est disponible avec 2 tailles de coque, et est doté d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : ABS </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 1.100 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;https://www.motogoodeal.ch/img/import/9200 S S_0.jpg;0;Type de casque:Jet:1,Couleur:noir métallique:2,Genre:Homme:3,Poids:1100g:4,Double écran solaire:non:5,Intérieur démontable et lavable:oui:6,Jugulaire:boucle micrométrique:7;;new;0;0;0;0;0;0;0;0
+80132;1;Rocc Casque Classic Argent;198;91.67;1;73.336;;;;;;9200 SI;9200 SI;Freidig;Rocc;;;;;;;;0;;;;;;"<ul>
+     <li> 2 tailles de coque </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est disponible avec 2 tailles de coque, et est doté d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : ABS </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 1.100 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;https://www.motogoodeal.ch/img/import/9200 SI S_0.jpg;0;Type de casque:Jet:1,Couleur:noir mat:2,Genre:Homme:3,Poids:1100g:4,Double écran solaire:non:5,Intérieur démontable et lavable:oui:6,Jugulaire:boucle micrométrique:7;;new;0;0;0;0;0;0;0;0
+80133;1;Rocc Casque Classic Noir Mat Flag;198;91.67;1;73.336;;;;;;9209-;9209-;Freidig;Rocc;;;;;;;;0;;;;;;"<ul>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : ABS </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 1.100 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/9209_0.jpg;0;Type de casque:Jet:1,Couleur:noir mat:2,Genre:Homme:3,Poids:1100g:4,Double écran solaire:non:5,Intérieur démontable et lavable:oui:6,Jugulaire:boucle micrométrique:7;;new;0;0;0;0;0;0;0;0
+80134;1;Rocc Casque Classic Pro Noir Mat;198;119.44;1;95.552;;;;;;9309-;9309-;Freidig;Rocc;;;;;;;;0;;;;;;"<ul>
+     <li> Écran solaire intégré </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’un écran solaire intégré.</strong></p>
+<ul>
+     <li> Matériel : ABS </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 1.100 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/9309-_0.jpg;0;Type de casque:Jet:1,Couleur:noir mat:2,Genre:Unisexe:3,Poids:1100g:4,Double écran solaire:non:5,Intérieur démontable et lavable:oui:6,Jugulaire:boucle micrométrique:7;;new;0;0;0;0;0;0;0;0
+80135;1;Rocc Casque Classic Argent Brillant;198;91.67;1;73.336;;;;;;9317-;9317-;Freidig;Rocc;;;;;;;;0;;;;;;"<ul>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : ABS </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 1.100 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/9317-_0.jpg;0;Type de casque:Jet:1,Couleur:argent brillant:2,Genre:Unisexe:3,Poids:1100g:4,Double écran solaire:non:5,Intérieur démontable et lavable:oui:6,Jugulaire:boucle micrométrique:7;;new;0;0;0;0;0;0;0;0
+80136;1;Premier Bliss X8 Blanc/Gris;198;184.26;1;147.408;;;;;;43262-;43262-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Casque avec écran solaire intégré </li>
+     <li> Intérieur antibactérien </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"Casque avec écran solaire intégré, visière claire, anti-rayures, aération, fermeture Quick Release, homologué ece 22-05
+
+Intérieur tout confort: antibactérien
+Matériel: Thermoplast";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43262_0.jpg;0;Type de casque:Jet:1,Couleur:blanc gris:2,Genre:Unisexe:3,Coque:fibres thermoplastic:4,Poids:1380g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80137;1;Rocc 432 Blanc/Noir;198;184.26;1;147.408;;;;;;4326-;4326-;Freidig;Rocc;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable légèrement teintée </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière solaire intégré, claire, antirayures avec aération frontale et menton dynamique, déflecteur amovible, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : ABS </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 1380 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/4326-_0.jpg;0;Type de casque:Jet:1,Couleur:blanc noir:2,Genre:Unisexe:3, ,Poids:1380g:4,Double écran solaire:non:5,Intérieur démontable et lavable:oui:6,Jugulaire:boucle micrométrique:7;;new;0;0;0;0;0;0;0;0
+80138;1;Premier Vintage Mask U9Bm;198;276.85;1;221.48;;;;;;43380-;43380-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière avec masque amovible </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"Casque avec masque amovible, fermeture Quick Release, poids env. 990 g, homologué ece 22-05
+
+Matériel: Dyneema-Carbon-Aramidic
+Intérieur tout confort: antibactérien, amovible, lavable";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43380-_0.jpg;0;Type de casque:Jet:1,Couleur:noir:2,Genre:Unisexe:3, Coque:fibres tri composites:4,Poids:990g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80139;1;Premier Vintage Ck Beige;198;313.89;1;251.112;;;;;;43401;43401;Freidig;Premier;;;;;;;;1;;;;;;"<ul>
+     <li> Visière solaire escamotable légèrement teintée </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable < li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière solaire escamotable légèrement teintée, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Real Titanium-Vectran-Carbon </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable <li>
+     <li> Poids env. 900g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43401_0.jpg;0;Type de casque:Jet:1,Couleur:beige:2,Genre:Unisexe:3,Intérieur démontable et lavable:oui:4;;new;0;0;0;0;0;0;0;0
+80141;1;Premier Vintage Dlb Noir/Blanc;198;300.93;1;240.744;;;;;;43406;43406;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire escamotable </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable < li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière solaire escamotable, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable <li>
+     <li> Homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43406_0.jpg;0;Type de casque:Jet:1,Couleur:noir blanc:2,Genre:Unisexe:3,Intérieur démontable et lavable:oui:4;;new;0;0;0;0;0;0;0;0
+80142;1;Premier Vintage Ck One Orange Race Flag;198;313.89;1;251.112;;;;;;43407-;43407-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire escamotable légèrement teintée </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable < li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière solaire escamotable légèrement teintée, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Real Titanium-Vectran-Carbon </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable <li>
+     <li> Poids env. 900g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43407-_0.jpg;0;Type de casque:Jet:1,Couleur:orange:2,Genre:Unisexe:3,Coque:fibres tri composites:4,Poids:900g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80143;1;Premier Vintage V8;198;300.93;1;240.744;;;;;;43408;43408;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire escamotable légèrement teintée </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable < li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière solaire escamotable légèrement teintée, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Real Titanium-Vectran-Carbon </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable <li>
+     <li> Poids env. 900g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;https://www.motogoodeal.ch/img/import/43408.jpg;0;Type de casque:Jet:1,Couleur:noir:2,Genre:Unisexe:3,Coque:fibres tri composites:4,Poids:900g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80147;1;Premier Vintage Blanc U8;198;276.85;1;221.48;;;;;;43416;43416;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable légèrement teintée </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable < li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière escamotable légèrement teintée, et d’une fermeture Quick Release. </strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable <li>
+     <li> Poids env. 900g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43416_0.jpg;0;Type de casque:Jet:1,Couleur:blanc:2,Genre:Unisexe:3,Coque:fibres tri composites:4,Poids:900g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80150;1;Premier Vintage Flag Uk Bm Noir Mat;198;313.89;1;251.112;;;;;;43422-;43422-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire escamotable légèrement teintée </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable < li>
+     <li> Fermeture Quick Release </li>
+</ul>";"Casque avec visière solaire escamotable, légèrement teintée, fermeture Quick Release, poids env. 990 g, homologué ece 22-05
+
+Matériel: Dyneema-Carbon-Aramidic
+Intérieur tout confort: antibactérien, amovible, lavable";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43422_0.jpg;0;Type de casque:Jet:1,Couleur:noir mat:2,Genre:Unisexe:3,Coque:fibres tri composites:4,Poids:990g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80151;1;Premier Vintage 9Bm Ck One Noir Mat;198;313.89;1;251.112;;;;;;43425-;43425-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire escamotable légèrement teintée </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est composé d’une visière solaire escamotable, légèrement teintée, et d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05</li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43425-_0.jpg;0;Type de casque:Jet:1,Couleur:noir mat:2,Genre:Unisexe:3,Coque:fibres tri composites:4,Poids:990g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80152;1;Premier Vintage Olympic 9 Noir/Colore ;198;300.93;1;240.744;;;;;;43427;43427;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’une visière escamotable, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : fibre de carbone </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 900 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43427_0.jpg;0;Type de casque:Jet:1,Couleur:noir coloré:2,Genre:Unisexe:3,Intérieur démontable et lavable:oui:4;;new;0;0;0;0;0;0;0;0
+80153;1;Premier Vintage St14Bm Noir/Pink/Blanc;198;300.93;1;240.744;;;;;;43428;43428;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire interne clair rétractable anti-rayure </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’un écran solaire interne clair rétractable anti-rayure, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : fibre tri-composite </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43428_0.jpg;0;Type de casque:Jet:1,Couleur:noir rose blanc:2,Genre:Unisexe:3,Intérieur démontable et lavable:oui:4;;new;0;0;0;0;0;0;0;0
+80154;1;Premier Vintage St1 Blanc/Bleu ;198;300.93;1;240.744;;;;;;43429;43429;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire interne clair rétractable anti-rayure </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’un écran solaire interne clair rétractable anti-rayure, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : fibre tri-composite </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43429_0.jpg;0;Type de casque:Jet:1,Couleur:blanc bleu:2,Genre:Unisexe:3,Intérieur démontable et lavable:oui:4;;new;0;0;0;0;0;0;0;0
+80155;1;Premier Vintage Lux Titanium;198;332.41;1;265.928;;;;;;43431;43431;Freidig;Premier;;;;;;;;4;;;;;;"""<ul>
+     <li> Visière escamotable légèrement teintée </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>""";"<p>short <strong>Ce casque est composé d’une visière escamotable, légèrement teintée, et d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : Real Titanium-Vectran-Carbon </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 900 g, homologué ece 22-05</li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43431_0.jpg;0;Type de casque:Jet:1,Couleur:noir gris:2,Genre:Unisexe:3,Coque:fibres tri composites:4,Poids:900g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80156;1;Premier Vintage Bm Star Military;198;313.89;1;251.112;;;;;;43434-;43434-;Freidig;Premier;;;;;;;;0;;;;;;"""""""<ul>
+     <li> Visière solaire escamotable légèrement teintée </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>""""""";"<p>short <strong>Ce casque est composé d’une visière solaire escamotable, légèrement teintée, et d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic</li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05</li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43434_0.jpg;0;Type de casque:Jet:1,Couleur:militaire:2,Genre:Unisexe:3,Coque:fibres tri composites:4,Poids:990g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80157;1;Premier Vintage 9 Bm Star Noir Mat;198;313.89;1;251.112;;;;;;43435-;43435-;Freidig;Premier;;;;;;;;4;;;;;;"<ul>
+     <li> Visière solaire escamotable légèrement teintée </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est composé d’une visière solaire escamotable, légèrement teintée, et d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic</li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05</li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43435_0.jpg;0;Type de casque:Jet:1,Couleur:noir mat:2,Genre:Unisexe:3,Coque:fibres tri composites:4,Poids:990g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80158;1;Premier Vintage Sp9 Bm Noir Mat Speed Shop;198;313.89;1;251.112;;;;;;43436-;43436-;Freidig;Premier;;;;;;;;1;;;;;;"<ul>
+     <li> Visière solaire escamotable légèrement teintée </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est composé d’une visière solaire escamotable, légèrement teintée, et d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic</li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05</li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43436_0.jpg;0;Type de casque:Jet:1,Couleur:noir mat:2,Genre:Unisexe:3,Coque:fibres tri composites:4,Poids:990g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80159;1;Premier Vintage Sp Lx Bm Beige Speed Shop;198;300.93;1;240.744;;;;;;43437-;43437-;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière escamotable légèrement teintée </li>
+     <li> Intérieur antibactérien, amovible et lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";"<p>short <strong>Ce casque est doté d’une visière escamotable, légèrement teintée, et d’une fermeture Quick Release.</strong></p>
+<ul>
+     <li> Matériel : Dyneema-Carbon-Aramidic</li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 900 g, homologué ece 22-05</li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43437_0.jpg;0;Type de casque:Jet:1,Couleur:beige:2,Genre:Femme:3,Coque:fibres tri composites:4,Poids:900g:5,Double écran solaire:non:6,Intérieur démontable et lavable:oui:7,Jugulaire:boucle micrométrique:8;;new;0;0;0;0;0;0;0;0
+80160;1;Premier Vintage St2 Noir/Rouge/Blanc ;198;300.93;1;240.744;;;;;;43438;43438;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Visière solaire interne clair rétractable anti-rayure </li>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture à boucle micrométrique </li>
+</ul> ";"<p>short <strong>Ce casque est doté d’un écran solaire interne clair rétractable anti-rayure, et d’une fermeture à boucle micrométrique. </strong></p>
+<ul>
+     <li> Matériel : fibre tri-composite </li>
+     <li> Intérieur tout confort : antibactérien, amovible, lavable </li>
+     <li> Poids : env. 990 g, homologué ece 22-05 </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;http://www.motogoodeal.ch/img/import/43438_0.jpg;0;Type de casque:Jet:1,Couleur:noir rouge blanc:2,Genre:Unisexe:3,Intérieur démontable et lavable:oui:4;;new;0;0;0;0;0;0;0;0
+80161;1;Premier Casque City Fly;198;276.85;1;221.48;;;;;;43312;43312;Freidig;Premier;;;;;;;;0;;;;;;"<ul>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul> ";"<p>short <strong>Casque Jet rouge et blanc.</strong></p>
+<ul>
+     <li> Intérieur tout confort: antibactérien, amovible, lavable </li>
+     <li> Fermeture Quick Release </li>
+</ul>";;;;;;;;1;2016-03-10;2016-03-10;1;https://www.motogoodeal.ch/img/import/43312.jpg;0;Type de casque:Jet:1,Couleur:rouge blanc:2,Genre:Unisexe:3,Intérieur démontable et lavable:oui:4;;new;0;0;0;0;0;0;0;0
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

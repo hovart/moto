@@ -1,0 +1,27 @@
+﻿Product ID*;;Attribute (Name:Type:Position)*;Value (Value:Position)*;Supplier reference;Reference;EAN13;UPC;Wholesale price;Impact on price;Ecotax;Quantity;Minimal quantity;Impact on weight;Default (0 = No, 1 = Yes);Combination available date;Image position;Image URL;Delete existing images (0 = No, 1 = Yes);ID / Name of shop;Advanced Stock Managment;Depends on stock;Warehouse
+1722;;Taille:select:0;2XL:5;M11-2020-2XL;M11-2020-2XL;;;;;;3;;;;;;;;;;;
+1722;;Taille:select:0;3XL:6;M11-2020-3XL;M11-2020-3XL;;;;;;3;;;;;;;;;;;
+1722;;Taille:select:0;5XL:8;M11-2020-5XL;M11-2020-5XL;;;;;;3;;;;;;;;;;;
+1722;;Taille:select:0;M:2;M11-2020-M;M11-2020-M;;;;;;3;;;;;;;;;;;
+1722;;Taille:select:0;S:1;M11-2020-S;M11-2020-S;;;;;;0;;;;;;;;;;;
+1722;;Taille:select:0;4XL:7;M11-2020-4XL;M11-2020-4XL;;;;;;3;;;;;;;;;;;
+1722;;Taille:select:0;L:3;M11-2020-L;M11-2020-L;;;;;;0;;;;;;;;;;;
+1722;;Taille:select:0;XL:4;M11-2020-XL;M11-2020-XL;;;;;;3;;;;;;;;;;;
+1723;;Taille:select:0;2XL:5;M11-2021-2XL;M11-2021-2XL;;;;;;3;;;;;;;;;;;
+1723;;Taille:select:0;4XL:7;M11-2021-4XL;M11-2021-4XL;;;;;;3;;;;;;;;;;;
+1723;;Taille:select:0;L:3;M11-2021-L;M11-2021-L;;;;;;3;;;;;;;;;;;
+1723;;Taille:select:0;M:2;M11-2021-M;M11-2021-M;;;;;;3;;;;;;;;;;;
+1723;;Taille:select:0;XL:4;M11-2021-XL;M11-2021-XL;;;;;;3;;;;;;;;;;;
+1723;;Taille:select:0;3XL:6;M11-2021-3XL;M11-2021-3XL;;;;;;3;;;;;;;;;;;
+1723;;Taille:select:0;5XL:8;M11-2021-5XL;M11-2021-5XL;;;;;;3;;;;;;;;;;;
+1723;;Taille:select:0;S:1;M11-2021-S;M11-2021-S;;;;;;3;;;;;;;;;;;
+1724;;Taille:select:0;38:1;M11-2030-38;M11-2030-38;;;;;;2;;;;;;;;;;;
+1724;;Taille:select:0;42:1;M11-2030-42;M11-2030-42;;;;;;3;;;;;;;;;;;
+1724;;Taille:select:0;44:1;M11-2030-44;M11-2030-44;;;;;;3;;;;;;;;;;;
+1724;;Taille:select:0;36:1;M11-2030-36;M11-2030-36;;;;;;0;;;;;;;;;;;
+1724;;Taille:select:0;40:1;M11-2030-40;M11-2030-40;;;;;;3;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;

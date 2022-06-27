@@ -1,0 +1,5 @@
+<delete>
+    <object type="customer" external-reference="demo-1" />
+    <object type="group" external-reference="demo-1" />
+    <object type="customerGroup" external-reference="demo-1" />
+</delete>

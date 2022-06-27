@@ -1,0 +1,10 @@
+
+.contact-title {
+  color: #999;
+  margin: 0 0 15px 0;
+}
+
+.contact-form-box label.unvisible,
+.contact-form-box #desc_contact0 {display: none;}
+.contact-form-box textarea {width: 100%; height: 260px;}
+.contact-form-box .submit {margin-top: 13px;}

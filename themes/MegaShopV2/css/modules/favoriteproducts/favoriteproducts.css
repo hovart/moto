@@ -1,0 +1,52 @@
+
+#favoriteproducts_block_account .favoriteproduct {
+	position:relative;
+	margin-bottom: 14px;
+	padding: 10px;
+	background: #fff;
+}
+.favoriteproduct a.product_img_link {
+	display: block;
+	float: left;
+	margin-right:15px;
+	overflow: hidden;
+}
+.favoriteproduct h3 {font-size:16px;}
+.favoriteproduct .product_desc {
+	font-size:13px;
+	color:#333;
+}
+.favoriteproduct .remove {
+	position:absolute;
+	top:10px;
+	right:10px
+}
+.favoriteproduct .remove .icon {cursor:pointer}
+
+
+/* lnk fiche produit */
+
+#usefull_link_block li#favoriteproducts_block_extra_add {
+	padding-left:20px;
+	background:url("../../../img/icon/add_favorite.gif") no-repeat 0 0;
+	cursor: pointer;
+}
+
+#usefull_link_block li#favoriteproducts_block_extra_remove {
+	padding-left:20px;
+	background:url("../../../img/icon/del_favorite.gif") no-repeat 0 0;
+	cursor: pointer;
+}
+
+ul#usefull_link_block li#favoriteproducts_block_extra_added {
+	padding-left:20px;
+	background:url("../../../img/icon/add_favorite.gif") no-repeat 0 0;
+	cursor: pointer;
+	display: none;
+}
+ul#usefull_link_block li#favoriteproducts_block_extra_removed {
+	padding-left:20px;
+	background:url("../../../img/icon/add_favorite.gif") no-repeat 0 0;
+	cursor: pointer;
+	display: none;
+}

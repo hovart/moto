@@ -1,0 +1,18 @@
+/* Block editorial */
+.editorial_block {
+	clear: both;
+	position: relative;
+	width: 97%;
+	margin: 20px 1.5%;
+	top: 10px;
+}
+.editorial_block .rte {color:#333;font-size: 16px;}
+.editorial_block h1 {
+	text-align: center;
+	position: inherit;
+}
+#editorial_block_center .rte h2{
+	font-size:12px;
+	padding:0 0 5px;
+}
+#editorial_block_center .rte p {padding:0 0 10px;}

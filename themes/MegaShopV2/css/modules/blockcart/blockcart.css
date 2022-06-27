@@ -1,0 +1,88 @@
+/* Special style for block cart*/
+#header  #cart_block h4 {
+	display: none;
+}
+#header #cart_block {
+	background: none repeat scroll 0 0 #fff;
+	box-shadow:0 0 5px 0 rgba(0, 0, 0, 0.3);
+	display:none;
+	position: absolute;
+	right:0;
+	width: 290px;
+	z-index: 999;
+}
+#cart_block.cart_block_hover {display:block}
+#cart_block h4 span {}
+
+#cart_block  .block_content {padding:0 10px 15px 10px; overflow:hidden;}
+#cart_block #cart_block_summary {display:none}
+#cart_block .prod-img{display:inline-block; float:left; margin:0 10px 0 0;}
+#cart_block .quantity-formated {
+	color:#999;
+	display:inline-block;
+}
+#cart_block .cart_block_product_name {}
+#cart_block .remove_link {
+	float:right;
+	display:inline-block;
+	margin:1px 0 0 5px;
+	height:12px;
+	width:12px
+}
+#cart_block .remove_link a,
+#cart_block a.delete_voucher{
+	background: url("../../../img/custom/delete.png") no-repeat 0 0;
+	display:inline-block;
+	height:12px;
+	width:12px;
+	text-decoration:none;
+}
+#cart_block a.delete_voucher img.icon{display:none}
+#cart_block .price {float:right;}
+
+#cart_block #cart_block_list dl {
+	padding-top:10px;
+	overflow:hidden;
+}
+#cart_block #cart_block_list dt {height:65px;}
+#cart_block #cart_block_list dt a {}
+#cart_block #cart_block_list dd {
+	font-size:11px;
+	margin-left:70px;
+	position:relative;
+	top:-40px;
+}
+#cart_block #cart_block_list dd a{color:#999;}
+
+#cart_block #cart-prices {
+	background:#f5f5f5;
+	margin:0 0 10px;
+	padding:5px;
+	line-height:20px;
+}
+#cart_block #cart_block_shipping_cost,
+#cart_block #cart_block_total {
+	float:right
+}
+#cart_block #cart_block_shipping_cost {}
+
+#cart_block #cart-buttons .button_small {display:none;}
+#cart_block #cart-buttons  #button_order_cart {float:right;}
+#cart_block #cart-buttons  #button_order_cart span {
+}
+#cart_block table#vouchers {
+	margin:0 0 10px;
+	clear: both;
+	width:100%;
+}
+#cart_block table#vouchers tr td{
+	padding: 2px;
+}
+#cart_block table#vouchers tr td.quantity{}
+#cart_block table#vouchers tr td.delete{
+	padding-left: 0;
+	padding-right: 0;
+	text-align: right;
+	width: 15px;
+}
+

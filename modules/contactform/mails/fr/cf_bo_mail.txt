@@ -1,0 +1,5 @@
+{shop_name}
+  
+{mailmessage}
+ 
+{shop_name} réalisé avec PrestaShop™

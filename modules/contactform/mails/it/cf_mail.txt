@@ -1,0 +1,12 @@
+
+Message depuis votre formulaire {formtitle} ({date})
+
+
+
+Voici le message:
+
+
+{message}
+
+{shop_name} réalisé avec PrestaShop™
+

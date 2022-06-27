@@ -1,0 +1,26 @@
+#sitemap .sitemap_block li {margin-top: 10px;}
+#sitemap .sitemap_block li a:before {
+    content: "\f105";
+    display: inline-block;
+    font-family: "FontAwesome";
+    padding-right: 5px;
+}
+
+#listpage_content div.tree_top a:before {
+    content: "\f015";
+    display: inline-block;
+    font-family: "FontAwesome";
+    font-size: 20px;
+}
+
+.categTree ul.tree li {
+    margin: 0 0 0 5px;
+    padding: 8px 0 0 28px;
+    border-left: 1px solid #d6d4d4;
+    background: url(../img/sitemap-horizontal.png) no-repeat left 15px transparent;
+}
+.categTree ul.tree > li {margin: 0 0 0 11px;}
+.categTree ul.tree li.last {
+    border: medium none;
+    background: url(../img/sitemap-last.png) no-repeat 0px -4px transparent;
+}

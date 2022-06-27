@@ -1,0 +1,12 @@
+Hola,
+
+Su amig@ {firstname} {lastname} l@ ha apadrinado en su sitio web {shop_url}.
+Conviertase en su ahijad@ para conseguir {nb_discount} vale(s) de descuento que le garantice unos portes gratuitos !
+
+Para acceder, nada más sencillo. Dirijase a la dirección siguiente :
+{link}
+
+
+
+{shop_name}
+{shop_url}

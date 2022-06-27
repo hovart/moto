@@ -1,0 +1,1 @@
+<div class="postfinancecw-widget">{$widget}</div>

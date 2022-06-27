@@ -1,0 +1,7 @@
+{shop_name}
+ 
+Notification sur {shop_name} ({date})
+ 
+{message}
+ 
+{shop_name} réalisé avec PrestaShop™

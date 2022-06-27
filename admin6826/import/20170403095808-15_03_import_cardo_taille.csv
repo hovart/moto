@@ -1,0 +1,13 @@
+﻿Product ID*;Reference Produit;Attribute (Name:Type:Position)*;Value (Value:Position)*;Supplier reference;Reference;EAN13;UPC;Wholesale price;Impact on price;Ecotax;Quantity;Minimal quantity;Impact on weight;Default (0 = No, 1 = Yes);Combination available date;Image position;Image URL;Delete existing images (0 = No, 1 = Yes);ID / Name of shop;Advanced Stock Managment;Depends on stock;Warehouse
+87228;;Pack:select:0;1 Casque:1;800002;800002;0828831840172;;;0;;5;;;;;;https://www.motogoodeal.ch/img/import/cardo/800002.jpg,https://www.motogoodeal.ch/img/import/cardo/scala_rider_freecom_2-2-M-0791731-xlarge.jpg,https://www.motogoodeal.ch/img/import/cardo/;;;;;
+87228;;Pack:select:0;2 Casques:2;800002.DUO;800002.DUO;0828831840318;;197.75;111.1;;5;;;;;;;;;;;
+87229;;Pack:select:0;1 Casque:1;800004;800004;0828831840455;;;0;;5;;;;;;https://www.motogoodeal.ch/img/import/cardo/800004.jpg,https://www.motogoodeal.ch/img/import/cardo/800004_2.jpg;;;;;
+87229;;Pack:select:0;2 Casques:2;800004.DUO;800004.DUO;0828831840592;;283.7142857;175.9;;5;;;;;;;;;;;
+87230;;Pack:select:0;1 Casque:1;800006;800006;;;;0;;5;;;;;;https://www.motogoodeal.ch/img/import/cardo/800006.jpg,https://www.motogoodeal.ch/img/import/cardo/1.jpg,https://www.motogoodeal.ch/img/import/cardo/Cardo-sho-1-shoei_1.jpg;;;;;
+87230;;Pack:select:0;2 Casques:2;800006.DUO;800006.DUO;;;363.1071429;213;;5;;;;;;;;;;;
+87231;;Pack:select:0;1 Casque:1;800007;800007;0828831836571;;;0;;5;;;;;;https://www.motogoodeal.ch/img/import/cardo/Smartpack-1-600x600.jpg,https://www.motogoodeal.ch/img/import/cardo/SMARTPACK-Box.jpg;;;;;
+87231;;Pack:select:0;2 Casques:2;800007.DUO;800007.DUO;0828831836588;;363.1071429;213;;5;;;;;;https://www.motogoodeal.ch/img/import/cardo/800007.DUO.jpg;;;;;
+87232;;Pack:select:0;1 Casque:1;800008;800008;0828831836205;;;0;;5;;;;;;https://www.motogoodeal.ch/img/import/cardo/800008.jpg,https://www.motogoodeal.ch/img/import/cardo/4web-Packtalk-1.jpg;;;;;
+87232;;Pack:select:0;2 Casques:2;800008.DUO;800008.DUO;0828831836229;;396.1785714;222.25;;5;;;;;;https://www.motogoodeal.ch/img/import/cardo/800008.DUO.jpg,https://www.motogoodeal.ch/img/import/cardo/81F8xXYktgL_.jpg;;;;;
+87233;;Pack:select:0;1 Casque:1;800009;800009;;;;0;;5;;;;;;https://www.motogoodeal.ch/img/import/cardo/800009.jpg,https://www.motogoodeal.ch/img/import/cardo/smarth.jpg,https://www.motogoodeal.ch/img/import/cardo/smarth-cardo-scalarider-3.jpg;;;;;
+87233;;Pack:select:0;2 Casques:2;800009.DUO;800009.DUO;;;363.1071429;213;;5;;;;;;https://www.motogoodeal.ch/img/import/cardo/800009.DUO.jpg,https://www.motogoodeal.ch/img/import/cardo/smarth.jpg,https://www.motogoodeal.ch/img/import/cardo/smarth-cardo-scalarider-3.jpg;;;;;

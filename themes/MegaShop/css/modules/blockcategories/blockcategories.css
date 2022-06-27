@@ -1,0 +1,66 @@
+#categories_block_left{margin:0;}
+#categories_block_left .block_content{}
+#categories_block_left  li {padding: 0; position:relative;}
+#categories_block_left  li.last {border:none; padding-bottom:0; margin-right:0;}
+#categories_block_left  li a{z-index:2;}
+#categories_block_left  li a.selected {}
+		
+.tptn-vertical-mega-menu .menu{
+	position: relative; /* Required */
+	float:none;
+}
+.tptn-vertical-mega-menu .menu > li{}
+.tptn-vertical-mega-menu .menu li a {
+    display: block; 
+	padding:10px;
+	text-decoration: none;
+}
+.tptn-vertical-mega-menu .menu li a:hover,
+.tptn-vertical-mega-menu .menu > li.mega-hover > a {background:#fff;}
+.tptn-vertical-mega-menu .menu li a.tptn-mega {position: relative;}
+
+/* Add arrow icon to parent links */
+.tptn-vertical-mega-menu .menu li a .tptn-mega-icon {
+	background: url("../../../img/custom/bullet.gif") no-repeat left center;
+	display: block; 
+	float:right;
+	width:6px; 
+	height:16px; 
+}
+.tptn-vertical-mega-menu .menu li a:hover .tptn-mega-icon,
+.tptn-vertical-mega-menu .menu li.mega-hover a .tptn-mega-icon {}
+/* Mega menu container */
+.tptn-vertical-mega-menu .menu li .sub-container {
+	background: #fff;
+	box-shadow:0 0 5px 0 rgba(0, 0, 0, 0.3);
+	position: absolute;
+	top:0;
+	overflow: hidden;
+	z-index:9999;
+}
+.tptn-vertical-mega-menu .menu li .sub-container .sub {
+	padding: 10px 0 5px 10px;
+	
+}
+.tptn-vertical-mega-menu .menu li .sub .tptnrow {width: 100%; overflow: hidden; }
+.tptn-vertical-mega-menu .menu li .sub li {float: none;}
+.tptn-vertical-mega-menu .menu li .sub li.mega-hdr {
+	float: left;
+	margin: 0 10px 10px 0;
+}
+.tptn-vertical-mega-menu .menu li .sub a, .tptn-vertical-mega-menu .menu.left li .sub a {}
+.tptn-vertical-mega-menu .menu li .sub li.mega-hdr a.mega-hdr-a {
+	border-bottom:1px solid #e5e5e5;
+    font-size:12px;
+    font-weight:bold;
+	padding:5px;
+	margin-bottom:4px;
+}
+.tptn-vertical-mega-menu .menu .sub li.mega-hdr li {}
+.tptn-vertical-mega-menu .menu .sub li a {padding:4px 5px;}
+.tptn-vertical-mega-menu .menu .sub li a:hover {background:#eee; color:#333;}
+.tptn-vertical-mega-menu .menu .sub ul li {	}
+
+/* Styling for menu items with only 2 levels */
+.tptn-vertical-mega-menu .menu li .sub-container.non-mega .sub {padding: 10px;}
+.tptn-vertical-mega-menu .menu li .sub-container.non-mega li {}

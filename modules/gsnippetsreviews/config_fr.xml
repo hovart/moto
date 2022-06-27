@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>gsnippetsreviews</name>
+	<displayName><![CDATA[Notes et Avis Client Pro + Google Rich Snippets]]></displayName>
+	<version><![CDATA[4.3.3]]></version>
+	<description><![CDATA[Module 2 en 1: Syst&egrave;me de notes et de reviews complet + Google Rich Snippets pour un affichage de r&eacute;sultats am&eacute;lior&eacute; sur Google.]]></description>
+	<author><![CDATA[BusinessTech]]></author>
+	<tab><![CDATA[seo]]></tab>
+	<confirmUninstall><![CDATA[Etes-vous sur de vouloir le supprimer ? Votre module Notes et Avis Client Pro + Google Rich Snippets ne fonctionnera plus. Attention, toute la configuration et toutes les données seront perdues]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>facebookpixel</name>
+	<displayName><![CDATA[Facebook Pixel - Tracking Code]]></displayName>
+	<version><![CDATA[1.0.1]]></version>
+	<description><![CDATA[Report conversions, build audiences and get rich insights]]></description>
+	<author><![CDATA[weblir]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

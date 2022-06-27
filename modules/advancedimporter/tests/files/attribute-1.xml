@@ -1,0 +1,23 @@
+<objects>
+	<object type="attributeGroup" external-reference="demo-recto-color">
+		<is_color_group>1</is_color_group>
+		<group_type>color</group_type>
+		<name lang="fr">Couleur du recto</name>
+		<public_name lang="fr">Couleur du recto</public_name>
+	</object>
+	<object type="attribute" external-reference="demo-recto-color-gray">
+		<external_reference for="id_attribute_group" type="attributeGroup">demo-recto-color</external_reference>
+		<color>#AAB2BD</color>
+		<name lang="fr">Gris</name>
+	</object>
+	<object type="attribute" external-reference="demo-recto-color-blue">
+		<external_reference for="id_attribute_group" type="attributeGroup">demo-recto-color</external_reference>
+		<color>#5D9CEC</color>
+		<name lang="fr">Bleu</name>
+	</object>
+	<object type="attribute" external-reference="demo-recto-color-red">
+		<external_reference for="id_attribute_group" type="attributeGroup">demo-recto-color</external_reference>
+		<color>#E84C3D</color>
+		<name lang="fr">Rouge</name>
+	</object>
+</objects>

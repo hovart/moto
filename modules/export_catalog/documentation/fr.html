@@ -1,0 +1,934 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      Export CSV
+    </title>
+    <meta name="description" content="">
+    <meta name="author" content="Samdha">
+    <meta name="copyright" content="Samdha">
+    <meta name="date" content="2015-01-15T00:00:00+01:00">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="https://html5shim.googlecode.com/svn/trunk/html5.js">
+      </script>
+    <![endif]-->
+  </head>
+  <body id="top">
+    <div class="container" id="documenter_content">
+<section>
+<div class="page-header">
+  <h3>Présentation</h3>
+</div>
+<p>
+  Ce module vous permet d'exporter votre catalogue au format CSV. Il gére les exportations multiples et la planification par cron.
+</p>
+<p>
+  Ce module fonctionne comme suit: Vous pouvez définir un ou plusieurs <a href="#model">modèles d'exportation</a> et autant d'<a href="#scheduled">exportations planifiées</a> que vous le souhaitez.
+</p>
+</section><section>
+<div class="page-header">
+  <h3><span id="model">Modèles d'exportation</span></h3>
+</div>
+<p>
+  Un modèle d'exportation définit les données à exporter et la manière dont le fichier généré sera structuré.
+</p>
+<p>
+  Le but d'un modèle d'exportation est de générer un fichier CSV. Un fichier CSV est composé d'un certain nombre d'enregistrements (ici les produits), un par ligne, chaque enregistrement est constitué de champs (nommés ici colonnes), séparés par un caractères quelconque, le plus souvent une virgule ou point virgule.
+</p>
+<h4>Nom du modèle</h4>
+<p>
+  Vous pouvez créer autant de modèles d'exportation que vous voulez donc choisir un nom approprié est une bonne idée pour les retrouver facilement.
+</p>
+<h4>Structure de fichier</h4>
+<h5><span id="columns">Colonnes</span></h5>
+<p>
+  Sélectionnez les données que vous souhaitez exporter. Utilisez le bouton (+) pour ajouter une colonne au-dessous de l'actuelle et le bouton (-) pour supprimer la colonne courante.
+</p>
+<h6><span id="field_value">Valeur</span></h6>
+<p>
+  Chaque colonne a une valeur, celles-ci sont calculées au moment de l'exportation.
+</p>
+<p>
+  Une valeur spéciale "Valeur fixe" est indépendante du produit et peut être ce que vous voulez.
+</p>
+<p>
+  Liste des valeurs exportables&#160;:
+</p>
+<ul>
+  <li> Référence </li>
+  <li> EAN13 </li>
+  <li> Nom + Nom de la déclinaisons </li>
+  <li> URL de l'image par défaut </li>
+  <li> Quantité </li>
+  <li> Prix de vente </li>
+  <li> En stock </li>
+  <li> En rupture de stock </li>
+  <li> Neuf </li>
+  <li> Occasion </li>
+  <li> Reconditionné </li>
+  <li> Nom </li>
+  <li> Nom de la déclinaisons </li>
+  <li> Description courte </li>
+  <li> Description courte sans HTML </li>
+  <li> Description </li>
+  <li> Description sans HTML </li>
+  <li> URL de l'image 1 </li>
+  <li> URL de l'image 2 </li>
+  <li> URL de l'image 3 </li>
+  <li> URL de l'image 4 </li>
+  <li> URL de l'image 5 </li>
+  <li> URL de l'image 6 </li>
+  <li> URL de l'image 7 </li>
+  <li> URL de l'image 8 </li>
+  <li> URL de l'image 9 </li>
+  <li> URL de l'image 10 </li>
+  <li> URLs de toutes les images </li>
+  <li> Référence fournisseur </li>
+  <li> Fournisseur </li>
+  <li> Fabricant </li>
+  <li> URL simplifiée </li>
+  <li> ID </li>
+  <li> ID de la déclinaisons </li>
+  <li> UPC </li>
+  <li> Taux de TVA </li>
+  <li> Prix de vente HT </li>
+  <li> Prix sans réduction </li>
+  <li> Réduction </li>
+  <li> écotaxe </li>
+  <li> Frais de port supplémentaires </li>
+  <li> Prix à l'unité HT </li>
+  <li> Quantité minimale </li>
+  <li> Prix d'achat HT </li>
+  <li> Frais de port </li>
+  <li> Frais de port HT </li>
+  <li> En solde </li>
+  <li> Exclusivité web </li>
+  <li> Nouveauté </li>
+  <li> Actif </li>
+  <li> En stock (1/0) </li>
+  <li> En stock (texte) </li>
+  <li> Emplacement (entrepôt) </li>
+  <li> Largeur </li>
+  <li> Hauteur </li>
+  <li> Profondeur </li>
+  <li> Poids </li>
+  <li> Unité </li>
+  <li> Condition </li>
+  <li> ID de la catégorie par défaut </li>
+  <li> ID de la catégorie 1 </li>
+  <li> ID de la catégorie 2 </li>
+  <li> ID de la catégorie 3 </li>
+  <li> ID de la catégorie 4 </li>
+  <li> ID de la catégorie 5 </li>
+  <li> ID de la catégorie 6 </li>
+  <li> ID de la catégorie 7 </li>
+  <li> ID de la catégorie 8 </li>
+  <li> ID de la catégorie 9 </li>
+  <li> ID de la catégorie 10 </li>
+  <li> ID de toutes les catégories </li>
+  <li> Nom de la catégorie par défaut </li>
+  <li> Nom de la catégorie 1 </li>
+  <li> Nom de la catégorie 2 </li>
+  <li> Nom de la catégorie 3 </li>
+  <li> Nom de la catégorie 4 </li>
+  <li> Nom de la catégorie 5 </li>
+  <li> Nom de la catégorie 6 </li>
+  <li> Nom de la catégorie 7 </li>
+  <li> Nom de la catégorie 8 </li>
+  <li> Nom de la catégorie 9 </li>
+  <li> Nom de la catégorie 10 </li>
+  <li> Noms de toutes les catégories </li>
+  <li> URL simplifiée de la catégorie par défaut </li>
+  <li> URL simplifiée de la catégorie 1 </li>
+  <li> URL simplifiée de la catégorie 2 </li>
+  <li> URL simplifiée de la catégorie 3 </li>
+  <li> URL simplifiée de la catégorie 4 </li>
+  <li> URL simplifiée de la catégorie 5 </li>
+  <li> URL simplifiée de la catégorie 6 </li>
+  <li> URL simplifiée de la catégorie 7 </li>
+  <li> URL simplifiée de la catégorie 8 </li>
+  <li> URL simplifiée de la catégorie 9 </li>
+  <li> URL simplifiée de la catégorie 10 </li>
+  <li> URL simplifiées de toutes les catégories </li>
+  <li> Chemin </li>
+  <li> URL </li>
+  <li> Valeur fixe </li>
+  <li> Caractéristique </li>
+</ul>
+<h6><span id="field_title">Titre</span></h6>
+<p>
+  Cette colonne n'apparait que si vous avez activé l'option <a href="#header">Ajouter la ligne d'en-tête</a>. Indiquez ici les noms des colonnes qui apparaîtront en haut du fichier généré.
+</p>
+<h6><span id="field_decoration">Habillage</span></h6>
+<p>
+  Cette colonne n'apparait que si vous avez activé l'option <a href="#decoration">Habillage des colonnes</a>. Indiquez ici les textes à insérer avant et après les valeurs calculées.
+</p>
+<h5><span id="filename">Nom du fichier</span></h5>
+<p>
+  Nom du fichier généré. Il peut être une valeur fixe comme "catalog.csv" ou calculée comme "catalog_%Y-%m-%d.csv".
+</p>
+<p>
+  Les caractères suivants sont reconnus et seront remplacés:
+</p>
+<table class="wikitable sortable">
+<tr>
+  <th>
+    format
+  </th>
+  <th>
+     Description
+  </th>
+  <th>
+     Exemple de valeurs retournées
+  </th>
+</tr>
+<tr>
+  <td>
+    <b>Jour</b>
+  </td>
+  <td>
+     ---
+  </td>
+  <td>
+     ---
+  </td>
+</tr>
+<tr>
+  <td>
+    %a
+  </td>
+  <td>
+     Nom abrégé du jour de la semaine
+  </td>
+  <td>
+     De Sun à Sat
+  </td>
+</tr>
+<tr>
+  <td>
+    %A
+  </td>
+  <td>
+     Nom complet du jour de la semaine
+  </td>
+  <td>
+     De Sunday à Saturday
+  </td>
+</tr>
+<tr>
+  <td>
+    %d
+  </td>
+  <td>
+     Jour du mois en numérique, sur 2 chiffres (avec le zéro initial)
+  </td>
+  <td>
+     De 01 à 31
+  </td>
+</tr>
+<tr>
+  <td>
+    %e
+  </td>
+  <td>
+     Jour du mois, avec un espace précédant le premier chiffre. L'implémentation Windows est différente, voyez après pour plus d'informations.
+  </td>
+  <td>
+     De 1 à 31
+  </td>
+</tr>
+<tr>
+  <td>
+    %j
+  </td>
+  <td>
+     Jour de l'année, sur 3 chiffres avec un zéro initial
+  </td>
+  <td>
+     001 à 366
+  </td>
+</tr>
+<tr>
+  <td>
+    %u
+  </td>
+  <td>
+     Représentation ISO-8601 du jour de la semaine
+  </td>
+  <td>
+     De 1 (pour Lundi) à 7 (pour Dimanche)
+  </td>
+</tr>
+<tr>
+  <td>
+    %w
+  </td>
+  <td>
+     Représentation numérique du jour de la semaine
+  </td>
+  <td>
+     De 0 (pour Dimanche) à 6 (pour Samedi)
+  </td>
+</tr>
+<tr>
+  <td>
+    <b>Semaine</b>
+  </td>
+  <td>
+     ---
+  </td>
+  <td>
+     ---
+  </td>
+</tr>
+<tr>
+  <td>
+    %U
+  </td>
+  <td>
+     Numéro de la semaine de l'année donnée, en commençant par le premier Lundi comme première semaine
+  </td>
+  <td>
+     13 (pour la 13ème semaine pleine de l'année)
+  </td>
+</tr>
+<tr>
+  <td>
+    %V
+  </td>
+  <td>
+     Numéro de la semaine de l'année, suivant la norme ISO-8601:1988, en commençant comme première semaine, la semaine de l'année contenant au moins 4 jours, et où Lundi est le début de la semaine
+  </td>
+  <td>
+     De 01 à 53 (où 53 compte comme semaine de chevauchement)
+  </td>
+</tr>
+<tr>
+  <td>
+    %W
+  </td>
+  <td>
+     Une représentation numérique de la semaine de l'année, en commençant par le premier Lundi de la première semaine
+  </td>
+  <td>
+     46 (pour la 46ème semaine de la semaine commençant par un Lundi)
+  </td>
+</tr>
+<tr>
+  <td>
+    <b>Mois</b>
+  </td>
+  <td>
+     ---
+  </td>
+  <td>
+     ---
+  </td>
+</tr>
+<tr>
+  <td>
+    %b
+  </td>
+  <td>
+     Nom du mois, abrégé, suivant la locale
+  </td>
+  <td>
+     De Jan à Dec
+  </td>
+</tr>
+<tr>
+  <td>
+    %B
+  </td>
+  <td>
+     Nom complet du mois, suivant la locale
+  </td>
+  <td>
+     De January à December
+  </td>
+</tr>
+<tr>
+  <td>
+    %h
+  </td>
+  <td>
+     Nom du mois abrégé, suivant la locale (alias de&#160;%b)
+  </td>
+  <td>
+     De Jan à Dec
+  </td>
+</tr>
+<tr>
+  <td>
+    %m
+  </td>
+  <td>
+     Mois, sur 2 chiffres
+  </td>
+  <td>
+     De 01 (pour Janvier) à 12 (pour Décembre)
+  </td>
+</tr>
+<tr>
+  <td>
+    <b>Année</b>
+  </td>
+  <td>
+     ---
+  </td>
+  <td>
+     ---
+  </td>
+</tr>
+<tr>
+  <td>
+    %C
+  </td>
+  <td>
+     Représentation, sur 2 chiffres, du siècle (année divisée par 100, réduit à un entier)
+  </td>
+  <td>
+     19 pour le 20ème siècle
+  </td>
+</tr>
+<tr>
+  <td>
+    %g
+  </td>
+  <td>
+     Représentation, sur 2 chiffres, de l'année, compatible avec les standards ISO-8601:1988 (voyez&#160;%V)
+  </td>
+  <td>
+     Exemple&#160;: 09 pour la semaine du 6 janvier 2009
+  </td>
+</tr>
+<tr>
+  <td>
+    %G
+  </td>
+  <td>
+     La version complète à quatre chiffres de&#160;%g
+  </td>
+  <td>
+     Exemple&#160;: 2008 pour la semaine du 3 janvier 2009
+  </td>
+</tr>
+<tr>
+  <td>
+    %y
+  </td>
+  <td>
+     L'année, sur 2 chiffres
+  </td>
+  <td>
+     Exemple&#160;: 09 pour 2009, 79 pour 1979
+  </td>
+</tr>
+<tr>
+  <td>
+    %Y
+  </td>
+  <td>
+     L'année, sur 4 chiffres
+  </td>
+  <td>
+     Exemple&#160;: 2038
+  </td>
+</tr>
+<tr>
+  <td>
+    <b>Heure</b>
+  </td>
+  <td>
+     ---
+  </td>
+  <td>
+     ---
+  </td>
+</tr>
+<tr>
+  <td>
+    %H
+  </td>
+  <td>
+     L'heure, sur 2 chiffres, au format 24 heures
+  </td>
+  <td>
+     De 00 à 23
+  </td>
+</tr>
+<tr>
+  <td>
+    %k
+  </td>
+  <td>
+     Une représentation de l'heure sur 2 chiffres, au format 24 heures, avec un espace précédant un seul chiffre
+  </td>
+  <td>
+     De 0 à 23
+  </td>
+</tr>
+<tr>
+  <td>
+    %I
+  </td>
+  <td>
+     Heure, sur 2 chiffres, au format 12 heures
+  </td>
+  <td>
+     De 01 à 12
+  </td>
+</tr>
+<tr>
+  <td>
+    %l ('L' minuscule)
+  </td>
+  <td>
+     Heure, au format 12 heures, avec un espace précédant un seul chiffre
+  </td>
+  <td>
+     De 1 à 12
+  </td>
+</tr>
+<tr>
+  <td>
+    %M
+  </td>
+  <td>
+     Minute, sur 2 chiffres
+  </td>
+  <td>
+     De 00 à 59
+  </td>
+</tr>
+<tr>
+  <td>
+    %p
+  </td>
+  <td>
+     'AM' ou 'PM', en majuscule, basé sur l'heure fournie
+  </td>
+  <td>
+     Exemple&#160;: AM pour 00:31, PM pour 22:23
+  </td>
+</tr>
+<tr>
+  <td>
+    %P
+  </td>
+  <td>
+     'am' ou 'pm', en minuscule, basé sur l'heure fournie
+  </td>
+  <td>
+     Exemple&#160;: am pour 00:31, pm pour 22:23
+  </td>
+</tr>
+<tr>
+  <td>
+    %r
+  </td>
+  <td>
+     Identique à "%I:%M:%S&#160;%p"
+  </td>
+  <td>
+     Exemple&#160;: 09:34:17 PM pour 21:34:17
+  </td>
+</tr>
+<tr>
+  <td>
+    %R
+  </td>
+  <td>
+     Identique à "%H:%M"
+  </td>
+  <td>
+     Exemple&#160;: 00:35 pour 12:35 AM, 16:44 pour 4:44 PM
+  </td>
+</tr>
+<tr>
+  <td>
+    %S
+  </td>
+  <td>
+     Seconde, sur 2 chiffres
+  </td>
+  <td>
+     De 00 à 59
+  </td>
+</tr>
+<tr>
+  <td>
+    %T
+  </td>
+  <td>
+     Identique à "%H:%M:%S"
+  </td>
+  <td>
+     Exemple&#160;: 21:34:17 pour 09:34:17 PM
+  </td>
+</tr>
+<tr>
+  <td>
+    %X
+  </td>
+  <td>
+     Représentation de l'heure, basée sur la locale, sans la date
+  </td>
+  <td>
+     Exemple&#160;: 03:59:16 ou 15:59:16
+  </td>
+</tr>
+<tr>
+  <td>
+    %z
+  </td>
+  <td>
+     Le décalage horaire. Non implémenté tel que décrit sous Windows. Voir plus bas pour plus d'informations.
+  </td>
+  <td>
+     Exemple&#160;: -0500 pour l'heure US de l'est
+  </td>
+</tr>
+<tr>
+  <td>
+    %Z
+  </td>
+  <td>
+     L'abréviation du décalage horaire. Non implémenté tel que décrit sous Windows. Voir plus bas pour plus d'informations.
+  </td>
+  <td>
+     Exemple&#160;: EST pour l'heure de l'Est
+  </td>
+</tr>
+<tr>
+  <td>
+    <b>L'heure et la date</b>
+  </td>
+  <td>
+     ---
+  </td>
+  <td>
+     ---
+  </td>
+</tr>
+<tr>
+  <td>
+    %c
+  </td>
+  <td>
+     Date et heure préférées, basées sur la locale
+  </td>
+  <td>
+     Exemple&#160;: Tue Feb 5 00:45:10 2009 pour le 5 Février 2009 à 12:45:10 AM
+  </td>
+</tr>
+<tr>
+  <td>
+    %D
+  </td>
+  <td>
+     Identique à "%m/%d/%y"
+  </td>
+  <td>
+     Exemple&#160;: 02/05/09 pour le 5 Février 2009
+  </td>
+</tr>
+<tr>
+  <td>
+    %F
+  </td>
+  <td>
+     Identique à "%Y-%m-%d" (utilisé habituellement par les bases de données)
+  </td>
+  <td>
+     Exemple&#160;: 2009-02-05 pour le 5 février 2009
+  </td>
+</tr>
+<tr>
+  <td>
+    %s
+  </td>
+  <td>
+     Timestamp de l'époque Unix (identique à la fonction time())
+  </td>
+  <td>
+     Exemple&#160;: 305815200 pour le 10 Septembre 1979 08:40:00 AM
+  </td>
+</tr>
+<tr>
+  <td>
+    %x
+  </td>
+  <td>
+     Représentation préférée de la date, basée sur la locale, sans l'heure
+  </td>
+  <td>
+     Exemple&#160;: 02/05/09 pour le 5 Février 2009
+  </td>
+</tr>
+<tr>
+  <td>
+    <b>Divers</b>
+  </td>
+  <td>
+     ---
+  </td>
+  <td>
+     ---
+  </td>
+</tr>
+<tr>
+  <td>
+    %n
+  </td>
+  <td>
+     Une nouvelle ligne ("\n")
+  </td>
+  <td>
+     ---
+  </td>
+</tr>
+<tr>
+  <td>
+    %t
+  </td>
+  <td>
+     Une tabulation ("\t")
+  </td>
+  <td>
+     ---
+  </td>
+</tr>
+<tr>
+  <td>
+    %%
+  </td>
+  <td>
+     Le caractère de pourcentage ("%")
+  </td>
+  <td>
+     ---
+  </td>
+</tr>
+</table>
+<p>
+  Plus d'informations sur php.net: <a rel="nofollow" class="external free" href="http://www.php.net/strftime">http://www.php.net/strftime</a>
+</p>
+<h5><span id="separator">Séparateur CSV</span></h5>
+<p>
+  Caractère séparant les colonnes. La plupart du temps , ou&#160;; mais cela peut être n'importe quel caractère comme | ou §.
+</p>
+<p>
+  Si vous voulez utiliser le fichier avec Microsoft Excel, vous devez utiliser&#160;; comme séparateur <a href="#open_csv">Plus d'informations sur les tableurs et CSV</a>.
+</p>
+<h5><span id="charset">Encodage des caractères</span></h5>
+<p>
+  Il définit la façon d'écrire les données dans le fichier. La plupart du temps, UTF-8 est le bon choix (mais pas pour Microsoft Excel, voir ci-dessous).
+</p>
+<p>
+  Plus d'informations: <a rel="nofollow" class="external free" href="https://fr.wikipedia.org/wiki/Codage_des_caract%C3%A8res">https://fr.wikipedia.org/wiki/Codage_des_caract%C3%A8res</a>
+</p>
+<p>
+  Remarque sur Microsoft Excel: <a rel="nofollow" class="external free" href="http://dev.webdesigneuse.com/spip/Encodage-et-fichiers-CSV">http://dev.webdesigneuse.com/spip/Encodage-et-fichiers-CSV</a>
+</p>
+<h5><span id="header">Ajouter la ligne d'en-tête</span></h5>
+<p>
+  Ajoutez une première ligne dans le fichier CSV avec les titres des colonnes définies <a href="#columns">ci-dessus</a>
+</p>
+<h5><span id="decimal_separator">Séparateur décimal</span></h5>
+<p>
+  Sera utilisé pour les prix. Vous pouvez choisir d'avoir 12,34 ou 12.34 (ou 12@43 si vous voulez).
+</p>
+<h5><span id="decimal_points">Nombre de décimales</span></h5>
+<p>
+  Sera utilisé pour les prix. Vous pouvez choisir d'avoir 12,34 au lieu de 12,34321, dans ce cas, le nombre de décimales est 2.
+</p>
+<h5><span id="price_format">Habillage des prix</span></h5>
+<p>
+  Sera utilisé pour les prix. Par défaut les prix sont exporté au format numérique, simple (12.34) Mais si vous voulez quelque chose comme '12.34€', '12.34 EUR' ou encore '%%12.34%%', ce champs est là pour ça.
+</p>
+<p>
+  Indiquez ce que vous voulez dans ce champs en remplaçant le prix par [PRICE]. Ainsi '[PRICE]€' donnera des prix de la forme '12.34€'.
+</p>
+<h5><span id="decoration">Habillage des colonnes</span></h5>
+<p>
+  Vous avez la possibilité d'insérer du texte avant et après les valeurs calculés pour chaque colonne. Par exemple vous pouvez ajouter à la fin de toutes les descriptions de vos produits " ©monsite.com™"
+</p>
+<h4>Produits à exporter</h4>
+<p>
+  Ici vous pouvez filtrer les produits que vous voulez exporter.
+</p>
+<h5><span id="inactive">Exporter les produits inactifs</span></h5>
+<p>
+  Choisissez si les produits non activés dans le contexte d'exportation apparaîtront dans le fichier généré.
+</p>
+<h5><span id="no_stock">Exporter les produits en rupture de stock</span></h5>
+<p>
+  Choisissez si les produits en rupture de stock au moment de l'exportation apparaîtront dans le fichier généré.
+</p>
+<h5><span id="attribute">Exporter les déclinaisons</span></h5>
+<p>
+  Si activé, une ligne sera créée pour chaque déclinaison de produit et les prix et les quantités seront calculés pour chacune d'elles.
+</p>
+<h5><span id="categories">Catégories</span></h5>
+<p>
+  Choisissez les catégories à exporter. Si aucune catégorie est cochée, toutes les catégories seront exportées.
+</p>
+<p>
+  Ce sont les catégories par défaut des produits.
+</p>
+<h4>Contexte</h4>
+<p>
+  Dans Prestashop, vous n'avez pas qu'une liste de produits et un prix par produit. Les prix peuvent être personnalisés par groupes, boutiques, pays. Même chose pour les catégories.
+</p>
+<p>
+  Ici vous pouvez choisir le contexte de l'exportation.
+</p>
+<h5><span id="size">Taille de l'image exportée</span></h5>
+<p>
+  Si vous choisissez d'exporter les URL des images, ceci défini la taille des images exportées.
+</p>
+<h5>Langue / Monnaie / Groupe / Pays / Boutique</h5>
+<p>
+  Choisissez le contexte de l'exportation. Il peut modifier la liste des produits, les prix, les frais de port, les noms ...
+</p>
+<p>
+  Certaines options ne s'affichent pas en fonction de la configuration de votre boutique. Par exemple, si vous avez une seule langue, l'option de langue ne s'affichera pas.
+</p>
+</section><section>
+<div class="page-header">
+  <h3><span id="scheduled">Exportations planifiées</span></h3>
+</div>
+<p>
+  L'objectif d'une exportation planifiée est de générer un fichier CSV en utilisant un modèle d'exportation et d'en faire quelque chose. Donc, vous devrez indiquer le modèle à utiliser, quand et quoi faire avec le fichier créé.
+</p>
+<p>
+  Remarque: Si aucun modèle d'exportation est créé, vous ne pourrez pas planifier d'exportation.
+</p>
+<h4><span id="export_name">Nom de l'exportation</span></h4>
+<p>
+  Vous pouvez créer autant d'exportation planifiée que vous voulez donc choisir un nom approprié est une bonne idée pour les retrouver facilement.
+</p>
+<h4><span id="export_model">Modèle</span></h4>
+<p>
+  Choisissez le modèle d'exportation à utiliser.
+</p>
+<p>
+  Remarque: Si un modèle d'exportation est supprimé, les exportations planifiées liées seront supprimés aussi.
+</p>
+<h4><span id="day"><span id="hour">Jours et heure d'exportation</span></span></h4>
+<p>
+  Choisissez quand exécuter l'exportation. Si vous voulez exécuter une exportation de deux fois par jour, vous devrez créer deux exportations planifiées .
+</p>
+<h4><span id="id_employee">Envoyer un fichier à</span></h4>
+<p>
+  Enverra le fichier généré par courrier électronique à l'employé sélectionné.
+</p>
+<h4><span id="folder">Enregistrer dans le dossier</span></h4>
+<p>
+  Enregistrera le fichier généré dans le dossier sélectionné. Ce dossier doit être accessible en écriture.
+</p>
+</section><section>
+<div class="page-header">
+  <h3>Paramètres</h3>
+</div>
+<h4><span id="cron">Utiliser le module "Crontab pour Prestashop"</span></h4>
+<p>
+  Si vous avez créé une exportation planifiée , vous pouvez utiliser le module "Crontab pour Prestashop" pour l'executer. Ce module est gratuit.
+</p>
+<p>
+  Cette option ne s'affiche que si le module "Crontab pour Prestashop" est installé sur votre site.
+</p>
+<h4><span id="directory">Répertoire de travail</span></h4>
+<p>
+  Ce module a besoin de créer des fichiers temporaires comme des fichiers CSV ou les données d'exportation, pour cela il a besoin d'un dossier accessible en écriture.
+</p>
+<p>
+  La plupart du temps vous n'aurez pas à modifier ce paramètre.
+</p>
+<p>
+  Ce dossier doit être accessible en écriture.
+</p>
+</section><section>
+<div class="page-header">
+  <h3>Questions fréquentes</h3>
+</div>
+<p>
+  <a href="/wiki/Samdha:faq" title="Samdha:faq">Questions fréquentes communes à tous les modules Samdha</a>
+</p>
+<h4>Qu'est-ce qu'un fichier CSV?</h4>
+<p>
+  Un fichier CSV est composé d'un certain nombre d'enregistrements (ici les produits), un par ligne, chaque enregistrement est constitué de champs (ic appelés colonnes), séparés par un caractères quelconque, le plus souvent une virgule ou point virgule.
+</p>
+<p>
+  CSV est un format de fichier commun relativement simple qui est largement utilisé par les applications grand public les entreprises et scientifique. L'une des utilisations les plus courantes est le déplacement des données tabulaires entre les programmes qui fonctionnent nativement sur les formats incompatibles (souvent propriétaires et / ou non documentés). Cela fonctionne carde nombreux programmes utilisent le format CSV comme un format d'import / export alternatif.
+</p>
+<h4><span id="open_csv">Comment lire un fichier CSV&#160;?</span></h4>
+<p>
+  (À partir de <a rel="nofollow" class="external free" href="http://www.computerhope.com/issues/ch001357.htm">http://www.computerhope.com/issues/ch001357.htm</a>)
+</p>
+<p>
+  Un fichier CSV peut être ouvert par n'importe quel programme, cependant, pour la plupart des utilisateurs un fichier CSV sera lisible grâce à un tableur comme Microsoft Excel, Open Office Calc ou Google Docs.
+</p>
+<p>
+  Astuce: Si vous ne disposez pas d'un tableur installé sur votre ordinateur envisager d'utiliser un tableur en ligne comme Google Docs ou un tableur gratuit.
+</p>
+<h5>Microsoft Excel</h5>
+<p>
+  Si Microsoft Excel a été installé sur l'ordinateur, par défaut les fichiers CSV doivent s'ouvrir automatiquement dans Excel lorsque l'icône du fichier est double-cliqué. Si vous trouvez un "Ouvrir avec" lors de l'ouverture du fichier CSV, choisissez Microsoft Excel à partir des programmes disponibles pour ouvrir le fichier.
+</p>
+<p>
+  Sinon, vous pouvez ouvrir Microsoft Excel et cliquez sur Fichier, Ouvrir, sélectionnez le fichier. CSV. Si le fichier n'est pas répertorié assurez-vous que l'extension du fichier est bien .csv.
+</p>
+<p>
+  Plus d'informations&#160;: <a rel="nofollow" class="external free" href="http://office.microsoft.com/en-us/excel-help/import-or-export-text-txt-or-csv-files-HP010099725.aspx">http://office.microsoft.com/en-us/excel-help/import-or-export-text-txt-or-csv-files-HP010099725.aspx</a>
+</p>
+<h5>Open/Libre Office Calc</h5>
+<p>
+  Si Open Office a été installé sur l'ordinateur, par défaut les fichiers CSV doivent s'ouvrir automatiquement dans Calc lorsque l'icône du fichier est double-cliqué. Si vous trouvez un "Ouvrir avec" lors de l'ouverture du fichier CSV, choisissez Open Office Calc à partir des programmes disponibles pour ouvrir le fichier.
+</p>
+<p>
+  Sinon, vous pouvez ouvrir Open Office Calc et cliquez sur Fichier, Ouvrir, sélectionnez le fichier CSV..
+</p>
+<p>
+  Plus d'informations&#160;: <a rel="nofollow" class="external free" href="http://www.linuxtopia.org/online_books/office_guides/openoffice_3_calc_user_guide/openoffice_calc_Starting_opening_saving_Opening_CSV_files.html">http://www.linuxtopia.org/online_books/office_guides/openoffice_3_calc_user_guide/openoffice_calc_Starting_opening_saving_Opening_CSV_files.html</a>
+</p>
+<h5>Google Docs</h5>
+<p>
+  Ouvrir Google Docs, cliquez sur l'icône de téléchargement, Fichiers et accédez au répertoire contenant le fichier .CSV. Si une fenêtre de paramétrage du téléchargement apparaît vérifier les documents converti, présentations, feuilles de calcul et des dessins au format Google Docs et cliquez sur Démarrer le téléchargement.
+</p>
+<p>
+  Plus d'informations: <a rel="nofollow" class="external free" href="http://www.geek.com/apps/geek-101-how-to-open-a-csv-document-with-google-docs-1551489/">http://www.geek.com/apps/geek-101-how-to-open-a-csv-document-with-google-docs-1551489/</a>
+</p>
+<h4>Le comparateur de prix X a besoin de colonnes arbitraires. Comment faire&#160;?</h4>
+<p>
+  La plupart du temps, les comparateurs de prix ont besoin d'un ID de catégorie qui est différent du vôtre, comme '15423 ' pour de la nourriture pour animaux ou 'AZ23' pour les accessoires informatiques.
+</p>
+<p>
+  Vous pouvez gérer cela en utilisant les caractéristiques produits de Prestashop. Créer une caractéristique "Catégorie du comparateur X" (<a rel="nofollow" class="external text" href="http://doc.prestashop.com/pages/viewpage.action?pageId=11272416#Unaperçuducatalogue-Caractéristiques">plus de détails</a>) et compléter vos détails de produits avec cette caractéristique (<a rel="nofollow" class="external text" href="http://doc.prestashop.com/pages/viewpage.action?pageId=11272378#Ajouterdesproduitsetdescatégoriesdeproduits-Configurerlescaractéristiquesduproduit">plus d'informations</a>). Ensuite, dans votre modèle d'exportation, <a href="#columns">ajouter la caractéristique</a> "Catégorie du comparateur X".
+</p>
+<p>
+  Si la valeur est constante, vous pouvez aussi utiliser la valeur "Valeur fixe" qui vous permet de mettre ce que vous voulez.
+</p>
+<h4>Un comparateur de prix me demande le flux de mon catalogue. Comment faire&#160;?</h4>
+<p>
+  pour cela il faut créer un fichier sur votre serveur et en donner l'URL à votre comparateur de prix.
+</p>
+<p>
+  Il faut tout d'abord créer un modèle d'export correspondant aux attentes du comparateur dans l'onglet "Modèles d'exportation". il faut aussi choisir un nom du fichier à générer en face de "Nom du fichier" (par exemple "export.csv")
+</p>
+<p>
+  Ensuite il faut créer une exportation planifiée dans l'onglet "Exportations planifiées" pour créer ce fichier et le mettre à jour régulièrement. Dans cet onglet en face de "Enregistrer dans le dossier" choisissez un dossier (par exemple "/export/")
+</p>
+<p>
+  Une fois le fichier créé, vous pouvez fournir l'URL à votre comparateur. Ce sera l'url de votre boutique suivi du dossier suivi du nom du fichier donc pour l'exemple&#160;: <a rel="nofollow" class="external free" href="http://example.com/export/export.csv">http://example.com/export/export.csv</a>
+</p>
+</section>
+    </div>
+  </body>
+</html>
+

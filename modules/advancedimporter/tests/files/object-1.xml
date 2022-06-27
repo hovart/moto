@@ -1,0 +1,10 @@
+<objects>
+	<object type="category" external-reference="demo-1">
+		<name lang="fr">Nom de la catégorie</name>
+		<link_rewrite lang="fr">Nom</link_rewrite>
+	</object>
+	<object type="product" external-reference="demo-1">
+		<name lang="fr">Nom du produit</name>
+		<link_rewrite lang="fr">Nom</link_rewrite>
+	</object>
+</objects>

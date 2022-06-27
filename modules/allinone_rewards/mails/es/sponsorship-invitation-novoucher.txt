@@ -1,0 +1,11 @@
+Hola,
+
+Su amig@ {firstname} {lastname} le invita a formar parte de sus ahijad@s en {shop_name}!.
+
+Para acceder, nada más sencillo. Dirijase a la dirección siguiente :
+{link}
+
+
+
+{shop_name}
+{shop_url}

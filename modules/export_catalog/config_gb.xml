@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>export_catalog</name>
+	<displayName><![CDATA[Catalog in CSV format]]></displayName>
+	<version><![CDATA[2.44.0]]></version>
+	<description><![CDATA[Allows you to download your catalog in CSV format.]]></description>
+	<author><![CDATA[Samdha]]></author>
+	<tab><![CDATA[export]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

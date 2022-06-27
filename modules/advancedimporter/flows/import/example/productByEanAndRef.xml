@@ -1,0 +1,10 @@
+<products>
+	<product>
+		<ean13>1234</ean13>
+		<name lang="fr">Ipod Nano 2</name>
+	</product>
+	<product>
+		<reference>demo_2</reference>
+		<name lang="fr">Ipod shuffle 2</name>
+	</product>
+</products>

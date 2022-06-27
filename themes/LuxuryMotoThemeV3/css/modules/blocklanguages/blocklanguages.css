@@ -1,0 +1,32 @@
+#languages-block-top {
+  color: #302f2f;
+  position: absolute;
+  z-index:103;
+  text-transform: uppercase;
+
+}
+#languages-block-top span.firstWord {display: none;}
+#languages-block-top div.current {cursor: pointer;}
+#languages-block-top div.current:after {
+  content: "\f107";
+  font-family: "FontAwesome";
+  font-size: 14px;
+  color: #a9a9a9;
+  margin-left: 5px;  
+}
+#languages-block-top ul {
+  background: #fff;
+  box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.2);
+  display: none;
+  position: absolute;
+  top: 29px;
+  left: 0;
+  width: 110px;
+}
+#languages-block-top ul li {margin: 10px;}
+#languages-block-top ul li.selected span,
+#languages-block-top ul li:hover a {
+  text-decoration: none;
+}

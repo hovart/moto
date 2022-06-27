@@ -1,0 +1,66 @@
+/* Countdown Specials block -Free Prestashop Module */
+#special_block_right p {
+	padding-bottom:0;
+	font-weight:bold;
+	text-align:right
+}
+
+#special_block_right p.title_block, #special_block_right h2  {
+	font: 600 18px/22px "Open Sans",sans-serif;
+color: #555454;
+background: #f6f6f6;
+border-top: 5px solid #333333;
+text-transform: uppercase;
+padding: 14px 5px 14px 20px;
+margin-bottom: 20px;
+	text-align:left
+}
+#special_block_right .products li {
+	max-width: 270px;
+	border:none;
+}
+.madalweb_free_countdown_right-block{
+text-align:center;
+}
+.madalweb_free_countdown_module{
+font-size: 19px;
+line-height: 23px;
+color: #3a3939;
+margin-bottom: 0;
+}
+.madalweb_free_countdown_module_special_content_price{
+margin-bottom: 8px;
+text-align: center;
+}
+span#madalweb_special_countdown_price-discount{
+font-weight: bold;
+font-size: 14px;
+text-decoration: line-through;
+}
+span#madalweb_special_count_reduction {
+color: #5D717E;
+font-size: 11px;
+}
+span#madalweb_special_count_price {
+font-size: 15px;
+color: red;
+font-weight: bold;
+}
+#special_block_right a.product_img_link img {
+-webkit-box-shadow: 0 0 10px rgba(0,0,0,0.2);
+-moz-box-shadow: 0 0 10px rgba(0,0,0,0.2);
+box-shadow: 0 0 10px rgba(0,0,0,0.2);
+margin: 0 auto;
+}
+a.madalweb_free_module{
+color: #ffffff;
+text-decoration: none;
+outline: medium none;
+}
+.madalweb_free_module{
+background-color: #000000;
+font-size: 12px;
+text-transform: uppercase;
+padding: 7px 9px;
+font-weight: 300;
+}

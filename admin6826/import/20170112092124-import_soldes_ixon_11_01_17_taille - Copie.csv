@@ -1,0 +1,2 @@
+﻿Product ID*;Reference Produit;Attribute (Name:Type:Position)*;Value (Value:Position)*;Supplier reference;Reference;EAN13;UPC;Wholesale price;Impact on price;Ecotax;Quantity;Minimal quantity;Impact on weight;Default (0 = No, 1 = Yes);Combination available date;Image position;Image URL;Delete existing images (0 = No, 1 = Yes);ID / Name of shop;Advanced Stock Managment;Depends on stock;Warehouse
+85326;;Taille:select:0;L:4;MGDRPGIXBA13128104;MGDRPGIXBA13128104;;;;;;1;;;;;;;;;;;

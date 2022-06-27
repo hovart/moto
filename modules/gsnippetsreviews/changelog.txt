@@ -1,0 +1,511 @@
+Change history for Customer Ratings and Reviews Pro + Google Rich Snippets
+----------------------------------------------------------------------------
+
+===========================
+Version 4.3.3 (25/07/2017)|
+===========================
+Added
+-----
+- N/A
+
+Fixed
+-----
+- Bug fix for the empty stars displayed alone in the product list and they were over the product space bloc
+
+Files
+-----
+- views/templates/hook/review-page-list.tpl
+
+
+===========================
+Version 4.3.2 (02/05/2017)|
+===========================
+Added
+-----
+- N/A
+
+Fixed
+-----
+- Bug fix for the number 2 that appaers in the product tab of the product page.
+- Bug fix for the customer ID used for the cart rule when a customer click on the like button of his own review.
+
+Files
+-----
+- lib/hook/hook-display_class.php
+- views/templates/hook/product-tab-content-17.tpl
+
+
+===========================
+Version 4.3.1 (16/03/2017)|
+===========================
+Added
+-----
+- N/A
+
+Fixed
+-----
+- Bug fix for star display on the product review block
+- Bug fix for reminder email subject lang
+- Bug fix for the voucher generation when the moderation is deactivated. The voucher was generated without customer ID.
+- Bug fix for the fancybox plugin when it's not loaded by default on every single page.
+
+Files
+-----
+- lib/hook/hook-base_class.php
+- lib/hook/hook-action_class.php
+- lib/mail-send_class.php
+- lib/admin/admin-send_class.php
+- views/templates/admin/reviews-email-settings.tpl
+- views/templates/hook/product-review-block.tpl
+
+
+===========================
+Version 4.3.0 (09/03/2017)|
+===========================
+Added
+-----
+- Make the module compatible with PS 1.7
+- new option to display the module in the product tabs around the description block for PS 1.7
+- new option to display or not the customer address
+- new option to include the fontawesome css file fir themes which  do not include  the FontAwesome file
+
+Fixed
+-----
+- N/A
+
+Files
+-----
+- almost all files have been modified
+
+
+===========================
+Version 4.2.1 (15/02/2017)|
+===========================
+Added
+-----
+- Display the real controller admin module name and not the technical name
+- New rendering stars + text options in the product list page. you can adjust the stars / text size and the padding-left of the entire review stars bloc.
+
+Fixed
+-----
+- Fixed the review stars rendering when the block is displayed on the left or right column.
+- Fixed back-office options when the FB integration and the FB voucher are activated one after another, the update action didn't check that both form were separated in the new integration.
+- Fixed back-office actions around the delete review action (global and unique review) via the moderation tool, missed ID name was still there, and the refresh action didn't work on a single review delete action.
+- Fixed the bulk action update of the moderation tool, the rating IDs were taken into account instead of the review IDs.
+
+Files
+-----
+- lib/admin/review-tool/review-delete_class.php
+- lib/admin/admin-update_class.php
+- views/templates/admin/review-tool/review-moderation.tpl
+- views/templates/hook/block-last-reviews.tpl
+- views/templates/hook/review-page-list.tpl
+
+
+===========================
+Version 4.2.0 (01/02/2017)|
+===========================
+Added
+-----
+- Added new stars rating CSS layout, we do not use the jquery star plugin for display the rating anymore, except for adding a new review, that  will increase the rendering performance.
+- Added a new option to force customers to write a review
+- Added a new option to display empty stars in the product list page
+- Added a new option to display a custom message beside the empty stars
+- Added a new option to display stars alone or with the numeric rating average in the product list page
+
+Fixed
+-----
+- Fixed for the jquery plugin stars when the visitor click on a attribute of a combination that applied a new css layout on the product page and broke the stars rating layout.
+
+Files
+-----
+- conf/common.conf.php
+- lib/admin/admin-display_class.php
+- lib/admin/admin-update_class.php
+- lib/admin/review-display_class.php
+- lib/admin/review-update_class.php
+- lib/mail-send_class.php
+- lib/hook/hook-display_class.php
+- views/templates/admin/*
+- views/templates/hook/*
+- views/templates/front/*
+- views/templates/review-tool/body.tpl
+
+
+===========================
+Version 4.1.8 (14/09/2016)|
+===========================
+Added
+-----
+- new way to display badges on the home / category / brand pages as well as Google doesn't allow to tag one list item as one rich snippets product object. We removed the rich snippets rating tags from these badges.
+- 2 options to handle rich snippets rating tags in the product-list.tpl for each product rating average via the "displayProductListReviews" hook.
+
+Fixed
+-----
+- Bug fix for Safari when the Javascript variable name is the same of an HTML ID in the page prevented the JS to work well. We changed the JS variable name.
+
+Files
+-----
+- conf/common.conf.php
+- lib/admin/admin-display_class.php
+- lib/admin/admin-update_class.php
+- lib/hook/hook-display_class.php
+- views/templates/admin/*
+- views/templates/review-tool/body.tpl
+
+
+===========================
+Version 4.1.7 (12/09/2016)|
+===========================
+Added
+-----
+- N/A
+
+Fixed
+-----
+- When the merchant selected a date range to send manually e-mails to offer their customers to review the products they've bought, the update script has kept the same error of PHP variable name (date to) as the bug fix we did for the version 1.6.1.4 on the display part.
+
+Files
+-----
+- lib/admin/admin-update_class.php
+
+
+Version 4.1.6 (10/05/2016)
+- Update calculateProductPrice function to replace the coma by point on the product Rich Snippets
+
+
+Version 4.1.5 (04/04/2016)
+- Bug fix for HTMLALL escape with <br/> not replaced in the review's comment
+
+
+Version 4.1.4 (31/03/2016)
+- Bug fix for the end date to select past orders, the end date was badly tested in the fancybox popup as wrong variable name => solved and the date selection works well.
+- Bug fix for the date add of callbacks set to 0 because it wasn't set => rollback to the NOW() SQL instruction.
+
+
+Version 4.1.3 (14/03/2016)
+- Changed the way to manually send invitation e-mails instead of import past orders and send reminder e-mails after. Now the manual action allows to select a period or specific orders to send an invitation e-mails to ask to the customer to review his products.
+- Bug fix for dateAdd with htmlall escape done whereas french months are already displayed as html encode, we remove htmall escape
+- Bug fix for the meta title and description set in the customer account page. We moved it to the module front controller customer page only.
+
+
+Version 4.1.2 (08/02/2016)
+- Bug fix for icon included in span with text => doesn't work with windows fonts, move the text outside and changed span tag as i tag
+- Added a block info to indicate why custom theme should integrate the current theme in our module
+- Added different blocks to highlight some FAQ's links
+- Improved the customer experience when h's configuring the module by having added some info block
+
+
+Version 4.1.1 (16/12/2015)
+- Bug fix for rich snippets product when the badge is displayed in a column and the <br/> separator is also used, the HTMLALL escape made a bug and display the string <br/> on the front due to escape required by the PS validator (file: snippets-product.tpl, many lines)
+- Bug fix for rich snippets reviews when the badge is displayed in a column and the <br/> separator is also used, the HTMLALL escape made a bug and display the string <br/> on the front due to escape required by the PS validator (file: snippets-review.tpl, many lines)
+- Bug fix for the date encoding in the product page due to escape required by the PS validator (file: product-tab-content.tpl, many lines)
+- Added title, description and H1 HTML tags in each module front controller (file: lib/hook/hook-display_class.php, templates/front/review-display.tpl+review-form.tpl+review-list.tpl+customer-account.tpl, many lines)
+- Changed the report file name to handle the multi-shop option and get a cron report for each shop
+- Update the function Scroll for bootstrap tabs
+
+
+Version 4.1.0 (18/11/2015)
+- Bug fix for rich snippets reviews about the escape on the sItemReviewed (file: snippets-review.tpl, line 61)
+- Bug fix for form-error CSS class, it made a layout error on the login page's form (files: admin.css and hook.css)
+- Added an Info block to highlight documentation and FAQ (file: body.tpl)
+
+
+Version 4.0.9 (02/11/2015)
+- Bug fix for rich snippets review (adding the itemtype="http://schema.org/Review" tag) in the product page when a review has been done without comment, changed the way to test if we add rich snippets tags
+
+
+Version 4.0.8 (09/09/2015)
+- Bug fix for customer reviews page on the default value to activate or not "e-mail reminder feature"
+- Added new test on the availability of each product imported during "importing product comments from PS module" action. Made issues on the front when the product doesn't exist anymore
+- Bug fix for stars review layout on the "displayProductListReviews" hook executed by the product-list.tpl (PS 1.6.1.1 only) => stars appeared vertically, PS added the "uniform layout" CSS and JS file applied when this hook is executed
+
+
+Version 4.0.7 (17/06/2015)
+- Added a new feature to refresh the form on the matching button displayed previously in the module's back-office
+- Added a new option "bootstrap tabs" to display reviews block with tabs on the product pages
+- Bug fix for description drag and drop on FF38, JQuery UI version was too low, added the latest version to make it work
+- Bug fix for moderation tool interface with the JS object, need to move the include file header above the first div in the template
+
+
+Version 4.0.6 (17/06/2015)
+- Bug fix for SQL injection on the product Id returned by the module with Tools::getValue('id_product') when the hook to count the number of rating is executed. intval() added on every single ID passed to a query
+
+
+Version 4.0.5 (29/04/2015)
+- Added shop_id restriction in getProductsByOrder for product_lang
+- Added default text for email, IT/ES/DE
+
+
+Version 4.0.4 (26/02/2015):
+- Added new feature as rating average rounding, get more precised average by 0,1 after the comma
+- Removed all inline css
+- rewrite the entire front module css
+- Bug fix for the size of the average in the product-review-block.tpl
+- Bug fix for the translation of "sur" that was written without the l smarty function in 3 template files around pagination feature
+- Bug fix for Jquery star rating minified plugin when the smart JS cache was activated, a ";" was missing at the end
+
+
+Version 4.0.3 (26/02/2015):
+- bug fix for themes without rich snippets product in the product page, before it made an error with aggregate rating, we added a product object including the aggregate rating
+
+
+Version 4.0.2 (11/02/2015):
+- bug fix for the review rich snippets category page error
+- bug fix for managing well products not purchased and displayed in the slider and the reviews made on products not purchased
+- added display option for review stars in the product-list.tpl
+- added some texts as options for the reminder e-mails, like this there is no more about translations used when a multi-languages cron execution is made
+- added option to receive an e-mail as carbon copy of each reminder e-mail sent
+
+
+Version 4.0.1 (29/01/2015):
+- added the product's title + link in last reviews block
+- bug fix for themes with tabs on product pages (forgot to add "div id")
+- bug fix for rich snippets reviews in : home / category / brand pages => change 'average' tag into 'ratingValue' which is matching with aggregateRating schema.org tag
+- change the error message for language fields in the back-office
+
+
+Version 4.0.0 (26/01/2015):
+- added a new litigation review system (send e-mail to the customer with merchant reply + display merchant reply on the front-office)
+- added full deleting ratings and reviews system (can delete a rating alone)
+- added "add review" manually system
+- added "last reviews" block
+- added "all reviews " page
+- added a new hook that allows to include automatically your reviews in the product-list.tpl
+- added again "rich snippets product" badge for theme without "rich snippets"tags
+- added again "product reviews list" for themes with tabs on the product page
+- changed the moderation interface (added details lines for each rating / review)
+- changed the customer review account (slider with purchased product without review + table of purchased products already reviewed)
+- changed the e-mails layout (responsive)
+- changed the option blocks of each module tab
+- changed the layout of the module on many front-office sections
+
+
+Version 3.3.4 (11/09/2014):
+- small bug fix for order confirmation when we register reminders. It was missing the id_shop in the SQL query in order to get all available order's products.
+
+
+Version 3.3.3 (25/07/2014):
+- Small fix bug for fancybox from PS 1.6 when the fancybox should be opened after log in or when the customer click on on link's review.
+
+
+Version 3.3.2 (03/07/2014):
+- Small fix bug for cron report's bootstrap modal from PS 1.6.0.6 to 1.6.0.8. Changed the way to declare the modal's HTML on XHR request.
+
+
+Version 3.3.1 (20/06/2014):
+- Small fix bug for smart cache for javascript. Just a semi-colon missing into jquery-rating-min.js.
+
+
+Version 3.3.0 (03/06/2014):
+- Make the module compatible with PS 1.6
+- Added configuration badge feature, possibility to select a badge position linked to a page type.
+
+
+Version 3.2.7 (02/12/2013):
+- small bug fix for cumulative voucher over PS 1.5.2.0. incentive vouchers could be cumulative, now restriction is well-applied.
+
+
+Version 3.2.6 (26/11/2013):
+- added more checking on product's category and name when reminders are sent for a "Money Bookers" order. Moneybookers doesn't return correctly data order, wrong category and product name at least. Now module gets available category and product name if they are missing.
+
+
+Version 3.2.5 (05/11/2013):
+- small bug fix for testing review id of reviews loop in product-tab-content.tpl in order to display correctly review aggregate rich snippets of product pages.
+- added Spanish & Italian translations
+
+
+Version 3.2.4 (23/10/2013):
+- bug fix for reviews tab content when last review do not get title and comment related to rating, create an error around itemreviewed attribute on Google rich snippets tool for aggregate reviews
+- change time out value for displaying Facebook like buttons while people are connected for Firefox.
+- change behavior of last review returned on product page for reviews tab and snippets attributes
+
+
+Version 3.2.3 (10/10/2013):
+- small fix bug for registered orders used for sending reminders. When test products are used, the native Product::getProductProperties function do not return qualified product's data to record a valid reminder (conflict on 2 fields of 2 tables with same naming).
+
+
+Version 3.2.2 (02/10/2013):
+- change snippet currency sign displaying
+- add top position for snippets badge
+- add share buttons with count box in option
+- customized reminders and customer notification mails with customer name
+- small fix bug for customized badge position
+- small fix bug for report link in product page
+
+
+Version 3.2.1 (25/09/2013):
+- small bug fix for count snippet property. Google has changed their policy and count require to include a review snippet object in the same page. So this property has been deactivated.
+
+
+Version 3.2.0 (11/09/2013):
+- Make the module compatible for Prestashop 1.5.5.0
+
+
+Version 3.1.7 (11/07/2013):
+- change behavior of FB voucher configuration, could be configured without FB PS Wall posts installed
+- a small bug fix for smart cache javascript activated on PS 1.5, the PS function doesn't support "{" character on single line
+- a small bug fix for module's upgrade from 3.0.x to 3.1.0 with old badge position 'window corners' values to fit with the default bottom position value
+
+
+Version 3.1.6 (14/06/2013):
+- a small bug fix for snippets reviews, missing reviewed item on individual review mode
+
+
+Version 3.1.5 (12/06/2013):
+- a small bug fix for voucher minimal cart value, rollback on minimal property under Prestashop 1.5
+
+
+Version 3.1.4 (11/06/2013):
+- a small bug fix for smart cache javascript activated, jquery cookie plugin can't be concatenated and compressed properly
+
+
+Version 3.1.3 (29/05/2013):
+- make 2 templates customer-account.tpl and review-display.tpl overridden on shop's theme for Prestashop 1.5
+
+
+Version 3.1.2 (28/05/2013):
+- change the behavior of e-mail sent to the merchant and customer regarding to the reviews and language ID
+
+
+Version 3.1.1 (26/05/2013):
+- bug fix on image link for customer notification and reminders sent by mail
+
+
+Version 3.1.0 (29/04/2013):
+- make the module's front-side responsive
+- add snippets rendering feature
+- add link to moderation tool in reviews tab
+- add highlight and shipping tax on voucher configuration
+- modify cron report with more explanations
+- use format price function for snippets layout
+- small bug fix for snippets badge column format
+- filter guest CO on order reminders
+- add hide snippets feature by clicking on it
+- add customize emails feature
+
+
+Version 3.0.8 (23/04/2013):
+- small bug fix for windows MySql server with text column type, no default value accepted
+- small bug fix for PS 1.5 style, add clear both over reviews block
+
+
+Version 3.0.7 (22/04/2013):
+- small bug fix for bought products by customer without reviews
+
+
+Version 3.0.6 (12/04/2013):
+- bug fix for filter language ID in query DAO while language context review is deactivated
+
+
+Version 3.0.5 (05/04/2013):
+- bug fix for using header and footer of controller with module front controller override
+- bug fix for my review page to aggregate bought products + reviews and reviews alone with products data
+
+
+Version 3.0.4 (08/04/2013):
+- bug fix for report form back login link
+
+
+Version 3.0.3 (05/04/2013):
+- bug fix for update method, test lang ID was wrong, !empty used instead of isset
+- bug fix for getProductProperties() method, restriction on language added with PS function
+- bug fix for reviews associated to customer products in 'my reviews' page + add translations
+
+
+Version 3.0.2 (02/04/2013):
+- bug fix for fancybox conflict on product page with enlarge product picture
+
+
+Version 3.0.1 (03/01/2013):
+- add features : voucher for comment and facebook share
+- add checking on "product comments" module installation
+- add email notification for customers when review is moderated (included Facebook share if exists + generated voucher if activated + info about share voucher if activated)
+
+
+Version 2.0.8 (27/12/2012):
+- fix getProductProperties of Product class for Prestashop under 1.4.1, with getApplicableTax in Tax class use cart object
+- consequence : when Facebook post is sent via Back-office, the cart object is not initialized , so a fatal error is returned by Prestashop
+
+
+Version 2.0.7 (21/12/2012):
+- fix stock management by checking each product's combination stock
+- consequence : when the default combination was to 0 stock, snippets returned "out of stock"
+- fix order confirmation hook for saving orders for reminder feature.
+- consequence : order confirmation hook worked only with payment modules which implement callback execution.
+- fix language for Facebook javascript including used for voucher.
+- consequence : if Facebook Ps Essentials was installed, 2 calls was made and there was a conflict for Essentials language.
+- fix Facebook javascript including, only in product page.
+- consequence : order confirmation hook worked only with payment modules which implement callback execution.
+
+
+Version 2.0.6 (11/12/2012):
+- change behavior of admin tab install, use name of parent tab and not id.
+- consequence : admin didn't installed correctly when Prestashop has been migrated.
+
+
+Version 2.0.5 (04/12/2012):
+- change warnings behavior by deleting need_instance key in main class and moving var for identifying which warning to display.
+- consequence : warnings were displayed only once the config.xml file was to be updated and the wrong warning was returned for Product comments module.
+
+
+Version 2.0.4 (28/11/2012):
+- change sql queries for updating module action.
+- consequence : set SHOP_ID for each module's tables at 0 instead of 1  by default while updating module.
+- change update voucher settings behaviour for "percentage" voucher type.
+- consequence : produces a notice when notices are displayed.
+- change update voucher settings behaviour for "percentage" voucher type.
+- consequence : produces a notice when notices are displayed.
+
+
+Version 2.0.3 (21/11/2012):
+- change request link for authentication when customers have to be logged.
+- consequence : redirection in authentication.php script didn't work.
+
+
+Version 2.0.2 (20/11/2012):
+- change behavior of recursiveCategoriesTree function in order to start at default category with ID 1 in all cases.
+- consequence : make appear the root category in categories tree for voucher configuration.
+
+
+Version 2.0.1 (14/11/2012):
+- Made compatible for Prestashop 1.5
+- add features : voucher for comment and facebook share
+- add checking on "product comments" module installation
+- add email notification for customers when review is moderated (included Facebook share if exists + generated voucher if activated + info about share voucher if activated)
+
+
+Version 1.0.7 (26/09/2012):
+- snippets.tpl : added if conditions for the case of 0 ratings
+- Consequence : Google generated a Warning: Either "count" or "votes" field needs to be present
+- reviews-settings.tpl : delete of "all" value for "nb review per page" option
+- Consequence : when "all" was selected, pagination didn't work and reviews weren't displayed
+
+
+Version 1.0.6 (25/09/2012):
+- admin-send_class.php and module-dao_class.php : modified e-mail reminder functions
+- Consequence : automatic e-mail intervals calculations were incorrect
+
+
+Version 1.0.5 (21/09/2012):
+- hook_class.php : add include review-ctrl_class.php in case of display reviews is deactivated and ratings is activated
+- Consequence : fatal error because of review-ctrl_class.php was not included and unfortunately used
+
+
+Version 1.0.4 (19/09/2012):
+- my-account.php : delete test for id customer and if is integer
+- Consequence : link "my reviews" didn't appear in my-account.php
+
+
+Version 1.0.3 (19/09/2012):
+- modules-tools_class.php : modify in updateConfiguration "if (!Configuration::get($sKey)) {" by "if (Configuration::get($sKey) === false) {"
+- Consequence : when an option have to set with false value, module updated this one by default value, and some options have true default value
+
+
+Version 1.0.2 (08/09/2012):
+- hook_class.php : Modify price calculation for displaying price with or without tax (test on Prestashop's version)
+- Consequence : display only price with Tax
+
+
+Version 1.0.1 (07/09/2012):
+- Original release

@@ -1,0 +1,135 @@
+*ERROR* 	2016/01/07 - 11:57:43: Unknown column 'hs.id_homeslider_slides' in 'field list'<br /><br /><pre>
+			SELECT hs.`id_homeslider_slides` as id_slide, hssl.`image`, hss.`position`, hss.`active`, hssl.`title`,
+			hssl.`url`, hssl.`image`
+			FROM ps_tptnsubbanner hs
+			LEFT JOIN ps_tptnsubbanner_slides hss ON (hs.id_homeslider_slides = hss.id_homeslider_slides)
+			LEFT JOIN ps_tptnsubbanner_slides_lang hssl ON (hss.id_homeslider_slides = hssl.id_homeslider_slides)
+			WHERE id_shop = 1
+			AND hssl.id_lang = 1 AND hss.`active` = 1
+			ORDER BY hss.position</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/01/07 - 11:57:50: Unknown column 'hs.id_homeslider_slides' in 'field list'<br /><br /><pre>
+			SELECT hs.`id_homeslider_slides` as id_slide, hssl.`image`, hss.`position`, hss.`active`, hssl.`title`,
+			hssl.`url`, hssl.`image`
+			FROM ps_tptnsubbanner hs
+			LEFT JOIN ps_tptnsubbanner_slides hss ON (hs.id_homeslider_slides = hss.id_homeslider_slides)
+			LEFT JOIN ps_tptnsubbanner_slides_lang hssl ON (hss.id_homeslider_slides = hssl.id_homeslider_slides)
+			WHERE id_shop = 1
+			AND hssl.id_lang = 1 AND hss.`active` = 1
+			ORDER BY hss.position</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/01/07 - 11:59:02: Unknown column 'hs.id_homeslider_slides' in 'field list'<br /><br /><pre>
+			SELECT hs.`id_homeslider_slides` as id_slide, hssl.`image`, hss.`position`, hss.`active`, hssl.`title`,
+			hssl.`url`, hssl.`image`
+			FROM ps_tptnsubbanner hs
+			LEFT JOIN ps_tptnsubbanner_slides hss ON (hs.id_homeslider_slides = hss.id_homeslider_slides)
+			LEFT JOIN ps_tptnsubbanner_slides_lang hssl ON (hss.id_homeslider_slides = hssl.id_homeslider_slides)
+			WHERE id_shop = 1
+			AND hssl.id_lang = 1 AND hss.`active` = 1
+			ORDER BY hss.position</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/01/07 - 11:59:05: Unknown column 'hs.id_homeslider_slides' in 'field list'<br /><br /><pre>
+			SELECT hs.`id_homeslider_slides` as id_slide, hssl.`image`, hss.`position`, hss.`active`, hssl.`title`,
+			hssl.`url`, hssl.`image`
+			FROM ps_tptnsubbanner hs
+			LEFT JOIN ps_tptnsubbanner_slides hss ON (hs.id_homeslider_slides = hss.id_homeslider_slides)
+			LEFT JOIN ps_tptnsubbanner_slides_lang hssl ON (hss.id_homeslider_slides = hssl.id_homeslider_slides)
+			WHERE id_shop = 1
+			AND hssl.id_lang = 1 AND hss.`active` = 1
+			ORDER BY hss.position</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/01/07 - 12:00:30: Unknown column 'hs.id_homeslider_slides' in 'field list'<br /><br /><pre>
+			SELECT hs.`id_homeslider_slides` as id_slide, hssl.`image`, hss.`position`, hss.`active`, hssl.`title`,
+			hssl.`url`, hssl.`image`
+			FROM ps_tptnsubbanner hs
+			LEFT JOIN ps_tptnsubbanner_slides hss ON (hs.id_homeslider_slides = hss.id_homeslider_slides)
+			LEFT JOIN ps_tptnsubbanner_slides_lang hssl ON (hss.id_homeslider_slides = hssl.id_homeslider_slides)
+			WHERE id_shop = 1
+			AND hssl.id_lang = 1 AND hss.`active` = 1
+			ORDER BY hss.position</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/01/07 - 12:02:01: Unknown column 'hs.id_homeslider_slides' in 'field list'<br /><br /><pre>
+			SELECT hs.`id_homeslider_slides` as id_slide, hssl.`image`, hss.`position`, hss.`active`, hssl.`title`,
+			hssl.`url`, hssl.`image`
+			FROM ps_tptnsubbanner hs
+			LEFT JOIN ps_tptnsubbanner_slides hss ON (hs.id_homeslider_slides = hss.id_homeslider_slides)
+			LEFT JOIN ps_tptnsubbanner_slides_lang hssl ON (hss.id_homeslider_slides = hssl.id_homeslider_slides)
+			WHERE id_shop = 1
+			AND hssl.id_lang = 1 AND hss.`active` = 1
+			ORDER BY hss.position</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/01/07 - 12:02:04: Unknown column 'hs.id_homeslider_slides' in 'field list'<br /><br /><pre>
+			SELECT hs.`id_homeslider_slides` as id_slide, hssl.`image`, hss.`position`, hss.`active`, hssl.`title`,
+			hssl.`url`, hssl.`image`
+			FROM ps_tptnsubbanner hs
+			LEFT JOIN ps_tptnsubbanner_slides hss ON (hs.id_homeslider_slides = hss.id_homeslider_slides)
+			LEFT JOIN ps_tptnsubbanner_slides_lang hssl ON (hss.id_homeslider_slides = hssl.id_homeslider_slides)
+			WHERE id_shop = 1
+			AND hssl.id_lang = 1 AND hss.`active` = 1
+			ORDER BY hss.position</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/01/07 - 12:02:07: Unknown column 'hs.id_homeslider_slides' in 'field list'<br /><br /><pre>
+			SELECT hs.`id_homeslider_slides` as id_slide, hssl.`image`, hss.`position`, hss.`active`, hssl.`title`,
+			hssl.`url`, hssl.`image`
+			FROM ps_tptnsubbanner hs
+			LEFT JOIN ps_tptnsubbanner_slides hss ON (hs.id_homeslider_slides = hss.id_homeslider_slides)
+			LEFT JOIN ps_tptnsubbanner_slides_lang hssl ON (hss.id_homeslider_slides = hssl.id_homeslider_slides)
+			WHERE id_shop = 1
+			AND hssl.id_lang = 1 AND hss.`active` = 1
+			ORDER BY hss.position</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/01/07 - 12:02:10: Unknown column 'hs.id_homeslider_slides' in 'field list'<br /><br /><pre>
+			SELECT hs.`id_homeslider_slides` as id_slide, hssl.`image`, hss.`position`, hss.`active`, hssl.`title`,
+			hssl.`url`, hssl.`image`
+			FROM ps_tptnsubbanner hs
+			LEFT JOIN ps_tptnsubbanner_slides hss ON (hs.id_homeslider_slides = hss.id_homeslider_slides)
+			LEFT JOIN ps_tptnsubbanner_slides_lang hssl ON (hss.id_homeslider_slides = hssl.id_homeslider_slides)
+			WHERE id_shop = 1
+			AND hssl.id_lang = 1 AND hss.`active` = 1
+			ORDER BY hss.position</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/01/07 - 12:02:45: Unknown column 'hs.id_homeslider_slides' in 'field list'<br /><br /><pre>
+			SELECT hs.`id_homeslider_slides` as id_slide, hssl.`image`, hss.`position`, hss.`active`, hssl.`title`,
+			hssl.`url`, hssl.`image`
+			FROM ps_tptnsubbanner hs
+			LEFT JOIN ps_tptnsubbanner_slides hss ON (hs.id_homeslider_slides = hss.id_homeslider_slides)
+			LEFT JOIN ps_tptnsubbanner_slides_lang hssl ON (hss.id_homeslider_slides = hssl.id_homeslider_slides)
+			WHERE id_shop = 1
+			AND hssl.id_lang = 1 AND hss.`active` = 1
+			ORDER BY hss.position</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/01/07 - 12:02:46: Unknown column 'hs.id_homeslider_slides' in 'field list'<br /><br /><pre>
+			SELECT hs.`id_homeslider_slides` as id_slide, hssl.`image`, hss.`position`, hss.`active`, hssl.`title`,
+			hssl.`url`, hssl.`image`
+			FROM ps_tptnsubbanner hs
+			LEFT JOIN ps_tptnsubbanner_slides hss ON (hs.id_homeslider_slides = hss.id_homeslider_slides)
+			LEFT JOIN ps_tptnsubbanner_slides_lang hssl ON (hss.id_homeslider_slides = hssl.id_homeslider_slides)
+			WHERE id_shop = 1
+			AND hssl.id_lang = 1 AND hss.`active` = 1
+			ORDER BY hss.position</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/01/07 - 12:02:46: Unknown column 'hs.id_homeslider_slides' in 'field list'<br /><br /><pre>
+			SELECT hs.`id_homeslider_slides` as id_slide, hssl.`image`, hss.`position`, hss.`active`, hssl.`title`,
+			hssl.`url`, hssl.`image`
+			FROM ps_tptnsubbanner hs
+			LEFT JOIN ps_tptnsubbanner_slides hss ON (hs.id_homeslider_slides = hss.id_homeslider_slides)
+			LEFT JOIN ps_tptnsubbanner_slides_lang hssl ON (hss.id_homeslider_slides = hssl.id_homeslider_slides)
+			WHERE id_shop = 1
+			AND hssl.id_lang = 1 AND hss.`active` = 1
+			ORDER BY hss.position</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/01/07 - 12:04:18: Unknown column 'hs.id_homeslider_slides' in 'field list'<br /><br /><pre>
+			SELECT hs.`id_homeslider_slides` as id_slide, hssl.`image`, hss.`position`, hss.`active`, hssl.`title`,
+			hssl.`url`, hssl.`image`
+			FROM ps_tptnsubbanner hs
+			LEFT JOIN ps_tptnsubbanner_slides hss ON (hs.id_homeslider_slides = hss.id_homeslider_slides)
+			LEFT JOIN ps_tptnsubbanner_slides_lang hssl ON (hss.id_homeslider_slides = hssl.id_homeslider_slides)
+			WHERE id_shop = 1
+			AND hssl.id_lang = 1 AND hss.`active` = 1
+			ORDER BY hss.position</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/01/07 - 12:04:21: Unknown column 'hs.id_homeslider_slides' in 'field list'<br /><br /><pre>
+			SELECT hs.`id_homeslider_slides` as id_slide, hssl.`image`, hss.`position`, hss.`active`, hssl.`title`,
+			hssl.`url`, hssl.`image`
+			FROM ps_tptnsubbanner hs
+			LEFT JOIN ps_tptnsubbanner_slides hss ON (hs.id_homeslider_slides = hss.id_homeslider_slides)
+			LEFT JOIN ps_tptnsubbanner_slides_lang hssl ON (hss.id_homeslider_slides = hssl.id_homeslider_slides)
+			WHERE id_shop = 1
+			AND hssl.id_lang = 1 AND hss.`active` = 1
+			ORDER BY hss.position</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/01/07 - 12:04:24: Unknown column 'hs.id_homeslider_slides' in 'field list'<br /><br /><pre>
+			SELECT hs.`id_homeslider_slides` as id_slide, hssl.`image`, hss.`position`, hss.`active`, hssl.`title`,
+			hssl.`url`, hssl.`image`
+			FROM ps_tptnsubbanner hs
+			LEFT JOIN ps_tptnsubbanner_slides hss ON (hs.id_homeslider_slides = hss.id_homeslider_slides)
+			LEFT JOIN ps_tptnsubbanner_slides_lang hssl ON (hss.id_homeslider_slides = hssl.id_homeslider_slides)
+			WHERE id_shop = 1
+			AND hssl.id_lang = 1 AND hss.`active` = 1
+			ORDER BY hss.position</pre> at line 791 in file classes/db/Db.php

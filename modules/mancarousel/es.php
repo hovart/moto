@@ -1,0 +1,38 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{mancarousel}prestashop>mancarousel_f7a8b8532c105faf28aef864093a208b'] = 'Man Carousel';
+$_MODULE['<{mancarousel}prestashop>mancarousel_67747998d96c3d421e11d8389ac6e9cf'] = 'Carrusel fluido de fabricantes para el pie de página.';
+$_MODULE['<{mancarousel}prestashop>mancarousel_c888438d14855d7d96a2724ee9c306bd'] = 'Configuración actualizada';
+$_MODULE['<{mancarousel}prestashop>mancarousel_f4f70727dc34561dfde1a3c529b6205c'] = 'Configuración';
+$_MODULE['<{mancarousel}prestashop>mancarousel_dff0c70e4c11953e4e3ee1cf268fb96d'] = 'Seleccione el tipo de imagen';
+$_MODULE['<{mancarousel}prestashop>mancarousel_b2508c708e5bbff8aa02a68a5218890b'] = 'Elementos visibles';
+$_MODULE['<{mancarousel}prestashop>mancarousel_a13f9614cf15f9576b4a7170c6aa5f50'] = 'Elementos de desplazamiento';
+$_MODULE['<{mancarousel}prestashop>mancarousel_105b296a83f9c105355403f3332af50f'] = 'Pausa';
+$_MODULE['<{mancarousel}prestashop>mancarousel_d131d1568f057bbad207d56cee6e7c70'] = 'La cantidad en milisegundos que el carrusel se detendrá';
+$_MODULE['<{mancarousel}prestashop>mancarousel_01134f75938eecbe65b45973281f0136'] = 'Inicio automático';
+$_MODULE['<{mancarousel}prestashop>mancarousel_00d23a76e43b46dae9ec7aa9dcbebb32'] = 'Habilitado';
+$_MODULE['<{mancarousel}prestashop>mancarousel_b9f5c797ebbf55adccdd8539a65a0241'] = 'Deshabilitado';
+$_MODULE['<{mancarousel}prestashop>mancarousel_64663f4646781c9c0110838b905daa23'] = 'Random';
+$_MODULE['<{mancarousel}prestashop>mancarousel_ae2fd93db7a96c6c8eb65aa02dc03217'] = 'Circular';
+$_MODULE['<{mancarousel}prestashop>mancarousel_d154d0a705cdd554c207960e054f86a7'] = 'Determina si el carrusel será circular';
+$_MODULE['<{mancarousel}prestashop>mancarousel_b10e24496ff8fec66189548a92a67045'] = 'Infinito';
+$_MODULE['<{mancarousel}prestashop>mancarousel_797c1d1c1a562285cf3bc0538a84848c'] = 'Determina si el carrusel debe ser infinito. Nota: Es posible crear un carrusel  no-circular, infinito, pero no es posible crear un carrusel circular, no infinito';
+$_MODULE['<{mancarousel}prestashop>mancarousel_689aec5dbb7be939ccf09d804705b2c3'] = 'Pausa mouseover';
+$_MODULE['<{mancarousel}prestashop>mancarousel_afedf9afee367f51f98d7cf030c976a6'] = 'Transición';
+$_MODULE['<{mancarousel}prestashop>mancarousel_6adf97f83acf6453d4a6a4b1070f3754'] = 'No';
+$_MODULE['<{mancarousel}prestashop>mancarousel_105078d294d30c978ca2badf7f376934'] = 'Scroll';
+$_MODULE['<{mancarousel}prestashop>mancarousel_56cd486fce1e0a9223fd2fd86e347d4b'] = 'Direct scroll';
+$_MODULE['<{mancarousel}prestashop>mancarousel_04e0385c10aefee8e4681617d2f3ef40'] = 'Fade';
+$_MODULE['<{mancarousel}prestashop>mancarousel_e34a8e3d19b15636609e6d023890cf8b'] = 'Crossfade';
+$_MODULE['<{mancarousel}prestashop>mancarousel_c795dfff10a7c952f4c5438951e9ece9'] = 'Cover';
+$_MODULE['<{mancarousel}prestashop>mancarousel_e05373a5487decfddc2c6c3f9e3e2514'] = 'Cover fade';
+$_MODULE['<{mancarousel}prestashop>mancarousel_6985b06ed0fea971039dba5a04cb343b'] = 'Uncover';
+$_MODULE['<{mancarousel}prestashop>mancarousel_cb3e420fa30d710b0b892032b18212dd'] = 'Uncover fade';
+$_MODULE['<{mancarousel}prestashop>mancarousel_e02d2ae03de9d493df2b6b2d2813d302'] = 'Duración';
+$_MODULE['<{mancarousel}prestashop>mancarousel_fd9d994f11849e7b6932a9ea7369dd26'] = 'Duración de la transición en milisegundos';
+$_MODULE['<{mancarousel}prestashop>mancarousel_c9cc8cce247e49bae79f15173ce97354'] = 'Guardar';
+$_MODULE['<{mancarousel}prestashop>mancarousel_09f5e5a03bff014027f0a616aa5ce41e'] = 'Módulo por';
+$_MODULE['<{mancarousel}prestashop>mancarousel_fcb08b164ac83e09964deb24f2d2e80b'] = 'anterior';
+$_MODULE['<{mancarousel}prestashop>mancarousel_d0cab90d8d20d57e2f2b9be52f7dd25d'] = 'siguiente';

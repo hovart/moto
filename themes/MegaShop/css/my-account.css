@@ -1,0 +1,26 @@
+#my-account  #right_column {display:none}
+#my-account #center_column h4 {
+	font-weight:normal;
+}
+
+#my-account .myaccount_lnk_list {list-style-type:none;
+	background: #fff;
+	padding: 10px;
+	margin: 10px 0;
+}
+#my-account .myaccount_lnk_list li {
+	margin:10px 0;
+	font-size: 15px;
+	font-weight: bold;
+}
+#my-account .myaccount_lnk_list li a{
+	text-decoration: none;
+}
+#my-account .myaccount_lnk_list li a:hover{
+	color: #d10019;
+}
+
+#my-account .myaccount_lnk_list img.icon,
+#my-account p img.icon {
+	vertical-align:middle;
+}

@@ -1,0 +1,42 @@
+/* Titre du produit dans le slide */
+div.dptitreproduct { text-align:center; margin-right: 3px; }
+a:link.dptitreproduct { }
+
+/* Titre promo */
+div.dptitrepromo { font-weight:bold; text-align:center; }
+
+/* Temps restant */
+div.dpinfotemprestant { font-weight:bold; text-align:center; }
+div.dpinfopromo { font-weight:bold; text-align:center; }
+
+/* Lien image */
+.dpimage a:link { }
+img.dpimage { margin: 0 5px 0 0; }
+
+/* Image */
+img.dpimage { }
+
+/* Prix */
+div.dpprixbarre { text-align:center; text-decoration: line-through; }
+div.dpreduction { text-align:center; }
+div.dpprixpromo { text-align:center; font-weight:bold; font-size:1.1em }
+div.dpnewprix { margin: 5px 0 10px 0; }
+div.dpoldprix { margin: 5px 0 0 0; }
+span.dpprixbarre { text-decoration: line-through;}
+
+/* UL et LI */
+ul.dpclassul { }
+li.dpclassli { overflow:hidden; padding: 2px 1px 1px 0px !important; margin:0 0 0 10px !important; }
+
+/* Décompte temps restant */
+div.dptempsrestant { margin-bottom: 5px; }
+
+/* Espace entre Bouton vente à venir et vente en cours. */
+p.dpbtnavenir { padding-bottom: 5px !important; }
+
+/* Encart dans la fiche produit */
+div.dpblocproduit { background-color: #EFEFEF; margin-top: 20px; padding: 10px; border:1px solid #D0D3D8; }
+div.dptypevente { font-weight: bold; font-size: 15px; text-align: justify; margin: 2px 0 0 5px; }
+img.dpimgtypevente { margin-top: 5px; }
+div.dptemprestant { font-style: italic; font-weight: bold; margin: 5px 10px; }
+div.dptimer { margin-top: 10px; font-weight: bold; font-size: 20px; text-align: center; }

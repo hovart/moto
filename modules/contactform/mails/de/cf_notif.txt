@@ -1,0 +1,7 @@
+{shop_name}
+ 
+Bericht op {shop_name} ({date})
+ 
+{message}
+ 
+{shop_name} desarrollado por PrestaShop™

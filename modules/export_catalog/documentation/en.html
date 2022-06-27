@@ -1,0 +1,805 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      Export CSV
+    </title>
+    <meta name="description" content="">
+    <meta name="author" content="Samdha">
+    <meta name="copyright" content="Samdha">
+    <meta name="date" content="2015-01-15T00:00:00+01:00">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="https://html5shim.googlecode.com/svn/trunk/html5.js">
+      </script>
+    <![endif]-->
+  </head>
+  <body id="top">
+    <div class="container" id="documenter_content">
+<section>
+<div class="page-header">
+  <h3>Overview</h3>
+</div>
+<p>
+  This module allows you to export your catalog in CSV format. It supports multiple exports and planning by cron.
+</p>
+<p>
+  This module works as follows: You define one or more <a href="#model">export models</a> and as many <a href="#scheduled">scheduled exports</a> as you want.
+</p>
+<p>
+  <br/>
+</p>
+</section><section>
+<div class="page-header">
+  <h3><span id="model">Export models</span></span></h3>
+</div>
+<p>
+  An export model defines the datas to export and how the generated file will be structured.
+</p>
+<p>
+  The aim of an export model is to generate an CSV file. A CSV file consists of any number of records (here the products), one by line; each record consists of fields (here named columns), separated by some other character or string, most commonly a literal comma or semicolon.
+</p>
+<h4>Model name</h4>
+<p>
+  You can create as many export models as you want therefore choose an appropriate name is a good idea for easy retrieval.
+</p>
+<h4>File structure</h4>
+<h5><span id="columns">Columns</span></h5>
+<p>
+  Select the datas you want to exports. Use the (+) button to add a column below the current one and the (-) button to delete the current column.
+</p>
+<h6><span id="field_value">Value</span></h6>
+<p>
+  Each column has a value, they are computed at the time of export.
+</p>
+<p>
+  A special value "Fixed value" is independant of the product and can be anything you want.
+</p>
+<h6><span id="field_title">Title</span></h6>
+<p>
+  This column appears only if you activate the option <a href="#header">Add header line</a>. Indicate the names of the columns that will appear at the top of the generated file.
+</p>
+<h6><span id="field_decoration">Decoration</span></h6>
+<p>
+  This column appears only if you selected the option <a href="#decoration">Columns decoration</a>. Enter here the text to be inserted before and after the calculated values.
+</p>
+<h5><span id="filename">Filename</span></h5>
+<p>
+  Name of the generated file. It can be a fixed value like "catalog.csv" or a computed one like "catalog_%Y-%m-%d.csv".
+</p>
+<p>
+  The following characters are recognized and will be replaced&#160;:
+</p>
+<table class="wikitable sortable">
+<tr>
+  <th>
+    format
+  </th>
+  <th>
+     Description
+  </th>
+  <th>
+     Example returned values
+  </th>
+</tr>
+<tr>
+  <td>
+    <b>Day</b>
+  </td>
+  <td>
+     ---
+  </td>
+  <td>
+     ---
+  </td>
+</tr>
+<tr>
+  <td>
+    %a
+  </td>
+  <td>
+     An abbreviated textual representation of the day
+  </td>
+  <td>
+     Sun through Sat
+  </td>
+</tr>
+<tr>
+  <td>
+    %A
+  </td>
+  <td>
+     A full textual representation of the day
+  </td>
+  <td>
+     Sunday through Saturday
+  </td>
+</tr>
+<tr>
+  <td>
+    %d
+  </td>
+  <td>
+     Two-digit day of the month (with leading zeros)
+  </td>
+  <td>
+     01 to 31
+  </td>
+</tr>
+<tr>
+  <td>
+    %e
+  </td>
+  <td>
+     Day of the month, with a space preceding single digits. Not implemented as described on Windows. See below for more information.
+  </td>
+  <td>
+     1 to 31
+  </td>
+</tr>
+<tr>
+  <td>
+    %j
+  </td>
+  <td>
+     Day of the year, 3 digits with leading zeros
+  </td>
+  <td>
+     001 to 366
+  </td>
+</tr>
+<tr>
+  <td>
+    %u
+  </td>
+  <td>
+     ISO-8601 numeric representation of the day of the week
+  </td>
+  <td>
+     1 (for Monday) though 7 (for Sunday)
+  </td>
+</tr>
+<tr>
+  <td>
+    %w
+  </td>
+  <td>
+     Numeric representation of the day of the week
+  </td>
+  <td>
+     0 (for Sunday) through 6 (for Saturday)
+  </td>
+</tr>
+<tr>
+  <td>
+    <b>Week</b>
+  </td>
+  <td>
+     ---
+  </td>
+  <td>
+     ---
+  </td>
+</tr>
+<tr>
+  <td>
+    %U
+  </td>
+  <td>
+     Week number of the given year, starting with the first Sunday as the first week
+  </td>
+  <td>
+     13 (for the 13th full week of the year)
+  </td>
+</tr>
+<tr>
+  <td>
+    %V
+  </td>
+  <td>
+     ISO-8601:1988 week number of the given year, starting with the first week of the year with at least 4 weekdays, with Monday being the start of the week
+  </td>
+  <td>
+     01 through 53 (where 53 accounts for an overlapping week)
+  </td>
+</tr>
+<tr>
+  <td>
+    %W
+  </td>
+  <td>
+     A numeric representation of the week of the year, starting with the first Monday as the first week
+  </td>
+  <td>
+     46 (for the 46th week of the year beginning with a Monday)
+  </td>
+</tr>
+<tr>
+  <td>
+    <b>Month</b>
+  </td>
+  <td>
+     ---
+  </td>
+  <td>
+     ---
+  </td>
+</tr>
+<tr>
+  <td>
+    %b
+  </td>
+  <td>
+     Abbreviated month name, based on the locale
+  </td>
+  <td>
+     Jan through Dec
+  </td>
+</tr>
+<tr>
+  <td>
+    %B
+  </td>
+  <td>
+     Full month name, based on the locale
+  </td>
+  <td>
+     January through December
+  </td>
+</tr>
+<tr>
+  <td>
+    %h
+  </td>
+  <td>
+     Abbreviated month name, based on the locale (an alias of&#160;%b)
+  </td>
+  <td>
+     Jan through Dec
+  </td>
+</tr>
+<tr>
+  <td>
+    %m
+  </td>
+  <td>
+     Two digit representation of the month
+  </td>
+  <td>
+     01 (for January) through 12 (for December)
+  </td>
+</tr>
+<tr>
+  <td>
+    <b>Year</b>
+  </td>
+  <td>
+     ---
+  </td>
+  <td>
+     ---
+  </td>
+</tr>
+<tr>
+  <td>
+    %C
+  </td>
+  <td>
+     Two digit representation of the century (year divided by 100, truncated to an integer)
+  </td>
+  <td>
+     19 for the 20th Century
+  </td>
+</tr>
+<tr>
+  <td>
+    %g
+  </td>
+  <td>
+     Two digit representation of the year going by ISO-8601:1988 standards (see&#160;%V)
+  </td>
+  <td>
+     Example: 09 for the week of January 6, 2009
+  </td>
+</tr>
+<tr>
+  <td>
+    %G
+  </td>
+  <td>
+     The full four-digit version of&#160;%g
+  </td>
+  <td>
+     Example: 2008 for the week of January 3, 2009
+  </td>
+</tr>
+<tr>
+  <td>
+    %y
+  </td>
+  <td>
+     Two digit representation of the year
+  </td>
+  <td>
+     Example: 09 for 2009, 79 for 1979
+  </td>
+</tr>
+<tr>
+  <td>
+    %Y
+  </td>
+  <td>
+     Four digit representation for the year
+  </td>
+  <td>
+     Example: 2038
+  </td>
+</tr>
+<tr>
+  <td>
+    <b>Time</b>
+  </td>
+  <td>
+     ---
+  </td>
+  <td>
+     ---
+  </td>
+</tr>
+<tr>
+  <td>
+    %H
+  </td>
+  <td>
+     Two digit representation of the hour in 24-hour format
+  </td>
+  <td>
+     00 through 23
+  </td>
+</tr>
+<tr>
+  <td>
+    %k
+  </td>
+  <td>
+     Two digit representation of the hour in 24-hour format, with a space preceding single digits
+  </td>
+  <td>
+     0 through 23
+  </td>
+</tr>
+<tr>
+  <td>
+    %I
+  </td>
+  <td>
+     Two digit representation of the hour in 12-hour format
+  </td>
+  <td>
+     01 through 12
+  </td>
+</tr>
+<tr>
+  <td>
+    %l (lower-case 'L')
+  </td>
+  <td>
+     Hour in 12-hour format, with a space preceding single digits
+  </td>
+  <td>
+     1 through 12
+  </td>
+</tr>
+<tr>
+  <td>
+    %M
+  </td>
+  <td>
+     Two digit representation of the minute
+  </td>
+  <td>
+     00 through 59
+  </td>
+</tr>
+<tr>
+  <td>
+    %p
+  </td>
+  <td>
+     UPPER-CASE 'AM' or 'PM' based on the given time
+  </td>
+  <td>
+     Example: AM for 00:31, PM for 22:23
+  </td>
+</tr>
+<tr>
+  <td>
+    %P
+  </td>
+  <td>
+     lower-case 'am' or 'pm' based on the given time
+  </td>
+  <td>
+     Example: am for 00:31, pm for 22:23
+  </td>
+</tr>
+<tr>
+  <td>
+    %r
+  </td>
+  <td>
+     Same as "%I:%M:%S&#160;%p"
+  </td>
+  <td>
+     Example: 09:34:17 PM for 21:34:17
+  </td>
+</tr>
+<tr>
+  <td>
+    %R
+  </td>
+  <td>
+     Same as "%H:%M"
+  </td>
+  <td>
+     Example: 00:35 for 12:35 AM, 16:44 for 4:44 PM
+  </td>
+</tr>
+<tr>
+  <td>
+    %S
+  </td>
+  <td>
+     Two digit representation of the second
+  </td>
+  <td>
+     00 through 59
+  </td>
+</tr>
+<tr>
+  <td>
+    %T
+  </td>
+  <td>
+     Same as "%H:%M:%S"
+  </td>
+  <td>
+     Example: 21:34:17 for 09:34:17 PM
+  </td>
+</tr>
+<tr>
+  <td>
+    %X
+  </td>
+  <td>
+     Preferred time representation based on locale, without the date
+  </td>
+  <td>
+     Example: 03:59:16 or 15:59:16
+  </td>
+</tr>
+<tr>
+  <td>
+    %z
+  </td>
+  <td>
+     The time zone offset. Not implemented as described on Windows. See below for more information.
+  </td>
+  <td>
+     Example: -0500 for US Eastern Time
+  </td>
+</tr>
+<tr>
+  <td>
+    %Z
+  </td>
+  <td>
+     The time zone abbreviation. Not implemented as described on Windows. See below for more information.
+  </td>
+  <td>
+     Example: EST for Eastern Time
+  </td>
+</tr>
+<tr>
+  <td>
+    <b>Time and Date Stamps</b>
+  </td>
+  <td>
+     ---
+  </td>
+  <td>
+     ---
+  </td>
+</tr>
+<tr>
+  <td>
+    %c
+  </td>
+  <td>
+     Preferred date and time stamp based on locale
+  </td>
+  <td>
+     Example: Tue Feb 5 00:45:10 2009 for February 5, 2009 at 12:45:10 AM
+  </td>
+</tr>
+<tr>
+  <td>
+    %D
+  </td>
+  <td>
+     Same as "%m/%d/%y"
+  </td>
+  <td>
+     Example: 02/05/09 for February 5, 2009
+  </td>
+</tr>
+<tr>
+  <td>
+    %F
+  </td>
+  <td>
+     Same as "%Y-%m-%d" (commonly used in database datestamps)
+  </td>
+  <td>
+     Example: 2009-02-05 for February 5, 2009
+  </td>
+</tr>
+<tr>
+  <td>
+    %s
+  </td>
+  <td>
+     Unix Epoch Time timestamp (same as the time() function)
+  </td>
+  <td>
+     Example: 305815200 for September 10, 1979 08:40:00 AM
+  </td>
+</tr>
+<tr>
+  <td>
+    %x
+  </td>
+  <td>
+     Preferred date representation based on locale, without the time
+  </td>
+  <td>
+     Example: 02/05/09 for February 5, 2009
+  </td>
+</tr>
+<tr>
+  <td>
+    <b>Miscellaneous</b>
+  </td>
+  <td>
+     ---
+  </td>
+  <td>
+     ---
+  </td>
+</tr>
+<tr>
+  <td>
+    %n
+  </td>
+  <td>
+     A newline character ("\n")
+  </td>
+  <td>
+     ---
+  </td>
+</tr>
+<tr>
+  <td>
+    %t
+  </td>
+  <td>
+     A Tab character ("\t")
+  </td>
+  <td>
+     ---
+  </td>
+</tr>
+<tr>
+  <td>
+    %%
+  </td>
+  <td>
+     A literal percentage character ("%")
+  </td>
+  <td>
+     ---
+  </td>
+</tr>
+</table>
+<p>
+  More informations on php.net&#160;: <a rel="nofollow" class="external free" href="http://www.php.net/strftime">http://www.php.net/strftime</a>
+</p>
+<h5><span id="separator">CSV separator</span></h5>
+<p>
+  Character that separate columns. Most of the time , or&#160;; but it can be any character like | or §.
+</p>
+<p>
+  If you want to use the file with Microsoft Excel, you should use&#160;; as separator. <a href="#open_csv">More information about spreadsheet programs and CSV</a>.
+</p>
+<h5><span id="charset">Character encoding</span></h5>
+<p>
+  This define how to write the datas on the file. Most of the time, UTF-8 is good (but not for Microsoft Excel, see below).
+</p>
+<p>
+  More information&#160;: <a rel="nofollow" class="external free" href="http://en.wikipedia.org/wiki/Character_encoding">http://en.wikipedia.org/wiki/Character_encoding</a>
+</p>
+<p>
+  Note about Microsoft Excel&#160;: <a rel="nofollow" class="external free" href="http://stackoverflow.com/questions/508558/what-charset-does-microsoft-excel-use-when-saving-files">http://stackoverflow.com/questions/508558/what-charset-does-microsoft-excel-use-when-saving-files</a>
+</p>
+<h5><span id="header">Add header line</span></h5>
+<p>
+  Add a first line in the CSV file with columns titles defined <a href="#columns">above</a>
+</p>
+<h5><span id="decimal_separator">Decimal separator</span></h5>
+<p>
+  Will be used in the prices. You can choose to have 12,34 or 12.34 (or 12@43 if you want).
+</p>
+<h5><span id="decimal_points">Number of decimal points</span></h5>
+<p>
+  Will be used in the prices. You can choose to have 12.34 instead of 12.34321, in that case number of decimal points is 2.
+</p>
+<h5><span id="decoration">Columns decoration</span></h5>
+<p>
+  You can insert text before and after the values ​​calculated for each column. For example you can add to the end of all products' descriptions "©mysite.com™".
+</p>
+<h4>Products to export</h4>
+<p>
+  Here you can filter the products you want to export.
+</p>
+<h5><span id="inactive">Export inactive products</span></h5>
+<p>
+  Choose if the products not activated in the export context will appear in the generated file.
+</p>
+<h5><span id="no_stock">Export products out of stock</span></h5>
+<p>
+  Choose if the products out of stock at the export time will appear in the generated file.
+</p>
+<h5><span id="attribute">Export attributes</span></h5>
+<p>
+  If activated, a line will be created for each attributes of the products and the prices and quantities will be accurate for each attributes.
+</p>
+<h5><span id="categories">Categories</span></h5>
+<p>
+  Choose the categories to export. If no category is checked, all categories will be exported.
+</p>
+<p>
+  This is the products default categories.
+</p>
+<h4>Context</h4>
+<p>
+  In Prestashop, you don't have one list of products and one price by product. Prices can be customised by group, shop, countries. Same thing for categories.
+</p>
+<p>
+  Here you can choose the context of the export.
+</p>
+<h5><span id="size">Exported image size</span></h5>
+<p>
+  If you choose to export the images URL, this define the size of the exported images.
+</p>
+<h5>Language / Currency / Group / Country / Shop</h5>
+<p>
+  Choose the context of the export. It can modify the products list, the prices, shipping costs, names...
+</p>
+<p>
+  Some options will not appears depending of your shop configuration. For example if you have only one language, the language option will not appears.
+</p>
+</section><section>
+<div class="page-header">
+  <h3><span id="scheduled">Scheduled export</span></h3>
+</div>
+<p>
+  The aim of a scheduled export is to generate a CSV file using an export model and to do something with it. So you will have to indicate the model to use, when and what to do with the created file.
+</p>
+<p>
+  Note&#160;: If no export model is created, you will not be able to create a scheduled export.
+</p>
+<h4><span id="export_name">Export name</span></h4>
+<p>
+  You can create as many scheduled export as you want therefore choose an appropriate name is a good idea for easy retrieval.
+</p>
+<h4><span id="export_model">Model</span></h4>
+<p>
+  Choose the export model to use.
+</p>
+<p>
+  Note&#160;: If an export model is deleted, linked scheduled exports will be deleted to.
+</p>
+<h4><span id="day"><span id="hour">Export days / hour</span></span></h4>
+<p>
+  Choose when to run the export. If you want to run an export two time a day, you will have to create two scheduled export.
+</p>
+<h4><span id="id_employee">Send file to</span></h4>
+<p>
+  Will send the generated file by email to the selected employee.
+</p>
+<h4><span id="folder">Save in folder</span></h4>
+<p>
+  Will save the generated file in the selected folder. This folder must be writable.
+</p>
+</section><section>
+<div class="page-header">
+  <h3>Parameters</h3>
+</div>
+<h4><span id="directory">Working directory</span></h4>
+<p>
+  This module need to create files like temporary CSV files or export datas, so it needs a writable folder to that.
+</p>
+<p>
+  Most of the time you will not have to change this parameter.
+</p>
+<p>
+  This folder must be writable.
+</p>
+</section><section>
+<div class="page-header">
+  <h3>Frequently Asked Questions</h3>
+</div>
+<p>
+  <a href="/wiki/Samdha:faq" title="Samdha:faq">Frequently Asked Questions for all Samdha modules</a>
+</p>
+<h4>What is a CSV File?</h4>
+<p>
+  A CSV file consists of any number of records (here the products), one by line; each record consists of fields (here named columns), separated by some other character or string, most commonly a literal comma or semicolon.
+</p>
+<p>
+  CSV is a common, relatively simple file format that is widely supported by consumer, business, and scientific applications. Among its most common uses is moving tabular data between programs that natively operate on incompatible (often proprietary and/or undocumented) formats. This works because so many programs support some variation of CSV at least as an alternative import/export format.
+</p>
+<h4><span id="open_csv">How to read a CSV file?</span></h4>
+<p>
+  (from <a rel="nofollow" class="external free" href="http://www.computerhope.com/issues/ch001357.htm">http://www.computerhope.com/issues/ch001357.htm</a>)
+</p>
+<p>
+  A CSV file can be opened in any program, however, for most users a CSV file is best viewed through a spreadsheet program such as Microsoft Excel, Open Office Calc or Google Docs.
+</p>
+<p>
+  Tip: If you do not have a spreadsheet program installed on your computer consider using an online Spreadsheet such as Google Docs or a free Spreadsheet program.
+</p>
+<h5>Microsoft Excel</h5>
+<p>
+  If Microsoft Excel has been installed on the computer, by default CSV files should open automatically in Excel when the file icon is double-clicked. If you are getting an Open With prompt when opening the CSV file, choose Microsoft Excel from the available programs to open the file with.
+</p>
+<p>
+  Alternatively you can open Microsoft Excel and click File, Open, and select the .CSV file. If the file is not listed make sure to change the file type to be opened to Text files (*.prn, *.txt, *.csv).
+</p>
+<p>
+  More informations&#160;: <a rel="nofollow" class="external free" href="http://office.microsoft.com/en-us/excel-help/import-or-export-text-txt-or-csv-files-HP010099725.aspx">http://office.microsoft.com/en-us/excel-help/import-or-export-text-txt-or-csv-files-HP010099725.aspx</a>
+</p>
+<h5>Open/Free Office Calc</h5>
+<p>
+  If Open Office has been installed on the computer, by default CSV files should open automatically in Calc when the file icon is double-clicked. If you are getting an Open With prompt when opening the CSV file, choose Open office Calc from the available programs to open the file with.
+</p>
+<p>
+  Alternatively you can open Open Office Calc and click File, Open, and select the .CSV file.
+</p>
+<p>
+  More informations&#160;: <a rel="nofollow" class="external free" href="http://www.linuxtopia.org/online_books/office_guides/openoffice_3_calc_user_guide/openoffice_calc_Starting_opening_saving_Opening_CSV_files.html">http://www.linuxtopia.org/online_books/office_guides/openoffice_3_calc_user_guide/openoffice_calc_Starting_opening_saving_Opening_CSV_files.html</a>
+</p>
+<h5>Google Docs</h5>
+<p>
+  Open Google Docs, Click the Upload icon, Files, and browse to the directory containing the .CSV file. If an Upload settings window appears check the Convert documents, presentations, spreadsheets, and drawings to the corresponding Google Docs format checkbox and click Start upload.
+</p>
+<p>
+  More informations&#160;: <a rel="nofollow" class="external free" href="http://www.geek.com/apps/geek-101-how-to-open-a-csv-document-with-google-docs-1551489/">http://www.geek.com/apps/geek-101-how-to-open-a-csv-document-with-google-docs-1551489/</a>
+</p>
+<h4>The price comparator X need some arbritary columns. How to deal with it&#160;?</h4>
+<p>
+  Most of the time, price comparators need a category ID that is different that yours, like '15423' for Pet food or 'AZ23' for Computer accessories.
+</p>
+<p>
+  You can deal with it using the Prestashop products features. Create a feature 'Comparator X category' (<a rel="nofollow" class="external text" href="http://doc.prestashop.com/display/PS15/A+Look+Inside+the+Catalog#ALookInsidetheCatalog-Features">more informations</a>) and complete your products details with this feature (<a rel="nofollow" class="external text" href="http://doc.prestashop.com/display/PS15/Adding+Products+and+Product+Categories#AddingProductsandProductCategories-ConfiguringProductFeatures">more informations</a>). Then in your export model, <a href="#columns">include the feature</a> 'Comparator X category'.
+</p>
+<p>
+  If you don't want to display that feature on your shop, you can read this&#160;: <a rel="nofollow" class="external free" href="http://www.prestashop.com/forums/topic/174934-solved-hide-features-or-data-sheet-in-product-description/">http://www.prestashop.com/forums/topic/174934-solved-hide-features-or-data-sheet-in-product-description/</a>
+</p>
+</section>
+    </div>
+  </body>
+</html>

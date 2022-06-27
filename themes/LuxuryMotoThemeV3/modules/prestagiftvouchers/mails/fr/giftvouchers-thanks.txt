@@ -1,0 +1,8 @@
+﻿Merci !
+
+Merci de votre achat du chèque cadeau, {customer_firstname} {customer_lastname} !
+
+Nous avons le plaisir de vous offrir un chèque cadeau de {giftvoucher_value} {giftvoucher_currency} que vous pourrez utiliser &agrave; l'occasion de votre prochaine commande en utilisant le code suivant : {giftvoucher_code}
+
+
+{shop_url} réalisé par PrestaShop™

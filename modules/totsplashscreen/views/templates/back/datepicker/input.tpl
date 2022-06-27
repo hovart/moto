@@ -1,0 +1,1 @@
+<input type="text" class="datepicker" name="{$name}" value="{$value}">

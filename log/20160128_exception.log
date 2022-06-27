@@ -1,0 +1,37 @@
+*ERROR* 	2016/01/28 - 10:21:15: Error writing file '/tmp/#sql2940_6ce9_0.frm' (Errcode: 28)<br /><br /><pre>CREATE TEMPORARY TABLE ps_cat_restriction ENGINE=MEMORY
+													SELECT DISTINCT cp.id_product, p.id_manufacturer, product_shop.condition, p.weight FROM ps_category_product cp
+													INNER JOIN ps_category c ON (c.id_category = cp.id_category AND
+													c.nleft >= 43
+													AND c.nright <= 44
+													AND c.active = 1)
+													INNER JOIN ps_product_shop product_shop ON (product_shop.id_product = cp.id_product
+													AND product_shop.id_shop = 1)
+													INNER JOIN ps_product p ON (p.id_product=cp.id_product)
+													WHERE product_shop.`active` = 1 AND product_shop.`visibility` IN ("both", "catalog")</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/01/28 - 11:19:13: Unknown column 'hs.id_homeslider_slides' in 'field list'<br /><br /><pre>
+			SELECT hs.`id_homeslider_slides` as id_slide, hssl.`image`, hss.`position`, hss.`active`, hssl.`title`,
+			hssl.`url`, hssl.`image`
+			FROM ps_tptnsubbanner hs
+			LEFT JOIN ps_tptnsubbanner_slides hss ON (hs.id_homeslider_slides = hss.id_homeslider_slides)
+			LEFT JOIN ps_tptnsubbanner_slides_lang hssl ON (hss.id_homeslider_slides = hssl.id_homeslider_slides)
+			WHERE id_shop = 1
+			AND hssl.id_lang = 1 
+			ORDER BY hss.position</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/01/28 - 11:19:33: Unknown column 'hs.id_homeslider_slides' in 'field list'<br /><br /><pre>
+			SELECT hs.`id_homeslider_slides` as id_slide, hssl.`image`, hss.`position`, hss.`active`, hssl.`title`,
+			hssl.`url`, hssl.`image`
+			FROM ps_tptnsubbanner hs
+			LEFT JOIN ps_tptnsubbanner_slides hss ON (hs.id_homeslider_slides = hss.id_homeslider_slides)
+			LEFT JOIN ps_tptnsubbanner_slides_lang hssl ON (hss.id_homeslider_slides = hssl.id_homeslider_slides)
+			WHERE id_shop = 1
+			AND hssl.id_lang = 1 
+			ORDER BY hss.position</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/01/28 - 11:22:39: Unknown column 'hs.id_homeslider_slides' in 'field list'<br /><br /><pre>
+			SELECT hs.`id_homeslider_slides` as id_slide, hssl.`image`, hss.`position`, hss.`active`, hssl.`title`,
+			hssl.`url`, hssl.`image`
+			FROM ps_tptnsubbanner hs
+			LEFT JOIN ps_tptnsubbanner_slides hss ON (hs.id_homeslider_slides = hss.id_homeslider_slides)
+			LEFT JOIN ps_tptnsubbanner_slides_lang hssl ON (hss.id_homeslider_slides = hssl.id_homeslider_slides)
+			WHERE id_shop = 1
+			AND hssl.id_lang = 1 
+			ORDER BY hss.position</pre> at line 791 in file classes/db/Db.php

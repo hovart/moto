@@ -1,0 +1,1 @@
+ALTER TABLE `PREFIX_gsr_review_report` ADD `RPT_REPORT_CUST_DATA` text AFTER `RPT_CUST_ID`;

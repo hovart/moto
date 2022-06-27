@@ -1,0 +1,1 @@
+<iframe class="postfinancecw-iframe" src="{$iframeUrl}" style="height: {$iframeHeight}px;"></iframe>

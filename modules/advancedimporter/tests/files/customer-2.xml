@@ -1,0 +1,24 @@
+<objects>
+	<object type="customer" external-reference="demo-1">
+		<lastname>Lastname</lastname>
+		<firstname>Firstname</firstname>
+		<email>test@domain.tld</email>
+		<passwd modifier="Tools::encrypt">myPassword</passwd>
+		<block>
+			<objects>
+				<object type="group" external-reference="demo-1">
+					<name lang="fr">My Group</name>
+					<price_display_method>1</price_display_method> <!-- Taxes incluse -->
+					<block>
+						<objects>
+							<object type="customerGroup" external-reference="demo-1">
+								<id_customer>{{id}}</id_customer>
+								<id_group>\{\{id\}\}</id_group>
+							</object>
+						</objects>
+					</block>
+				</object>
+			</objects>
+		</block>
+	</object>
+</objects>

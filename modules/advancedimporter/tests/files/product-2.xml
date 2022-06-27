@@ -1,0 +1,23 @@
+<products>
+	<product>
+		<id>12</id>
+		<name lang="fr">Nom</name>
+		<description lang="fr">Description du produit</description>
+		<price>19.99</price>
+	</product>
+	<product>
+		<reference>demo_1</reference>
+		<name lang="fr">Nom</name>
+		<description lang="fr">Description du produit</description>
+		<price>19.99</price>
+	</product>
+	<product>
+		<ean13>1111111111111</ean13>
+		<name lang="fr">Nom</name>
+		<description lang="fr">Description du produit</description>
+		<price>19.99</price>
+	</product>
+	<product external-reference="product-demo-1" >
+		<name lang="fr">Nom</name>
+	</product>
+</products>

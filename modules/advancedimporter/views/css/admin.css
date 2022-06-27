@@ -1,0 +1,12 @@
+.icon-AdvancedImporter {
+	text-align: center;
+}
+.icon-AdvancedImporter:before {
+	content: "\f03a";
+}
+.process-icon-save-calendar:before {
+	content: "\f019";
+}
+.process-icon-save-calendar2:before {
+	content: "\f019";
+}

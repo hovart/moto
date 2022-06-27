@@ -1,0 +1,62 @@
+/* BLOCK #lateralreinsurance3_block ******************************************************************** */
+#lateralreinsurance3_block{ 
+	margin-bottom:25px; 
+	text-align: center; 
+	background: #1d1d1b;
+	float: left;
+}
+#lateralreinsurance3_block ul{ border: none; margin: 20px 0px; padding: 0; display: inline-block;}
+#footer #lateralreinsurance3_block ul{ border-bottom:1px solid #999; margin: 20px 0px 0px; padding: 0; display: inline-block;}
+#lateralreinsurance3_block li {
+	float:left;
+	padding:15px 10px !important;
+	font-size:14px;
+	color:#fff;
+	text-transform:uppercase;
+	/*text-shadow:0 1px 0 #fff;*/
+	font-family: 'Nexa W01 Bold','Open Sans';
+	/*background: url('img/reinsurance-bg.jpg') repeat-x;*/
+	min-height: 88px;
+	list-style-type: none;
+	-webkit-transition-duration: 0.5s;
+	-moz-transition-duration: 0.5s;
+	-ms-transition-duration: 0.5s;
+	-o-transition-duration: 0.5s;
+	transition-duration: 0.5s;
+	-webkit-transition-timing-function: ease-out;
+	-moz-transition-timing-function: ease-out;
+	-ms-transition-timing-function: ease-out;
+	-o-transition-timing-function: ease-out;
+	transition-timing-function: ease-out;
+	-webkit-backface-visibility: hidden;
+	-webkit-transform-style: preserve-3d;
+}
+#lateralreinsurance3_block li:hover{ 
+	opacity: 0.8;
+	-webkit-transition-duration: 0.3s;
+	-moz-transition-duration: 0.3s;
+	-ms-transition-duration: 0.3s;
+	-o-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+	-webkit-backface-visibility: hidden;
+	-webkit-transform-style: preserve-3d;
+	cursor: pointer;
+}
+#lateralreinsurance3_block li:first-child { }
+.reinsurance-text {
+	color: #fff;
+}
+
+#lateralreinsurance3_block .width1 li {width:960px}
+#lateralreinsurance3_block .width2 li {width:470px}
+#lateralreinsurance3_block .width3 li {width:305px}
+/*#lateralreinsurance3_block .width4 li {width:224px}*/
+#lateralreinsurance3_block .width5 li {width:175px}
+
+#lateralreinsurance3_block li>div{width: 100%; text-align: center;}
+
+#lateralreinsurance3_block li>div.reinsurance-text{ padding-top: 12px;}
+
+#lateralreinsurance3_block li span { padding:10px;}
+
+#lateralreinsurance3_block a:hover{color: #999;}

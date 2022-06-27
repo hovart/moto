@@ -1,0 +1,484 @@
+
+
+
+
+SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
+
+
+
+-- [CF_tag]
+
+
+
+CREATE TABLE IF NOT EXISTS `test_contactform` (
+`fid`  int(10) unsigned   NOT NULL   auto_increment,
+`formname`  varchar(225)   NOT NULL   ,
+`email`  varchar(225)   NOT NULL   ,
+`mailtype`  varchar(225)   NOT NULL   ,
+`layout`  text   default NULL  ,
+`clayout`  text   default NULL  ,
+`idcms`  int(11)   NOT NULL   ,
+`id_shop`  int(11)   NOT NULL   ,
+PRIMARY KEY  (`fid`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci AUTO_INCREMENT=1;
+
+
+
+
+-- [CF_tag]INSERT INTO `test_contactform` ( `fid` ,  `formname` ,  `email` ,  `mailtype` ,  `layout` ,  `clayout` ,  `idcms` ,  `id_shop`   ) VALUES
+('1','InscriptionForm','admin@admin.com','0','<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>{message_from} {shop_name}</title>
+</head>
+<body>
+	<table style="font-family:Verdana,sans-serif; font-size:11px; color:#374953; width: 550px;">
+		<tr>
+			<td align="left">
+				<a href="{shop_url}" title="{shop_name}">
+				{shop_logo}</a>
+			</td>
+		</tr>
+		<tr><td>&nbsp;</td></tr>
+		<tr>
+			<td align="left" style="background-color:#DB3484; color:#FFF; font-size: 12px; font-weight:bold; padding: 0.5em 1em;">{contactform_in}  {form_name}</td>
+		</tr>
+		<tr><td>&nbsp;</td></tr>
+		<tr>
+			<td>
+			{here_msg} :</br>
+				{message}
+			</td>
+		</tr>
+		<tr><td>&nbsp;</td></tr>
+		<tr>
+			<td align="center" style="font-size:10px; border-top: 1px solid #D9DADE;">
+				<a href="{shop_url}" style="color:#DB3484; font-weight:bold; text-decoration:none;">
+				{shop_name}</a> powered with <a href="http://www.mydomain.com/" style="text-decoration:none;
+				color:#374953;">Contactform</a>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>','
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>{notification} {shop_name}</title>
+</head>
+<body>
+	<table style="font-family:Verdana,sans-serif; font-size:11px; color:#374953; width: 550px;">
+		<tr>
+			<td align="left">
+				<a href="{shop_url}" title="{shop_name}">{shop_logo}</a>
+			</td>
+		</tr>
+		<tr><td>&nbsp;</td></tr>
+		<tr>
+			<td align="left" style="background-color:#DB3484; color:#FFF; font-size: 12px;
+			font-weight:bold; padding: 0.5em 1em;">{notification} {shop_name}</td>
+		</tr>
+		<tr><td>&nbsp;</td></tr>
+		<tr>
+			<td>
+				{message}
+			</td>
+		</tr>
+		<tr><td>&nbsp;</td></tr>
+		<tr>
+			<td align="center" style="font-size:10px; border-top: 1px solid #D9DADE;">
+				<a href="{shop_url}" style="color:#DB3484; font-weight:bold; text-decoration:none;">
+				{shop_name}</a> powered with 
+				<a href="http://www.mydomain.com/" style="text-decoration:none; color:#374953;">Contactform</a>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>','0','1'),
+('2','InscriptionForm','directeur.informatique@netunivers.com','0','<p>{message_from} {shop_name}</p>
+<table style="font-family: Verdana,sans-serif; font-size: 11px; color: #374953; width: 550px;">
+<tbody>
+<tr>
+<td align="left"><a title="{shop_name}" href="{shop_url}"> {shop_logo}</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="background-color: #db3484; color: #fff; font-size: 12px; font-weight: bold; padding: 0.5em 1em;" align="left">{contactform_in} {form_name}</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>{here_msg} : {message}</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="font-size: 10px; border-top: 1px solid #D9DADE;" align="center"><a style="color: #db3484; font-weight: bold; text-decoration: none;" href="{shop_url}"> {shop_name}</a> powered with <a style="text-decoration: none; color: #374953;" href="http://www.mydomain.com/">Contactform</a></td>
+</tr>
+</tbody>
+</table>','<p>{notification} {shop_name}</p>
+<table style="font-family: Verdana,sans-serif; font-size: 11px; color: #374953; width: 550px;">
+<tbody>
+<tr>
+<td align="left"><a title="{shop_name}" href="{shop_url}">{shop_logo}</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="background-color: #db3484; color: #fff; font-size: 12px; font-weight: bold; padding: 0.5em 1em;" align="left">{notification} {shop_name}</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>{message}</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="font-size: 10px; border-top: 1px solid #D9DADE;" align="center"><a style="color: #db3484; font-weight: bold; text-decoration: none;" href="{shop_url}"> {shop_name}</a> powered with <a style="text-decoration: none; color: #374953;" href="http://www.mydomain.com/">Contactform</a></td>
+</tr>
+</tbody>
+</table>','0','1');
+
+-- [CF_tag]
+
+
+
+CREATE TABLE IF NOT EXISTS `test_contactform_item` (
+`fdid`  int(10) unsigned   NOT NULL   auto_increment,
+`fid`  int(11)   NOT NULL   ,
+`fields_id`  varchar(225)   default NULL  ,
+`fields_name`  varchar(225)   default NULL  ,
+`confirmation`  int(11)   NOT NULL   ,
+`fields_valid`  varchar(225)   NOT NULL   ,
+`fields_type`  varchar(225)   NOT NULL   ,
+`fields_style`  text   default NULL  ,
+`err_style`  text   default NULL  ,
+`fields_suppl`  varchar(255)   NOT NULL   ,
+`fields_require`  int(11)   NOT NULL   ,
+`fields_maxtxt`  varchar(255)   NOT NULL   ,
+`order`  int(11)   NOT NULL   ,
+`published`  int(11)   NOT NULL   ,
+PRIMARY KEY  (`fdid`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci AUTO_INCREMENT=1;
+
+
+
+
+-- [CF_tag]INSERT INTO `test_contactform_item` ( `fdid` ,  `fid` ,  `fields_id` ,  `fields_name` ,  `confirmation` ,  `fields_valid` ,  `fields_type` ,  `fields_style` ,  `err_style` ,  `fields_suppl` ,  `fields_require` ,  `fields_maxtxt` ,  `order` ,  `published`   ) VALUES
+('1','1','sep1','sep1','0','none','separator','','','','0','250','1','1'),
+('2','1','title','title','0','none','select','','','','1','250','1','1'),
+('3','1','name','name','0','none','text','','','size="35"','1','250','2','1'),
+('4','1','myemail','myemail','1','email','email','','','size="35"','1','250','3','1'),
+('5','1','sep2','sep2','0','none','separator','','','','0','250','4','1'),
+('6','1','sexe','sexe','0','none','radio','','','','1','250','5','1'),
+('7','1','activity','activity','0','none','checkbox','','','style="margin-top:10px;"','0','250','6','1'),
+('8','1','state','state','0','none','country','','','style="width:215px"','1','250','7','1'),
+('9','1','datebirth','datebirth','0','none','calendar','','','','0','250','8','1'),
+('10','1','fileup','fileup','1','none','fileup','','','','0','250','9','1'),
+('11','1','message','message','0','none','textarea','','','rows="8" cols="40"','1','250','10','1'),
+('12','1','captcha','captcha','1','none','captcha','','','','0','250','11','1'),
+('13','1','submit','submit','0','none','submitbtn','','','','0','250','13','1'),
+('14','2','sep1','sep1','0','none','separator','','','','0','250','1','1'),
+('15','2','title','title','0','none','select','','','','1','250','2','1'),
+('16','2','name','name','0','none','text','','','size="35"','1','250','3','1'),
+('17','2','myemail','myemail','1','email','email','','','size="35"','1','250','4','1'),
+('18','2','sep2','sep2','0','none','separator','','','','0','250','5','1'),
+('19','2','sexe','sexe','0','none','radio','','','','1','250','6','1'),
+('20','2','activity','activity','0','none','checkbox','','','style="margin-top:10px;"','0','250','7','1'),
+('21','2','state','state','0','none','country','','','style="width:215px"','1','250','8','1'),
+('22','2','datebirth','datebirth','0','none','calendar','','','','0','250','9','1'),
+('23','2','fileup','fileup','1','none','fileup','','','','0','250','10','1'),
+('24','2','message','message','0','none','textarea','','','rows="8" cols="40"','1','250','12','1'),
+('25','2','captcha','captcha','1','none','captcha','','','','0','250','13','1'),
+('26','2','submit','submit','0','none','submitbtn','','','','0','250','14','1'),
+('27','2','upload2','upload2','0','none','fileup','','','','0','0','11','1');
+
+-- [CF_tag]
+
+
+
+CREATE TABLE IF NOT EXISTS `test_contactform_lang` (
+`id_lang`  int(11)   NOT NULL   ,
+`fid`  varchar(225)   NOT NULL   ,
+`alias`  varchar(225)   default NULL  ,
+`formtitle`  varchar(225)   NOT NULL   ,
+`thankyou`  text   default NULL  ,
+`msgbeforeForm`  text   default NULL  ,
+`msgafterForm`  text   default NULL  ,
+`toname`  varchar(225)   NOT NULL   ,
+`subject`  varchar(225)   default NULL  ,
+`automailresponse`  text   default NULL  ,
+`returnurl`  varchar(225)   default NULL  
+) ENGINE=MyISAM DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci AUTO_INCREMENT=1;
+
+
+
+
+-- [CF_tag]INSERT INTO `test_contactform_lang` ( `id_lang` ,  `fid` ,  `alias` ,  `formtitle` ,  `thankyou` ,  `msgbeforeForm` ,  `msgafterForm` ,  `toname` ,  `subject` ,  `automailresponse` ,  `returnurl`   ) VALUES
+('0','1','contact-form','Contact Form','#','<p><strong>Sample</strong> html Text <em>
+before</em> form </p><center><img src="/prestashop1603/img/logo.jpg"></center>','<p><strong>Sample</strong> html Text <em>
+after</em> form </p><center><img src="/prestashop1603/img/logo.jpg"></center>','Administrator','Contact Prestashop','<p>
+Thank you for your request. We will respond shortly to the email you just send us. Sincerely.<br /><br />Team.</p>','#'),
+('1','1','formulaire-de-contact','Formulaire de contact','#','<p>
+<strong>Exemple</strong> de texte <em>html</em> avant le formulaire </p><center>
+<img src="/prestashop1603/img/logo.jpg"></center>','<p><strong>Exemple</strong> de texte <em>html</em> après le formulaire </p>
+<center><img src="/prestashop1603/img/logo.jpg"></center>','Administrateur','Contact Prestashop','<p>
+Merci pour votre demande. Nous répondrons très prochainement au mail que vous venez de nous faire parvenir. Bien cordialement.
+<br /><br />L´équipe.</p>','#'),
+('2','1','formulario-de-contacto','Formulario de contacto','#','','','Administrador','Póngase en contacto con PrestaShop','<p>Gracias por su solicitud. 
+Nosotros responderemos a la brevedad al correo electrónico que nos acaba de enviar. Atentamente.<br />
+<br />Equipo.</p>','#'),
+('0','1','kontaktformular','Kontaktformular','#','<p><strong>Voorbeeld</strong> html tekst <em>voordat</em> het formulier</p><center>
+<img src="/prestashop1603/img/logo.jpg"></center>','<p><strong>Voorbeeld</strong> html text <em>
+html</em> nadat het formulier</p><center><img src="/prestashop1603/img/logo.jpg"></center>','Administrator','Kontakt PrestaShop','
+<p>Vielen Dank für Ihre Anfrage. Wir werden in Kürze Antwort auf die E-Mail senden Sie uns einfach. Mit freundlichen Grüßen.<br />
+<br />Team.</p>','#'),
+('0','1','modulo-di-contatto','Modulo di contatto','#','<p><strong>Muestra</strong> html Texto <em>antes</em> de formulario</p><center>
+<img src="/prestashop1603/img/logo.jpg"></center>','<p><strong>Muestra</strong> html html texto después de la formulario</p>
+<center><img src="/prestashop1603/img/logo.jpg"></center>','Administrator','Contatta PrestaShop','
+<p>Grazie per la vostra richiesta. Ci sarà presto una risposta alle e-mail è sufficiente inviare. Cordiali saluti.<br />
+<br />Team.</p>','#'),
+('0','2','contact-form','Contact Form','#','<p><strong>Sample</strong> html Text <em>
+before</em> form </p><center><img src="/prestashop1603/img/logo.jpg"></center>','<p><strong>Sample</strong> html Text <em>
+after</em> form </p><center><img src="/prestashop1603/img/logo.jpg"></center>','Administrator','Contact Prestashop','<p>
+Thank you for your request. We will respond shortly to the email you just send us. Sincerely.<br /><br />Team.</p>','#'),
+('1','2','formulaire-de-contact','Formulaire de contact','#','<p><strong>Exemple</strong> de texte <em>html</em> avant le formulaire</p>
+<center><img src="/prestashop1603/img/logo.jpg" alt="" /></center>','<p><strong>Exemple</strong> de texte <em>html</em> apr&egrave;s le formulaire</p>
+<center><img src="/prestashop1603/img/logo.jpg" alt="" /></center>','Administrateur','Formulaire d´inscription','<p>Merci pour votre demande. Nous r&eacute;pondrons tr&egrave;s prochainement au mail que vous venez de nous faire parvenir. Bien cordialement. <br /><br />L´&eacute;quipe.</p>','#'),
+('2','2','formulario-de-contacto','Formulario de contacto','#','','','Administrador','Póngase en contacto con PrestaShop','<p>Gracias por su solicitud. Nosotros responderemos a la brevedad al correo electr&oacute;nico que nos acaba de enviar. Atentamente.<br /> <br />Equipo.</p>','#'),
+('0','2','kontaktformular','Kontaktformular','#','<p><strong>Voorbeeld</strong> html tekst <em>voordat</em> het formulier</p><center>
+<img src="/prestashop1603/img/logo.jpg"></center>','<p><strong>Voorbeeld</strong> html text <em>
+html</em> nadat het formulier</p><center><img src="/prestashop1603/img/logo.jpg"></center>','Administrator','Kontakt PrestaShop','
+<p>Vielen Dank für Ihre Anfrage. Wir werden in Kürze Antwort auf die E-Mail senden Sie uns einfach. Mit freundlichen Grüßen.<br />
+<br />Team.</p>','#'),
+('0','2','modulo-di-contatto','Modulo di contatto','#','<p><strong>Muestra</strong> html Texto <em>antes</em> de formulario</p><center>
+<img src="/prestashop1603/img/logo.jpg"></center>','<p><strong>Muestra</strong> html html texto después de la formulario</p>
+<center><img src="/prestashop1603/img/logo.jpg"></center>','Administrator','Contatta PrestaShop','
+<p>Grazie per la vostra richiesta. Ci sarà presto una risposta alle e-mail è sufficiente inviare. Cordiali saluti.<br />
+<br />Team.</p>','#');
+
+-- [CF_tag]
+
+
+
+CREATE TABLE IF NOT EXISTS `test_contactform_item_lang` (
+`fdid`  int(11)   NOT NULL   ,
+`id_lang`  int(11)   NOT NULL   ,
+`fields_title`  varchar(225)   NOT NULL   ,
+`fields_desc`  text   default NULL  ,
+`confirmation_txt`  varchar(225)   NOT NULL   ,
+`fields_default`  text   default NULL  ,
+`error_txt`  varchar(255)   default NULL  ,
+`error_txt2`  varchar(255)   default NULL  
+) ENGINE=MyISAM DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci AUTO_INCREMENT=1;
+
+
+
+
+-- [CF_tag]INSERT INTO `test_contactform_item_lang` ( `fdid` ,  `id_lang` ,  `fields_title` ,  `fields_desc` ,  `confirmation_txt` ,  `fields_default` ,  `error_txt` ,  `error_txt2`   ) VALUES
+('1','0','Identification','','','Identification','',''),
+('1','1','Identification','','','Identification','',''),
+('1','2','Identification','','','Identificación','',''),
+('1','0','Identification','','','Identifizierung','',''),
+('1','0','Identification','','','Identificazione','',''),
+('2','0','Title','','',';Mrs;Ms;Mr','',''),
+('2','1','Titre','','',';Mme;Mlle;Mr','',''),
+('2','2','Título','','',';Sra.; El Sr.','',''),
+('2','0','Titel','','','Frau;Fräulein;Herr','',''),
+('2','0','Titolo','','','Ms.; Miss; Sig.','',''),
+('3','0','Your full name','','','Your full name ...','',''),
+('3','1','Votre nom et prenom','','','Votre nom ...','',''),
+('3','2','Su nombre','','','Su nombre ..','',''),
+('3','0','Ihr vollständiger Name','','','Ihr Name ...','',''),
+('3','0','Il tuo nome completo','','','Il tuo nome completo','',''),
+('4','0','Your e-mail','','Confirm your email','','',''),
+('4','1','Votre e-mail','','Confirmer votre email','','',''),
+('4','2','Tu e-mail','','Confirme su correo electrónico','','',''),
+('4','0','Ihre E-Mail','','Bestätigen Sie Ihre E-Mail','','',''),
+('4','0','Il tuo indirizzo e-mail','','Conferma la tua email','','',''),
+('5','0','','','','Additional Informations','',''),
+('5','1','','','','Informations complémentaires','',''),
+('5','2','','','','Información adicional','',''),
+('5','0','','','','Aanvullende informatie','',''),
+('5','0','','','','Informazioni aggiuntive','',''),
+('6','0','Sex','','','Male;Female','',''),
+('6','1','Sexe','','','Homme;Femme','',''),
+('6','2','Sexo','','','Hombre;Mujer','',''),
+('6','0','Sex','','','Männlich;Weiblich','',''),
+('6','0','Sesso','','','Maschio;Femmina','',''),
+('7','0','Business Area','','','Trade;Technology;Agriculture;
+Communication;Computers; Transportation','',''),
+('7','1','Secteur d"activité','','','Commerce;Technologie;Agriculture;Communication;Informatique;Transport','',''),
+('7','2','Área de Negocios','','','Comercio;Tecnología;Agricultura;Comunicaciones;Informática;Transporte','',''),
+('7','0','Business Area','','','Handel; 
+Technologie; Landwirtschaft, Kommunikation;Computer; Transporter','',''),
+('7','0','Area di Business','','','Commercio; tecnologia;agricoltura;comunicazione; computer;Trasporto','',''),
+('8','0','State','','','','',''),
+('8','1','Pays','','','','',''),
+('8','2','País','','','','',''),
+('8','0','Land','','','','',''),
+('8','0','Paese','','','','',''),
+('9','0','Date of birth','','','','',''),
+('9','1','Date de naissance','','','','',''),
+('9','2','Fecha de Nacimiento','','','','',''),
+('9','0','Datum der Geburt','','','','',''),
+('9','0','Data di nascita','','','','',''),
+('10','0','File to provide','','','','',''),
+('10','1','Fichier à fournir','','','','',''),
+('10','2','Archivo a proveer','','','','',''),
+('10','0','Bestand om','','','','',''),
+('10','0','File da fornire','','','','',''),
+('11','0','Message','','','','',''),
+('11','1','Message','','','','',''),
+('11','2','Mensaje','','','','',''),
+('11','0','Nachricht','','','','',''),
+('11','0','Messaggio','','','','',''),
+('12','0','Verification code','','Retape code here','','',''),
+('12','1','Code de sécurity','','Recopier le code ici','','',''),
+('12','2','Código de verificación','','Copia el código aquí','','',''),
+('12','0','Bestätigungs-Code','','Kopieren Sie den Code hier','','',''),
+('12','0','Codice di verifica','','Riscrivi il codice qui','','',''),
+('13','0','','','','Send','',''),
+('13','1','','','','Envoyer','',''),
+('13','2','','','','Enviar','',''),
+('13','0','','','','Senden','',''),
+('13','0','','','','Invia','',''),
+('14','0','Identification','','','Identification','',''),
+('14','1','Identification','','','Identification','',''),
+('14','2','Identification','','','Identificación','',''),
+('14','0','Identification','','','Identifizierung','',''),
+('14','0','Identification','','','Identificazione','',''),
+('15','0','Title','','',';Mrs;Ms;Mr','',''),
+('15','1','Titre','','',';Mme;Mlle;Mr','',''),
+('15','2','Título','','',';Sra.; El Sr.','',''),
+('15','0','Titel','','','Frau;Fräulein;Herr','',''),
+('15','0','Titolo','','','Ms.; Miss; Sig.','',''),
+('16','0','Your full name','','','Your full name ...','',''),
+('16','1','Votre nom et prenom','','','Votre nom ...','',''),
+('16','2','Su nombre','','','Su nombre ..','',''),
+('16','0','Ihr vollständiger Name','','','Ihr Name ...','',''),
+('16','0','Il tuo nome completo','','','Il tuo nome completo','',''),
+('17','0','Your e-mail','','Confirm your email','','',''),
+('17','1','Votre e-mail','','Confirmer votre email','','',''),
+('17','2','Tu e-mail','','Confirme su correo electrónico','','',''),
+('17','0','Ihre E-Mail','','Bestätigen Sie Ihre E-Mail','','',''),
+('17','0','Il tuo indirizzo e-mail','','Conferma la tua email','','',''),
+('18','0','','','','Additional Informations','',''),
+('18','1','','','','Informations complémentaires','',''),
+('18','2','','','','Información adicional','',''),
+('18','0','','','','Aanvullende informatie','',''),
+('18','0','','','','Informazioni aggiuntive','',''),
+('19','0','Sex','','','Male;Female','',''),
+('19','1','Sexe','','','Homme;Femme','',''),
+('19','2','Sexo','','','Hombre;Mujer','',''),
+('19','0','Sex','','','Männlich;Weiblich','',''),
+('19','0','Sesso','','','Maschio;Femmina','',''),
+('20','0','Business Area','','','Trade;Technology;Agriculture;
+Communication;Computers; Transportation','',''),
+('20','1','Secteur d"activité','','','Commerce;Technologie;Agriculture;Communication;Informatique;Transport','',''),
+('20','2','Área de Negocios','','','Comercio;Tecnología;Agricultura;Comunicaciones;Informática;Transporte','',''),
+('20','0','Business Area','','','Handel; 
+Technologie; Landwirtschaft, Kommunikation;Computer; Transporter','',''),
+('20','0','Area di Business','','','Commercio; tecnologia;agricoltura;comunicazione; computer;Trasporto','',''),
+('21','0','State','','','','',''),
+('21','1','Pays','','','','',''),
+('21','2','País','','','','',''),
+('21','0','Land','','','','',''),
+('21','0','Paese','','','','',''),
+('22','0','Date of birth','','','','',''),
+('22','1','Date de naissance','','','','',''),
+('22','2','Fecha de Nacimiento','','','','',''),
+('22','0','Datum der Geburt','','','','',''),
+('22','0','Data di nascita','','','','',''),
+('23','0','File to provide','','','','',''),
+('23','1','Fichier à fournir','','','','',''),
+('23','2','Archivo a proveer','','','','',''),
+('23','0','Bestand om','','','','',''),
+('23','0','File da fornire','','','','',''),
+('24','0','Message','','','','',''),
+('24','1','Message','','','','',''),
+('24','2','Mensaje','','','','',''),
+('24','0','Nachricht','','','','',''),
+('24','0','Messaggio','','','','',''),
+('25','0','Verification code','','Retape code here','','',''),
+('25','1','Code de sécurity','','Recopier le code ici','','',''),
+('25','2','Código de verificación','','Copia el código aquí','','',''),
+('25','0','Bestätigungs-Code','','Kopieren Sie den Code hier','','',''),
+('25','0','Codice di verifica','','Riscrivi il codice qui','','',''),
+('26','0','','','','Send','',''),
+('26','1','','','','Envoyer','',''),
+('26','2','','','','Enviar','',''),
+('26','0','','','','Senden','',''),
+('26','0','','','','Invia','',''),
+('27','1','Upload 2','','','','',''),
+('27','2','','','','','','');
+
+-- [CF_tag]
+
+
+
+CREATE TABLE IF NOT EXISTS `test_contactform_relation` (
+`id`  int(10) unsigned   NOT NULL   auto_increment,
+`etat`  tinyint(1)   NOT NULL   ,
+`type`  tinyint(1)   NOT NULL   ,
+`default`  int(10)   NOT NULL   ,
+PRIMARY KEY  (`id`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci AUTO_INCREMENT=1;
+
+
+
+
+
+-- [CF_tag]
+
+
+
+CREATE TABLE IF NOT EXISTS `test_contactform_relation_lang` (
+`rid`  int(11) unsigned   NOT NULL   ,
+`id_lang`  int(11)   NOT NULL   ,
+`title`  text   default NULL  
+) ENGINE=MyISAM DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci AUTO_INCREMENT=1;
+
+
+
+
+
+-- [CF_tag]
+
+
+
+CREATE TABLE IF NOT EXISTS `test_contactform_relation_item` (
+`rid`  int(11)   NOT NULL   ,
+`fid`  int(11)   NOT NULL   ,
+`order`  int(11)   NOT NULL   
+) ENGINE=MyISAM DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci AUTO_INCREMENT=1;
+
+
+
+
+
+-- [CF_tag]
+
+
+
+CREATE TABLE IF NOT EXISTS `test_contactform_relation_item_lang` (
+`rid`  int(11)   NOT NULL   ,
+`fid`  int(11)   NOT NULL   ,
+`id_lang`  int(11)   NOT NULL   ,
+`txtsuppl`  varchar(1024)   NOT NULL   
+) ENGINE=MyISAM DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci AUTO_INCREMENT=1;
+
+
+
+
+
+-- [CF_tag]
+

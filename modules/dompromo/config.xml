@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>dompromo</name>
+            <displayName><![CDATA[Aideaunet : Ventes flash et Promotions]]></displayName>
+            <version><![CDATA[2.0.6]]></version>
+            <description><![CDATA[Le module g&egrave;re des Ventes Flash, des Prix Co&ucirc;tants, des Destockages, des Promotions et des Soldes]]></description>
+            <author><![CDATA[Aideaunet]]></author>
+            <tab><![CDATA[pricing_promotion]]></tab>
+	<confirmUninstall>Etes vous sur de vouloir désinstaller Ventes et Promotions</confirmUninstall>
+            <is_configurable>1</is_configurable>
+            <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+        </module>

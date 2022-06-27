@@ -1,0 +1,17 @@
+<associations>
+	<association productid="1">
+		<mode>replace</mode>
+		<category use-external-reference="1">demo-1</category>
+		<category use-external-reference="1">demo-2</category>
+	</association>
+	<association ean13="ean-1">
+		<mode>replace</mode>
+		<category use-external-reference="1">demo-1</category>
+		<category use-external-reference="1">demo-2</category>
+	</association>
+	<association reference="reference-1">
+		<mode>replace</mode>
+		<category use-external-reference="1">demo-1</category>
+		<category use-external-reference="1">demo-2</category>
+	</association>
+</associations>

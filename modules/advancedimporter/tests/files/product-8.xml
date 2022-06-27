@@ -1,0 +1,26 @@
+<products>
+	<product external-reference="demo-1">
+		<name lang="fr">Nom</name>
+		<description lang="fr">Description du produit</description>
+		<price>19.99</price>
+		<block>
+			<objects>
+				<object type="category" external-reference="demo-1">
+					<name lang="fr">Nom</name>
+					<link_rewrite lang="fr">Nom</link_rewrite>
+					<id_parent>1</id_parent>
+					<block>
+						<associations>
+							<association productid="{{id}}">
+								<mode>add</mode>
+                                <category>#{#{id}#}#</category>
+							</association>
+						</associations>
+					</block>
+				</object>
+			</objects>
+		</block>
+	</product>
+</products>
+
+

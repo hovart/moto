@@ -1,0 +1,31 @@
+#contact  fieldset {}
+#contact  h3 {
+	margin:0 0 15px 0;
+	padding:8px;
+	background:#eee;
+}
+#contact #center_column p {margin:0; padding:0 0 10px 0;}
+#contact #center_column p.desc_contact { text-align: center; padding-left: 10px; padding-right: 10px; }
+
+#contact p.text label,
+#contact p.select label,
+#contact p.select span,
+#contact p.textarea label {
+	display:inline-block;
+	padding:6px;
+	width:30%;
+	text-align:right
+}
+#contact p.textarea label {vertical-align:top}
+#contact p.text input,
+#contact p.select input {
+	width:40%;
+}
+#contact p.select select {
+	margin-right:10px;
+}
+#contact p.textarea textarea {
+	height:80px;
+	width:40%;
+}
+#contact p.submit input {margin-left:32%;}

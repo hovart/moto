@@ -1,0 +1,11 @@
+Hola {firstname} {lastname},
+
+Le informamos de que se ha generado {nb_discount} vale(s) de descuento a su nombre que tiene que ver con su apadrinamiento.
+
+Este es el número del vale de descuento: {voucher_num}, de un valor {voucher_amount}.
+Copie y pege este código en la cesta de tu próximo pedido antes de pasar a pagar.
+
+
+
+{shop_name}
+{shop_url}

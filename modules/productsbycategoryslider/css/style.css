@@ -1,0 +1,79 @@
+h4 {
+	margin:0;
+	padding:0;
+}
+
+.wrap { 
+	position:relative;
+	margin:0 auto;
+	/* width:850px ;*/
+}
+
+.categoryslider-wrapper {
+	margin:0 auto;
+	padding:0;
+}
+
+.wrap ul {
+	margin:15px 0;
+	padding: 0;
+	overflow:hidden;
+	}
+
+.wrap ul li {
+	float:left;
+	text-align:center;
+	margin: 0;
+	width:110px;
+}
+
+.wrap ul li img {
+	border:1px solid #ccc;
+}
+
+.wrap ul li h5 {
+	text-align: center;
+	margin: 0;
+}
+	
+.wrap ul li h5 a {
+	color:#0088cc;
+	text-decoration:none;
+}
+
+.wrap ul li h5 a:hover {
+	text-decoration:underline;
+}
+
+
+.wrap ul li span.price {
+	font-size:0.9em;
+}
+	
+a.categoryslider-prev, a.categoryslider-next {
+	background: transparent url(../images/arrow_sprites.jpg) no-repeat scroll left top;
+	position: absolute;
+	width:17px;
+	height:26px;
+	text-indent:-9999em;
+}
+
+a.categoryslider-prev {
+	background-position: left top;
+	top:65px;
+ 	left: -45px;
+}
+
+a.categoryslider-next {
+	background-position: right top;
+	top:65px;
+	right:-45px;
+}
+
+a:hover.categoryslider-prev {
+	background-position: left bottom;
+}
+
+a:hover.categoryslider-next {
+	background-position: right bottom;
+}

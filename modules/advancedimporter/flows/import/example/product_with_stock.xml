@@ -1,0 +1,18 @@
+<products>
+	<product external-reference="product-demo-1">
+		<name lang="fr">Nom</name>
+		<name lang="en">Name</name>
+		<description lang="fr">Description du produit</description>
+		<description lang="en">Product's description</description>
+		<price>19.99999</price>
+		<block>
+			<stocks>
+				<stock>
+					<product>{{id}}</product>
+					<mode>set</mode>
+					<quantity>10</quantity>
+				</stock>
+			</stocks>
+		</block>
+	</product>
+</products>

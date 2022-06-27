@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>orderfilter</name>
+            <displayName><![CDATA[Order Filter]]></displayName>
+            <version><![CDATA[1.0]]></version>
+            <description><![CDATA[Filter order with products.]]></description>
+            <author><![CDATA[Ittu]]></author>
+            <tab><![CDATA[administration]]></tab>
+	<confirmUninstall>Are you sure you want to uninstall this module?</confirmUninstall>
+            <is_configurable>0</is_configurable>
+            <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+        </module>

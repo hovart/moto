@@ -1,0 +1,57 @@
+/*** Top Menu ***/
+#tptntopmenu {position:absolute;}
+#tptntopmenu ul {list-style:none;}
+ul.topmenu li {
+	float: left;
+    position: relative;
+}
+ul.topmenu li.last{ }
+ul.topmenu ul {
+	background: none repeat scroll 0 0 #fff;
+	box-shadow:0 0 5px 0 rgba(0, 0, 0, 0.3);
+	padding:5px 0;
+	position:absolute;
+	display:none;
+	z-index:9999;
+}
+ul.topmenu ul li {
+	width:180px;
+}
+ul.topmenu li:hover ul,
+ul.topmenu li.tptnHover ul {left:0;}
+ul.topmenu li li:hover ul,
+ul.topmenu li li.tptnHover ul {
+	left:170px; /* match ul width */
+	top:0;
+}
+ul.topmenu li li li:hover ul,
+ul.topmenu li li li.tptnHover ul {
+	left:170px; /* match ul width */
+	top:0;
+}
+ul.topmenu li a {
+    color:#fff;
+	font-family:'HelveticaNeueW01-77BdCn 692722','Open Sans',sans-serif;
+	font-size:14px;
+	padding:0 10px;
+    line-height:41px;
+	display:block;	
+	text-decoration:none;
+}
+ul.topmenu li a:hover,
+ul.topmenu li.tptnHover > a{
+	background:rgba(0,0,0,0.3);
+}
+ul.topmenu li li a{
+	font-family:'HelveticaNeueW01-77BdCn 692722',Tahoma,Helvetica,sans-serif;
+	font-size:13px;
+	padding:5px;
+    line-height:normal;
+}
+ul.topmenu li.tptnHover ul li {}
+ul.topmenu li.tptnHover ul li a{ 
+	color:#333;
+	padding: 5px 10px;
+}
+ul.topmenu li.tptnHover ul li a:hover,
+ul.topmenu li.tptnHover ul li.tptnHover:hover > a{background:#eee}

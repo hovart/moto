@@ -1,0 +1,340 @@
+
+.postfinancecw-transaction-table .postfinancecw-details-row {
+	display:none;
+}
+
+.postfinancecw-transaction-table .postfinancecw-main-row .postfinancecw-more-details-button {
+	cursor: pointer;
+}
+
+.postfinancecw-transaction-table .postfinancecw-main-row.active .postfinancecw-more-details-button{
+	display:none;
+}
+
+.postfinancecw-transaction-table .postfinancecw-main-row.active td{
+	border-bottom-color: #f0f0f0;
+}
+
+
+.postfinancecw-transaction-table .postfinancecw-details-row.active {
+	display:table-row;
+}
+
+.postfinancecw-transaction-table label {
+	float:none;
+	font-weight: normal;
+}
+
+.postfinancecw-transaction-table .postfinancecw-less-details-button{
+	display:none;
+	cursor: pointer;
+}
+.postfinancecw-transaction-table .postfinancecw-main-row.active .postfinancecw-less-details-button{
+	display:block;
+}
+
+.postfinancecw-transaction-table .button {
+	cursor: pointer;
+}
+
+.postfinancecw-transaction-table .transaction-information-table {
+	float: left;
+	border-spacing: 0;
+	width: 350px;
+}
+
+.postfinancecw-transaction-table .transaction-information-table th {
+	background: none;
+	border:none;
+	width: 200px;
+	white-space: nowrap;
+}
+
+.postfinancecw-transaction-table .transaction-information-table td {
+	border: none;
+	width: 150px;
+}
+
+.postfinancecw-transaction-table .transaction-information-table div.label-title {
+	float: left;
+}
+.postfinancecw-transaction-table .transaction-information-table .description {
+	width: 16px;
+	height: 16px;
+	background-image: url(../images/info.gif);
+	float: left;
+	cursor: pointer;
+	margin-left: 3px;
+	border: solid 1px #FFF;
+}
+.postfinancecw-transaction-table .transaction-information-table .description .content{
+	position: absolute;
+	width: 200px;
+	white-space: normal;
+	border: solid 1px #f0f0f0;
+	background-color: #FFF;
+	padding: 8px;
+	margin-left: 18px;
+	font-weight: normal;
+}
+
+.postfinancecw-transaction-table .transaction-information-table .description.hidden .content{
+	display: none;
+}
+
+
+.postfinancecw-transaction-table .box {
+	overflow: auto;
+	padding: 6px;
+	border: 1px solid #eee;
+	margin: 10px 5px 10px;
+}
+
+.postfinancecw-transaction-table .box h4 {
+	margin-top: 0px;
+}
+
+.postfinancecw-error-message {
+	border: 1px solid #CC0000;
+	color: #D8000C;
+	background-color: #FFBABA;
+	margin-bottom: 15px;
+	padding: 12px;
+}
+
+.form-postfinancecw .langauge-box-wrapper {
+	position: relative;
+}
+.form-postfinancecw .langauge-box-wrapper.displayed_flag {
+	margin: 0;
+}
+.form-postfinancecw .language_flags {
+	position: absolute;
+	margin-left: 25px;
+}
+
+
+/** MOTO Form **/
+/* Payment form styles */
+.postfinancecw-payment-form fieldset h3 {
+	margin: 0 0 15px 0;
+	padding: 8px;
+	font-size: 14px;
+	color: #fff;
+	text-transform: uppercase;
+	background: url(../images/bg_form_h3.png) repeat-x 0 0 #989898;
+}
+.postfinancecw-payment-form fieldset {
+	margin: 0;
+	border: 1px solid #ccc;
+	background: #F8F8F8;
+}
+
+.postfinancecw-payment-form fieldset input {
+	padding: 0 5px;
+	height: 22px;
+	width: 360px;
+	border: 1px solid #ccc;
+	font-size: 12px;
+	color: #666;
+}
+
+.postfinancecw-control-group {
+	margin-bottom: 15px;
+	clear: both;
+}
+
+
+.postfinancecw-control-label {
+	font-size: 14px;
+	display: inline-block;
+	padding: 6px 15px;
+	width: 200px;
+	font-size: 14px;
+	text-align: right;
+	float: left;
+}
+.postfinancecw-control-label .postfinancecw-required {
+	color: #990000;
+}
+
+.postfinancecw-control-group > .postfinancecw-controls {
+	margin-left: 230px;
+}
+
+
+.postfinancecw-element-scope {
+	clear: both;
+	display:block;
+	margin-left: 230px;
+}
+
+.postfinancecw-element-scope label {
+	width: auto;
+
+}
+
+.postfinancecw-controls label {
+	float: none;
+
+}
+
+
+.postfinancecw-help-block {
+	margin-left: 230px;
+	clear: both;
+}
+
+.postfinancecw-error {
+	margin-left: 230px;
+	color: #D8000C;
+}
+
+.postfinancecw-element-error input[type='text'], .postfinancecw-element-error input[type='password'], .postfinancecw-element-error select{
+	border-color: #D8000C;
+}
+
+.postfinancecw-card-cvc input[type='text']{
+	width: 40px;
+}
+
+.postfinancecw-multi-control .postfinancecw-controls { 
+	float: left;
+}
+
+.postfinancecw-multi-control {
+	overflow: auto;
+}
+
+.postfinancecw-backend-form fieldset {
+	margin-bottom: 15px;
+}
+
+/* GIRD */
+
+.postfinancecw-transaction-table {
+	width: 100%;
+	border-spacing: 0;
+}
+
+.postfinancecw-transaction-table td{
+	padding: 0px;
+}
+
+
+.postfinancecw-transaction-table .ascending {
+	
+	background-image: url("../../../img/admin/down_d.gif");
+	background-repeat: no-repeat;
+	display: inline-block;
+	width: 14px;
+	height: 14px;
+	line-height: 14px;
+}
+
+.postfinancecw-transaction-table .descending {
+	background-image: url("../../../img/admin/up_d.gif");
+	display: inline-block;
+	background-repeat: no-repeat;
+	width: 14px;
+	height: 14px;
+	line-height: 14px;
+}
+
+.postfinancecw-transaction-table .reset-sorting {
+	background-image: url("../images/close.png");
+	background-position: -3px -3px;
+	display: inline-block;
+	background-repeat: no-repeat;
+	width: 14px;
+	height: 14px;
+	line-height: 14px;
+}
+
+.postfinancecw-transaction-table .no-sorting .reset-sorting {
+	display: none;
+}
+
+.postfinancecw-transaction-table .descending-sorting .descending {
+	
+}
+
+.postfinancecw-transaction-table .ascending-sorting .ascending {
+	background-image: url("../../../img/admin/down.gif");
+}
+
+
+.grid ul.pagination li {
+	float: left;
+	width: 15px;
+	padding-top: 4px;
+}
+
+.grid .grid-footer {
+	margin-bottom: 10px;
+}
+
+.grid .info-box-grid {
+	display: inline-block;
+}
+
+.alert {
+	background-color: #F8F8F8;
+	border: 1px solid #CCCCCC;
+	margin-bottom: 10px;
+	padding: 5px 0;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-o-border-radius: 3px;
+}
+
+
+
+
+
+
+
+
+.postfinancecw-payment-form .card-brand-image-box {
+	display: inline-block;
+}
+
+
+.postfinancecw-payment-form .card-brand-image-color.brand-is-deselected {
+	display:none;
+}
+
+.postfinancecw-payment-form .card-brand-image-grey.brand-is-selected {
+	display:none;
+}
+
+.postfinancecw-payment-form .card-brand-image-selection {
+	margin-top: 3px;
+}
+
+.postfinancecw-payment-form .card-brand-image-selection img {
+	width:auto;
+	height: 25px;
+	margin-right: 3px;
+}
+
+.postfinancecw-payment-form .invalid-card-number, .postfinancecw-payment-form .invalid-cvc-number {
+	border-color: #fb7f88;
+	background-image: url(../images/invalid.png) !important;
+	background-position: 95% center;
+	background-repeat: no-repeat;
+}
+
+.postfinancecw-payment-form .valid-card-number, .postfinancecw-payment-form .valid-cvc-number {
+	background-image: url(../images/valid.png) !important;
+	background-position: 95% center;
+	background-repeat: no-repeat;
+}
+
+
+.postfinancecw-payment-form .postfinancecw-expiration-date select {
+	margin-right: 5px;
+}
+
+

@@ -1,0 +1,13 @@
+<objects>
+	<object type="customer">
+		<findOne
+			for="id"
+			type="customer"
+			identifier="id"
+		>
+			<email>test@domain.tld</email>
+		</findOne>
+		<lastname>Test</lastname>
+	</object>
+</objects>
+

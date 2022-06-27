@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS `PREFIX_gsr_rating`;
+DROP TABLE IF EXISTS `PREFIX_gsr_review`;
+DROP TABLE IF EXISTS `PREFIX_gsr_callback`;
+DROP TABLE IF EXISTS `PREFIX_gsr_customer`;
+DROP TABLE IF EXISTS `PREFIX_gsr_voucher`;
+DROP TABLE IF EXISTS `PREFIX_gsr_aftersales`;
+DROP TABLE IF EXISTS `PREFIX_gsr_orders_history`;

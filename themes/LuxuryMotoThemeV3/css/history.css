@@ -1,0 +1,26 @@
+/* History Page Styles */
+#order-detail-content table .return_quantity_buttons {
+  margin-top: 3px; }
+  #order-detail-content table .return_quantity_buttons a {
+    display: none;
+    float: left; }
+    #order-detail-content table .return_quantity_buttons a + a {
+      margin-left: 3px; }
+#order-detail-content table .order_qte_input {
+  display: none;
+}
+
+#order-detail-content table .price{color: #333;}
+#order-detail-content table tfoot td {text-align: right;}
+#order-detail-content table tfoot td + td {text-align: center;}
+#order-detail-content table tfoot .totalprice td{background: #f9f9f9}
+
+#block-order-detail .adresses_bloc{margin: 0 0 15px;}
+
+.table td.history_detail a + a {
+  margin-left: 14px; }
+.table td.step-by-step-date {
+  width: 105px; }
+
+.info-order i.fa-gift {color: #f13340;}
+.info-order i.fa-repeat {color: #55c65e;}

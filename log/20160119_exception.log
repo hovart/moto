@@ -1,0 +1,5 @@
+*ERROR* 	2016/01/19 - 14:22:24: Table 'dd_mdg_beta.ps_mgdbottomserviceclient' doesn't exist<br /><br /><pre>SELECT * FROM ps_mgdbottomserviceclient WHERE `id_lang` = "1" and `id_store`="1" LIMIT 1</pre> at line 791 in file classes/db/Db.php
+*ERROR* 	2016/01/19 - 14:22:45: Unknown table 'ps_mgdbottomserviceclient_files,ps_mgdbottomserviceclient'<br /><br /><pre>DROP TABLE
+			`ps_mgdbottomserviceclient_files`,
+			`ps_mgdbottomserviceclient`
+		</pre> at line 791 in file classes/db/Db.php

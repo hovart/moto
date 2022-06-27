@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>gsnippetsreviews</name>
+	<displayName><![CDATA[Customer Ratings and Reviews Pro + Google Rich Snippets]]></displayName>
+	<version><![CDATA[4.3.3]]></version>
+	<description><![CDATA[2 in 1 module: Full product and review system + Google Rich Snippets for enhanced Google listings]]></description>
+	<author><![CDATA[BusinessTech]]></author>
+	<tab><![CDATA[seo]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to remove it ? Your Customer Ratings and Reviews Pro + Google Rich Snippets will no longer work. Be careful, all your configuration and your data will be lost]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

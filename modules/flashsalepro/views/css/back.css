@@ -1,0 +1,44 @@
+.tighten-up {
+	margin:0px;
+	padding:0px;
+}
+
+.product-block-img_edit {
+	max-width : 150px;
+	max-height : 125px;
+}
+
+.price-percent-reduction {
+  background: #f13340;
+  border: 1px solid #d02a2c;
+  font: 600 21px/24px "Open Sans", sans-serif;
+  color: white;
+  padding: 0 5px 0 3px;
+  display: inline-block;
+}
+
+.icon-button {
+  cursor : pointer;
+}
+
+.edit-sale-add-product-search-results {
+  height: 554px;
+  overflow: scroll;
+  display: none;
+}
+
+.hidden {
+  display: none;
+}
+
+.live-search-results-categories {
+  display:none;
+  height:308px;
+  overflow:scroll;
+}
+
+.live-search-results {
+  display:none;
+  height:508px;
+  overflow:scroll;
+}

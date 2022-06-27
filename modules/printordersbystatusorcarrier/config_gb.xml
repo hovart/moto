@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>printordersbystatusorcarrier</name>
+	<displayName><![CDATA[Print orders by status or carrier]]></displayName>
+	<version><![CDATA[1.1]]></version>
+	<description><![CDATA[Save time printing your orders invoice/delivery slip by status or carrier.]]></description>
+	<author><![CDATA[Ixycom]]></author>
+	<tab><![CDATA[billing_invoicing]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

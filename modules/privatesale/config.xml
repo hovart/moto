@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>privatesale</name>
+            <displayName><![CDATA[Vente priv&eacute;e]]></displayName>
+            <version><![CDATA[1.2.1]]></version>
+            <description><![CDATA[Vente priv&eacute;e est un module qui vous permet de cr&eacute;er des ventes priv&eacute;es pour vos clients.]]></description>
+            <author><![CDATA[]]></author>
+            <tab><![CDATA[pricing_promotion]]></tab>
+            <is_configurable>1</is_configurable>
+            <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+        </module>

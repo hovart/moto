@@ -1,0 +1,6 @@
+<objects>
+	<object type="tag" external-reference="demo-1">
+		<name>Test</name>
+        <id_lang>1</id_lang>
+	</object>
+</objects>
